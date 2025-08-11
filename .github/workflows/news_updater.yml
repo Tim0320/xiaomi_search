@@ -38,10 +38,12 @@ jobs:
         run: python news-data/google_news_hotword_provider.py
         working-directory: ./ # 確保從 repository 根目錄開始
 
-      # 步驟五：Commit 並 Push 變更
+     # 步驟五：Commit 並 Push 變更
       - name: Commit and push if it changed
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git pull --rebase # 先拉取遠端變更
           git add -A
+          # 只有在檔案變更時才 commit and push
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update news data"; git push)
