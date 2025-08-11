@@ -32,7 +32,7 @@ jobs:
 
       # 步驟四：執行你的 Python 腳本
       - name: Run Python script
-        run: python news-data/google_news_hotword_provider.py
+        run: python google_news_hotword_provider.py
         working-directory: ./ # 確保從 repository 根目錄開始
 
       # (可選) 步驟五：Commit 並 Push 變更
