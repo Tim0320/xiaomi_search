@@ -38,12 +38,26 @@ jobs:
         run: python google_news_hotword_provider.py
         working-directory: ./ # 確保從 repository 根目錄開始
 
-     # 步驟五：Commit 並 Push 變更
+     # 步驟五：Commit 並 Push 變更 (已修正順序)
       - name: Commit and push if it changed
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git pull --rebase # 先拉取遠端變更
+          
+          # 1. 先把所有變更加入暫存區
           git add -A
-          # 只有在檔案變更時才 commit and push
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update news data"; git push)
+          
+          # 2. 檢查是否有變更，如果沒有就直接結束
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          
+          # 3. 在本地提交變更
+          git commit -m "Update news data"
+          
+          # 4. 同步遠端並 rebase
+          git pull --rebase
+          
+          # 5. 推送最終結果
+          git push
