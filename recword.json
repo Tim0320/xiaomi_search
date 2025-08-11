@@ -15,9 +15,33 @@
       "link_type": "app",
       "data": [
         {
-          "text": "楊柳增強為中颱 海上警報發布",
+          "text": "中颱楊柳海警發布 最新路徑曝",
+          "url": "https://tw.news.yahoo.com/%E4%B8%AD%E9%A2%B1%E6%A5%8A%E6%9F%B35%EF%BC%9A30%E7%99%BC%E5%B8%83%E6%B5%B7%E8%AD%A6-%E6%B0%A3%E8%B1%A1%E7%BD%B2%E6%9C%80%E6%96%B0%E8%AA%AA%E6%98%8E%E3%80%81%E9%A2%B1%E9%A2%A8%E5%8D%B3%E6%99%82%E5%8B%95%E6%85%8B%EF%BD%9C%E4%B8%8D%E6%96%B7%E6%9B%B4%E6%96%B0-221605774.html",
+          "h5_url": "https://tw.news.yahoo.com/%E4%B8%AD%E9%A2%B1%E6%A5%8A%E6%9F%B35%EF%BC%9A30%E7%99%BC%E5%B8%83%E6%B5%B7%E8%AD%A6-%E6%B0%A3%E8%B1%A1%E7%BD%B2%E6%9C%80%E6%96%B0%E8%AA%AA%E6%98%8E%E3%80%81%E9%A2%B1%E9%A2%A8%E5%8D%B3%E6%99%82%E5%8B%95%E6%85%8B%EF%BD%9C%E4%B8%8D%E6%96%B7%E6%9B%B4%E6%96%B0-221605774.html",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_browser",
+          "package": ""
+        },
+        {
+          "text": "美媒：美對中關稅寬限期再延90天",
+          "url": "https://tw.news.yahoo.com/%E7%BE%8E%E5%AA%92-%E5%B7%9D%E6%99%AE%E7%B0%BD%E7%BD%B2%E5%91%BD%E4%BB%A4-%E7%BE%8E%E5%B0%8D%E4%B8%AD%E9%97%9C%E7%A8%85%E5%AF%AC%E9%99%90%E6%9C%9F%E5%86%8D%E5%BB%B690%E5%A4%A9-213310711.html",
+          "h5_url": "https://tw.news.yahoo.com/%E7%BE%8E%E5%AA%92-%E5%B7%9D%E6%99%AE%E7%B0%BD%E7%BD%B2%E5%91%BD%E4%BB%A4-%E7%BE%8E%E5%B0%8D%E4%B8%AD%E9%97%9C%E7%A8%85%E5%AF%AC%E9%99%90%E6%9C%9F%E5%86%8D%E5%BB%B690%E5%A4%A9-213310711.html",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_browser",
+          "package": ""
+        },
+        {
+          "text": "楊柳暴風侵襲機率 7縣市破9成",
           "url": "https://tw.news.yahoo.com/%E4%B8%AD%E9%A2%B1%E6%A5%8A%E6%9F%B3%E7%9B%B4%E6%92%B2%E8%B2%AB%E7%A9%BF%E5%8F%B0%E7%81%A3-%E6%B0%A3%E8%B1%A1%E7%BD%B2%E7%99%BC%E5%B8%83%E6%B5%B7%E4%B8%8A%E8%AD%A6%E5%A0%B1-%E7%99%BB%E9%99%B8%E5%9C%B0%E9%BB%9E%E5%87%BA%E7%88%90-214500843.html",
           "h5_url": "https://tw.news.yahoo.com/%E4%B8%AD%E9%A2%B1%E6%A5%8A%E6%9F%B3%E7%9B%B4%E6%92%B2%E8%B2%AB%E7%A9%BF%E5%8F%B0%E7%81%A3-%E6%B0%A3%E8%B1%A1%E7%BD%B2%E7%99%BC%E5%B8%83%E6%B5%B7%E4%B8%8A%E8%AD%A6%E5%A0%B1-%E7%99%BB%E9%99%B8%E5%9C%B0%E9%BB%9E%E5%87%BA%E7%88%90-214500843.html",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_browser",
+          "package": ""
+        },
+        {
+          "text": "輝達售中H20 川普證實15%營收繳美國",
+          "url": "https://tw.news.yahoo.com/%E8%BC%9D%E9%81%94%E5%94%AE%E4%B8%AD%E5%9C%8Bh20%E6%99%B6%E7%89%87-%E5%B7%9D%E6%99%AE%E8%AD%89%E5%AF%A615-%E7%87%9F%E6%94%B6%E5%B0%87%E4%B8%8A%E7%B9%B3%E7%BE%8E%E5%9C%8B-202607228.html",
+          "h5_url": "https://tw.news.yahoo.com/%E8%BC%9D%E9%81%94%E5%94%AE%E4%B8%AD%E5%9C%8Bh20%E6%99%B6%E7%89%87-%E5%B7%9D%E6%99%AE%E8%AD%89%E5%AF%A615-%E7%87%9F%E6%94%B6%E5%B0%87%E4%B8%8A%E7%B9%B3%E7%BE%8E%E5%9C%8B-202607228.html",
           "appIconUrl": "",
           "sourceUniqueId": "content_browser",
           "package": ""
@@ -39,33 +63,17 @@
           "package": ""
         },
         {
-          "text": "「外交失禮」韓委員長批台官員",
-          "url": "https://tw.news.yahoo.com/%E6%80%92%E8%BD%9F%E5%8F%B0%E7%81%A3-%E5%A4%96%E4%BA%A4%E5%A4%B1%E7%A6%AE-%E8%87%A8%E6%99%82%E5%8F%96%E6%B6%88%E6%9C%83%E9%9D%A2-%E5%8D%97%E9%9F%93%E7%9C%9F%E7%9B%B8%E5%92%8C%E8%A7%A3%E5%A7%94%E5%93%A1%E9%95%B7-%E7%A6%AE%E7%89%A9%E9%83%BD%E8%B2%B7%E5%A5%BD%E4%BA%86-113502808.html",
-          "h5_url": "https://tw.news.yahoo.com/%E6%80%92%E8%BD%9F%E5%8F%B0%E7%81%A3-%E5%A4%96%E4%BA%A4%E5%A4%B1%E7%A6%AE-%E8%87%A8%E6%99%82%E5%8F%96%E6%B6%88%E6%9C%83%E9%9D%A2-%E5%8D%97%E9%9F%93%E7%9C%9F%E7%9B%B8%E5%92%8C%E8%A7%A3%E5%A7%94%E5%93%A1%E9%95%B7-%E7%A6%AE%E7%89%A9%E9%83%BD%E8%B2%B7%E5%A5%BD%E4%BA%86-113502808.html",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_browser",
-          "package": ""
-        },
-        {
-          "text": "民眾黨：政府濫用司法整肅政敵",
-          "url": "https://tw.news.yahoo.com/%E9%AB%98%E9%99%A2%E9%A7%81%E5%9B%9E%E6%9F%AF%E6%96%87%E5%93%B2%E6%8A%97%E5%91%8A-%E6%B0%91%E7%9C%BE%E9%BB%A8-%E6%86%A4%E6%80%92-%E7%84%A1%E6%B3%95%E6%8E%A5%E5%8F%97-114932341.html",
-          "h5_url": "https://tw.news.yahoo.com/%E9%AB%98%E9%99%A2%E9%A7%81%E5%9B%9E%E6%9F%AF%E6%96%87%E5%93%B2%E6%8A%97%E5%91%8A-%E6%B0%91%E7%9C%BE%E9%BB%A8-%E6%86%A4%E6%80%92-%E7%84%A1%E6%B3%95%E6%8E%A5%E5%8F%97-114932341.html",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_browser",
-          "package": ""
-        },
-        {
-          "text": "力退約旦 男籃隔12年重返亞洲8強",
-          "url": "https://tw.sports.yahoo.com/news/%E4%BA%9E%E6%B4%B2%E7%9B%83%E7%B1%83%E7%90%83%E8%B3%BD%E3%80%8B%E4%B8%AD%E8%8F%AF%E9%9A%8A78%E6%AF%9464%E5%8A%9B%E9%80%80%E5%B0%8D%E6%89%8B%E7%B4%84%E6%97%A6-%E7%9D%BD%E9%81%9512%E5%B9%B4%E5%86%8D%E6%AC%A1%E6%8C%BA%E9%80%B28%E5%BC%B7%E8%A1%8C%E5%88%97-130214629.html",
-          "h5_url": "https://tw.sports.yahoo.com/news/%E4%BA%9E%E6%B4%B2%E7%9B%83%E7%B1%83%E7%90%83%E8%B3%BD%E3%80%8B%E4%B8%AD%E8%8F%AF%E9%9A%8A78%E6%AF%9464%E5%8A%9B%E9%80%80%E5%B0%8D%E6%89%8B%E7%B4%84%E6%97%A6-%E7%9D%BD%E9%81%9512%E5%B9%B4%E5%86%8D%E6%AC%A1%E6%8C%BA%E9%80%B28%E5%BC%B7%E8%A1%8C%E5%88%97-130214629.html",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_browser",
-          "package": ""
-        },
-        {
           "text": "三總轉台大 沈玉琳發文澄清病情",
           "url": "https://tw.news.yahoo.com/%E6%B2%88%E7%8E%89%E7%90%B32%E9%BB%9E%E6%BE%84%E6%B8%85%E7%97%85%E6%83%85%EF%BC%81-%E4%B8%89%E7%B8%BD%E8%BD%89%E5%8F%B0%E5%A4%A7%E9%86%AB%E9%99%A2%E7%9C%9F%E5%AF%A6%E5%8E%9F%E5%9B%A0%E6%9B%9D-111804193.html",
           "h5_url": "https://tw.news.yahoo.com/%E6%B2%88%E7%8E%89%E7%90%B32%E9%BB%9E%E6%BE%84%E6%B8%85%E7%97%85%E6%83%85%EF%BC%81-%E4%B8%89%E7%B8%BD%E8%BD%89%E5%8F%B0%E5%A4%A7%E9%86%AB%E9%99%A2%E7%9C%9F%E5%AF%A6%E5%8E%9F%E5%9B%A0%E6%9B%9D-111804193.html",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_browser",
+          "package": ""
+        },
+        {
+          "text": "「外交失禮」韓委員長批台官員",
+          "url": "https://tw.news.yahoo.com/%E6%80%92%E8%BD%9F%E5%8F%B0%E7%81%A3-%E5%A4%96%E4%BA%A4%E5%A4%B1%E7%A6%AE-%E8%87%A8%E6%99%82%E5%8F%96%E6%B6%88%E6%9C%83%E9%9D%A2-%E5%8D%97%E9%9F%93%E7%9C%9F%E7%9B%B8%E5%92%8C%E8%A7%A3%E5%A7%94%E5%93%A1%E9%95%B7-%E7%A6%AE%E7%89%A9%E9%83%BD%E8%B2%B7%E5%A5%BD%E4%BA%86-113502808.html",
+          "h5_url": "https://tw.news.yahoo.com/%E6%80%92%E8%BD%9F%E5%8F%B0%E7%81%A3-%E5%A4%96%E4%BA%A4%E5%A4%B1%E7%A6%AE-%E8%87%A8%E6%99%82%E5%8F%96%E6%B6%88%E6%9C%83%E9%9D%A2-%E5%8D%97%E9%9F%93%E7%9C%9F%E7%9B%B8%E5%92%8C%E8%A7%A3%E5%A7%94%E5%93%A1%E9%95%B7-%E7%A6%AE%E7%89%A9%E9%83%BD%E8%B2%B7%E5%A5%BD%E4%BA%86-113502808.html",
           "appIconUrl": "",
           "sourceUniqueId": "content_browser",
           "package": ""
@@ -79,17 +87,9 @@
           "package": ""
         },
         {
-          "text": "男退休賣地投資 4619萬全被騙光",
-          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD%E9%80%80%E4%BC%91%E7%94%B7%E8%B3%A3%E5%9C%B0%E6%8B%BF4619%E8%90%AC-%E9%81%87%E5%88%B0%E6%8A%95%E8%B3%87%E8%A9%90%E9%A8%99%E5%85%A8%E5%85%A5%E6%AD%B9%E5%BE%92%E5%8F%A3%E8%A2%8B-4%E4%BA%BA%E8%90%BD%E7%B6%B2-034924728.html",
-          "h5_url": "https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD%E9%80%80%E4%BC%91%E7%94%B7%E8%B3%A3%E5%9C%B0%E6%8B%BF4619%E8%90%AC-%E9%81%87%E5%88%B0%E6%8A%95%E8%B3%87%E8%A9%90%E9%A8%99%E5%85%A8%E5%85%A5%E6%AD%B9%E5%BE%92%E5%8F%A3%E8%A2%8B-4%E4%BA%BA%E8%90%BD%E7%B6%B2-034924728.html",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_browser",
-          "package": ""
-        },
-        {
-          "text": "張國煒追遺產百億股利 北院裁准",
-          "url": "https://tw.news.yahoo.com/%E9%95%B7%E6%A6%AE%E9%9B%86%E5%9C%98%E9%81%BA%E7%94%A2%E9%A2%A8%E6%9A%B4-%E5%BC%B5%E5%9C%8B%E7%85%92%E8%81%B2%E8%AB%8B%E8%BF%BD%E8%A8%8E160%E5%84%84%E8%82%A1%E5%88%A9-%E5%8C%97%E9%99%A2%E5%87%86%E4%BA%86-090442264.html",
-          "h5_url": "https://tw.news.yahoo.com/%E9%95%B7%E6%A6%AE%E9%9B%86%E5%9C%98%E9%81%BA%E7%94%A2%E9%A2%A8%E6%9A%B4-%E5%BC%B5%E5%9C%8B%E7%85%92%E8%81%B2%E8%AB%8B%E8%BF%BD%E8%A8%8E160%E5%84%84%E8%82%A1%E5%88%A9-%E5%8C%97%E9%99%A2%E5%87%86%E4%BA%86-090442264.html",
+          "text": "民眾黨：政府濫用司法整肅政敵",
+          "url": "https://tw.news.yahoo.com/%E9%AB%98%E9%99%A2%E9%A7%81%E5%9B%9E%E6%9F%AF%E6%96%87%E5%93%B2%E6%8A%97%E5%91%8A-%E6%B0%91%E7%9C%BE%E9%BB%A8-%E6%86%A4%E6%80%92-%E7%84%A1%E6%B3%95%E6%8E%A5%E5%8F%97-114932341.html",
+          "h5_url": "https://tw.news.yahoo.com/%E9%AB%98%E9%99%A2%E9%A7%81%E5%9B%9E%E6%9F%AF%E6%96%87%E5%93%B2%E6%8A%97%E5%91%8A-%E6%B0%91%E7%9C%BE%E9%BB%A8-%E6%86%A4%E6%80%92-%E7%84%A1%E6%B3%95%E6%8E%A5%E5%8F%97-114932341.html",
           "appIconUrl": "",
           "sourceUniqueId": "content_browser",
           "package": ""
@@ -162,41 +162,33 @@
           "package": ""
         },
         {
-          "text": "快訊／剛表態參選新北市長　黃國昌最新形象照曝光",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1zOXZ2ZHliMzFNU2g2Uk1oM3hNekxtaWhkVDJMZUNScnhBb3RrbTFtamxRTnd1U0ZSYzd4ZWFSODZvb3VpeDM1cURuXzBMUndzRFJPckZ4MlRmNENCQlHSAWhBVV95cUxNbWxCa1FhTWYxOHFISXNXVUoybzdMbFZ6cU8yeUdQeFFWWFRJM3dYMWZWdWNLNF9yc0RIOXZuZFhyM1ZEZ1RCeFNpVThPSFN6bG9SSFpXS2ZMb2JIc0lucmJPNGczT0hYeQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1zOXZ2ZHliMzFNU2g2Uk1oM3hNekxtaWhkVDJMZUNScnhBb3RrbTFtamxRTnd1U0ZSYzd4ZWFSODZvb3VpeDM1cURuXzBMUndzRFJPckZ4MlRmNENCQlHSAWhBVV95cUxNbWxCa1FhTWYxOHFISXNXVUoybzdMbFZ6cU8yeUdQeFFWWFRJM3dYMWZWdWNLNF9yc0RIOXZuZFhyM1ZEZ1RCeFNpVThPSFN6bG9SSFpXS2ZMb2JIc0lucmJPNGczT0hYeQ?oc=5",
+          "text": "黃國昌表態參選2026年新北市長 最新形象封面相片曝光",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5nTERqVWQxd19wZWQtMG0zQlZzc1c1M2FVeFdESFNMZlV0Y2VjR1duaUYzVUtIV3kzU0Z5RGZfYWZDa2ZtZFV2aXkyUEtXa2RQ0gFWQVVfeXFMUGJBWFdqRUhjeV9rVHBDcUFVV0E4UTVJSDc3dWFXNkFZQUpRQmFHNENWVW1Fb0g3Y1BWMWFtSklNb212dGRYTFBDcDRfQVBGbXFlTlZtS2c?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5nTERqVWQxd19wZWQtMG0zQlZzc1c1M2FVeFdESFNMZlV0Y2VjR1duaUYzVUtIV3kzU0Z5RGZfYWZDa2ZtZFV2aXkyUEtXa2RQ0gFWQVVfeXFMUGJBWFdqRUhjeV9rVHBDcUFVV0E4UTVJSDc3dWFXNkFZQUpRQmFHNENWVW1Fb0g3Y1BWMWFtSklNb212dGRYTFBDcDRfQVBGbXFlTlZtS2c?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_browser",
           "package": ""
         },
         {
-          "text": "轟反核就是反美舔共！黃士修：核能發電省千億「每年可普發1萬」",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1STXU2QjkwcEgtQjZWbkxrd0RhNENfZGJPaFhlZjBmMnN3VTRNRFprMzVoUlg0ME1iUlV3VlFtbkVRcG5ndnk2VHd4RXloX2hRRTZXSGtFc2lISUhiSDBkaUpIYmpxOTlRS1FCemZEbElfZEt6T2t0dGtsY0Z1RGc?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1STXU2QjkwcEgtQjZWbkxrd0RhNENfZGJPaFhlZjBmMnN3VTRNRFprMzVoUlg0ME1iUlV3VlFtbkVRcG5ndnk2VHd4RXloX2hRRTZXSGtFc2lISUhiSDBkaUpIYmpxOTlRS1FCemZEbElfZEt6T2t0dGtsY0Z1RGc?oc=5",
+          "text": "別質疑美國核廢技術！黃士修髒話嗆小黨：不要搞「綠社基巴力量」",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FaDBQcTNWYjRiT1hmVG1oZTZ5UDdDbVdpT0Y4Yll0eENacFFFWWltWnF6dzh3T1ZESGZoeUVvWUhCZnJFMy1FZERSVXYtZjlSMjlfejUtRWF0QQ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FaDBQcTNWYjRiT1hmVG1oZTZ5UDdDbVdpT0Y4Yll0eENacFFFWWltWnF6dzh3T1ZESGZoeUVvWUhCZnJFMy1FZERSVXYtZjlSMjlfejUtRWF0QQ?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_browser",
           "package": ""
         },
         {
-          "text": "沈玉琳2點澄清病情！ 三總轉台大醫院真實原因曝",
-          "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQNkJQQ3ZsUF91UmdMMHN4eVNLbmRmVEJmNmU3RmI4OC1XYzVEcGg4TThwdU44Zk56QmdrNHVRTnpyVHl2TnFZWlZteXlUTnJtZGtMVGtSSDR0RnJTUzJ4R3JNRkRUR3JHbkVfc1pGNW1lLWRuSEhtLUx2Uk5oUHo3V2gyQm0zV1FpaVlBVk9XWGFETmQ2dTZMTzhvRHBtNFU4bUhyVUhUVk1DWFV1d3JPY0FCZzhDYlZOWk11N1VOeDd1UTM5VkNPWWhMelFIR0FveFhOdVUtT1BZclNJNG01WjVFOUpYRjZhQXBMZVAtUHM3R2xCYUNGZEtTRm43Mzh1ZENRVVFqcGFqNlRsRjhBRUdjZ3N2TXV5QzZjUVJ3cF9pUmo3TmRpUmhOUFlBVi1ZZGRoY3NONXh5emtJa3c3TlhiUElUQmVmWHljTHRMM05wUQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQNkJQQ3ZsUF91UmdMMHN4eVNLbmRmVEJmNmU3RmI4OC1XYzVEcGg4TThwdU44Zk56QmdrNHVRTnpyVHl2TnFZWlZteXlUTnJtZGtMVGtSSDR0RnJTUzJ4R3JNRkRUR3JHbkVfc1pGNW1lLWRuSEhtLUx2Uk5oUHo3V2gyQm0zV1FpaVlBVk9XWGFETmQ2dTZMTzhvRHBtNFU4bUhyVUhUVk1DWFV1d3JPY0FCZzhDYlZOWk11N1VOeDd1UTM5VkNPWWhMelFIR0FveFhOdVUtT1BZclNJNG01WjVFOUpYRjZhQXBMZVAtUHM3R2xCYUNGZEtTRm43Mzh1ZENRVVFqcGFqNlRsRjhBRUdjZ3N2TXV5QzZjUVJ3cF9pUmo3TmRpUmhOUFlBVi1ZZGRoY3NONXh5emtJa3c3TlhiUElUQmVmWHljTHRMM05wUQ?oc=5",
+          "text": "「我不會再當好好先生了！」 川普發文：華府街友必須立刻搬走",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE41THVWemNKWFZlQnRDc25kNnFEZXF5T0p5NkNvR2tyN0dMeThBUzM4cTc5eGxXZ1RNdWktbGlPU2h1bmFvazZWWUVmME93WFdROVMtX3AwLUYxTVg5UGfSAWhBVV95cUxNSHBqZkFxbjRZZUE3OG1JandmcXZsQnhwb0sxSDlVNG9VVkdCdGZtS2lSVndmOVNsNUFUYWhDRHRSNE9oVGNjMHlFVUIxMThqbkVyVVpSMHBMM01SNFBGckdYZUNUM3AzVw?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE41THVWemNKWFZlQnRDc25kNnFEZXF5T0p5NkNvR2tyN0dMeThBUzM4cTc5eGxXZ1RNdWktbGlPU2h1bmFvazZWWUVmME93WFdROVMtX3AwLUYxTVg5UGfSAWhBVV95cUxNSHBqZkFxbjRZZUE3OG1JandmcXZsQnhwb0sxSDlVNG9VVkdCdGZtS2lSVndmOVNsNUFUYWhDRHRSNE9oVGNjMHlFVUIxMThqbkVyVVpSMHBMM01SNFBGckdYZUNUM3AzVw?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_browser",
           "package": ""
         },
         {
-          "text": "士林華榮市場「甜不辣店老闆」辭世！各界鐵粉不捨",
-          "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQbmxDcUszWk5nUjd1aGR5dko0eXgwMUszRzhDek9fdGJGVHRhOGVRRWN6YjhVTEYtc1hvLWNJUjBuQjcxR05XVlpPbFc0MkJBejF3UFMxYkw3U3JTdmUyUDlCVHVFZUdOYzFlX2NmZnRYZlBIRE1WMVY4VDhfc2cxWW94Z0RNakwwQzEydy1yRlNiZE9CVTlXVk5EOE1IOXYwREltWnBUSVZsLW81VFhoQ0dWZlRpck1pLUxrd0tqbVAzcjF5WWRJcWlaZXFvMkRnOW5ORlNxdUpEekUwQlBKOWFhc3k0SzBmTklfNThoMlEwYVRKQkc4MmJRbDVEaE9jZnJYZWZLQVdmd1pBV0k0N3VrVzk3STFlLURuM1dEWVdQTEVrOGR1c2NBTVR3OFl3TTlma2xGMHJ4RjhBdjExYUtpME9yNWc?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQbmxDcUszWk5nUjd1aGR5dko0eXgwMUszRzhDek9fdGJGVHRhOGVRRWN6YjhVTEYtc1hvLWNJUjBuQjcxR05XVlpPbFc0MkJBejF3UFMxYkw3U3JTdmUyUDlCVHVFZUdOYzFlX2NmZnRYZlBIRE1WMVY4VDhfc2cxWW94Z0RNakwwQzEydy1yRlNiZE9CVTlXVk5EOE1IOXYwREltWnBUSVZsLW81VFhoQ0dWZlRpck1pLUxrd0tqbVAzcjF5WWRJcWlaZXFvMkRnOW5ORlNxdUpEekUwQlBKOWFhc3k0SzBmTklfNThoMlEwYVRKQkc4MmJRbDVEaE9jZnJYZWZLQVdmd1pBV0k0N3VrVzk3STFlLURuM1dEWVdQTEVrOGR1c2NBTVR3OFl3TTlma2xGMHJ4RjhBdjExYUtpME9yNWc?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_browser",
-          "package": ""
-        },
-        {
-          "text": "為民主奮鬥、連8年赴WHO宣達 南投「小鋼砲」曾琮愷病逝",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lZWp4X0NQTFIwcGVvME9pLVE2eW0zMDNpMk9GYUhmM2pmb2lTdzlad24zR2Z3dmRKTzF3cVBfLWd5b0V1cUF2Z3k3Um80cm9yd1dmcXp2Tm5hTGZFTXRaSGNGb0tvbHhNM1HSAW9BVV95cUxNY00zZDU1ZTVxaWd1ZnRHa09fU1J6LW92cEFyRWkyd1cxUjhOOGlrSlRrd01lSGMtMTNJWVppeE9rUnVnRTh6cUJTWm90OXluZ2YySEpsbk5ZNi1GY3B2WEtuRmVGbXNDVmdScVJGeTA?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lZWp4X0NQTFIwcGVvME9pLVE2eW0zMDNpMk9GYUhmM2pmb2lTdzlad24zR2Z3dmRKTzF3cVBfLWd5b0V1cUF2Z3k3Um80cm9yd1dmcXp2Tm5hTGZFTXRaSGNGb0tvbHhNM1HSAW9BVV95cUxNY00zZDU1ZTVxaWd1ZnRHa09fU1J6LW92cEFyRWkyd1cxUjhOOGlrSlRrd01lSGMtMTNJWVppeE9rUnVnRTh6cUJTWm90OXluZ2YySEpsbk5ZNi1GY3B2WEtuRmVGbXNDVmdScVJGeTA?oc=5",
+          "text": "環保少女怒了！童貝里號召「史上最大船隊」直搗加薩",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9EeVpTeHQtUEJKZk85RjhKcXhScjI0cURTR29zYWU1aXBGb0sxWHdac2VFeXE3RUVRc00xcnROai1URnF1TmI4RFdqZDlxY0ZscGlrTHBXZC1taVZKdDBnWEhiY3Y1Z9IBa0FVX3lxTE0tYnNzNHdxN0IyamNsdUctTHU4NUF1U3BkRmFxZ3o1X0JRQTlsV0NMSWhKVDFGWC03Q1B0UDZRVFNRVVpKRTBCRTV3Mks4dElHbXFoTWFFNUM3UE9IRjNsVTQ0RW1Mdkdvcnln?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9EeVpTeHQtUEJKZk85RjhKcXhScjI0cURTR29zYWU1aXBGb0sxWHdac2VFeXE3RUVRc00xcnROai1URnF1TmI4RFdqZDlxY0ZscGlrTHBXZC1taVZKdDBnWEhiY3Y1Z9IBa0FVX3lxTE0tYnNzNHdxN0IyamNsdUctTHU4NUF1U3BkRmFxZ3o1X0JRQTlsV0NMSWhKVDFGWC03Q1B0UDZRVFNRVVpKRTBCRTV3Mks4dElHbXFoTWFFNUM3UE9IRjNsVTQ0RW1Mdkdvcnln?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_browser",
           "package": ""
@@ -210,17 +202,25 @@
           "package": ""
         },
         {
-          "text": "提林俊憲拆帆布救災！賴清德喊感謝候選人 陳亭妃台下面無表情",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FWVBnU09tdmpLUkh5ZHdobml2aXlJRUFVOTl3SWhaWVBfSm9oNWFKNlpQRlZrYm82ZkRZQ3IxODVRUkp1dkR2eGJlUGV4Y3pWTEZ3?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FWVBnU09tdmpLUkh5ZHdobml2aXlJRUFVOTl3SWhaWVBfSm9oNWFKNlpQRlZrYm82ZkRZQ3IxODVRUkp1dkR2eGJlUGV4Y3pWTEZ3?oc=5",
+          "text": "為民主奮鬥、連8年赴WHO宣達 南投「小鋼砲」曾琮愷病逝",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lZWp4X0NQTFIwcGVvME9pLVE2eW0zMDNpMk9GYUhmM2pmb2lTdzlad24zR2Z3dmRKTzF3cVBfLWd5b0V1cUF2Z3k3Um80cm9yd1dmcXp2Tm5hTGZFTXRaSGNGb0tvbHhNM1HSAW9BVV95cUxNY00zZDU1ZTVxaWd1ZnRHa09fU1J6LW92cEFyRWkyd1cxUjhOOGlrSlRrd01lSGMtMTNJWVppeE9rUnVnRTh6cUJTWm90OXluZ2YySEpsbk5ZNi1GY3B2WEtuRmVGbXNDVmdScVJGeTA?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lZWp4X0NQTFIwcGVvME9pLVE2eW0zMDNpMk9GYUhmM2pmb2lTdzlad24zR2Z3dmRKTzF3cVBfLWd5b0V1cUF2Z3k3Um80cm9yd1dmcXp2Tm5hTGZFTXRaSGNGb0tvbHhNM1HSAW9BVV95cUxNY00zZDU1ZTVxaWd1ZnRHa09fU1J6LW92cEFyRWkyd1cxUjhOOGlrSlRrd01lSGMtMTNJWVppeE9rUnVnRTh6cUJTWm90OXluZ2YySEpsbk5ZNi1GY3B2WEtuRmVGbXNDVmdScVJGeTA?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_browser",
           "package": ""
         },
         {
-          "text": "盧秀燕不參選黨主席…北北桃市長被點選國民黨主席 張善政回應了",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5IbjAzQ2MxLVFxUkNYaU16SHQ5TjdsQmlTRFpIWW5mdjBvS09RS1Ayb1BDa3lQUWpBYTlldlBsekN0TG5LR2FIMXViWUxvOWR60gFWQVVfeXFMTl9ET0RsZGRNQVRpODZPRTBpTzJ4UUdyNjAwXzZFeHRHUFlyZF8walBjdTZQYlh6eTF3QllRdVNIdEI2LXFjOUluLXM1NTk2cjFaVWFld1E?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5IbjAzQ2MxLVFxUkNYaU16SHQ5TjdsQmlTRFpIWW5mdjBvS09RS1Ayb1BDa3lQUWpBYTlldlBsekN0TG5LR2FIMXViWUxvOWR60gFWQVVfeXFMTl9ET0RsZGRNQVRpODZPRTBpTzJ4UUdyNjAwXzZFeHRHUFlyZF8walBjdTZQYlh6eTF3QllRdVNIdEI2LXFjOUluLXM1NTk2cjFaVWFld1E?oc=5",
+          "text": "柯文哲、應曉薇再押2個月 高院駁回抗告理由曝光",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1LN1FCT0FLOWhfMHd4b1EzMG85VGpHd1k1YnkzWkpnNUU1OEcwc2hnMHV0NXFYUGlPOWFtbG5VZl9KeWdPUzN2X1BwYXJ0Zl9P0gFWQVVfeXFMTmFPMlBIVTRUNmt3cTFKM3FqR3IxVFpVZ2tpbGplUVhBai15Ml92dmx0VEl6d0M4bEM4dlF2YnNOS2Z1cm5lcnRIZWZjU0tmLTFTMGpzSEE?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1LN1FCT0FLOWhfMHd4b1EzMG85VGpHd1k1YnkzWkpnNUU1OEcwc2hnMHV0NXFYUGlPOWFtbG5VZl9KeWdPUzN2X1BwYXJ0Zl9P0gFWQVVfeXFMTmFPMlBIVTRUNmt3cTFKM3FqR3IxVFpVZ2tpbGplUVhBai15Ml92dmx0VEl6d0M4bEM4dlF2YnNOS2Z1cm5lcnRIZWZjU0tmLTFTMGpzSEE?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_browser",
+          "package": ""
+        },
+        {
+          "text": "盧秀燕不選國民黨主席？幕僚推演3劇本「有害無利」 朱立倫被動續任機率增",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1XNGxUSzJpY2N1TWRReUROMEhwTWpVWWlLa0pjUEp0QTI1ZjBlTzhYZ0EwcG1vZTBxSTBDLUNYdWpRaTZ4aC1ZVHFuRlNzQQ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1XNGxUSzJpY2N1TWRReUROMEhwTWpVWWlLa0pjUEp0QTI1ZjBlTzhYZ0EwcG1vZTBxSTBDLUNYdWpRaTZ4aC1ZVHFuRlNzQQ?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_browser",
           "package": ""
@@ -270,9 +270,9 @@
       "rank_type": "Google"
     }
   ],
-  "hash": "1754950574",
+  "hash": "1754951915",
   "qt": "composite_ad_news",
   "message": "success",
-  "cost": 26,
+  "cost": 29,
   "status": 0
 }
