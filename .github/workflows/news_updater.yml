@@ -11,6 +11,11 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
+    # --- 👇👇👇 新增這段權限設定 ---
+    permissions:
+      contents: write
+    # --- 👆👆👆 新增這段權限設定 ---
+
     steps:
       # 步驟一：取得你的 repository 程式碼
       - name: Check out repository code
@@ -23,8 +28,6 @@ jobs:
           python-version: '3.x' # 你可以指定需要的 Python 版本
 
       # (可選) 步驟三：安裝腳本需要的套件
-      # 如果你的 Python 腳本有用到像 requests, beautifulsoup4 等等的套件，
-      # 請先建立一個 requirements.txt 檔案，把套件名稱寫進去。
       # - name: Install dependencies
       #   run: |
       #     python -m pip install --upgrade pip
@@ -32,12 +35,10 @@ jobs:
 
       # 步驟四：執行你的 Python 腳本
       - name: Run Python script
-        run: python google_news_hotword_provider.py
+        run: python news-data/google_news_hotword_provider.py
         working-directory: ./ # 確保從 repository 根目錄開始
 
-      # (可選) 步驟五：Commit 並 Push 變更
-      # 如果你的腳本會產生新的檔案或修改現有檔案 (例如產生新的資料檔)，
-      # 你需要將這些變更 commit 並 push 回你的 repository。
+      # 步驟五：Commit 並 Push 變更
       - name: Commit and push if it changed
         run: |
           git config --global user.name 'github-actions[bot]'
