@@ -8,6 +8,137 @@
   },
   "result": [
     {
+      "track_id": "hq_yahoo",
+      "title": "Yahoo焦點新聞",
+      "title_icon_url": "",
+      "headImageUrl": "",
+      "link_type": "app",
+      "data": [
+        {
+          "text": "楊柳轉中颱 最快周二中午發陸警",
+          "url": "https://tw.news.yahoo.com/%E9%A2%B1%E9%A2%A8%E6%A5%8A%E6%9F%B3%E5%A2%9E%E5%BC%B7%E7%82%BA%E4%B8%AD%E9%A2%B1-%E9%A0%90%E4%BC%B013%E6%97%A5%E7%99%BB%E9%99%B8%E8%8A%B1%E6%9D%B1-%E4%B8%AD%E5%8D%97%E9%83%A8%E3%80%81%E6%9D%B1%E9%83%A8%E9%98%B2%E5%BC%B7%E9%A2%A8%E8%B1%AA%E9%9B%A8-134957945.html",
+          "h5_url": "https://tw.news.yahoo.com/%E9%A2%B1%E9%A2%A8%E6%A5%8A%E6%9F%B3%E5%A2%9E%E5%BC%B7%E7%82%BA%E4%B8%AD%E9%A2%B1-%E9%A0%90%E4%BC%B013%E6%97%A5%E7%99%BB%E9%99%B8%E8%8A%B1%E6%9D%B1-%E4%B8%AD%E5%8D%97%E9%83%A8%E3%80%81%E6%9D%B1%E9%83%A8%E9%98%B2%E5%BC%B7%E9%A2%A8%E8%B1%AA%E9%9B%A8-134957945.html",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_browser",
+          "package": ""
+        },
+        {
+          "text": "美關稅疊加 政院點名4產品衝擊大",
+          "url": "https://tw.news.yahoo.com/%E7%BE%8E%E5%B0%8D%E5%8F%B0%E9%97%9C%E7%A8%85-20-%E6%94%BF%E9%99%A2-%E5%B7%A5%E5%85%B7%E6%A9%9F-%E6%A9%9F%E6%A2%B0-103810450.html",
+          "h5_url": "https://tw.news.yahoo.com/%E7%BE%8E%E5%B0%8D%E5%8F%B0%E9%97%9C%E7%A8%85-20-%E6%94%BF%E9%99%A2-%E5%B7%A5%E5%85%B7%E6%A9%9F-%E6%A9%9F%E6%A2%B0-103810450.html",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_browser",
+          "package": ""
+        },
+        {
+          "text": "知名甜不辣老闆傳猝逝 江振誠發聲",
+          "url": "https://tw.news.yahoo.com/%E5%A3%AB%E6%9E%97-%E8%8F%AF%E6%A6%AE%E5%B8%82%E5%A0%B4%E5%8F%A3%E7%94%9C%E4%B8%8D%E8%BE%A3-%E8%80%81%E9%97%86%E7%8C%9D%E9%80%9D-%E6%B1%9F%E6%8C%AF%E8%AA%A0%E4%B9%9F%E6%98%AF%E5%B8%B8%E5%AE%A2-%E4%B8%8D%E6%8D%A8%E7%99%BC%E8%81%B2%E4%BA%86-131236670.html",
+          "h5_url": "https://tw.news.yahoo.com/%E5%A3%AB%E6%9E%97-%E8%8F%AF%E6%A6%AE%E5%B8%82%E5%A0%B4%E5%8F%A3%E7%94%9C%E4%B8%8D%E8%BE%A3-%E8%80%81%E9%97%86%E7%8C%9D%E9%80%9D-%E6%B1%9F%E6%8C%AF%E8%AA%A0%E4%B9%9F%E6%98%AF%E5%B8%B8%E5%AE%A2-%E4%B8%8D%E6%8D%A8%E7%99%BC%E8%81%B2%E4%BA%86-131236670.html",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_browser",
+          "package": ""
+        },
+        {
+          "text": "「外交失禮」韓委員長批台官員",
+          "url": "https://tw.news.yahoo.com/%E6%80%92%E8%BD%9F%E5%8F%B0%E7%81%A3-%E5%A4%96%E4%BA%A4%E5%A4%B1%E7%A6%AE-%E8%87%A8%E6%99%82%E5%8F%96%E6%B6%88%E6%9C%83%E9%9D%A2-%E5%8D%97%E9%9F%93%E7%9C%9F%E7%9B%B8%E5%92%8C%E8%A7%A3%E5%A7%94%E5%93%A1%E9%95%B7-%E7%A6%AE%E7%89%A9%E9%83%BD%E8%B2%B7%E5%A5%BD%E4%BA%86-113502808.html",
+          "h5_url": "https://tw.news.yahoo.com/%E6%80%92%E8%BD%9F%E5%8F%B0%E7%81%A3-%E5%A4%96%E4%BA%A4%E5%A4%B1%E7%A6%AE-%E8%87%A8%E6%99%82%E5%8F%96%E6%B6%88%E6%9C%83%E9%9D%A2-%E5%8D%97%E9%9F%93%E7%9C%9F%E7%9B%B8%E5%92%8C%E8%A7%A3%E5%A7%94%E5%93%A1%E9%95%B7-%E7%A6%AE%E7%89%A9%E9%83%BD%E8%B2%B7%E5%A5%BD%E4%BA%86-113502808.html",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_browser",
+          "package": ""
+        },
+        {
+          "text": "民眾黨：政府濫用司法整肅政敵",
+          "url": "https://tw.news.yahoo.com/%E9%AB%98%E9%99%A2%E9%A7%81%E5%9B%9E%E6%9F%AF%E6%96%87%E5%93%B2%E6%8A%97%E5%91%8A-%E6%B0%91%E7%9C%BE%E9%BB%A8-%E6%86%A4%E6%80%92-%E7%84%A1%E6%B3%95%E6%8E%A5%E5%8F%97-114932341.html",
+          "h5_url": "https://tw.news.yahoo.com/%E9%AB%98%E9%99%A2%E9%A7%81%E5%9B%9E%E6%9F%AF%E6%96%87%E5%93%B2%E6%8A%97%E5%91%8A-%E6%B0%91%E7%9C%BE%E9%BB%A8-%E6%86%A4%E6%80%92-%E7%84%A1%E6%B3%95%E6%8E%A5%E5%8F%97-114932341.html",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_browser",
+          "package": ""
+        },
+        {
+          "text": "力退約旦 男籃隔12年重返亞洲8強",
+          "url": "https://tw.sports.yahoo.com/news/%E4%BA%9E%E6%B4%B2%E7%9B%83%E7%B1%83%E7%90%83%E8%B3%BD%E3%80%8B%E4%B8%AD%E8%8F%AF%E9%9A%8A78%E6%AF%9464%E5%8A%9B%E9%80%80%E5%B0%8D%E6%89%8B%E7%B4%84%E6%97%A6-%E7%9D%BD%E9%81%9512%E5%B9%B4%E5%86%8D%E6%AC%A1%E6%8C%BA%E9%80%B28%E5%BC%B7%E8%A1%8C%E5%88%97-130214629.html",
+          "h5_url": "https://tw.sports.yahoo.com/news/%E4%BA%9E%E6%B4%B2%E7%9B%83%E7%B1%83%E7%90%83%E8%B3%BD%E3%80%8B%E4%B8%AD%E8%8F%AF%E9%9A%8A78%E6%AF%9464%E5%8A%9B%E9%80%80%E5%B0%8D%E6%89%8B%E7%B4%84%E6%97%A6-%E7%9D%BD%E9%81%9512%E5%B9%B4%E5%86%8D%E6%AC%A1%E6%8C%BA%E9%80%B28%E5%BC%B7%E8%A1%8C%E5%88%97-130214629.html",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_browser",
+          "package": ""
+        },
+        {
+          "text": "三總轉台大 沈玉琳發文澄清病情",
+          "url": "https://tw.news.yahoo.com/%E6%B2%88%E7%8E%89%E7%90%B32%E9%BB%9E%E6%BE%84%E6%B8%85%E7%97%85%E6%83%85%EF%BC%81-%E4%B8%89%E7%B8%BD%E8%BD%89%E5%8F%B0%E5%A4%A7%E9%86%AB%E9%99%A2%E7%9C%9F%E5%AF%A6%E5%8E%9F%E5%9B%A0%E6%9B%9D-111804193.html",
+          "h5_url": "https://tw.news.yahoo.com/%E6%B2%88%E7%8E%89%E7%90%B32%E9%BB%9E%E6%BE%84%E6%B8%85%E7%97%85%E6%83%85%EF%BC%81-%E4%B8%89%E7%B8%BD%E8%BD%89%E5%8F%B0%E5%A4%A7%E9%86%AB%E9%99%A2%E7%9C%9F%E5%AF%A6%E5%8E%9F%E5%9B%A0%E6%9B%9D-111804193.html",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_browser",
+          "package": ""
+        },
+        {
+          "text": "東沙駐軍傳男女同寢 空軍：嚴查",
+          "url": "https://tw.news.yahoo.com/%E6%9D%B1%E6%B2%99%E9%A7%90%E8%BB%8D%E5%82%B3%E7%94%B7%E5%A5%B3%E5%90%8C%E5%AF%A2-%E7%A9%BA%E8%BB%8D-%E5%9A%B4%E6%87%B2%E4%B8%A6%E5%8A%A0%E5%BC%B7%E7%9D%A3%E5%B0%8E-065918299.html",
+          "h5_url": "https://tw.news.yahoo.com/%E6%9D%B1%E6%B2%99%E9%A7%90%E8%BB%8D%E5%82%B3%E7%94%B7%E5%A5%B3%E5%90%8C%E5%AF%A2-%E7%A9%BA%E8%BB%8D-%E5%9A%B4%E6%87%B2%E4%B8%A6%E5%8A%A0%E5%BC%B7%E7%9D%A3%E5%B0%8E-065918299.html",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_browser",
+          "package": ""
+        },
+        {
+          "text": "男退休賣地投資 4619萬全被騙光",
+          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD%E9%80%80%E4%BC%91%E7%94%B7%E8%B3%A3%E5%9C%B0%E6%8B%BF4619%E8%90%AC-%E9%81%87%E5%88%B0%E6%8A%95%E8%B3%87%E8%A9%90%E9%A8%99%E5%85%A8%E5%85%A5%E6%AD%B9%E5%BE%92%E5%8F%A3%E8%A2%8B-4%E4%BA%BA%E8%90%BD%E7%B6%B2-034924728.html",
+          "h5_url": "https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD%E9%80%80%E4%BC%91%E7%94%B7%E8%B3%A3%E5%9C%B0%E6%8B%BF4619%E8%90%AC-%E9%81%87%E5%88%B0%E6%8A%95%E8%B3%87%E8%A9%90%E9%A8%99%E5%85%A8%E5%85%A5%E6%AD%B9%E5%BE%92%E5%8F%A3%E8%A2%8B-4%E4%BA%BA%E8%90%BD%E7%B6%B2-034924728.html",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_browser",
+          "package": ""
+        },
+        {
+          "text": "張國煒追遺產百億股利 北院裁准",
+          "url": "https://tw.news.yahoo.com/%E9%95%B7%E6%A6%AE%E9%9B%86%E5%9C%98%E9%81%BA%E7%94%A2%E9%A2%A8%E6%9A%B4-%E5%BC%B5%E5%9C%8B%E7%85%92%E8%81%B2%E8%AB%8B%E8%BF%BD%E8%A8%8E160%E5%84%84%E8%82%A1%E5%88%A9-%E5%8C%97%E9%99%A2%E5%87%86%E4%BA%86-090442264.html",
+          "h5_url": "https://tw.news.yahoo.com/%E9%95%B7%E6%A6%AE%E9%9B%86%E5%9C%98%E9%81%BA%E7%94%A2%E9%A2%A8%E6%9A%B4-%E5%BC%B5%E5%9C%8B%E7%85%92%E8%81%B2%E8%AB%8B%E8%BF%BD%E8%A8%8E160%E5%84%84%E8%82%A1%E5%88%A9-%E5%8C%97%E9%99%A2%E5%87%86%E4%BA%86-090442264.html",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_browser",
+          "package": ""
+        },
+        {
+          "text": "黃國昌表態 投入2026新北市長選舉",
+          "url": "https://tw.news.yahoo.com/%E9%BB%83%E5%9C%8B%E6%98%8C%E8%A1%A8%E6%85%8B%E6%8A%95%E5%85%A52026%E6%96%B0%E5%8C%97%E5%B8%82%E9%95%B7%E9%81%B8%E8%88%89-%E4%B8%8D%E6%8E%92%E6%96%A5%E5%9C%A8%E9%87%8E%E5%85%B1%E6%8E%A8%E6%9C%80%E5%BC%B7%E5%80%99%E9%81%B8%E4%BA%BA-053226042.html",
+          "h5_url": "https://tw.news.yahoo.com/%E9%BB%83%E5%9C%8B%E6%98%8C%E8%A1%A8%E6%85%8B%E6%8A%95%E5%85%A52026%E6%96%B0%E5%8C%97%E5%B8%82%E9%95%B7%E9%81%B8%E8%88%89-%E4%B8%8D%E6%8E%92%E6%96%A5%E5%9C%A8%E9%87%8E%E5%85%B1%E6%8E%A8%E6%9C%80%E5%BC%B7%E5%80%99%E9%81%B8%E4%BA%BA-053226042.html",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_browser",
+          "package": ""
+        },
+        {
+          "text": "盧秀燕傳不選黨主席 藍委：相信她823罷免後會說明",
+          "url": "https://tw.news.yahoo.com/%E7%9B%A7%E7%A7%80%E7%87%95%E9%81%AD%E6%8C%87%E4%B8%8D%E5%8F%83%E9%81%B8%E9%BB%A8%E4%B8%BB%E5%B8%AD-%E5%8F%B0%E4%B8%AD%E8%97%8D%E5%A7%94%EF%BC%9A823%E7%BD%B7%E5%85%8D%E6%8A%95%E7%A5%A8%E5%BE%8C%E5%B0%8D%E5%A4%96%E8%AA%AA%E6%98%8E-064147438.html",
+          "h5_url": "https://tw.news.yahoo.com/%E7%9B%A7%E7%A7%80%E7%87%95%E9%81%AD%E6%8C%87%E4%B8%8D%E5%8F%83%E9%81%B8%E9%BB%A8%E4%B8%BB%E5%B8%AD-%E5%8F%B0%E4%B8%AD%E8%97%8D%E5%A7%94%EF%BC%9A823%E7%BD%B7%E5%85%8D%E6%8A%95%E7%A5%A8%E5%BE%8C%E5%B0%8D%E5%A4%96%E8%AA%AA%E6%98%8E-064147438.html",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_browser",
+          "package": ""
+        },
+        {
+          "text": "粉底液事件延燒 民進黨：性平路上持續學習",
+          "url": "https://tw.news.yahoo.com/%E7%B2%89%E5%BA%95%E6%B6%B2%E4%BA%8B%E4%BB%B6%E6%8C%81%E7%BA%8C%E5%BB%B6%E7%87%92-%E6%B0%91%E9%80%B2%E9%BB%A8-%E6%80%A7%E5%B9%B3%E8%B7%AF%E4%B8%8A%E6%8C%81%E7%BA%8C%E5%AD%B8%E7%BF%92-052404343.html",
+          "h5_url": "https://tw.news.yahoo.com/%E7%B2%89%E5%BA%95%E6%B6%B2%E4%BA%8B%E4%BB%B6%E6%8C%81%E7%BA%8C%E5%BB%B6%E7%87%92-%E6%B0%91%E9%80%B2%E9%BB%A8-%E6%80%A7%E5%B9%B3%E8%B7%AF%E4%B8%8A%E6%8C%81%E7%BA%8C%E5%AD%B8%E7%BF%92-052404343.html",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_browser",
+          "package": ""
+        },
+        {
+          "text": "陸籍配偶李貞秀遞補白委？劉世芳撂條件",
+          "url": "https://tw.news.yahoo.com/%E9%99%B8%E7%B1%8D%E9%85%8D%E5%81%B6%E6%9D%8E%E8%B2%9E%E7%A7%80%E8%83%BD%E5%90%A6%E9%81%9E%E8%A3%9C%E6%B0%91%E7%9C%BE%E9%BB%A8%E4%B8%8D%E5%88%86%E5%8D%80%E7%AB%8B%E5%A7%94%EF%BC%9F%E5%8A%89%E4%B8%96%E8%8A%B3%EF%BC%9A%E5%B0%B1%E8%81%B7%E4%B8%80%E5%B9%B4%E5%85%A7%E6%94%BE%E6%A3%84%E5%A4%96%E5%9C%8B%E7%B1%8D-024951255.html",
+          "h5_url": "https://tw.news.yahoo.com/%E9%99%B8%E7%B1%8D%E9%85%8D%E5%81%B6%E6%9D%8E%E8%B2%9E%E7%A7%80%E8%83%BD%E5%90%A6%E9%81%9E%E8%A3%9C%E6%B0%91%E7%9C%BE%E9%BB%A8%E4%B8%8D%E5%88%86%E5%8D%80%E7%AB%8B%E5%A7%94%EF%BC%9F%E5%8A%89%E4%B8%96%E8%8A%B3%EF%BC%9A%E5%B0%B1%E8%81%B7%E4%B8%80%E5%B9%B4%E5%85%A7%E6%94%BE%E6%A3%84%E5%A4%96%E5%9C%8B%E7%B1%8D-024951255.html",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_browser",
+          "package": ""
+        },
+        {
+          "text": "本日焦點／楊柳快步 周三高機率登陸台東",
+          "url": "https://tw.news.yahoo.com/%E3%80%90%E6%9C%AC%E6%97%A5%E7%84%A6%E9%BB%9E%E3%80%91%E6%A5%8A%E6%9F%B3%E7%A7%BB%E5%8B%95%E5%BF%AB-%E5%91%A8%E4%B8%89%E9%AB%98%E6%A9%9F%E7%8E%87%E7%99%BB%E9%99%B8%E5%8F%B0%E6%9D%B1%EF%BC%8F%E9%97%9C%E7%A8%85%E7%96%8A%E5%8A%A0%E7%88%AD%E8%AD%B0-%E9%84%AD%E9%BA%97%E5%90%9B%EF%BC%9A%E6%8C%81%E7%BA%8C%E7%88%AD%E5%8F%96%EF%BC%8F%E9%BB%83%E5%9C%8B%E6%98%8C%E8%A1%A8%E6%85%8B%EF%BC%9A%E6%8A%95%E5%85%A5%E6%96%B0%E5%8C%97%E5%B8%82%E9%95%B7%E9%81%B8%E6%88%B0-094735700.html",
+          "h5_url": "https://tw.news.yahoo.com/%E3%80%90%E6%9C%AC%E6%97%A5%E7%84%A6%E9%BB%9E%E3%80%91%E6%A5%8A%E6%9F%B3%E7%A7%BB%E5%8B%95%E5%BF%AB-%E5%91%A8%E4%B8%89%E9%AB%98%E6%A9%9F%E7%8E%87%E7%99%BB%E9%99%B8%E5%8F%B0%E6%9D%B1%EF%BC%8F%E9%97%9C%E7%A8%85%E7%96%8A%E5%8A%A0%E7%88%AD%E8%AD%B0-%E9%84%AD%E9%BA%97%E5%90%9B%EF%BC%9A%E6%8C%81%E7%BA%8C%E7%88%AD%E5%8F%96%EF%BC%8F%E9%BB%83%E5%9C%8B%E6%98%8C%E8%A1%A8%E6%85%8B%EF%BC%9A%E6%8A%95%E5%85%A5%E6%96%B0%E5%8C%97%E5%B8%82%E9%95%B7%E9%81%B8%E6%88%B0-094735700.html",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_browser",
+          "package": ""
+        }
+      ],
+      "selectedStatus": false,
+      "rank_type": "Yahoo"
+    },
+    {
       "track_id": "hq_google",
       "title": "Google焦點新聞",
       "title_icon_url": "",
@@ -71,17 +202,17 @@
           "package": ""
         },
         {
-          "text": "快訊／柯文哲、應曉薇確定繼續關！　高院駁回2人抗告原因曝",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9TR0ZUSmFNRGIyOUtHelZYQ0EyY0REVURZOXJfS3BVRWJxRDRlT2Nnd2VVZHNqMEs0MW5JencxVm1tTE9jNzJXWEpoZ3hEb3ZfWkNZNWZwRGRQNHY0SmfSAWhBVV95cUxNX2tQNmMyMllGcEJSb1Y4VWNRWWtSSE55S2lsZnFkZzcwWW1yNjE5MjVUZVAzQ2xJMkl3LVpfTGhZYklKT3p5SFVVOFoyU3ZqOFJOUVJ0dElMT255UDloVExQTjdFanpIcA?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9TR0ZUSmFNRGIyOUtHelZYQ0EyY0REVURZOXJfS3BVRWJxRDRlT2Nnd2VVZHNqMEs0MW5JencxVm1tTE9jNzJXWEpoZ3hEb3ZfWkNZNWZwRGRQNHY0SmfSAWhBVV95cUxNX2tQNmMyMllGcEJSb1Y4VWNRWWtSSE55S2lsZnFkZzcwWW1yNjE5MjVUZVAzQ2xJMkl3LVpfTGhZYklKT3p5SFVVOFoyU3ZqOFJOUVJ0dElMT255UDloVExQTjdFanpIcA?oc=5",
+          "text": "盧秀燕不選國民黨主席？幕僚推演3劇本「有害無利」 朱立倫被動續任機率增",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1XNGxUSzJpY2N1TWRReUROMEhwTWpVWWlLa0pjUEp0QTI1ZjBlTzhYZ0EwcG1vZTBxSTBDLUNYdWpRaTZ4aC1ZVHFuRlNzQQ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1XNGxUSzJpY2N1TWRReUROMEhwTWpVWWlLa0pjUEp0QTI1ZjBlTzhYZ0EwcG1vZTBxSTBDLUNYdWpRaTZ4aC1ZVHFuRlNzQQ?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_browser",
           "package": ""
         },
         {
-          "text": "盧秀燕不參選黨主席…北北桃市長被點選國民黨主席 張善政回應了",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5IbjAzQ2MxLVFxUkNYaU16SHQ5TjdsQmlTRFpIWW5mdjBvS09RS1Ayb1BDa3lQUWpBYTlldlBsekN0TG5LR2FIMXViWUxvOWR60gFWQVVfeXFMTl9ET0RsZGRNQVRpODZPRTBpTzJ4UUdyNjAwXzZFeHRHUFlyZF8walBjdTZQYlh6eTF3QllRdVNIdEI2LXFjOUluLXM1NTk2cjFaVWFld1E?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5IbjAzQ2MxLVFxUkNYaU16SHQ5TjdsQmlTRFpIWW5mdjBvS09RS1Ayb1BDa3lQUWpBYTlldlBsekN0TG5LR2FIMXViWUxvOWR60gFWQVVfeXFMTl9ET0RsZGRNQVRpODZPRTBpTzJ4UUdyNjAwXzZFeHRHUFlyZF8walBjdTZQYlh6eTF3QllRdVNIdEI2LXFjOUluLXM1NTk2cjFaVWFld1E?oc=5",
+          "text": "高等法院駁回柯文哲抗告確定 民眾黨嗆檢審聯手：絕對不會投降屈服",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1kUUJHOGxFYV9RaEo5QzBmSlFkVXpEbmU3d2dLLVFDOUFXTkFmb082dXVCeUpLTHN0RU1ZZ1dJMmhmTldIQWx0d1V0LVppZFd00gFWQVVfeXFMTlRZcklVdUZETnlrUHhmdFFKbmFPQmU3aXVGWWZQX0ZjcmZuMVRxQ1l0cFp0UVBYTEswNmZJQ0RrNUVSZzdDUnJwbjlSSlZjaVp0ZW0xYWc?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1kUUJHOGxFYV9RaEo5QzBmSlFkVXpEbmU3d2dLLVFDOUFXTkFmb082dXVCeUpLTHN0RU1ZZ1dJMmhmTldIQWx0d1V0LVppZFd00gFWQVVfeXFMTlRZcklVdUZETnlrUHhmdFFKbmFPQmU3aXVGWWZQX0ZjcmZuMVRxQ1l0cFp0UVBYTEswNmZJQ0RrNUVSZzdDUnJwbjlSSlZjaVp0ZW0xYWc?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_browser",
           "package": ""
@@ -111,17 +242,17 @@
           "package": ""
         },
         {
-          "text": "南海追逐菲律賓巡邏艇 中國海警船撞上自家軍艦[影]",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA5cVNkLWtZZTViellvNWVNQTVReE9tYTFka2tQSHR5Wkt2aWtmbW5PNHdUa3BxUUhGX3haTEpmeHA5QmJ3ay16TTMxUjhva2xxM29YaVg4YUJrX1dkWkR3?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA5cVNkLWtZZTViellvNWVNQTVReE9tYTFka2tQSHR5Wkt2aWtmbW5PNHdUa3BxUUhGX3haTEpmeHA5QmJ3ay16TTMxUjhva2xxM29YaVg4YUJrX1dkWkR3?oc=5",
+          "text": "台灣邦交國再加1？宏都拉斯「3因素」不忍了　美媒：可能恢復建交",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1EQnNRM2R6WGtNQUdNYUJ0bU1LV2QwV0xUbUlJdlVMUFBnb18zZktZV2lNYmVZVF9KbzFLQkg3MXBMNTJIMU9EOUZPUTctaW5lVVRodFFoOUdjMkpIVkHSAWhBVV95cUxQRGRPemx2Rkk2a1BTQTZINGdzTTdvYnJSU0FYT3ljVkl3ZE81ampmV2ZBdFBuS2ZtVTVMaE1tWFdZZ3FnTzVMUnowbWdCRnVKQjN6RVlmcFR2Snk2N1B6bUh2TE83ZW9GWg?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1EQnNRM2R6WGtNQUdNYUJ0bU1LV2QwV0xUbUlJdlVMUFBnb18zZktZV2lNYmVZVF9KbzFLQkg3MXBMNTJIMU9EOUZPUTctaW5lVVRodFFoOUdjMkpIVkHSAWhBVV95cUxQRGRPemx2Rkk2a1BTQTZINGdzTTdvYnJSU0FYT3ljVkl3ZE81ampmV2ZBdFBuS2ZtVTVMaE1tWFdZZ3FnTzVMUnowbWdCRnVKQjN6RVlmcFR2Snk2N1B6bUh2TE83ZW9GWg?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_browser",
           "package": ""
         },
         {
-          "text": "普亭鬆口川普拍板！美安排澤倫斯基加入雙普會 但宣布不再資助烏軍",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1BSXpoVXUzX000b2EwcDJlRXRZMDlpaGJuc3Q4eEd0dmhub1ljcVBHZUVuMlRmR1BIMHJSWkxtZHROalY3MmtLUnN5eHFaVGhjSzRN0gFYQVVfeXFMT0Jjc1I3WkxsTFlJT05tNXdtSV9PV1Z4ZEpoZFZkY1NCcDZ2LUl3bGFJTXppS1psTkpad1FYdk9yMU51ZXFDZ1BYYVhtTkVBWS1iQlpZZDY0Sw?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1BSXpoVXUzX000b2EwcDJlRXRZMDlpaGJuc3Q4eEd0dmhub1ljcVBHZUVuMlRmR1BIMHJSWkxtZHROalY3MmtLUnN5eHFaVGhjSzRN0gFYQVVfeXFMT0Jjc1I3WkxsTFlJT05tNXdtSV9PV1Z4ZEpoZFZkY1NCcDZ2LUl3bGFJTXppS1psTkpad1FYdk9yMU51ZXFDZ1BYYVhtTkVBWS1iQlpZZDY0Sw?oc=5",
+          "text": "南海追逐菲律賓巡邏艇 中國海警船撞上自家軍艦[影]",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA5cVNkLWtZZTViellvNWVNQTVReE9tYTFka2tQSHR5Wkt2aWtmbW5PNHdUa3BxUUhGX3haTEpmeHA5QmJ3ay16TTMxUjhva2xxM29YaVg4YUJrX1dkWkR3?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA5cVNkLWtZZTViellvNWVNQTVReE9tYTFka2tQSHR5Wkt2aWtmbW5PNHdUa3BxUUhGX3haTEpmeHA5QmJ3ay16TTMxUjhva2xxM29YaVg4YUJrX1dkWkR3?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_browser",
           "package": ""
@@ -139,9 +270,9 @@
       "rank_type": "Google"
     }
   ],
-  "hash": "1754947915",
+  "hash": "1754948709",
   "qt": "composite_ad_news",
   "message": "success",
-  "cost": 25,
+  "cost": 20,
   "status": 0
 }
