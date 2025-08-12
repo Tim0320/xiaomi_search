@@ -67,7 +67,7 @@ class NewsHotWordProvider:
                 "result": [
                     {
                         "track_id": "hq_yahoo",
-                        "title": "Yahoo焦點新聞",
+                        "title": "Yahoo!",
                         "title_icon_url": "",
                         "headImageUrl": "",
                         "link_type": "app",
@@ -86,7 +86,7 @@ class NewsHotWordProvider:
                     },
                     {
                         "track_id": "hq_google",
-                        "title": "Google焦點新聞",
+                        "title": "Google",
                         "title_icon_url": "",
                         "headImageUrl": "",
                         "link_type": "app",
