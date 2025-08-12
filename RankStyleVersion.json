@@ -1,0 +1,63 @@
+{
+  "code": 0,
+  "message": "success",
+  "traceId": "65672317-3fdf-45f0-bf7c-35f79cfba499",
+  "hash": "b302ff5b311cfa96b410987b1396d382",
+  "data": {
+    "hotRank": {
+      "rankStyle": "horizontal",
+      "supportSliding": false,
+      "rankItems": [
+        {
+          "rankType": "ad"
+        },
+        {
+          "rankType": "Yahoo",
+          "hotList": true,
+          "needInstall": false,
+          "showType": "all",
+          "packageName": "com.android.quicksearchbox",
+          "qtSource": [
+            {
+              "sourceId": "content_yahoo",
+              "packageName": "com.android.quicksearchbox",
+              "showType": "all",
+              "linkType": "h5"
+            }
+          ],
+          "rankSourceType": 1,
+          "icon": "https://raw.githubusercontent.com/Tim0320/xiaomi_search/main/icon/Yahoo.png",
+          "title": "Yahoo新聞",
+          "summary": "來自Yahoo的最新新聞",
+          "rankItemStyle": "text",
+          "pullConfig": { 
+            "initShowCount": 10 
+          }
+        },
+        {
+          "rankType": "Google",
+          "hotList": true,
+          "needInstall": false,
+          "showType": "all",
+          "packageName": "com.android.quicksearchbox",
+          "qtSource": [
+            {
+              "sourceId": "content_google",
+              "packageName": "com.android.quicksearchbox",
+              "showType": "all",
+              "linkType": "h5"
+            }
+          ],
+          "rankSourceType": 1,
+          "icon": "https://raw.githubusercontent.com/Tim0320/xiaomi_search/main/icon/Google.png",
+          "title": "Google最新新聞",
+          "summary": "來自Google的最新新聞",
+          "rankItemStyle": "text",
+          "pullConfig": { 
+            "initShowCount": 10 
+          }
+        }
+      ]
+    }
+  }
+}
