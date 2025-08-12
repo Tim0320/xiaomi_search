@@ -264,7 +264,7 @@ class NewsHotWordProvider:
                         "url": url,
                         "h5_url": url,
                         "appIconUrl": "",
-                        "sourceUniqueId": "content_google",
+                        "sourceUniqueId": "content_yahoo",
                         "package": ""
                     }
                     news_array.append(news_item)
@@ -297,7 +297,7 @@ class NewsHotWordProvider:
                             "url": url,
                             "h5_url": url,
                             "appIconUrl": "",
-                            "sourceUniqueId": "content_google",
+                            "sourceUniqueId": "content_yahoo",
                             "package": ""
                         }
                         news_array.append(news_item)
@@ -341,7 +341,7 @@ class NewsHotWordProvider:
                             "url": url,
                             "h5_url": url,
                             "appIconUrl": "",
-                            "sourceUniqueId": "content_google",
+                            "sourceUniqueId": "content_yahoo",
                             "package": ""
                         }
                         news_array.append(news_item)
