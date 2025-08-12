@@ -15,7 +15,7 @@
       "link_type": "app",
       "data": [
         {
-          "text": "楊柳陸警發布 氣象署最新說明",
+          "text": "楊柳發陸警 4縣市納首波警戒區",
           "url": "https://tw.news.yahoo.com/live/%E9%A2%B1%E9%A2%A8%E6%A5%8A%E6%9F%B3%E7%99%BC%E5%B8%83%E9%99%B8%E4%B8%8A%E8%AD%A6%E5%A0%B1-%E8%8A%B1%E8%93%AE%E3%80%81%E5%8F%B0%E6%9D%B1%E3%80%81%E9%AB%98%E9%9B%84%E3%80%81%E5%B1%8F%E6%9D%B1%E6%87%89%E5%9A%B4%E5%8A%A0%E6%88%92%E5%82%99-%E6%B0%A3%E8%B1%A1%E7%BD%B2%E6%9C%80%E6%96%B0%E8%AA%AA%E6%98%8E%E3%80%81%E9%A2%B1%E9%A2%A8%E5%8D%B3%E6%99%82%E5%8B%95%E6%85%8B%EF%BD%9C%E4%B8%8D%E6%96%B7%E6%9B%B4%E6%96%B0-221605497.html",
           "h5_url": "https://tw.news.yahoo.com/live/%E9%A2%B1%E9%A2%A8%E6%A5%8A%E6%9F%B3%E7%99%BC%E5%B8%83%E9%99%B8%E4%B8%8A%E8%AD%A6%E5%A0%B1-%E8%8A%B1%E8%93%AE%E3%80%81%E5%8F%B0%E6%9D%B1%E3%80%81%E9%AB%98%E9%9B%84%E3%80%81%E5%B1%8F%E6%9D%B1%E6%87%89%E5%9A%B4%E5%8A%A0%E6%88%92%E5%82%99-%E6%B0%A3%E8%B1%A1%E7%BD%B2%E6%9C%80%E6%96%B0%E8%AA%AA%E6%98%8E%E3%80%81%E9%A2%B1%E9%A2%A8%E5%8D%B3%E6%99%82%E5%8B%95%E6%85%8B%EF%BD%9C%E4%B8%8D%E6%96%B7%E6%9B%B4%E6%96%B0-221605497.html",
           "appIconUrl": "",
@@ -23,15 +23,7 @@
           "package": ""
         },
         {
-          "text": "高屏山區3天總雨量 上看600毫米",
-          "url": "https://tw.news.yahoo.com/%E9%A2%B1%E9%A2%A8%E6%A5%8A%E6%9F%B3%E9%80%BC%E8%BF%91-%E4%BC%B0%E9%AB%98%E5%B1%8F%E5%B1%B1%E5%8D%80%E4%B8%89%E5%A4%A9%E7%B8%BD%E9%9B%A8%E9%87%8F%E4%B8%8A%E7%9C%8B600%E6%AF%AB%E7%B1%B3-060902224.html",
-          "h5_url": "https://tw.news.yahoo.com/%E9%A2%B1%E9%A2%A8%E6%A5%8A%E6%9F%B3%E9%80%BC%E8%BF%91-%E4%BC%B0%E9%AB%98%E5%B1%8F%E5%B1%B1%E5%8D%80%E4%B8%89%E5%A4%A9%E7%B8%BD%E9%9B%A8%E9%87%8F%E4%B8%8A%E7%9C%8B600%E6%AF%AB%E7%B1%B3-060902224.html",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_browser",
-          "package": ""
-        },
-        {
-          "text": "國內再出現「兔熱病」感染源未明",
+          "text": "國內再現「兔熱病」感染源未明",
           "url": "https://tw.news.yahoo.com/%E5%8D%97%E9%83%A8%E9%A9%9A%E7%88%86%E7%BD%95%E8%A6%8B-%E5%85%94%E7%86%B1%E7%97%85-%E5%A9%A6%E4%BA%BA%E5%AF%92%E9%A1%AB-%E8%85%B9%E7%80%89%E8%BA%BA%E9%86%AB%E9%99%A2-%E6%89%BE%E5%98%B8%E6%84%9F%E6%9F%93%E6%BA%90-061727547.html",
           "h5_url": "https://tw.news.yahoo.com/%E5%8D%97%E9%83%A8%E9%A9%9A%E7%88%86%E7%BD%95%E8%A6%8B-%E5%85%94%E7%86%B1%E7%97%85-%E5%A9%A6%E4%BA%BA%E5%AF%92%E9%A1%AB-%E8%85%B9%E7%80%89%E8%BA%BA%E9%86%AB%E9%99%A2-%E6%89%BE%E5%98%B8%E6%84%9F%E6%9F%93%E6%BA%90-061727547.html",
           "appIconUrl": "",
@@ -42,6 +34,14 @@
           "text": "韓官員批「外交失禮」我政委詫異",
           "url": "https://tw.news.yahoo.com/%E5%8F%96%E6%B6%88%E8%88%87%E5%8D%97%E9%9F%93%E5%AE%98%E5%93%A1%E6%9C%83%E9%9D%A2%E6%8C%A8%E6%89%B9%E5%A4%96%E4%BA%A4%E5%A4%B1%E7%A6%AE-%E6%94%BF%E5%A7%94%E6%9E%97%E6%98%8E%E6%98%95%EF%BC%9A%E7%B7%8A%E6%80%A5%E8%99%95%E7%90%86apec%E4%BA%8B%E9%A0%85-013545695.html",
           "h5_url": "https://tw.news.yahoo.com/%E5%8F%96%E6%B6%88%E8%88%87%E5%8D%97%E9%9F%93%E5%AE%98%E5%93%A1%E6%9C%83%E9%9D%A2%E6%8C%A8%E6%89%B9%E5%A4%96%E4%BA%A4%E5%A4%B1%E7%A6%AE-%E6%94%BF%E5%A7%94%E6%9E%97%E6%98%8E%E6%98%95%EF%BC%9A%E7%B7%8A%E6%80%A5%E8%99%95%E7%90%86apec%E4%BA%8B%E9%A0%85-013545695.html",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_browser",
+          "package": ""
+        },
+        {
+          "text": "丹娜絲重創南台灣 卓揆認3不足",
+          "url": "https://tw.news.yahoo.com/%E4%B8%B9%E5%A8%9C%E7%B5%B2%E9%A2%A8%E7%81%BD%E9%87%8D%E5%89%B5%E5%8D%97%E5%8F%B0%E7%81%A3-%E5%8D%93%E6%A6%AE%E6%B3%B0%E6%8F%90%E6%94%BF%E5%BA%9C%E4%B8%89%E5%80%8B%E4%B8%8D%E8%B6%B3-%E5%90%91%E6%B0%91%E7%9C%BE%E8%87%B4%E6%AD%89-024902228.html",
+          "h5_url": "https://tw.news.yahoo.com/%E4%B8%B9%E5%A8%9C%E7%B5%B2%E9%A2%A8%E7%81%BD%E9%87%8D%E5%89%B5%E5%8D%97%E5%8F%B0%E7%81%A3-%E5%8D%93%E6%A6%AE%E6%B3%B0%E6%8F%90%E6%94%BF%E5%BA%9C%E4%B8%89%E5%80%8B%E4%B8%8D%E8%B6%B3-%E5%90%91%E6%B0%91%E7%9C%BE%E8%87%B4%E6%AD%89-024902228.html",
           "appIconUrl": "",
           "sourceUniqueId": "content_browser",
           "package": ""
@@ -71,17 +71,9 @@
           "package": ""
         },
         {
-          "text": "疊加關稅挨批黑箱 卓揆：要檢討",
-          "url": "https://tw.news.yahoo.com/%E7%96%8A%E5%8A%A0%E9%97%9C%E7%A8%85%E9%81%AD%E8%B3%AA%E7%96%91%E6%9C%AA%E8%A9%B3%E7%9B%A1%E8%AA%AA%E6%98%8E-%E5%8D%93%E6%A6%AE%E6%B3%B0%EF%BC%9A%E8%A1%8C%E6%94%BF%E6%A9%9F%E9%97%9C%E8%A6%81%E6%B7%B1%E5%88%BB%E8%87%AA%E6%88%91%E6%AA%A2%E8%A8%8E-022202524.html",
-          "h5_url": "https://tw.news.yahoo.com/%E7%96%8A%E5%8A%A0%E9%97%9C%E7%A8%85%E9%81%AD%E8%B3%AA%E7%96%91%E6%9C%AA%E8%A9%B3%E7%9B%A1%E8%AA%AA%E6%98%8E-%E5%8D%93%E6%A6%AE%E6%B3%B0%EF%BC%9A%E8%A1%8C%E6%94%BF%E6%A9%9F%E9%97%9C%E8%A6%81%E6%B7%B1%E5%88%BB%E8%87%AA%E6%88%91%E6%AA%A2%E8%A8%8E-022202524.html",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_browser",
-          "package": ""
-        },
-        {
-          "text": "韓官員：台灣傲慢無禮形象留我心",
-          "url": "https://tw.news.yahoo.com/%E8%BD%9F%E5%8F%B0%E7%81%A3-%E5%A4%96%E4%BA%A4%E5%A4%B1%E7%A6%AE-%E9%82%84%E6%89%BE%E8%97%89%E5%8F%A3%E7%99%BB%E9%9F%93%E5%AA%92-%E5%8D%97%E9%9F%93%E5%AE%98%E5%93%A1-%E5%82%B2%E6%85%A2-232200424.html",
-          "h5_url": "https://tw.news.yahoo.com/%E8%BD%9F%E5%8F%B0%E7%81%A3-%E5%A4%96%E4%BA%A4%E5%A4%B1%E7%A6%AE-%E9%82%84%E6%89%BE%E8%97%89%E5%8F%A3%E7%99%BB%E9%9F%93%E5%AA%92-%E5%8D%97%E9%9F%93%E5%AE%98%E5%93%A1-%E5%82%B2%E6%85%A2-232200424.html",
+          "text": "退保日差一天 恐少領一個月年金",
+          "url": "https://tw.news.yahoo.com/%E9%96%8B%E5%BF%83%E7%94%B3%E8%AB%8B%E9%80%80%E4%BC%91-%E5%A4%B1%E8%AA%A4-%E6%81%90%E5%B0%91%E9%A0%98-%E5%80%8B%E6%9C%88%E5%B9%B4%E9%87%91-234255144.html",
+          "h5_url": "https://tw.news.yahoo.com/%E9%96%8B%E5%BF%83%E7%94%B3%E8%AB%8B%E9%80%80%E4%BC%91-%E5%A4%B1%E8%AA%A4-%E6%81%90%E5%B0%91%E9%A0%98-%E5%80%8B%E6%9C%88%E5%B9%B4%E9%87%91-234255144.html",
           "appIconUrl": "",
           "sourceUniqueId": "content_browser",
           "package": ""
@@ -95,33 +87,41 @@
           "package": ""
         },
         {
-          "text": "駁黑箱 鄭麗君：將爭取調降關稅、不疊加",
-          "url": "https://tw.news.yahoo.com/%E4%B8%8A%E9%80%B1%E5%85%A9%E5%BA%A6%E8%88%87%E7%BE%8E%E6%96%B9%E8%A6%96%E8%A8%8A%E7%A3%8B%E5%95%86-%E9%84%AD%E9%BA%97%E5%90%9B-%E7%88%AD%E5%8F%96%E7%BE%8E%E9%99%8D%E9%97%9C%E7%A8%85-%E4%B8%8D%E7%96%8A%E5%8A%A0-213000203.html",
-          "h5_url": "https://tw.news.yahoo.com/%E4%B8%8A%E9%80%B1%E5%85%A9%E5%BA%A6%E8%88%87%E7%BE%8E%E6%96%B9%E8%A6%96%E8%A8%8A%E7%A3%8B%E5%95%86-%E9%84%AD%E9%BA%97%E5%90%9B-%E7%88%AD%E5%8F%96%E7%BE%8E%E9%99%8D%E9%97%9C%E7%A8%85-%E4%B8%8D%E7%96%8A%E5%8A%A0-213000203.html",
+          "text": "高屏山區3天總雨量 上看600毫米",
+          "url": "https://tw.news.yahoo.com/%E9%A2%B1%E9%A2%A8%E6%A5%8A%E6%9F%B3%E9%80%BC%E8%BF%91-%E4%BC%B0%E9%AB%98%E5%B1%8F%E5%B1%B1%E5%8D%80%E4%B8%89%E5%A4%A9%E7%B8%BD%E9%9B%A8%E9%87%8F%E4%B8%8A%E7%9C%8B600%E6%AF%AB%E7%B1%B3-060902224.html",
+          "h5_url": "https://tw.news.yahoo.com/%E9%A2%B1%E9%A2%A8%E6%A5%8A%E6%9F%B3%E9%80%BC%E8%BF%91-%E4%BC%B0%E9%AB%98%E5%B1%8F%E5%B1%B1%E5%8D%80%E4%B8%89%E5%A4%A9%E7%B8%BD%E9%9B%A8%E9%87%8F%E4%B8%8A%E7%9C%8B600%E6%AF%AB%E7%B1%B3-060902224.html",
           "appIconUrl": "",
           "sourceUniqueId": "content_browser",
           "package": ""
         },
         {
-          "text": "勞動部次長證實「恐4.2萬人減薪、失業」",
-          "url": "https://tw.news.yahoo.com/%E9%BE%94%E6%98%8E%E9%91%AB%E5%9D%A6%E6%89%BF-%E5%B7%A5%E5%85%B7%E6%A9%9F%E7%94%A2%E6%A5%AD%E5%A3%93%E5%8A%9B%E5%A4%A7-201000946.html",
-          "h5_url": "https://tw.news.yahoo.com/%E9%BE%94%E6%98%8E%E9%91%AB%E5%9D%A6%E6%89%BF-%E5%B7%A5%E5%85%B7%E6%A9%9F%E7%94%A2%E6%A5%AD%E5%A3%93%E5%8A%9B%E5%A4%A7-201000946.html",
+          "text": "未詳盡說明疊加關稅？卓揆：行政機關檢討",
+          "url": "https://tw.news.yahoo.com/%E7%96%8A%E5%8A%A0%E9%97%9C%E7%A8%85%E9%81%AD%E8%B3%AA%E7%96%91%E6%9C%AA%E8%A9%B3%E7%9B%A1%E8%AA%AA%E6%98%8E-%E5%8D%93%E6%A6%AE%E6%B3%B0%EF%BC%9A%E8%A1%8C%E6%94%BF%E6%A9%9F%E9%97%9C%E8%A6%81%E6%B7%B1%E5%88%BB%E8%87%AA%E6%88%91%E6%AA%A2%E8%A8%8E-022202524.html",
+          "h5_url": "https://tw.news.yahoo.com/%E7%96%8A%E5%8A%A0%E9%97%9C%E7%A8%85%E9%81%AD%E8%B3%AA%E7%96%91%E6%9C%AA%E8%A9%B3%E7%9B%A1%E8%AA%AA%E6%98%8E-%E5%8D%93%E6%A6%AE%E6%B3%B0%EF%BC%9A%E8%A1%8C%E6%94%BF%E6%A9%9F%E9%97%9C%E8%A6%81%E6%B7%B1%E5%88%BB%E8%87%AA%E6%88%91%E6%AA%A2%E8%A8%8E-022202524.html",
           "appIconUrl": "",
           "sourceUniqueId": "content_browser",
           "package": ""
         },
         {
-          "text": "關稅打擊 指標車廠7月營收全面衰退",
-          "url": "https://tw.news.yahoo.com/%E9%97%9C%E7%A8%85%E8%A1%9D%E6%93%8A-%E8%BB%8A%E5%BB%A07%E6%9C%88%E7%87%9F%E6%94%B6%E5%85%A8%E9%9D%A2%E8%A1%B0%E9%80%80-%E8%B1%AA%E8%8F%AF%E8%BB%8A%E8%A1%B0%E9%80%8028-3-223538951.html",
-          "h5_url": "https://tw.news.yahoo.com/%E9%97%9C%E7%A8%85%E8%A1%9D%E6%93%8A-%E8%BB%8A%E5%BB%A07%E6%9C%88%E7%87%9F%E6%94%B6%E5%85%A8%E9%9D%A2%E8%A1%B0%E9%80%80-%E8%B1%AA%E8%8F%AF%E8%BB%8A%E8%A1%B0%E9%80%8028-3-223538951.html",
+          "text": "「全台有80%傳產、內需產業」專家：恐受重創",
+          "url": "https://tw.news.yahoo.com/%E9%97%9C%E7%A8%85%E7%88%86%E6%93%8A%E5%82%B3%E7%94%A2-%E8%B2%A1%E7%B6%93%E5%B0%88%E5%AE%B6-%E5%85%A8%E5%8F%B080-%E5%87%BA%E5%8F%A3%E6%A5%AD%E8%80%85%E5%8F%97%E5%88%B0%E9%87%8D%E6%8C%AB-051115156.html",
+          "h5_url": "https://tw.news.yahoo.com/%E9%97%9C%E7%A8%85%E7%88%86%E6%93%8A%E5%82%B3%E7%94%A2-%E8%B2%A1%E7%B6%93%E5%B0%88%E5%AE%B6-%E5%85%A8%E5%8F%B080-%E5%87%BA%E5%8F%A3%E6%A5%AD%E8%80%85%E5%8F%97%E5%88%B0%E9%87%8D%E6%8C%AB-051115156.html",
           "appIconUrl": "",
           "sourceUniqueId": "content_browser",
           "package": ""
         },
         {
-          "text": "評論／鄭麗君「遲來的直球對決」難解關稅疑慮",
-          "url": "https://tw.news.yahoo.com/%E8%A7%80%E5%AF%9F%E7%AB%99-%E9%84%AD%E9%BA%97%E5%90%9B%E7%9A%84%E5%93%B2%E5%AD%B8%E7%B3%BB%E8%AA%9E%E5%BD%99-%E9%9B%A3%E8%A7%A3%E9%97%9C%E7%A8%85%E7%96%91%E6%85%AE-222117228.html",
-          "h5_url": "https://tw.news.yahoo.com/%E8%A7%80%E5%AF%9F%E7%AB%99-%E9%84%AD%E9%BA%97%E5%90%9B%E7%9A%84%E5%93%B2%E5%AD%B8%E7%B3%BB%E8%AA%9E%E5%BD%99-%E9%9B%A3%E8%A7%A3%E9%97%9C%E7%A8%85%E7%96%91%E6%85%AE-222117228.html",
+          "text": "「關稅20+N%」許勝雄：往上調機率不大",
+          "url": "https://tw.stock.yahoo.com/news/%E3%80%8C%E9%97%9C%E7%A8%8520n%E6%87%89%E6%98%AF%E6%9C%80%E5%A3%9E%E6%83%85%E6%B3%81%EF%BC%81%E3%80%8D%E9%87%91%E4%BB%81%E5%AF%B6%E7%B8%BD%E8%A3%81%E8%A8%B1%E5%8B%9D%E9%9B%84%EF%BC%9A%E5%8F%B0%E7%81%A3%E6%9C%89%E8%83%BD%E5%8A%9B%E5%9B%A0%E6%87%89-034216209.html",
+          "h5_url": "https://tw.stock.yahoo.com/news/%E3%80%8C%E9%97%9C%E7%A8%8520n%E6%87%89%E6%98%AF%E6%9C%80%E5%A3%9E%E6%83%85%E6%B3%81%EF%BC%81%E3%80%8D%E9%87%91%E4%BB%81%E5%AF%B6%E7%B8%BD%E8%A3%81%E8%A8%B1%E5%8B%9D%E9%9B%84%EF%BC%9A%E5%8F%B0%E7%81%A3%E6%9C%89%E8%83%BD%E5%8A%9B%E5%9B%A0%E6%87%89-034216209.html",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_browser",
+          "package": ""
+        },
+        {
+          "text": "美中關稅暫緩實施「中國處於更不利位置」",
+          "url": "https://tw.news.yahoo.com/%E5%B7%9D%E6%99%AE%E5%BB%B6%E9%95%B7%E5%B0%8D%E9%99%B8%E9%97%9C%E7%A8%85%E4%BC%91%E5%85%B5-%E4%BD%86%E6%8B%96%E5%BB%B6%E5%B0%8D%E5%A4%A7%E9%99%B8%E7%AB%B6%E7%88%AD%E5%BD%A2%E5%8B%A2%E6%9B%B4%E5%8A%A0%E4%B8%8D%E5%88%A9-045155272.html",
+          "h5_url": "https://tw.news.yahoo.com/%E5%B7%9D%E6%99%AE%E5%BB%B6%E9%95%B7%E5%B0%8D%E9%99%B8%E9%97%9C%E7%A8%85%E4%BC%91%E5%85%B5-%E4%BD%86%E6%8B%96%E5%BB%B6%E5%B0%8D%E5%A4%A7%E9%99%B8%E7%AB%B6%E7%88%AD%E5%BD%A2%E5%8B%A2%E6%9B%B4%E5%8A%A0%E4%B8%8D%E5%88%A9-045155272.html",
           "appIconUrl": "",
           "sourceUniqueId": "content_browser",
           "package": ""
@@ -146,25 +146,17 @@
       "link_type": "app",
       "data": [
         {
-          "text": "颱風楊柳逼近氣象署午後2時半將發布陸警",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1fZEJfRVJrU0ZaYkxFV0N5OWhnMnBNOGdqcm1yV2hWOUhOVWd0MjQ1OTlYWm80R3dWMzRKd2FLTzhDSEhrU2R0NUZuQ2ZabG50U3BJYXp2LWlDVmZfeEpV?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1fZEJfRVJrU0ZaYkxFV0N5OWhnMnBNOGdqcm1yV2hWOUhOVWd0MjQ1OTlYWm80R3dWMzRKd2FLTzhDSEhrU2R0NUZuQ2ZabG50U3BJYXp2LWlDVmZfeEpV?oc=5",
+          "text": "颱風楊柳陸警發布 花東高屏納警戒範圍",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LRFYyMG1IMExoZmVmdFktcWVxaElILTFKTDd5MDJBTlhwaVhsbWgyVGZISDNKSWZiaWpiV1d3cGZnSm42Qmt0UXVxb0QzWGZuRW1QeFNjMWoyZ0VZQm1N?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LRFYyMG1IMExoZmVmdFktcWVxaElILTFKTDd5MDJBTlhwaVhsbWgyVGZISDNKSWZiaWpiV1d3cGZnSm42Qmt0UXVxb0QzWGZuRW1QeFNjMWoyZ0VZQm1N?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_browser",
           "package": ""
         },
         {
-          "text": "美中再延90天關稅緩衝 川普簽令助攻年末採購檔期",
-          "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxOcXF6OHZDQnE0UDBQcDRhVmtZN2ZtczRFYjQ4Wk5tWXo4RktoZ3h2eURkUERFQkZtTE1lcURNZGMyWnRPNlBxblowUi1HWmdXYTRmSHJFQ3NpaF84aFd3MmNkdTQ3TkY5OTB6Rmctd2dBWmYwM2F4bmswa1k1aWctQWZ3TVVSZGlWVDlIckx5U2h1UmhfNXpXbzZOWFl1U1FROFFybWhvNll6bTg4OC1jVU1tMlRHeG5LT1RRZm83LXJwTDI2Z3R6MDBlbHJxb09hYUVIQ2t3aWJPTXpoUG41SFg2RExvTEhqSFZGRkhZVHl4ZkcydFVkZlpDSTk5NnVpX1BDU2ZBN0NNWWtMcmlvcXVFWGdrbUtSQUFKeEpRRnhkdktMUUEwMUhFUFRRMllIRlpGM2QtY1FOdFNDRDFjeTEyZ2NoODkyeWhSaUtWbVpLUVh2Tmx0RUJBbw?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxOcXF6OHZDQnE0UDBQcDRhVmtZN2ZtczRFYjQ4Wk5tWXo4RktoZ3h2eURkUERFQkZtTE1lcURNZGMyWnRPNlBxblowUi1HWmdXYTRmSHJFQ3NpaF84aFd3MmNkdTQ3TkY5OTB6Rmctd2dBWmYwM2F4bmswa1k1aWctQWZ3TVVSZGlWVDlIckx5U2h1UmhfNXpXbzZOWFl1U1FROFFybWhvNll6bTg4OC1jVU1tMlRHeG5LT1RRZm83LXJwTDI2Z3R6MDBlbHJxb09hYUVIQ2t3aWJPTXpoUG41SFg2RExvTEhqSFZGRkhZVHl4ZkcydFVkZlpDSTk5NnVpX1BDU2ZBN0NNWWtMcmlvcXVFWGdrbUtSQUFKeEpRRnhkdktMUUEwMUhFUFRRMllIRlpGM2QtY1FOdFNDRDFjeTEyZ2NoODkyeWhSaUtWbVpLUVh2Tmx0RUJBbw?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_browser",
-          "package": ""
-        },
-        {
-          "text": "快訊／剛表態參選新北市長　黃國昌最新形象照曝光",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1zOXZ2ZHliMzFNU2g2Uk1oM3hNekxtaWhkVDJMZUNScnhBb3RrbTFtamxRTnd1U0ZSYzd4ZWFSODZvb3VpeDM1cURuXzBMUndzRFJPckZ4MlRmNENCQlHSAWhBVV95cUxNbWxCa1FhTWYxOHFISXNXVUoybzdMbFZ6cU8yeUdQeFFWWFRJM3dYMWZWdWNLNF9yc0RIOXZuZFhyM1ZEZ1RCeFNpVThPSFN6bG9SSFpXS2ZMb2JIc0lucmJPNGczT0hYeQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1zOXZ2ZHliMzFNU2g2Uk1oM3hNekxtaWhkVDJMZUNScnhBb3RrbTFtamxRTnd1U0ZSYzd4ZWFSODZvb3VpeDM1cURuXzBMUndzRFJPckZ4MlRmNENCQlHSAWhBVV95cUxNbWxCa1FhTWYxOHFISXNXVUoybzdMbFZ6cU8yeUdQeFFWWFRJM3dYMWZWdWNLNF9yc0RIOXZuZFhyM1ZEZ1RCeFNpVThPSFN6bG9SSFpXS2ZMb2JIc0lucmJPNGczT0hYeQ?oc=5",
+          "text": "黃國昌表態選新北市長！ 向藍營喊「這3縣市」都能談 國民黨回應了",
+          "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxQSnF4SXJ3dWVEZnRONDd2NHpwMU0tNlRFYUlJYWpwZnc3TWJGX2JoOFAwWWVpWms3NnI2ZkFvZjZ1MV91eGdhRFp1MElsSEF5aWlvZ3FDU1AyenUxTFU4MkZRS3MtVmMzR2Q0cTFkdzdPSldFa2t2dkM3MXNYVHNVSTloS3k3Y2VMSmljQVRrRnQ5U1lKbXd0RUlUVjlFYWljaXhJYktNT0M2R2txazBlZzB2VllqeFFwdnlBZVIxMzVBcFpQVXZBb0Q1NU1FU3Z0SDBiVFNPQV8xOHNoRGc5ZFpsTndiRjUxaWpMcVRhV2hnSmdBMklHekFjcHJJdlFMZnpPWmQ4QzdiX3RLdFd1N0M4eWMtQzlWRTR4UUZmOFIxNjBDYlp4V0o1OW1QZHB6bzc3WGMyVzVDM1N3TThURXJabUkyRWMxa3pjNWV5QjAxUFdKOG9nYVV5ckRXSXNBWE9JRlhmdzdKUjNMU0hHN2VXa0E4V0MwNmowSlJSZHZvajUtZUVnVUFzUVhGSGxDZGc?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxQSnF4SXJ3dWVEZnRONDd2NHpwMU0tNlRFYUlJYWpwZnc3TWJGX2JoOFAwWWVpWms3NnI2ZkFvZjZ1MV91eGdhRFp1MElsSEF5aWlvZ3FDU1AyenUxTFU4MkZRS3MtVmMzR2Q0cTFkdzdPSldFa2t2dkM3MXNYVHNVSTloS3k3Y2VMSmljQVRrRnQ5U1lKbXd0RUlUVjlFYWljaXhJYktNT0M2R2txazBlZzB2VllqeFFwdnlBZVIxMzVBcFpQVXZBb0Q1NU1FU3Z0SDBiVFNPQV8xOHNoRGc5ZFpsTndiRjUxaWpMcVRhV2hnSmdBMklHekFjcHJJdlFMZnpPWmQ4QzdiX3RLdFd1N0M4eWMtQzlWRTR4UUZmOFIxNjBDYlp4V0o1OW1QZHB6bzc3WGMyVzVDM1N3TThURXJabUkyRWMxa3pjNWV5QjAxUFdKOG9nYVV5ckRXSXNBWE9JRlhmdzdKUjNMU0hHN2VXa0E4V0MwNmowSlJSZHZvajUtZUVnVUFzUVhGSGxDZGc?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_browser",
           "package": ""
@@ -178,9 +170,9 @@
           "package": ""
         },
         {
-          "text": "誘中國軍艦相撞全球看笑話 菲國海警船返港全員授勳",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZVVBwMmVqdHdUSWRCRnFXZ1lQOUtCZC14Y3ZXTUxYS0pIdGZGdU9XelJnczRCdDlHaklxd1NDeW83XzVZNkxQNnd2dV9KaEc4TTNYLTNDX185V1FCSVFkTdIBZkFVX3lxTFBZN2YtZUNMYkQ2ckp3dXBUQlpGSmZhYW8teHU4bGpaR09TUzU5VV91MVBnM19EOFg5d09Ub05nY2M5ZzJNUmhjTDZkR3Z6N0tLajh0VGZUT3BNWjZFWjJzX2NYUnpUdw?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZVVBwMmVqdHdUSWRCRnFXZ1lQOUtCZC14Y3ZXTUxYS0pIdGZGdU9XelJnczRCdDlHaklxd1NDeW83XzVZNkxQNnd2dV9KaEc4TTNYLTNDX185V1FCSVFkTdIBZkFVX3lxTFBZN2YtZUNMYkQ2ckp3dXBUQlpGSmZhYW8teHU4bGpaR09TUzU5VV91MVBnM19EOFg5d09Ub05nY2M5ZzJNUmhjTDZkR3Z6N0tLajh0VGZUT3BNWjZFWjJzX2NYUnpUdw?oc=5",
+          "text": "沈玉琳2點澄清病情！ 三總轉台大醫院真實原因曝",
+          "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQNkJQQ3ZsUF91UmdMMHN4eVNLbmRmVEJmNmU3RmI4OC1XYzVEcGg4TThwdU44Zk56QmdrNHVRTnpyVHl2TnFZWlZteXlUTnJtZGtMVGtSSDR0RnJTUzJ4R3JNRkRUR3JHbkVfc1pGNW1lLWRuSEhtLUx2Uk5oUHo3V2gyQm0zV1FpaVlBVk9XWGFETmQ2dTZMTzhvRHBtNFU4bUhyVUhUVk1DWFV1d3JPY0FCZzhDYlZOWk11N1VOeDd1UTM5VkNPWWhMelFIR0FveFhOdVUtT1BZclNJNG01WjVFOUpYRjZhQXBMZVAtUHM3R2xCYUNGZEtTRm43Mzh1ZENRVVFqcGFqNlRsRjhBRUdjZ3N2TXV5QzZjUVJ3cF9pUmo3TmRpUmhOUFlBVi1ZZGRoY3NONXh5emtJa3c3TlhiUElUQmVmWHljTHRMM05wUQ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQNkJQQ3ZsUF91UmdMMHN4eVNLbmRmVEJmNmU3RmI4OC1XYzVEcGg4TThwdU44Zk56QmdrNHVRTnpyVHl2TnFZWlZteXlUTnJtZGtMVGtSSDR0RnJTUzJ4R3JNRkRUR3JHbkVfc1pGNW1lLWRuSEhtLUx2Uk5oUHo3V2gyQm0zV1FpaVlBVk9XWGFETmQ2dTZMTzhvRHBtNFU4bUhyVUhUVk1DWFV1d3JPY0FCZzhDYlZOWk11N1VOeDd1UTM5VkNPWWhMelFIR0FveFhOdVUtT1BZclNJNG01WjVFOUpYRjZhQXBMZVAtUHM3R2xCYUNGZEtTRm43Mzh1ZENRVVFqcGFqNlRsRjhBRUdjZ3N2TXV5QzZjUVJ3cF9pUmo3TmRpUmhOUFlBVi1ZZGRoY3NONXh5emtJa3c3TlhiUElUQmVmWHljTHRMM05wUQ?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_browser",
           "package": ""
@@ -194,25 +186,25 @@
           "package": ""
         },
         {
-          "text": "關稅20%+N迫4萬人失業！汽車、農業再開放？卓榮泰答了",
-          "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQZUk3UWUxaWhZQ0dBcGZWcmlhcDA1N3JvM21vaHdWVDNORG44aVJObU14V241eVFoOEdBVkN0QWFqemhjdXkxUWlocVRnUThOcWQxME1SSmtrVkxMc0xLUER3SDJLUTc4b0w3WUhhbUxEUks5bDlrcWFwbFE0dmZ4LUpnVUp3NFZ6RHdEVjFkMTNrRUhsY0JtVFRjczRrTFF4NHlCNWJDVGozTWRDalVyVXE3Q2xuUjlrMUxBeVdLMWVOWXpaSkxTT2pXRTlCeUZFM3ZqX2pfQjcySmpSRVo4UkJRbHJQZnd6dHdLTlFIblJtOTc1WDFwWUpFWnVleHppUy1JSDM0bkd0bnBFOWNOOTVBb1V0YjBmRFpNblJqZXF6cWd4ZEFIVW93ZGpCd3lFSjlpcENMRVRPbFRYYjhzVVE3b1JTSmRuTVE?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQZUk3UWUxaWhZQ0dBcGZWcmlhcDA1N3JvM21vaHdWVDNORG44aVJObU14V241eVFoOEdBVkN0QWFqemhjdXkxUWlocVRnUThOcWQxME1SSmtrVkxMc0xLUER3SDJLUTc4b0w3WUhhbUxEUks5bDlrcWFwbFE0dmZ4LUpnVUp3NFZ6RHdEVjFkMTNrRUhsY0JtVFRjczRrTFF4NHlCNWJDVGozTWRDalVyVXE3Q2xuUjlrMUxBeVdLMWVOWXpaSkxTT2pXRTlCeUZFM3ZqX2pfQjcySmpSRVo4UkJRbHJQZnd6dHdLTlFIblJtOTc1WDFwWUpFWnVleHppUy1JSDM0bkd0bnBFOWNOOTVBb1V0YjBmRFpNblJqZXF6cWd4ZEFIVW93ZGpCd3lFSjlpcENMRVRPbFRYYjhzVVE3b1JTSmRuTVE?oc=5",
+          "text": "美國汽車進口台灣零關稅？政院證實：台美貿易談判關鍵因素",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6NXNPZV9DSXYwZHFIR09SMTM5eGJMWkFIU3lRZDBYeFVzZ0JKV2FtMkM3cUZfRGtSQmpNdkd5S3h5M21oLUdiaDhkSmhnQTZCYnBsVVdHNldjX1ItNGdR0gFkQVVfeXFMTk8xR2dzR3Ytd0FoN0FxTkYzekQyQTlMUE1wOTlNWjJtMkFnS3I1djBFV1M5UnBLMnFrYmlBcV9HOWpIWHF1M1RZMXk1eVp2WndLNjhlNDNkaVdFSjlLZ3p5S18ycA?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6NXNPZV9DSXYwZHFIR09SMTM5eGJMWkFIU3lRZDBYeFVzZ0JKV2FtMkM3cUZfRGtSQmpNdkd5S3h5M21oLUdiaDhkSmhnQTZCYnBsVVdHNldjX1ItNGdR0gFkQVVfeXFMTk8xR2dzR3Ytd0FoN0FxTkYzekQyQTlMUE1wOTlNWjJtMkFnS3I1djBFV1M5UnBLMnFrYmlBcV9HOWpIWHF1M1RZMXk1eVp2WndLNjhlNDNkaVdFSjlLZ3p5S18ycA?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_browser",
           "package": ""
         },
         {
-          "text": "南韓官員怒轟台灣「外交失禮」登上韓媒：留下傲慢的印象",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjd0s2YmJkMzN1LUZQN3ZLMGpCdXY3UHBGWWlFYXF2UV9sWkEwcTRNTmRWS2hFSGtpbUkxMW9JSzJUVjVtaDBUN2EwV3lmbURMWkJ1TEhNMFJ4dFRwNlHSAWhBVV95cUxQY0RXT1FfRXBRNjdNTXlKdE9ndVR6Y3hVS0tLQmY5Q1ByMlZKUjdPS1ZudXI1R3lZSGpMdmdQS3prek94SVk3enZSdGpneDNhRV9wTTBRVzFkbWJ0RkpqZ2tJUlBBR05QZg?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjd0s2YmJkMzN1LUZQN3ZLMGpCdXY3UHBGWWlFYXF2UV9sWkEwcTRNTmRWS2hFSGtpbUkxMW9JSzJUVjVtaDBUN2EwV3lmbURMWkJ1TEhNMFJ4dFRwNlHSAWhBVV95cUxQY0RXT1FfRXBRNjdNTXlKdE9ndVR6Y3hVS0tLQmY5Q1ByMlZKUjdPS1ZudXI1R3lZSGpMdmdQS3prek94SVk3enZSdGpneDNhRV9wTTBRVzFkbWJ0RkpqZ2tJUlBBR05QZg?oc=5",
+          "text": "京華城案》邱佩琳：親帶200萬元到市長室送錢 柯文哲只說「謝謝」",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBiTHF6Yk5NNkJLR01hOXhRX3R3UTY2bjZmWFdBcmNzenVhdE8xVTlXdjZhTEVZaEFlSzBRd0RQNW5BaDNXWG1relNETURBS0VRdVAxb1VCLTBFZ1AzNzJlUFR4R1BTS2dwWXfSAW9BVV95cUxQVWNKRXh2Zk9zdTRMbkt3SmVWemZnSzdlVzBoeEtpanpxTUgtNExfR2sta1pLUzNLTTQtNlBqY0IzQnFzRmlJSjRpMTU5MkZoZ2YwMXFfUnZoTVM3OUYwR2ljZ3p2WE90WUFIVlJLckE?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBiTHF6Yk5NNkJLR01hOXhRX3R3UTY2bjZmWFdBcmNzenVhdE8xVTlXdjZhTEVZaEFlSzBRd0RQNW5BaDNXWG1relNETURBS0VRdVAxb1VCLTBFZ1AzNzJlUFR4R1BTS2dwWXfSAW9BVV95cUxQVWNKRXh2Zk9zdTRMbkt3SmVWemZnSzdlVzBoeEtpanpxTUgtNExfR2sta1pLUzNLTTQtNlBqY0IzQnFzRmlJSjRpMTU5MkZoZ2YwMXFfUnZoTVM3OUYwR2ljZ3p2WE90WUFIVlJLckE?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_browser",
           "package": ""
         },
         {
-          "text": "柯延押「不得再抗告」 網見駁回理由炸鍋：掰不出來了？",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQeDlqV3JabVBieEttYzltMnJKOXRIbm4xRkliX3hfX2R4Umt5UElrS2JQcWdNWnFzQXN1b3cwSVdKaTdIam5CMDB0RzZublljR3plTFA3YkNNT2xIZFdyVmV0Q0pkNUppT1o3UGRn?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQeDlqV3JabVBieEttYzltMnJKOXRIbm4xRkliX3hfX2R4Umt5UElrS2JQcWdNWnFzQXN1b3cwSVdKaTdIam5CMDB0RzZublljR3plTFA3YkNNT2xIZFdyVmV0Q0pkNUppT1o3UGRn?oc=5",
+          "text": "轟台灣「外交失禮」還找藉口登韓媒　南韓官員：傲慢、無禮留在心中",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3NWdEckVHeHBUTGhTbFpHazExMjFVUjFWZkRMQmJLeWRpQVVYZW42emtRak9NTlQ5NjdadlRkZ2JoV1NEUjA3N2RJNnV6eU9FUnQtZHdFQkRFaknSAWBBVV95cUxQeEhwTEFvMldrNTdxdDBSUWVTazk5WV82RGl4U0ZrUEdFb3JCdENYUmdTRWpCWGN3eXdpcXhTOERiODVlTEN3R0hqejdZUXBsVWdYN1hyZnNRV1lTNE0xTkY?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3NWdEckVHeHBUTGhTbFpHazExMjFVUjFWZkRMQmJLeWRpQVVYZW42emtRak9NTlQ5NjdadlRkZ2JoV1NEUjA3N2RJNnV6eU9FUnQtZHdFQkRFaknSAWBBVV95cUxQeEhwTEFvMldrNTdxdDBSUWVTazk5WV82RGl4U0ZrUEdFb3JCdENYUmdTRWpCWGN3eXdpcXhTOERiODVlTEN3R0hqejdZUXBsVWdYN1hyZnNRV1lTNE0xTkY?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_browser",
           "package": ""
@@ -221,6 +213,22 @@
           "text": "封面故事／稱住持老公、指示會計浮報薪資　林岱樺涉貪手機對話曝光",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WZklZZDdMWHJ2a2wtN3pKWGVyc2xYb0dsd2E4YzNaNlRNSkJlNW9uWnE1dzRJUUZEdFI0X0ItTzNGWDBxQzBuMEItSU5GR1ZTUS0td3phTjhOQm_SAWBBVV95cUxNZGZYOHF6QXNRT1pZWERqVjRCREdSR3I4OXFPaUJuU2lFN19KaF9XcUttSHNmN0lZZUxRVjNuS3dUZ0NXM2l4VFBUN2stTXJPbkF0TVllU1JnaXlyT1ZDTUo?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WZklZZDdMWHJ2a2wtN3pKWGVyc2xYb0dsd2E4YzNaNlRNSkJlNW9uWnE1dzRJUUZEdFI0X0ItTzNGWDBxQzBuMEItSU5GR1ZTUS0td3phTjhOQm_SAWBBVV95cUxNZGZYOHF6QXNRT1pZWERqVjRCREdSR3I4OXFPaUJuU2lFN19KaF9XcUttSHNmN0lZZUxRVjNuS3dUZ0NXM2l4VFBUN2stTXJPbkF0TVllU1JnaXlyT1ZDTUo?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_browser",
+          "package": ""
+        },
+        {
+          "text": "別質疑美國核廢技術！黃士修髒話嗆小黨：不要搞「綠社基巴力量」",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FaDBQcTNWYjRiT1hmVG1oZTZ5UDdDbVdpT0Y4Yll0eENacFFFWWltWnF6dzh3T1ZESGZoeUVvWUhCZnJFMy1FZERSVXYtZjlSMjlfejUtRWF0QQ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FaDBQcTNWYjRiT1hmVG1oZTZ5UDdDbVdpT0Y4Yll0eENacFFFWWltWnF6dzh3T1ZESGZoeUVvWUhCZnJFMy1FZERSVXYtZjlSMjlfejUtRWF0QQ?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_browser",
+          "package": ""
+        },
+        {
+          "text": "美中關稅休戰再延長90天 中國：今天12時01分開始調整",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9fd2VWVEVCbTVjZzVjWUo1M0t1elhwREIzcDFrQmZmbzhzRkVCUUNXN3djcVQ2ZlhxWEh4alg2bnllMHFnd2NVSG5pUG8yQWs?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9fd2VWVEVCbTVjZzVjWUo1M0t1elhwREIzcDFrQmZmbzhzRkVCUUNXN3djcVQ2ZlhxWEh4alg2bnllMHFnd2NVSG5pUG8yQWs?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_browser",
           "package": ""
@@ -250,14 +258,6 @@
           "package": ""
         },
         {
-          "text": "特朗普要求無家可歸者「立即」搬離華盛頓特區",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1vVXd5VmhlaHk3VGYzOHM5QnlNdW01WGVnN014Mk9WYTR5Vzg4YUlmWnVCc1BZcnNQWHhIN09zMl81RHpCcUNlUnFDZ0RsdlZXbm1BNUI1WHhubXg0Y1JlMGZoUFR3Z9IBa0FVX3lxTE1oNWNrNmdHbDduQjE5eXJWMDVxbnV0Tm9SWVRaVnlISk9WNlFFSThfRHRaZ3FoYThIR3IzQmxoYjF1elRUSEJTa2FZODJ5U3BqeGh1Y3J5NFM5NWtqaXJUaXBrRDhlMjIycS13?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1vVXd5VmhlaHk3VGYzOHM5QnlNdW01WGVnN014Mk9WYTR5Vzg4YUlmWnVCc1BZcnNQWHhIN09zMl81RHpCcUNlUnFDZ0RsdlZXbm1BNUI1WHhubXg0Y1JlMGZoUFR3Z9IBa0FVX3lxTE1oNWNrNmdHbDduQjE5eXJWMDVxbnV0Tm9SWVRaVnlISk9WNlFFSThfRHRaZ3FoYThIR3IzQmxoYjF1elRUSEJTa2FZODJ5U3BqeGh1Y3J5NFM5NWtqaXJUaXBrRDhlMjIycS13?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_browser",
-          "package": ""
-        },
-        {
           "text": "神山領軍台股翻紅！台積電觸頂1,195元、這超強「鴻家軍」爆量378％鎖漲停24K關卡力守收高114點",
           "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQRzgwdXpXLVQzXzE0RDVva0hLVm9rcl9hWnFMdmc4YkdDSGMzNko2WDVRRk43Q3IzNXRaTEhGdEYxYUFQV0JrVWd4UGItNU4ycVVpQW5JLUdVV2RoWjlIZ1Y1SXNZTVRKVHlsZEw4dlZ1am1XbXlzdkl4S1FDYlRXTmVwZkFFRGp4dkR5d3V5U0ZzMUN0TDF4ajVhRUZzbFh5SGRjV0kxVjRublJON3J5dFExUElhUnRvZU1EM2RUTlJILWJwdElmR2IwTGdGcmdLZ0RENDJPcDFiTER0b094VUhFaU9OT3pHejZtVnI4bk1vajNCWkl5bHdxUmFHdHlWSGNXV3Q3OUU2OFRSbnpzT3VzODhMRHBsN2F4YmM3YzBkQlZ3OGVheklCSURtUmdGNkF2YXJuWDJlZkJaV2tWT0FEZE5jbG1tZUlvazVUMG5NMy1SMXc?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQRzgwdXpXLVQzXzE0RDVva0hLVm9rcl9hWnFMdmc4YkdDSGMzNko2WDVRRk43Q3IzNXRaTEhGdEYxYUFQV0JrVWd4UGItNU4ycVVpQW5JLUdVV2RoWjlIZ1Y1SXNZTVRKVHlsZEw4dlZ1am1XbXlzdkl4S1FDYlRXTmVwZkFFRGp4dkR5d3V5U0ZzMUN0TDF4ajVhRUZzbFh5SGRjV0kxVjRublJON3J5dFExUElhUnRvZU1EM2RUTlJILWJwdElmR2IwTGdGcmdLZ0RENDJPcDFiTER0b094VUhFaU9OT3pHejZtVnI4bk1vajNCWkl5bHdxUmFHdHlWSGNXV3Q3OUU2OFRSbnpzT3VzODhMRHBsN2F4YmM3YzBkQlZ3OGVheklCSURtUmdGNkF2YXJuWDJlZkJaV2tWT0FEZE5jbG1tZUlvazVUMG5NMy1SMXc?oc=5",
@@ -270,9 +270,9 @@
       "rank_type": "Google"
     }
   ],
-  "hash": "1754984885",
+  "hash": "1754986969",
   "qt": "composite_ad_news",
   "message": "success",
-  "cost": 21,
+  "cost": 46,
   "status": 0
 }
