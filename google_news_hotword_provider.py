@@ -77,7 +77,7 @@ class NewsHotWordProvider:
                                 "url": self.YAHOO_NEWS_URL,
                                 "h5_url": self.YAHOO_NEWS_URL,
                                 "appIconUrl": "",
-                                "sourceUniqueId": "content_browser",
+                                "sourceUniqueId": "content_yahoo",
                                 "package": ""
                             }
                         ],
@@ -96,7 +96,7 @@ class NewsHotWordProvider:
                                 "url": self.GOOGLE_NEWS_WEB_URL,
                                 "h5_url": self.GOOGLE_NEWS_WEB_URL,
                                 "appIconUrl": "",
-                                "sourceUniqueId": "content_browser",
+                                "sourceUniqueId": "content_google",
                                 "package": ""
                             }
                         ],
@@ -170,7 +170,7 @@ class NewsHotWordProvider:
                                     "url": link,
                                     "h5_url": link,
                                     "appIconUrl": "",
-                                    "sourceUniqueId": "content_browser",
+                                    "sourceUniqueId": "content_google",
                                     "package": ""
                                 }
                                 news_array.append(news_item)
@@ -264,7 +264,7 @@ class NewsHotWordProvider:
                         "url": url,
                         "h5_url": url,
                         "appIconUrl": "",
-                        "sourceUniqueId": "content_browser",
+                        "sourceUniqueId": "content_google",
                         "package": ""
                     }
                     news_array.append(news_item)
@@ -297,7 +297,7 @@ class NewsHotWordProvider:
                             "url": url,
                             "h5_url": url,
                             "appIconUrl": "",
-                            "sourceUniqueId": "content_browser",
+                            "sourceUniqueId": "content_google",
                             "package": ""
                         }
                         news_array.append(news_item)
@@ -341,7 +341,7 @@ class NewsHotWordProvider:
                             "url": url,
                             "h5_url": url,
                             "appIconUrl": "",
-                            "sourceUniqueId": "content_browser",
+                            "sourceUniqueId": "content_google",
                             "package": ""
                         }
                         news_array.append(news_item)
@@ -532,7 +532,7 @@ class NewsHotWordProvider:
                 "link_type": "app",
                 "data": yahoo_news,
                 "selectedStatus": False,
-                "rank_type": "Yahoo"
+                "rank_type": "rank_ahoo"
             }
             result.append(yahoo_section)
         
@@ -546,7 +546,7 @@ class NewsHotWordProvider:
                 "link_type": "app",
                 "data": google_news,
                 "selectedStatus": False,
-                "rank_type": "Google"
+                "rank_type": "rank_google"
             }
             result.append(google_section)
         
@@ -564,8 +564,8 @@ class NewsHotWordProvider:
                 "WIFI": 20
             },
             "result": result,
-            "hash": str(int(time.time())),
-            "qt": "composite_ad_news",
+            "hash": "c2d15b8822404d2ea10f48b759eadba1",
+            "qt": "composite_ad_yahoo_google",
             "message": "success",
             "cost": random.randint(10, 50),
             "status": 0
