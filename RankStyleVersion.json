@@ -12,7 +12,7 @@
           "rankType": "ad"
         },
         {
-          "rankType": "rank_yahoo",
+          "rankType": "yahoo",
           "hotList": true,
           "needInstall": false,
           "showType": "all",
@@ -35,7 +35,7 @@
           }
         },
         {
-          "rankType": "rank_google",
+          "rankType": "google",
           "hotList": true,
           "needInstall": false,
           "showType": "all",
