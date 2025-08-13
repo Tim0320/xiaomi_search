@@ -8,54 +8,52 @@
       "rankStyle": "horizontal",
       "supportSliding": false,
       "rankItems": [
-        {
-          "rankType": "ad"
+        { 
+            "rankType": "ad" 
         },
         {
-          "rankType": "yahoo",
+          "rankType": "wholenet",
           "hotList": true,
           "needInstall": false,
           "showType": "all",
           "packageName": "com.android.quicksearchbox",
           "qtSource": [
             {
-              "sourceId": "content_yahoo",
+              "sourceId": "content_wholenet",
               "packageName": "com.android.quicksearchbox",
               "showType": "all",
               "linkType": "h5"
             }
           ],
           "rankSourceType": 1,
-          "icon": "https://raw.githubusercontent.com/Tim0320/xiaomi_search/main/icon/Yahoo.png",
-          "title": "Yahoo新聞",
-          "summary": "來自Yahoo的最新新聞",
+          "icon": "https://cdn.cnbj1.fds.api.mi-img.com/miui-search-bucket/img/hotlist/202410/032c858e1f3665108c9449de4766569a08443b08f%20.png?cannedAcl=PUBLIC_READ&GalaxyAccessKeyId=AKL253MFO6Q7BVL7DH&Expires=9223372036854775807&Signature=J9FnYufzGOTx+Q/z/xWN3U8Akio=",
+          "title": "全网热搜榜",
+          "summary": "全网热门内容聚合，实时传递新鲜资讯",
           "rankItemStyle": "text",
           "pullConfig": { 
-            "initShowCount": 15
+            "initShowCount": 10 
           }
         },
         {
-          "rankType": "google",
+          "rankType": "zhihu",
           "hotList": true,
           "needInstall": false,
           "showType": "all",
-          "packageName": "com.android.quicksearchbox",
+          "packageName": "com.zhihu.android",
           "qtSource": [
             {
-              "sourceId": "content_google",
-              "packageName": "com.android.quicksearchbox",
+              "sourceId": "content_zhihu",
+              "packageName": "com.zhihu.android",
               "showType": "all",
               "linkType": "h5"
             }
           ],
           "rankSourceType": 1,
-          "icon": "https://raw.githubusercontent.com/Tim0320/xiaomi_search/main/icon/Google.png",
-          "title": "Google最新新聞",
-          "summary": "來自Google的最新新聞",
+          "icon": "https://cdn.cnbj1.fds.api.mi-img.com/miui-search-bucket/img/hotlist/202410/02a1b64cd071f4ff80fdc7905df502eeb49f5551c.png?cannedAcl=PUBLIC_READ&GalaxyAccessKeyId=AKL253MFO6Q7BVL7DH&Expires=9223372036854775807&Signature=Y9Xp0iesw6BlxFJvwnF8sO9U0kE=",
+          "title": "知乎热搜榜",
+          "summary": "有趣、有料、有态度的内容社区",
           "rankItemStyle": "text",
-          "pullConfig": { 
-            "initShowCount": 15
-          }
+          "pullConfig": { "initShowCount": 10 }
         }
       ]
     }
