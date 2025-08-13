@@ -31,7 +31,7 @@
           "summary": "來自Yahoo的最新新聞",
           "rankItemStyle": "text",
           "pullConfig": { 
-            "initShowCount": 10 
+            "initShowCount": 15
           }
         },
         {
@@ -54,7 +54,7 @@
           "summary": "來自Google的最新新聞",
           "rankItemStyle": "text",
           "pullConfig": { 
-            "initShowCount": 10 
+            "initShowCount": 15
           }
         }
       ]
