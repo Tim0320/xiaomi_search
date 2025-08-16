@@ -15,6 +15,14 @@
       "link_type": "app",
       "data": [
         {
+          "text": "受妻之託 川普親交信件給普丁",
+          "url": "https://tw.news.yahoo.com/%E6%A2%85%E8%98%AD%E5%A6%AE%E4%BA%9E%E8%87%B4%E5%87%BD%E8%92%B2%E4%BA%AD%E9%97%9C%E5%88%87%E9%81%AD%E7%B6%81%E5%85%92%E7%AB%A5-%E5%B7%9D%E6%99%AE%E5%B3%B0%E6%9C%83%E8%A6%AA%E6%89%8B%E8%BD%89%E4%BA%A4-060609161.html",
+          "h5_url": "https://tw.news.yahoo.com/%E6%A2%85%E8%98%AD%E5%A6%AE%E4%BA%9E%E8%87%B4%E5%87%BD%E8%92%B2%E4%BA%AD%E9%97%9C%E5%88%87%E9%81%AD%E7%B6%81%E5%85%92%E7%AB%A5-%E5%B7%9D%E6%99%AE%E5%B3%B0%E6%9C%83%E8%A6%AA%E6%89%8B%E8%BD%89%E4%BA%A4-060609161.html",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_yahoo",
+          "package": ""
+        },
+        {
           "text": "吳淑珍「姿勢性低血壓」昏倒 醫示警",
           "url": "https://tw.news.yahoo.com/%E5%90%B3%E6%B7%91%E7%8F%8D%E5%A7%BF%E5%8B%A2%E6%80%A7%E4%BD%8E%E8%A1%80%E5%A3%93%E6%98%8F%E5%80%92-%E9%86%AB%E7%A4%BA%E8%AD%A6%EF%BC%9A%E6%80%A5%E6%80%A7%E8%A1%80%E5%A3%93%E4%B8%8B%E9%99%8D-%E5%99%A8%E5%AE%98%E4%BE%9B%E8%A1%80%E4%B8%8D%E8%B6%B3%E6%81%90%E8%87%B4%E5%91%BD-063301644.html",
           "h5_url": "https://tw.news.yahoo.com/%E5%90%B3%E6%B7%91%E7%8F%8D%E5%A7%BF%E5%8B%A2%E6%80%A7%E4%BD%8E%E8%A1%80%E5%A3%93%E6%98%8F%E5%80%92-%E9%86%AB%E7%A4%BA%E8%AD%A6%EF%BC%9A%E6%80%A5%E6%80%A7%E8%A1%80%E5%A3%93%E4%B8%8B%E9%99%8D-%E5%99%A8%E5%AE%98%E4%BE%9B%E8%A1%80%E4%B8%8D%E8%B6%B3%E6%81%90%E8%87%B4%E5%91%BD-063301644.html",
@@ -40,8 +48,8 @@
         },
         {
           "text": "印度世界遺產胡馬雍陵坍塌 已6死",
-          "url": "https://tw.news.yahoo.com/%E5%8D%B0%E5%BA%A6%E5%A4%A7%E9%9B%A8-%E4%B8%96%E7%95%8C%E9%81%BA%E7%94%A2%E8%83%A1%E9%A6%AC%E9%9B%8D%E9%99%B5%E5%9C%92%E5%8D%80%E5%BB%BA%E7%AF%89%E5%9D%8D%E5%A1%8C-%E9%87%806%E6%AD%BB7%E4%BA%BA%E5%8F%97%E5%9B%B0-061341856.html",
-          "h5_url": "https://tw.news.yahoo.com/%E5%8D%B0%E5%BA%A6%E5%A4%A7%E9%9B%A8-%E4%B8%96%E7%95%8C%E9%81%BA%E7%94%A2%E8%83%A1%E9%A6%AC%E9%9B%8D%E9%99%B5%E5%9C%92%E5%8D%80%E5%BB%BA%E7%AF%89%E5%9D%8D%E5%A1%8C-%E9%87%806%E6%AD%BB7%E4%BA%BA%E5%8F%97%E5%9B%B0-061341856.html",
+          "url": "https://tw.news.yahoo.com/%E5%8D%B0%E5%BA%A6%E5%A4%A7%E9%9B%A8-%E4%B8%96%E7%95%8C%E9%81%BA%E7%94%A2%E8%83%A1%E9%A6%AC%E9%9B%8D%E9%99%B5%E5%9C%92%E5%8D%80%E5%BB%BA%E7%AF%89%E5%9D%8D%E5%A1%8C-%E9%87%806%E6%AD%BB-7%E4%BA%BA%E5%8F%97%E5%9B%B0-061341700.html",
+          "h5_url": "https://tw.news.yahoo.com/%E5%8D%B0%E5%BA%A6%E5%A4%A7%E9%9B%A8-%E4%B8%96%E7%95%8C%E9%81%BA%E7%94%A2%E8%83%A1%E9%A6%AC%E9%9B%8D%E9%99%B5%E5%9C%92%E5%8D%80%E5%BB%BA%E7%AF%89%E5%9D%8D%E5%A1%8C-%E9%87%806%E6%AD%BB-7%E4%BA%BA%E5%8F%97%E5%9B%B0-061341700.html",
           "appIconUrl": "",
           "sourceUniqueId": "content_yahoo",
           "package": ""
@@ -58,14 +66,6 @@
           "text": "蔥價飆漲 知名蔥油餅店休業10天 撲空",
           "url": "https://tw.news.yahoo.com/%E8%94%A5%E5%83%B9%E9%A3%86%E6%BC%B2-%E5%9F%BA%E9%9A%86%E7%9F%A5%E5%90%8D%E8%94%A5%E6%B2%B9%E9%A4%85%E6%A5%AD%E8%80%85%E4%BC%91%E6%A5%AD-%E6%B0%91%E7%9C%BE%E6%92%B2%E7%A9%BA-044616799.html",
           "h5_url": "https://tw.news.yahoo.com/%E8%94%A5%E5%83%B9%E9%A3%86%E6%BC%B2-%E5%9F%BA%E9%9A%86%E7%9F%A5%E5%90%8D%E8%94%A5%E6%B2%B9%E9%A4%85%E6%A5%AD%E8%80%85%E4%BC%91%E6%A5%AD-%E6%B0%91%E7%9C%BE%E6%92%B2%E7%A9%BA-044616799.html",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_yahoo",
-          "package": ""
-        },
-        {
-          "text": "刺鼻臭煙嚇壞居民 證實氨氣外洩",
-          "url": "https://tw.news.yahoo.com/%E5%AE%9C%E8%98%AD%E5%88%BA%E9%BC%BB%E6%B0%A3%E5%91%B3%E7%99%BD%E7%85%99%E9%A9%9A%E5%9A%87%E5%B1%85%E6%B0%91-%E7%BD%AA%E9%AD%81%E7%AB%9F%E6%98%AF%E5%B7%A5%E5%BB%A0-%E9%80%99%E5%80%8B-%E5%A4%96%E6%B4%A9-024202307.html",
-          "h5_url": "https://tw.news.yahoo.com/%E5%AE%9C%E8%98%AD%E5%88%BA%E9%BC%BB%E6%B0%A3%E5%91%B3%E7%99%BD%E7%85%99%E9%A9%9A%E5%9A%87%E5%B1%85%E6%B0%91-%E7%BD%AA%E9%AD%81%E7%AB%9F%E6%98%AF%E5%B7%A5%E5%BB%A0-%E9%80%99%E5%80%8B-%E5%A4%96%E6%B4%A9-024202307.html",
           "appIconUrl": "",
           "sourceUniqueId": "content_yahoo",
           "package": ""
@@ -137,142 +137,11 @@
       ],
       "selectedStatus": false,
       "rank_type": "rank_ahoo"
-    },
-    {
-      "track_id": "hq_google",
-      "title": "Google",
-      "title_icon_url": "",
-      "headImageUrl": "",
-      "link_type": "app",
-      "data": [
-        {
-          "text": "川普蒲亭結束阿拉斯加會談專機先後離去",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95MGhLS3F0cUVtOUpqYVNqR2FGbTNtMUNyYXdtanBCOHJpTkNSODc1THM5RWVXUVZHaDBoTGNhY1dyMTg5QkRVVVE1bWZkc1E5dHdFRVVvUDJWSjk4Rk9J?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95MGhLS3F0cUVtOUpqYVNqR2FGbTNtMUNyYXdtanBCOHJpTkNSODc1THM5RWVXUVZHaDBoTGNhY1dyMTg5QkRVVVE1bWZkc1E5dHdFRVVvUDJWSjk4Rk9J?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "快訊／吳淑珍送醫一度命危！最新病況曝光　陳水扁急赴醫院",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE45SUgxY0thalZGVEdWd3VUNHZHdWE3WXBNQVNkUjBtVGtES29ncnhFMjN2bVBobnlHUWE1YjlJd3lEbUZwQ19iMnR1aWhZUGlneGRLcTNVc1d1dXh4Q1HSAWhBVV95cUxPSlBkQXQ1bFBOVlZEUVpJbm1rQldveHl4a1o4eEEyeDZTdldPSVJRcEE1VF9ia1RKYWlBbXI2UDZfZDlXd1dmX3paLXRjMTkzUUNUcjhMRFBCMHpSUzhTbnloU3BJcEVxQw?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE45SUgxY0thalZGVEdWd3VUNHZHdWE3WXBNQVNkUjBtVGtES29ncnhFMjN2bVBobnlHUWE1YjlJd3lEbUZwQ19iMnR1aWhZUGlneGRLcTNVc1d1dXh4Q1HSAWhBVV95cUxPSlBkQXQ1bFBOVlZEUVpJbm1rQldveHl4a1o4eEEyeDZTdldPSVJRcEE1VF9ia1RKYWlBbXI2UDZfZDlXd1dmX3paLXRjMTkzUUNUcjhMRFBCMHpSUzhTbnloU3BJcEVxQw?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "川普：只要我在位習近平不會對台灣動手",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VUDlKREZTaHhUV211VUtJQUZLZzZLZXFRMXFHVVg5WDVyUVpTNmdKMEc2d293ZWllaDkxaXBWQXlRMi00bTZyZTNLa1A4Y2tEblR1di1CR096Q2dtcC04?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VUDlKREZTaHhUV211VUtJQUZLZzZLZXFRMXFHVVg5WDVyUVpTNmdKMEc2d293ZWllaDkxaXBWQXlRMi00bTZyZTNLa1A4Y2tEblR1di1CR096Q2dtcC04?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "反核變擁核真心話曝 黃國昌揭民進黨能源政策1慘況：沒時間了",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wdC1yanpiakMxZ19LOGdEVVg4QVRmVTFBbF9YbGV5X1Z5bzRqVDcxUmQ1OXh4Yl8yNXI1OERIaDRsSTgwM01raEhYeGpNVEtiVEdB?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wdC1yanpiakMxZ19LOGdEVVg4QVRmVTFBbF9YbGV5X1Z5bzRqVDcxUmQ1OXh4Yl8yNXI1OERIaDRsSTgwM01raEhYeGpNVEtiVEdB?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "陳佩琪生日發文：揹「柯文哲骨灰」 每天送賴清德夫妻出門",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBiWDVQLUpNS1prUDA5Q1pxWXViY2dyU1cwbmNNMjE5ZEpmbExFUHNuSEpaUzY0aEowSjVTN19KNXhVeGUtR1lpM2FvWndySVow?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBiWDVQLUpNS1prUDA5Q1pxWXViY2dyU1cwbmNNMjE5ZEpmbExFUHNuSEpaUzY0aEowSjVTN19KNXhVeGUtR1lpM2FvWndySVow?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "又有颱風生成？2熱帶擾動醞釀中專家揭未來路徑",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xMEUwTU51cEp6akZtM1J4dmhRaDRIemprdnpqQkZEZlhSc1VnSi14VXlYSWhXV2hoZWpxTkRmN3N6RXBSQ1dfNlhObjRmZWwyaUU4Mm9UZW5jZw?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xMEUwTU51cEp6akZtM1J4dmhRaDRIemprdnpqQkZEZlhSc1VnSi14VXlYSWhXV2hoZWpxTkRmN3N6RXBSQ1dfNlhObjRmZWwyaUU4Mm9UZW5jZw?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "火力全開！民進黨：明天啟動「七區齊步走」823罷免投同意",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5leGlHZ3diQVg0eS1OOXFLa1dLLURSQTdDVm1PU3dPbHlqT0h2emFnX0xCTHZqOUJKR3htNWJiWktuM1pmakR6dHdwSDhLbXlhaWZ5Y1dTUk93dw?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5leGlHZ3diQVg0eS1OOXFLa1dLLURSQTdDVm1PU3dPbHlqT0h2emFnX0xCTHZqOUJKR3htNWJiWktuM1pmakR6dHdwSDhLbXlhaWZ5Y1dTUk93dw?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "少子女衝擊 國小學生估年減3.2萬人 118學年度跌破百萬",
-          "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNVnpybDRLMno5bl9NVTMtc2JZQWJMelgtZkZ4Uk92Q0FyLWRmaW1Fa0JybWFEYnBSOEJISjRJZEJRNzc2T01JWkQxY1E1VWptaGVnVlY4ZHJHbks1cm0tUXBDUnJ2eE1aTWI3R2hfLTZUdTVGVDlWOTREVFpkdUtDaWRXeE1kOXJCSXg0dGJvTWVHNnJOYklXeEEzY192Nm1jcGxHWVNUY0ZKWkVCMWZ4SDVQZ19pRFA1bG80eDNsVDdsbUdxZ1FDLU1mZE50dXNtdHBGRS1zZGh3VVdOa1dTRllNMFZqVl9jMHhTMUNrUllsV3ZFRHZsZ0RQYjJCbERIUjJGbGgteVBPODBwazdLRUoyQWo3dlgtTDdrMm8tb1FUWWYxeW9ySGFfTUpUT3ZyRUVGOTcyTEx6em9wZ2xVNHBPMjlPLVZEUEk5NVVJVlpkeFhVblJadVBILUsyM2xGX0RUcA?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNVnpybDRLMno5bl9NVTMtc2JZQWJMelgtZkZ4Uk92Q0FyLWRmaW1Fa0JybWFEYnBSOEJISjRJZEJRNzc2T01JWkQxY1E1VWptaGVnVlY4ZHJHbks1cm0tUXBDUnJ2eE1aTWI3R2hfLTZUdTVGVDlWOTREVFpkdUtDaWRXeE1kOXJCSXg0dGJvTWVHNnJOYklXeEEzY192Nm1jcGxHWVNUY0ZKWkVCMWZ4SDVQZ19pRFA1bG80eDNsVDdsbUdxZ1FDLU1mZE50dXNtdHBGRS1zZGh3VVdOa1dTRllNMFZqVl9jMHhTMUNrUllsV3ZFRHZsZ0RQYjJCbERIUjJGbGgteVBPODBwazdLRUoyQWo3dlgtTDdrMm8tb1FUWWYxeW9ySGFfTUpUT3ZyRUVGOTcyTEx6em9wZ2xVNHBPMjlPLVZEUEk5NVVJVlpkeFhVblJadVBILUsyM2xGX0RUcA?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "黃國昌參選新北市長 學者：有三個不可能",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAtbVBBYUFZQkR3bG05M0VGUWZzdEt0WU5rNVR5MW1ZRHM2QVMydUdhbEN1Qkl6TXpycW9rVlJ1YS1BNzE4LXltSjJQcTA3Ukd60gFWQVVfeXFMTk9zWVhscWU1SFNRNGpoVzhLUUwwNVYxXzltbmU1czRSOTRnaVpLYWJ2N3M3UFRrdVBta1JoUnh1eGVWUGVKQjV1Nmt6NWk5Q01xZXNKNXc?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAtbVBBYUFZQkR3bG05M0VGUWZzdEt0WU5rNVR5MW1ZRHM2QVMydUdhbEN1Qkl6TXpycW9rVlJ1YS1BNzE4LXltSjJQcTA3Ukd60gFWQVVfeXFMTk9zWVhscWU1SFNRNGpoVzhLUUwwNVYxXzltbmU1czRSOTRnaVpLYWJ2N3M3UFRrdVBta1JoUnh1eGVWUGVKQjV1Nmt6NWk5Q01xZXNKNXc?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "詐欺犯拍片喊「判決書當履歷表」找到人了！　檢方要撤銷他的假釋",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1tTXRPTHM5XzhnR2NYdTJSMmc5UEtQNkRDYW5pYzYxZjh4V3NlQ2N3M1pzSjN3UThkWEtHU2VZRkJnZkJQSGs3SHNzX2NYSWlBcGpZYTRjSllBZDhOelHSAWhBVV95cUxOcXRYclRfVHUwQmR3SHBZVTZCaHYxQks2WEh6elhEd282YnQxTzhNR1M3UmVUVEt6bllydEkxRW1rdFJWeFJRZ0Z1MVd6OWItZ0Y3MVlwOWQwaVZ3d1V6dVp6SzBDamVfVA?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1tTXRPTHM5XzhnR2NYdTJSMmc5UEtQNkRDYW5pYzYxZjh4V3NlQ2N3M1pzSjN3UThkWEtHU2VZRkJnZkJQSGs3SHNzX2NYSWlBcGpZYTRjSllBZDhOelHSAWhBVV95cUxOcXRYclRfVHUwQmR3SHBZVTZCaHYxQks2WEh6elhEd282YnQxTzhNR1M3UmVUVEt6bllydEkxRW1rdFJWeFJRZ0Z1MVd6OWItZ0Y3MVlwOWQwaVZ3d1V6dVp6SzBDamVfVA?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "白宮秘密清單曝光！533家企業按照對川普忠誠度排名惹議",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1CRHFtTHhnNDFjMDdDOG5TZTZwaGt2NTJqUkZuYTNqWmtnWFBNMFhJWDFQSHY5bGNDMXRqN1hkaWctWUd4YVJaOHI4Z1VDZUh50gFWQVVfeXFMT0p2ZWhtN3llS3Fad1hjcnRiY20wVzM5dFA5aGFFVEw5bkhFNWU3Y2p5RnQwSlM4SGlWRVMzV244YWV3c3F3S1NJWkprVG9heWJHTXFiMEE?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1CRHFtTHhnNDFjMDdDOG5TZTZwaGt2NTJqUkZuYTNqWmtnWFBNMFhJWDFQSHY5bGNDMXRqN1hkaWctWUd4YVJaOHI4Z1VDZUh50gFWQVVfeXFMT0p2ZWhtN3llS3Fad1hjcnRiY20wVzM5dFA5aGFFVEw5bkhFNWU3Y2p5RnQwSlM4SGlWRVMzV244YWV3c3F3S1NJWkprVG9heWJHTXFiMEE?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "希拉蕊挺川普角逐諾貝爾！開出這些條件",
-          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPZ0F3WlJaUHkweExpYWt4czB1QkxtYjNkdUd6VkJvanFySUhSMnMyTVpxcEpkRTMtQWstQVA0ZVhzUm9UZnFxZmtIc2swYUpZb196ZmxoN2tNMTBJZnpKRmxzRGg0Qm9WSlFaSWMzOFBuMXA0VF8zNG5rdkxlLTBsWWN3MnZRaHFJUlJGV0wtUTJCQXJnTGtWMUtmaDUtd0xhV3lFeUpUWm9NT0FVUXVaTUtqX2NzaG02VGRRVmhWTTA4eUd4NThpVnBIcHNvQlhtQ3NRMnJ4NG1GT05TOUJEZWxkbDl2YkNKeXVCTFRnNlZTTWlDclRTQ2h6X1Q4dWNQbVlBVzFSWUZPRE9IZWVWRU82MnZTMjhLeEJWTjZQSWM?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPZ0F3WlJaUHkweExpYWt4czB1QkxtYjNkdUd6VkJvanFySUhSMnMyTVpxcEpkRTMtQWstQVA0ZVhzUm9UZnFxZmtIc2swYUpZb196ZmxoN2tNMTBJZnpKRmxzRGg0Qm9WSlFaSWMzOFBuMXA0VF8zNG5rdkxlLTBsWWN3MnZRaHFJUlJGV0wtUTJCQXJnTGtWMUtmaDUtd0xhV3lFeUpUWm9NT0FVUXVaTUtqX2NzaG02VGRRVmhWTTA4eUd4NThpVnBIcHNvQlhtQ3NRMnJ4NG1GT05TOUJEZWxkbDl2YkNKeXVCTFRnNlZTTWlDclRTQ2h6X1Q4dWNQbVlBVzFSWUZPRE9IZWVWRU82MnZTMjhLeEJWTjZQSWM?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "小粉紅冒充日本人怒罵日對戰爭反省不深刻 矢板明夫：可能是認知作戰",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CUl9LSW01N2pYd2pNWE1nX3FqVmpZY1ZvOVp2R2wtcmhwRDhfLXRnSVFvRFpaaU52ejZXcURDRnh0RlVyYy0zdVd5dExtWVYta18tcjBEdXI5SzZ4bFVwZk8tbG1hUlJFMWfSAW9BVV95cUxOaXh1dDB4T0ZkMkJwRUNOZU1xNzF0Y1ZueHhDbHdtdEhqYVdQRWdYcjd3M3FJRHUzZVJTX3psRFdhWXZ5ZEpUWWRnVUVfZ3VWVU9RZjFKWkFXZUJiZlktajVjNzBhMUNrSHNiNFd5bGM?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CUl9LSW01N2pYd2pNWE1nX3FqVmpZY1ZvOVp2R2wtcmhwRDhfLXRnSVFvRFpaaU52ejZXcURDRnh0RlVyYy0zdVd5dExtWVYta18tcjBEdXI5SzZ4bFVwZk8tbG1hUlJFMWfSAW9BVV95cUxOaXh1dDB4T0ZkMkJwRUNOZU1xNzF0Y1ZueHhDbHdtdEhqYVdQRWdYcjd3M3FJRHUzZVJTX3psRFdhWXZ5ZEpUWWRnVUVfZ3VWVU9RZjFKWkFXZUJiZlktajVjNzBhMUNrSHNiNFd5bGM?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "梅蘭妮亞致函蒲亭關切遭綁兒童 川普峰會親手轉交",
-          "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxOZGVWSWowU09RNFlQblNxbEc1ZFRCXzZyd0xOV3hra3UxTHdtTjQ2NEczbjl0ZHQxYWNWOXMxRUplclVzZXBleE1laXM0UFZMNDh5NFhpUG9mTS1sSlVqMVN2eEdGcHloR3pnVmI1d0M1ZldvSFU4VFJqejFHZkNqbmFpZVE0cG1WdTN5MVJBVUtTOW96NTYzRWlvS05tZXRlODUtdnYyY1d1MXB3cHNsaVdlTzQ2TEh1Y2NVNFRybjItVTRGbDZuOVZuLURpeEx6UjNwWDMzWUR1VWVYelRMaWlPMVJNRmU3QW42RVYyd0k0b0wtaE8zbm1RaDg5UHVHc3lsQmprRGMxNTc4Y1Jmb0dnT0hQR3ljd3J6RmI5dlcyQVFCNW9qWHM3ZE11Q2VoRmoxRW1NTHd5QmxrZG1VWkVpSW94VlpvaUh5NnZKYjRpVjBNNF9wUGljT3g?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxOZGVWSWowU09RNFlQblNxbEc1ZFRCXzZyd0xOV3hra3UxTHdtTjQ2NEczbjl0ZHQxYWNWOXMxRUplclVzZXBleE1laXM0UFZMNDh5NFhpUG9mTS1sSlVqMVN2eEdGcHloR3pnVmI1d0M1ZldvSFU4VFJqejFHZkNqbmFpZVE0cG1WdTN5MVJBVUtTOW96NTYzRWlvS05tZXRlODUtdnYyY1d1MXB3cHNsaVdlTzQ2TEh1Y2NVNFRybjItVTRGbDZuOVZuLURpeEx6UjNwWDMzWUR1VWVYelRMaWlPMVJNRmU3QW42RVYyd0k0b0wtaE8zbm1RaDg5UHVHc3lsQmprRGMxNTc4Y1Jmb0dnT0hQR3ljd3J6RmI5dlcyQVFCNW9qWHM3ZE11Q2VoRmoxRW1NTHd5QmxrZG1VWkVpSW94VlpvaUh5NnZKYjRpVjBNNF9wUGljT3g?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "台灣AI供應鏈恐挨100%重稅！川普揮半導體關稅大刀...聯電、世界先進都被點名",
-          "url": "https://news.google.com/rss/articles/CBMiwwNBVV95cUxNYWNGbnY3d3lqZUtVdUh2NURpa2JzaHVZYm9TVzBaMTNBSmYxZG5SaTZGTWVEdXpPekFlLVpmc2p2RTR6Q1B5M2RQbThzTTQ0VjN5TkN2YVlqWThZQ3VLX3B0U0k3dDJzTHg0WE1Rb0pKV2prQU5GNzlQWUpEaXJZemZ0MGZncHNuLUFNSERpVmt4TmpOUXRTWmVsTjZjeW1NSlUycWw1TTZvVmhwMjVnUGI5SmJEUV90RzdLcFZmdHc0RmQtNTVwTFRuWGVSZDdvU0hrX1QyTldqM0VpUGZBaUVWaExMZEhoelNmZm5MRGppeGJKSkM2dGVNU0c2WXFqMXdZX0k3R0o5bDIydDBnQ0Y2WUd4RUctRExZUm03YVBtNXo0TzB2S1AzRmVFODdoV25ucWVaWW0xZE9kZVpTc0F1Y2FDVV9jVTNyNTl6MUVtblJ6NzZEZ2NIVW4yb1NWSExTa3I1bnVnQjlIQ3NWNWhwOTZleDlNZGp1YmMtRXVwSndDUTNGS1E3Tk9xRk5KbnRTS2lYNkJUdGdJblZRX1FMd1lxazZ2ajBsT1RsRnJBcXVLai1NRm9TQ0Iyb1FFS3lJ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiwwNBVV95cUxNYWNGbnY3d3lqZUtVdUh2NURpa2JzaHVZYm9TVzBaMTNBSmYxZG5SaTZGTWVEdXpPekFlLVpmc2p2RTR6Q1B5M2RQbThzTTQ0VjN5TkN2YVlqWThZQ3VLX3B0U0k3dDJzTHg0WE1Rb0pKV2prQU5GNzlQWUpEaXJZemZ0MGZncHNuLUFNSERpVmt4TmpOUXRTWmVsTjZjeW1NSlUycWw1TTZvVmhwMjVnUGI5SmJEUV90RzdLcFZmdHc0RmQtNTVwTFRuWGVSZDdvU0hrX1QyTldqM0VpUGZBaUVWaExMZEhoelNmZm5MRGppeGJKSkM2dGVNU0c2WXFqMXdZX0k3R0o5bDIydDBnQ0Y2WUd4RUctRExZUm03YVBtNXo0TzB2S1AzRmVFODdoV25ucWVaWW0xZE9kZVpTc0F1Y2FDVV9jVTNyNTl6MUVtblJ6NzZEZ2NIVW4yb1NWSExTa3I1bnVnQjlIQ3NWNWhwOTZleDlNZGp1YmMtRXVwSndDUTNGS1E3Tk9xRk5KbnRTS2lYNkJUdGdJblZRX1FMd1lxazZ2ajBsT1RsRnJBcXVLai1NRm9TQ0Iyb1FFS3lJ?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        }
-      ],
-      "selectedStatus": false,
-      "rank_type": "rank_google"
     }
   ],
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 21,
+  "cost": 50,
   "status": 0
 }
