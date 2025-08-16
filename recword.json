@@ -15,7 +15,7 @@
       "link_type": "app",
       "data": [
         {
-          "text": "最新！川普、普丁會晤結束 聯合開記者會",
+          "text": "「雙普」聯合記者會 罕見普丁開場",
           "url": "https://tw.news.yahoo.com/%E5%BF%AB%E8%A8%8A-%E5%B7%9D%E6%99%AE%E8%88%87%E8%92%B2%E4%BA%AD%E7%8F%BE%E8%BA%AB%E8%81%AF%E5%90%88%E8%A8%98%E8%80%85%E6%9C%83-230433462.html",
           "h5_url": "https://tw.news.yahoo.com/%E5%BF%AB%E8%A8%8A-%E5%B7%9D%E6%99%AE%E8%88%87%E8%92%B2%E4%BA%AD%E7%8F%BE%E8%BA%AB%E8%81%AF%E5%90%88%E8%A8%98%E8%80%85%E6%9C%83-230433462.html",
           "appIconUrl": "",
@@ -31,9 +31,41 @@
           "package": ""
         },
         {
+          "text": "晴朗酷熱飆37℃ 紫外線危險級",
+          "url": "https://tw.news.yahoo.com/%E4%BB%8A%E6%98%8E%E6%B3%A8%E6%84%8F%E9%98%B2%E6%9B%AC%E3%80%81%E9%98%B2%E4%B8%AD%E6%9A%91-%E6%B0%A3%E8%B1%A1%E5%B0%88%E5%AE%B6%EF%BC%9A%E5%85%A9%E7%86%B1%E5%B8%B6%E6%93%BE%E5%8B%95%E9%86%9E%E9%87%80%E4%B8%AD-002738274.html",
+          "h5_url": "https://tw.news.yahoo.com/%E4%BB%8A%E6%98%8E%E6%B3%A8%E6%84%8F%E9%98%B2%E6%9B%AC%E3%80%81%E9%98%B2%E4%B8%AD%E6%9A%91-%E6%B0%A3%E8%B1%A1%E5%B0%88%E5%AE%B6%EF%BC%9A%E5%85%A9%E7%86%B1%E5%B8%B6%E6%93%BE%E5%8B%95%E9%86%9E%E9%87%80%E4%B8%AD-002738274.html",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_yahoo",
+          "package": ""
+        },
+        {
+          "text": "美俄會談改成「3對3」名單曝光",
+          "url": "https://tw.news.yahoo.com/%E5%B7%9D%E8%92%B2%E6%9C%83%E6%AD%A3%E5%BC%8F%E7%99%BB%E5%A0%B4-%E5%BE%AE%E7%AC%91%E6%8F%A1%E6%89%8B%E5%BE%8C-3%E5%B0%8D3-%E6%9C%83%E8%AB%87-204239676.html",
+          "h5_url": "https://tw.news.yahoo.com/%E5%B7%9D%E8%92%B2%E6%9C%83%E6%AD%A3%E5%BC%8F%E7%99%BB%E5%A0%B4-%E5%BE%AE%E7%AC%91%E6%8F%A1%E6%89%8B%E5%BE%8C-3%E5%B0%8D3-%E6%9C%83%E8%AB%87-204239676.html",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_yahoo",
+          "package": ""
+        },
+        {
+          "text": "富士山LAWSON再掛布幕 高度縮水",
+          "url": "https://tw.news.yahoo.com/%E5%AF%8C%E5%A3%AB%E5%B1%B1lawson%E5%8F%88%E6%8E%9B%E4%B8%8A%E5%B8%83%E5%B9%95-%E9%AB%98%E5%BA%A6%E9%99%8D1%E5%85%AC%E5%B0%BA%E6%96%B9%E4%BE%BF%E9%81%8A%E5%AE%A2%E6%8B%8D%E7%85%A7-233133760.html",
+          "h5_url": "https://tw.news.yahoo.com/%E5%AF%8C%E5%A3%AB%E5%B1%B1lawson%E5%8F%88%E6%8E%9B%E4%B8%8A%E5%B8%83%E5%B9%95-%E9%AB%98%E5%BA%A6%E9%99%8D1%E5%85%AC%E5%B0%BA%E6%96%B9%E4%BE%BF%E9%81%8A%E5%AE%A2%E6%8B%8D%E7%85%A7-233133760.html",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_yahoo",
+          "package": ""
+        },
+        {
           "text": "童子賢喊核綠共存 莊瑞雄籲重視核廢料",
           "url": "https://tw.news.yahoo.com/%E6%8C%BA%E6%A0%B8%E4%B8%89%E9%87%8D%E5%95%9F-%E7%AB%A5%E5%AD%90%E8%B3%A2%E5%96%8A-%E6%A0%B8%E7%B6%A0%E5%85%B1%E5%AD%98-%E5%BC%B7%E8%AA%BF%E9%99%8D%E4%BD%8E%E6%B0%91%E7%94%9F%E9%9B%BB%E5%83%B9-%E7%B6%AD%E6%8C%81%E9%AB%98%E7%A7%91%E6%8A%80%E7%AB%B6%E7%88%AD%E5%8A%9B-220907986.html",
           "h5_url": "https://tw.news.yahoo.com/%E6%8C%BA%E6%A0%B8%E4%B8%89%E9%87%8D%E5%95%9F-%E7%AB%A5%E5%AD%90%E8%B3%A2%E5%96%8A-%E6%A0%B8%E7%B6%A0%E5%85%B1%E5%AD%98-%E5%BC%B7%E8%AA%BF%E9%99%8D%E4%BD%8E%E6%B0%91%E7%94%9F%E9%9B%BB%E5%83%B9-%E7%B6%AD%E6%8C%81%E9%AB%98%E7%A7%91%E6%8A%80%E7%AB%B6%E7%88%AD%E5%8A%9B-220907986.html",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_yahoo",
+          "package": ""
+        },
+        {
+          "text": "修法嚴懲 詐千萬可關12年",
+          "url": "https://tw.news.yahoo.com/%E6%89%93%E8%A9%90-%E5%A2%9E%E6%96%B0%E7%B4%9A%E8%B7%9D-%E6%8B%89%E9%AB%98%E5%88%91%E6%9C%9F-%E6%B3%95%E9%83%A8%E4%BF%AE%E6%B3%95%E5%9A%B4%E6%87%B2-%E8%A9%90%E5%8D%83%E8%90%AC%E5%8F%AF%E9%97%9C12%E5%B9%B4-213000367.html",
+          "h5_url": "https://tw.news.yahoo.com/%E6%89%93%E8%A9%90-%E5%A2%9E%E6%96%B0%E7%B4%9A%E8%B7%9D-%E6%8B%89%E9%AB%98%E5%88%91%E6%9C%9F-%E6%B3%95%E9%83%A8%E4%BF%AE%E6%B3%95%E5%9A%B4%E6%87%B2-%E8%A9%90%E5%8D%83%E8%90%AC%E5%8F%AF%E9%97%9C12%E5%B9%B4-213000367.html",
           "appIconUrl": "",
           "sourceUniqueId": "content_yahoo",
           "package": ""
@@ -58,38 +90,6 @@
           "text": "首見 非法手機App騙過銀行被揪出",
           "url": "https://tw.news.yahoo.com/%E9%A6%96%E8%A6%8B%E9%9D%9E%E6%B3%95%E6%89%8B%E6%A9%9Fapp%E7%9B%9C%E5%88%B7-3%E5%91%A8%E8%A9%902000%E8%90%AC%E5%85%83-221531164.html",
           "h5_url": "https://tw.news.yahoo.com/%E9%A6%96%E8%A6%8B%E9%9D%9E%E6%B3%95%E6%89%8B%E6%A9%9Fapp%E7%9B%9C%E5%88%B7-3%E5%91%A8%E8%A9%902000%E8%90%AC%E5%85%83-221531164.html",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_yahoo",
-          "package": ""
-        },
-        {
-          "text": "日本旅遊注意 9月起大阪住宿稅調整",
-          "url": "https://tw.news.yahoo.com/%E6%97%A5%E6%9C%AC%E6%97%85%E9%81%8A%E6%B3%A8%E6%84%8F-9%E6%9C%88%E8%B5%B7%E5%A4%A7%E9%98%AA%E4%BD%8F%E5%AE%BF%E7%A8%85%E8%AA%BF%E6%95%B4-%E8%A8%82%E9%A3%AF%E5%BA%97%E6%81%90%E5%A2%9E%E9%A1%8D%E5%A4%96%E6%94%AF%E5%87%BA-223315212.html",
-          "h5_url": "https://tw.news.yahoo.com/%E6%97%A5%E6%9C%AC%E6%97%85%E9%81%8A%E6%B3%A8%E6%84%8F-9%E6%9C%88%E8%B5%B7%E5%A4%A7%E9%98%AA%E4%BD%8F%E5%AE%BF%E7%A8%85%E8%AA%BF%E6%95%B4-%E8%A8%82%E9%A3%AF%E5%BA%97%E6%81%90%E5%A2%9E%E9%A1%8D%E5%A4%96%E6%94%AF%E5%87%BA-223315212.html",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_yahoo",
-          "package": ""
-        },
-        {
-          "text": "川普：半導體新關稅最高300％",
-          "url": "https://tw.news.yahoo.com/%E5%8D%8A%E5%B0%8E%E9%AB%94%E6%96%B0%E9%97%9C%E7%A8%85%E9%A3%86%E5%88%B0300-%E5%B7%9D%E6%99%AE%E8%A6%AA%E5%8F%A3%E9%A0%90%E5%91%8A%E7%A8%85%E7%8E%87-%E6%9C%80%E5%BF%AB%E5%85%A9%E9%80%B1%E5%85%A7%E5%88%B6%E5%AE%9A-141100644.html",
-          "h5_url": "https://tw.news.yahoo.com/%E5%8D%8A%E5%B0%8E%E9%AB%94%E6%96%B0%E9%97%9C%E7%A8%85%E9%A3%86%E5%88%B0300-%E5%B7%9D%E6%99%AE%E8%A6%AA%E5%8F%A3%E9%A0%90%E5%91%8A%E7%A8%85%E7%8E%87-%E6%9C%80%E5%BF%AB%E5%85%A9%E9%80%B1%E5%85%A7%E5%88%B6%E5%AE%9A-141100644.html",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_yahoo",
-          "package": ""
-        },
-        {
-          "text": "明年國民所得 估首度達4萬美元",
-          "url": "https://tw.news.yahoo.com/%E6%98%8E%E5%B9%B4%E4%BA%BA%E5%9D%87gdp-%E4%B8%BB%E8%A8%88%E7%B8%BD%E8%99%95%E4%BC%B0%E9%A6%96%E5%BA%A6%E7%AA%81%E7%A0%B44%E8%90%AC%E7%BE%8E%E5%85%83-114433980.html",
-          "h5_url": "https://tw.news.yahoo.com/%E6%98%8E%E5%B9%B4%E4%BA%BA%E5%9D%87gdp-%E4%B8%BB%E8%A8%88%E7%B8%BD%E8%99%95%E4%BC%B0%E9%A6%96%E5%BA%A6%E7%AA%81%E7%A0%B44%E8%90%AC%E7%BE%8E%E5%85%83-114433980.html",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_yahoo",
-          "package": ""
-        },
-        {
-          "text": "史上第一人 台塑總裁「不姓王」",
-          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E5%A1%91%E9%9B%86%E5%9C%98%E5%87%BA%E7%8F%BE%E7%AC%AC-%E4%BD%8D%E9%9D%9E%E7%8E%8B%E5%A7%93%E7%B8%BD%E8%A3%81-%E7%8E%8B%E6%96%87%E6%B7%B5-%E4%BA%A4%E6%A3%92-%E7%B5%A6%E5%90%B3%E5%98%89%E6%98%AD-100352857.html",
-          "h5_url": "https://tw.news.yahoo.com/%E5%8F%B0%E5%A1%91%E9%9B%86%E5%9C%98%E5%87%BA%E7%8F%BE%E7%AC%AC-%E4%BD%8D%E9%9D%9E%E7%8E%8B%E5%A7%93%E7%B8%BD%E8%A3%81-%E7%8E%8B%E6%96%87%E6%B7%B5-%E4%BA%A4%E6%A3%92-%E7%B5%A6%E5%90%B3%E5%98%89%E6%98%AD-100352857.html",
           "appIconUrl": "",
           "sourceUniqueId": "content_yahoo",
           "package": ""
@@ -146,17 +146,17 @@
       "link_type": "app",
       "data": [
         {
-          "text": "重啟如「打開潘朵拉盒子」莊瑞雄：核三已貢獻40年 放了我的故鄉",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBXWXZWZjU5a0QyYmRGMkNXVG9hS0piN2Vvb253V2FCOXdNbDdtNEh5NWtJaERacDZQRWNHRFNYQk1SXy1JQmJ3SDlQQzlGdmZQQWdR0gFYQVVfeXFMTjRVSXJJQ3d1cDJsb0I4R2NWUWNqOXBXVlR1RXdSUWxCRGhOTjVNRkU0b1MyV1VOYU8ya3JYNUE1enl3czU0UmF4eDJOU3FOUlo2VlhJcHJEdA?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBXWXZWZjU5a0QyYmRGMkNXVG9hS0piN2Vvb253V2FCOXdNbDdtNEh5NWtJaERacDZQRWNHRFNYQk1SXy1JQmJ3SDlQQzlGdmZQQWdR0gFYQVVfeXFMTjRVSXJJQ3d1cDJsb0I4R2NWUWNqOXBXVlR1RXdSUWxCRGhOTjVNRkU0b1MyV1VOYU8ya3JYNUE1enl3czU0UmF4eDJOU3FOUlo2VlhJcHJEdA?oc=5",
+          "text": "川普蒲亭底氣強擅長談判烏克蘭和平命運待決",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01aU5zZkhiYnhTRFg0YktjWXdXUjNSRlYtRnBSRWZNdkZQQ2kzaldGd2prQzFFdnZzZ2pfcWU0Zk84aHVHcHJZVlU2YVZjTTVjeFNrVmpXWjMwV2h3U2dR?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01aU5zZkhiYnhTRFg0YktjWXdXUjNSRlYtRnBSRWZNdkZQQ2kzaldGd2prQzFFdnZzZ2pfcWU0Zk84aHVHcHJZVlU2YVZjTTVjeFNrVmpXWjMwV2h3U2dR?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "快訊／吳淑珍送醫一度命危！最新病況曝光　陳水扁急赴醫院",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE45SUgxY0thalZGVEdWd3VUNHZHdWE3WXBNQVNkUjBtVGtES29ncnhFMjN2bVBobnlHUWE1YjlJd3lEbUZwQ19iMnR1aWhZUGlneGRLcTNVc1d1dXh4Q1HSAWhBVV95cUxPSlBkQXQ1bFBOVlZEUVpJbm1rQldveHl4a1o4eEEyeDZTdldPSVJRcEE1VF9ia1RKYWlBbXI2UDZfZDlXd1dmX3paLXRjMTkzUUNUcjhMRFBCMHpSUzhTbnloU3BJcEVxQw?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE45SUgxY0thalZGVEdWd3VUNHZHdWE3WXBNQVNkUjBtVGtES29ncnhFMjN2bVBobnlHUWE1YjlJd3lEbUZwQ19iMnR1aWhZUGlneGRLcTNVc1d1dXh4Q1HSAWhBVV95cUxPSlBkQXQ1bFBOVlZEUVpJbm1rQldveHl4a1o4eEEyeDZTdldPSVJRcEE1VF9ia1RKYWlBbXI2UDZfZDlXd1dmX3paLXRjMTkzUUNUcjhMRFBCMHpSUzhTbnloU3BJcEVxQw?oc=5",
+          "text": "幕後／藍版「南方四賤客」爆紅 朱立倫跟創意年輕人說5個字",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ITXVKTktoa0RUTnFvLWVsUU9pbEsyRHM3eFBBY2Y0d2w1SXY2X3Zaci05U2xheUVtWEpjdU9IeEt2ZURPZnRTOFFRQXotZzItSEhZ0gFYQVVfeXFMTUx3dHlVUVV1Um1SWEc4OG5JZFo2aWhoS1pzT0xJUmdEa3VvMElvd1VqR2hJRGVCTVVFaVF6TTg5RjFia0hHakF2cExHYzQ3YVI2TjhEMEdubA?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ITXVKTktoa0RUTnFvLWVsUU9pbEsyRHM3eFBBY2Y0d2w1SXY2X3Zaci05U2xheUVtWEpjdU9IeEt2ZURPZnRTOFFRQXotZzItSEhZ0gFYQVVfeXFMTUx3dHlVUVV1Um1SWEc4OG5JZFo2aWhoS1pzT0xJUmdEa3VvMElvd1VqR2hJRGVCTVVFaVF6TTg5RjFia0hHakF2cExHYzQ3YVI2TjhEMEdubA?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -170,14 +170,6 @@
           "package": ""
         },
         {
-          "text": "獨家／柯文哲稱對京華城不知情也沒下指示　反遭6親筆指令打臉",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45LWdlSGc5SW5WamZfS1R0bk12YjNCR2NieXFPYjEtWDZMWG9PVml2THlhLURLb0IwazZjb01MRWlQcnJqUE82YjVBM0tYXzBiLU1PNGp1NGFHelHSAWBBVV95cUxPdjhPb1JmUnRGU25kZ29XU2drZ3Vrb0JIRTcyUkQtenlNYmM0dkttQUtYTnRGcWpYaHNDc3hPaXZLYUpyanJWWnJrcGo2T3RsVTU2WXB0dE9WQkVyQzZYUHE?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45LWdlSGc5SW5WamZfS1R0bk12YjNCR2NieXFPYjEtWDZMWG9PVml2THlhLURLb0IwazZjb01MRWlQcnJqUE82YjVBM0tYXzBiLU1PNGp1NGFHelHSAWBBVV95cUxPdjhPb1JmUnRGU25kZ29XU2drZ3Vrb0JIRTcyUkQtenlNYmM0dkttQUtYTnRGcWpYaHNDc3hPaXZLYUpyanJWWnJrcGo2T3RsVTU2WXB0dE9WQkVyQzZYUHE?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
           "text": "館長稱政府叫他不能去中共「九三閱兵」 陸委會：不用覺得自己很重要",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OUTJjZEtCd01xR1VBVm0tZmRudkcyTXhuN3hxYUtoemo0X3ZCbGNNb3ZGX29GaEktYVpEVmRFVl9ibUhlX29Wb1N5RzRSVlZCcFl5U3NPUEFoZFFjc0NLYVBpT2hOQnRmMXfSAW9BVV95cUxPS29rWkR5RE5JNElkRDlpWm42NTdnbkNtT1EwWTlRamZ6c05FR21VX2RoOG0yRUtmUF91WGZPNE5waUVEX1NJU2ZoRjk5LXFHS0N0azd0cDZZRGVQWUdZVndwZDFoSzY1bDZpQWE4ck0?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OUTJjZEtCd01xR1VBVm0tZmRudkcyTXhuN3hxYUtoemo0X3ZCbGNNb3ZGX29GaEktYVpEVmRFVl9ibUhlX29Wb1N5RzRSVlZCcFl5U3NPUEFoZFFjc0NLYVBpT2hOQnRmMXfSAW9BVV95cUxPS29rWkR5RE5JNElkRDlpWm42NTdnbkNtT1EwWTlRamZ6c05FR21VX2RoOG0yRUtmUF91WGZPNE5waUVEX1NJU2ZoRjk5LXFHS0N0azd0cDZZRGVQWUdZVndwZDFoSzY1bDZpQWE4ck0?oc=5",
@@ -186,9 +178,25 @@
           "package": ""
         },
         {
-          "text": "首個沒被擊敗的颱風　楊柳「飆速對決台灣」影像曝！神閃避最高山",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwNFNMR3A4NnY2dnpfVmRhaTQxSW5xaWZlQXZobGdvNF93eTlueXY2RjR1NnJOeGUzZXY2aTRaY2FkeVVuYkgxYTUzVElTaGxaT2V4eTlfRWtZdXZsWkHSAWhBVV95cUxQUnVmSmZ6WjNnUmVvbExfaW90bkx2X2NWTnBNa3JtVWR4SEFxR0tBRGZFTE1GR21NRXJmMjJ1T1hrT1BGcHFka09mZjBvNG04RlR6TTZqcjVJZGdheHMzZGVZVEFKcWJ1YQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwNFNMR3A4NnY2dnpfVmRhaTQxSW5xaWZlQXZobGdvNF93eTlueXY2RjR1NnJOeGUzZXY2aTRaY2FkeVVuYkgxYTUzVElTaGxaT2V4eTlfRWtZdXZsWkHSAWhBVV95cUxQUnVmSmZ6WjNnUmVvbExfaW90bkx2X2NWTnBNa3JtVWR4SEFxR0tBRGZFTE1GR21NRXJmMjJ1T1hrT1BGcHFka09mZjBvNG04RlR6TTZqcjVJZGdheHMzZGVZVEFKcWJ1YQ?oc=5",
+          "text": "反核變擁核真心話曝 黃國昌揭民進黨能源政策1慘況：沒時間了",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wdC1yanpiakMxZ19LOGdEVVg4QVRmVTFBbF9YbGV5X1Z5bzRqVDcxUmQ1OXh4Yl8yNXI1OERIaDRsSTgwM01raEhYeGpNVEtiVEdB?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wdC1yanpiakMxZ19LOGdEVVg4QVRmVTFBbF9YbGV5X1Z5bzRqVDcxUmQ1OXh4Yl8yNXI1OERIaDRsSTgwM01raEhYeGpNVEtiVEdB?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "普發一萬盼立法院盡速通過修正草案 卓榮泰︰行政院將用最快速度編特別預算",
+          "url": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxNajJsWi13eDBRVXJ5dTVDUS1ReTNwMGhtenVQYWU1dmZYOXRjQXlUek1RMXgycFRaWmJlMmhDZ0UwSXFJZ2Vodm12ZmxoOTROZmFBUmE0WldadVFQSlcyOUhZZnJKbXF3QmNUM29QbTlySGdXM0owWl9mMU0yRm5lYmpXbWFFeGc4TG5JUmU2bHQ4cW1KMzNUaXdMUHZBSEV6Z1pZamJLY21FTFJKNDhFbXFfbHdQcDZyMXBXRzlDZC11WWxHWkRiZDl2dERVXzNIMlNkSXk2S0ZJNUwwUG9QeHhfMlQ5WTJTM1lyWWtVLUd4aTZiNDZyVXpUNEJpdGJ6bVJvOElma3NhZWxfeHdkWC1sRU5xRlhhWUEwWmRudjRaOEFLbVRPYTVZaFpzM2d0djYwSW93R0pXVGVRNEgxanhYckYwdGE2aUkyTTBWTG95VVRUdEFqaTB1UTQ1ZURMUUdkTjhfTFBNQjRpYjBaSWtYYnlySjZtcnRtNGdxWXljM2FhN0x1ZlB6cWV4d2tlT3p3bjVhWU5ocWdReWkwVmNhTlN6alJFS2VIa19PeDdfdUpPZDJaSk9aLVRmNUNPbVVDZWhmc21oYjgtUmRZUE5nSk9VaUgtQlowQmE3eU1nSXp4djNYLXNUc3E?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxNajJsWi13eDBRVXJ5dTVDUS1ReTNwMGhtenVQYWU1dmZYOXRjQXlUek1RMXgycFRaWmJlMmhDZ0UwSXFJZ2Vodm12ZmxoOTROZmFBUmE0WldadVFQSlcyOUhZZnJKbXF3QmNUM29QbTlySGdXM0owWl9mMU0yRm5lYmpXbWFFeGc4TG5JUmU2bHQ4cW1KMzNUaXdMUHZBSEV6Z1pZamJLY21FTFJKNDhFbXFfbHdQcDZyMXBXRzlDZC11WWxHWkRiZDl2dERVXzNIMlNkSXk2S0ZJNUwwUG9QeHhfMlQ5WTJTM1lyWWtVLUd4aTZiNDZyVXpUNEJpdGJ6bVJvOElma3NhZWxfeHdkWC1sRU5xRlhhWUEwWmRudjRaOEFLbVRPYTVZaFpzM2d0djYwSW93R0pXVGVRNEgxanhYckYwdGE2aUkyTTBWTG95VVRUdEFqaTB1UTQ1ZURMUUdkTjhfTFBNQjRpYjBaSWtYYnlySjZtcnRtNGdxWXljM2FhN0x1ZlB6cWV4d2tlT3p3bjVhWU5ocWdReWkwVmNhTlN6alJFS2VIa19PeDdfdUpPZDJaSk9aLVRmNUNPbVVDZWhmc21oYjgtUmRZUE5nSk9VaUgtQlowQmE3eU1nSXp4djNYLXNUc3E?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "日本投降80周年…只提終戰不提抗戰 賴總統挨批媚日",
+          "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPdFhmRnhQVDZXcmVUT09LNWVZa25IMHhPZi1QdFd5LWUzcDktaWYwaktobmJwUnBGMVZudEhKZzdZcS1Ia0pCaFRaVHhMalhMYTUwTFJTMURSM2Q4YXVIaGVjU0FSd1YtQkNRc21WUXBBZ3lDZm1IMlRWcHFjbl9NRklUSERrbnI2aHVZbDI3ekNCLWZveGZIdDZPVEE5cDU4a2dIUF9hSUs0ekNfWVZ0eEZLTWZSY2VqZThweHgtZXFXMVFlTi1CcWhVU2haQ3A0RVVxcjFGVHdDcGg3TThjUThxY1lRc2RRVS1zOTgzWnFVbUJENFhELTlGRkltRjBFdTM5M05BUEkxVEV3ZV8tdXlJbEZHNUJqUUtDY1pfcG9aUzZEWk9vTXpYc0Jnai10TnVSV201eXBBYmJOUF9vZXZCNEhhOFBPMTZ1ei1rMUNmUGhD?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPdFhmRnhQVDZXcmVUT09LNWVZa25IMHhPZi1QdFd5LWUzcDktaWYwaktobmJwUnBGMVZudEhKZzdZcS1Ia0pCaFRaVHhMalhMYTUwTFJTMURSM2Q4YXVIaGVjU0FSd1YtQkNRc21WUXBBZ3lDZm1IMlRWcHFjbl9NRklUSERrbnI2aHVZbDI3ekNCLWZveGZIdDZPVEE5cDU4a2dIUF9hSUs0ekNfWVZ0eEZLTWZSY2VqZThweHgtZXFXMVFlTi1CcWhVU2haQ3A0RVVxcjFGVHdDcGg3TThjUThxY1lRc2RRVS1zOTgzWnFVbUJENFhELTlGRkltRjBFdTM5M05BUEkxVEV3ZV8tdXlJbEZHNUJqUUtDY1pfcG9aUzZEWk9vTXpYc0Jnai10TnVSV201eXBBYmJOUF9vZXZCNEhhOFBPMTZ1ei1rMUNmUGhD?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -202,65 +210,57 @@
           "package": ""
         },
         {
-          "text": "車手拍片炫耀詐騙300萬僅賠7千 劉世芳：已查緝到案",
-          "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQbjFDa0E5bmROS0VnVld2VmlPZEhEc0J5RkxkWHkwS0tzZDZjNnNGcloySGRYcW5NbHFGaThxQ3pUTW95aTNIY2E2ZkNDcWNMQXNIS2NhOWFSNXhDWDRBSWdtQ2hTcFZCSDd5N2N4TlY1WTdXT3RXVUNuUzFmX003cnJ0ZzhGRXlQSklMaWI5TTRCMHRfNHByMGVveW4zVWRzaGZmSHNJYnNjOUlGeXlaV0ZQQk1XeXc2bzd6cy02RWRxX0ZmZXBrcnh2Q3ZxQ3dVYmJfSDJsVGRNYnRKZVRNakg2cUlmS3JUZVJKUU51M1JCVmxSYkVqTUN5NndzeVl3VWZmUXg3U3Jwbnc3aENHY2RCOWV2SzYwZUNwZzd1NlJlSHVBc0wyelA1ZTNqQ0xQVnh5QlJRdGhlZkJJbUVKUmpGM1lCc3N2UjNF?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQbjFDa0E5bmROS0VnVld2VmlPZEhEc0J5RkxkWHkwS0tzZDZjNnNGcloySGRYcW5NbHFGaThxQ3pUTW95aTNIY2E2ZkNDcWNMQXNIS2NhOWFSNXhDWDRBSWdtQ2hTcFZCSDd5N2N4TlY1WTdXT3RXVUNuUzFmX003cnJ0ZzhGRXlQSklMaWI5TTRCMHRfNHByMGVveW4zVWRzaGZmSHNJYnNjOUlGeXlaV0ZQQk1XeXc2bzd6cy02RWRxX0ZmZXBrcnh2Q3ZxQ3dVYmJfSDJsVGRNYnRKZVRNakg2cUlmS3JUZVJKUU51M1JCVmxSYkVqTUN5NndzeVl3VWZmUXg3U3Jwbnc3aENHY2RCOWV2SzYwZUNwZzd1NlJlSHVBc0wyelA1ZTNqQ0xQVnh5QlJRdGhlZkJJbUVKUmpGM1lCc3N2UjNF?oc=5",
+          "text": "陳佩琪臉書揚言輕生 林延鳳爆：大批員警被緊急召回",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE50QjFldXhyU25tZUFQRDRmMnVvUXA0WGxYRHo0eVdxTzdlcGRIT2trUFBtLWZubjVpTVBrQmpqZWlZNFJucVRybFhIa2I0dDVGYkJSd19XVmhLZE5LbHcxcW9aaFROYUIwN0HSAW9BVV95cUxOV09OS1o5TGNHT3dwcDdUUUFOdURvTFpxR1o5Z3cwMG5qOFZQRmVXWE13X1AxYndRZ1RfRFpNdXNmQkEyNHpOZFRFelVaa1o2ODlWVEFRV3V5TnJIbXRCdnU1MmpBZl9Ea0FXakg2T28?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE50QjFldXhyU25tZUFQRDRmMnVvUXA0WGxYRHo0eVdxTzdlcGRIT2trUFBtLWZubjVpTVBrQmpqZWlZNFJucVRybFhIa2I0dDVGYkJSd19XVmhLZE5LbHcxcW9aaFROYUIwN0HSAW9BVV95cUxOV09OS1o5TGNHT3dwcDdUUUFOdURvTFpxR1o5Z3cwMG5qOFZQRmVXWE13X1AxYndRZ1RfRFpNdXNmQkEyNHpOZFRFelVaa1o2ODlWVEFRV3V5TnJIbXRCdnU1MmpBZl9Ea0FXakg2T28?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "南橫一家五口墜谷…李男意外險400萬「1理由」恐遭拒、微型保險也領不到",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE12eGlfM2hqc2g0RlJTV2F3dXhrdGl6cjdMM1NHOHFOOUk0aTRqR3REV0IySDVGV08yU0ttWkF5U2V6djhSY1dOSjhERkY0dTRR0gFWQVVfeXFMUC15QnpuSldTLS1rR1YxZS0zQ1ZleXNvSlM4S2ZXUmxNUmtiOWRCVl9sd0VXYmVlUGp4TEZkcmxHTjJOUl9CbnM2RTFfbFRjc2l6dkRoWHc?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE12eGlfM2hqc2g0RlJTV2F3dXhrdGl6cjdMM1NHOHFOOUk0aTRqR3REV0IySDVGV08yU0ttWkF5U2V6djhSY1dOSjhERkY0dTRR0gFWQVVfeXFMUC15QnpuSldTLS1rR1YxZS0zQ1ZleXNvSlM4S2ZXUmxNUmtiOWRCVl9sd0VXYmVlUGp4TEZkcmxHTjJOUl9CbnM2RTFfbFRjc2l6dkRoWHc?oc=5",
+          "text": "首個沒被擊敗的颱風　楊柳「飆速對決台灣」影像曝！神閃避最高山",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwNFNMR3A4NnY2dnpfVmRhaTQxSW5xaWZlQXZobGdvNF93eTlueXY2RjR1NnJOeGUzZXY2aTRaY2FkeVVuYkgxYTUzVElTaGxaT2V4eTlfRWtZdXZsWkHSAWhBVV95cUxQUnVmSmZ6WjNnUmVvbExfaW90bkx2X2NWTnBNa3JtVWR4SEFxR0tBRGZFTE1GR21NRXJmMjJ1T1hrT1BGcHFka09mZjBvNG04RlR6TTZqcjVJZGdheHMzZGVZVEFKcWJ1YQ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwNFNMR3A4NnY2dnpfVmRhaTQxSW5xaWZlQXZobGdvNF93eTlueXY2RjR1NnJOeGUzZXY2aTRaY2FkeVVuYkgxYTUzVElTaGxaT2V4eTlfRWtZdXZsWkHSAWhBVV95cUxQUnVmSmZ6WjNnUmVvbExfaW90bkx2X2NWTnBNa3JtVWR4SEFxR0tBRGZFTE1GR21NRXJmMjJ1T1hrT1BGcHFka09mZjBvNG04RlR6TTZqcjVJZGdheHMzZGVZVEFKcWJ1YQ?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "記憶才是歷史的安魂曲：高砂義勇隊與3枚「猛2689」兵牌80年的終戰歸鄉記",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOT1lxTUFCcWlKSTdIcEhyXzVTcTlXZmVLRnd5d3QzM2tfMElNQUhNNVFMb2psRVdEN25Bd2dEVF9hcW12VUJzVHR5WFVtNGlXNnE1bXI0UUt2eFg0SXdlb1B5Rnd3OUtyclp3cE1sdmw5bDR3STU5c293MjZGZU93Vi1Mb2huVFE?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOT1lxTUFCcWlKSTdIcEhyXzVTcTlXZmVLRnd5d3QzM2tfMElNQUhNNVFMb2psRVdEN25Bd2dEVF9hcW12VUJzVHR5WFVtNGlXNnE1bXI0UUt2eFg0SXdlb1B5Rnd3OUtyclp3cE1sdmw5bDR3STU5c293MjZGZU93Vi1Mb2huVFE?oc=5",
+          "text": "亞洲航空飛首爾班機竟降錯機場 乘客傻眼",
+          "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOcjdmd1VCdWtoOUR5YmpZSHBBbnVfYXdEeVhNZkh4MXZyZHFKN19uNDNZTEFUWXVVMUIzZXV6SzlPMko1SHhaOHkwanAzNnlHMGZ1LUtsYVJUMHBUVThfVkZhSEpkVXJBcDd4Z19GNWlMMGZpcDBBNTJkX1R4M0VOTDZsSkVzSm9kR0JvZ2VKNWlWSm1nQVRRSHZ6OEQtSDJzUUdYTlVtczFGRjdYLTNxR2tQSjdfcGw4Vk5ndWw0LTdveGdNOGs2WjBBNGZtVWlzOWpSYmxRXzU1MEszMm9jTTZocU5JSTJ0cDJyVzdoU1VCUWtXTE1MbUVucG5oY3hJT3JscVl3RWNIQjl3ZGpSejBqVjgxNjhJekt3T2JGZUJ6b1NmdTN3OTRIQVI?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOcjdmd1VCdWtoOUR5YmpZSHBBbnVfYXdEeVhNZkh4MXZyZHFKN19uNDNZTEFUWXVVMUIzZXV6SzlPMko1SHhaOHkwanAzNnlHMGZ1LUtsYVJUMHBUVThfVkZhSEpkVXJBcDd4Z19GNWlMMGZpcDBBNTJkX1R4M0VOTDZsSkVzSm9kR0JvZ2VKNWlWSm1nQVRRSHZ6OEQtSDJzUUdYTlVtczFGRjdYLTNxR2tQSjdfcGw4Vk5ndWw0LTdveGdNOGs2WjBBNGZtVWlzOWpSYmxRXzU1MEszMm9jTTZocU5JSTJ0cDJyVzdoU1VCUWtXTE1MbUVucG5oY3hJT3JscVl3RWNIQjl3ZGpSejBqVjgxNjhJekt3T2JGZUJ6b1NmdTN3OTRIQVI?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "川普、普亭抵阿拉斯加雙邊會聚焦俄烏停火| 美俄峰會聚焦| 全球",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4NlItZGtFX05YaThaZWRZbDJpZjFkVkFFZHprZWhVTjlucGwybTNWMTR4empKN0kwR0w0a2VjOF9VXy1oSUJHc1hYcEFpNzY4TnBr?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4NlItZGtFX05YaThaZWRZbDJpZjFkVkFFZHprZWhVTjlucGwybTNWMTR4empKN0kwR0w0a2VjOF9VXy1oSUJHc1hYcEFpNzY4TnBr?oc=5",
+          "text": "先禮後兵？美俄峰會在阿拉斯加登場 五角大廈評估重啟冷戰時期基地",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9qTWxaZ3pfVGlkUUQ2TXl3UGZCX252NVFqSGlFSnVrNmF3VUJqUm9XWDQ2cGdpaVBKUnQwU29SelRDNllCX3pyc1NyRDUxVDdG0gFWQVVfeXFMT1o5U2x4cUM1M0JLeVZTbkNaa1FkWGVZOWt0alhYeGRaTk9lZHEyMHZ4WElMNEVTUnFtNXN0N1YxdVpPTFppeVRmNFJQRmZldUhIVU1iOVE?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9qTWxaZ3pfVGlkUUQ2TXl3UGZCX252NVFqSGlFSnVrNmF3VUJqUm9XWDQ2cGdpaVBKUnQwU29SelRDNllCX3pyc1NyRDUxVDdG0gFWQVVfeXFMT1o5U2x4cUM1M0JLeVZTbkNaa1FkWGVZOWt0alhYeGRaTk9lZHEyMHZ4WElMNEVTUnFtNXN0N1YxdVpPTFppeVRmNFJQRmZldUhIVU1iOVE?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "日本政壇明日之星小泉進次郎 終戰日參拜靖國神社",
-          "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxOdlpxUUdFaWtoMlFERmRZR2lrWnFkTEx3bkR1emgzR1hZcUZUZFBELUVFV0Q0aWdEb1hlYnRYZjB3d0tYdUR0X0s3STY1OEVBWEtTdFB6VDZoRXkwMHBmLU5KVERRUFNTVUNQU3pERnU4bGx4YkR4UTVqX2JkcXhaczJaT1BJMEJxSGMzTFJwYUk5bUkxLU9WWmo1aVRTVXNvUnVpdnhSSG1XVHJQZ2NLb3QxODFSY2FpVl9xUlFaSFJBU1VlaGFoTTBhTVNOMV84dVJaMjNqcFZOTk5NMmFqSkI2WGVDQ1RMYTIxWnJUbXVCM2piaV9jaWozQU92Vkdla3NmWUlHWVFhckxQNU5UcENCYTRVRzZQbVppUElJYnlfU3d1SDFLb2lWeGEycUh0d3hPMmlYVEVLYmw4N3lMY2J1Q0JUNzNlOFNKRng5UTZyS21KMC1FRkFnWmc?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxOdlpxUUdFaWtoMlFERmRZR2lrWnFkTEx3bkR1emgzR1hZcUZUZFBELUVFV0Q0aWdEb1hlYnRYZjB3d0tYdUR0X0s3STY1OEVBWEtTdFB6VDZoRXkwMHBmLU5KVERRUFNTVUNQU3pERnU4bGx4YkR4UTVqX2JkcXhaczJaT1BJMEJxSGMzTFJwYUk5bUkxLU9WWmo1aVRTVXNvUnVpdnhSSG1XVHJQZ2NLb3QxODFSY2FpVl9xUlFaSFJBU1VlaGFoTTBhTVNOMV84dVJaMjNqcFZOTk5NMmFqSkI2WGVDQ1RMYTIxWnJUbXVCM2piaV9jaWozQU92Vkdla3NmWUlHWVFhckxQNU5UcENCYTRVRzZQbVppUElJYnlfU3d1SDFLb2lWeGEycUh0d3hPMmlYVEVLYmw4N3lMY2J1Q0JUNzNlOFNKRng5UTZyS21KMC1FRkFnWmc?oc=5",
+          "text": "「為什麼沒能阻止那場戰爭」石破茂有意發表戰後80年見解",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOX05oeHdPcUVyR3hDM3ZYVU5oV004UDRuX1kycFRPRTRtTFoxY2Z0ZmJmMFNjaEdXc1MwbkNwN3VDdVRxNHk4dGQxbi0wTzAzYkRzd1BxMU12TVg5dVdjTVpxa2FWZk5ocTUzNzUyRVllRFBGUmdUczY4REVMdUVsN2VfWVdOT0Q1TkZheEJxbzduNkU?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOX05oeHdPcUVyR3hDM3ZYVU5oV004UDRuX1kycFRPRTRtTFoxY2Z0ZmJmMFNjaEdXc1MwbkNwN3VDdVRxNHk4dGQxbi0wTzAzYkRzd1BxMU12TVg5dVdjTVpxa2FWZk5ocTUzNzUyRVllRFBGUmdUczY4REVMdUVsN2VfWVdOT0Q1TkZheEJxbzduNkU?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "華府進入緊急狀態 男子潛艇堡砸警遭重罪起訴",
-          "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPLXBIdVNuRUxwY2FLWEljNGFXNnNOTTgzRlNoNHgxUHNoN0l4OVI4R2hZY2k4U2ZGc1U2bGJScmFmdnUxdEZSUnVaTGFUT1NxTnN0Z2NtMV9PcmtENkc5Y0tZX1VWT1BTcmkzdGppWkV3WkRrcDliT0JBcE9FN0dyOUphQnlObHJ6VmcyLVEtVkc1R1FVLTRNaDR1bmRZNVZxdTRKclRVeW1sN3hVZmtRUUJwQWlZam9YYjN6aDlYVWxFVzNZZEUzNVR4V096bnRxQ0dSWU81OWZCdFk3eU1FWFQ1V1loSzNOZW5KMDhhcnlmOG5sTWI2NkQ4a1FsZ0NzUzVQT2RwaC1oYVRKTzdpcUNEOEotdEFkcTBVWXVEQ2FMU0FuMmxHLU4yV3NJQ2VTNzdJMVlUaXpEd1JQRkxzRFF4T3E?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPLXBIdVNuRUxwY2FLWEljNGFXNnNOTTgzRlNoNHgxUHNoN0l4OVI4R2hZY2k4U2ZGc1U2bGJScmFmdnUxdEZSUnVaTGFUT1NxTnN0Z2NtMV9PcmtENkc5Y0tZX1VWT1BTcmkzdGppWkV3WkRrcDliT0JBcE9FN0dyOUphQnlObHJ6VmcyLVEtVkc1R1FVLTRNaDR1bmRZNVZxdTRKclRVeW1sN3hVZmtRUUJwQWlZam9YYjN6aDlYVWxFVzNZZEUzNVR4V096bnRxQ0dSWU81OWZCdFk3eU1FWFQ1V1loSzNOZW5KMDhhcnlmOG5sTWI2NkQ4a1FsZ0NzUzVQT2RwaC1oYVRKTzdpcUNEOEotdEFkcTBVWXVEQ2FMU0FuMmxHLU4yV3NJQ2VTNzdJMVlUaXpEd1JQRkxzRFF4T3E?oc=5",
+          "text": "川普：即使習近平不高興仍將盡力救黎智英",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Qb0lGWlRxUk9TcTN0MjRQVGU3RzBvSWx6SDhicFBRa3RxSTRXT0piZmVLci1pcXFUOWFiOXI4U3BBVE85UncyYkNVYkdtSXdIRHlHYWZjSi1xOFBRZHNR?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Qb0lGWlRxUk9TcTN0MjRQVGU3RzBvSWx6SDhicFBRa3RxSTRXT0piZmVLci1pcXFUOWFiOXI4U3BBVE85UncyYkNVYkdtSXdIRHlHYWZjSi1xOFBRZHNR?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "船艏6海警畫面曝光！蠻橫夾擊菲船 中國2船艦反自撞「濺血霧」",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE11Nm1XYlRDZno0UkFTOGxIaml1VEgxc2VBRkJFdng3SUplb0RMdFFPTVNNSE9mazRTWDl5bFZmZFdpVXJITVFvaFNyVVVLdWd2ZDhlYjliSHBiYnV0aHZRWkZZLWhpQdIBa0FVX3lxTE5LT0MydE1HelVQbjNXUjQ3LVgtYmhHekxPZ3NWdWpqclNBaWNkWVVHMmM1NDJjODhOQW5DZnJzVXZiYjJPLWgwR2RVU3BQc0d4TXFwZFYxbUxDcWlWT29MUnNOQXpHeGJLUVZR?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE11Nm1XYlRDZno0UkFTOGxIaml1VEgxc2VBRkJFdng3SUplb0RMdFFPTVNNSE9mazRTWDl5bFZmZFdpVXJITVFvaFNyVVVLdWd2ZDhlYjliSHBiYnV0aHZRWkZZLWhpQdIBa0FVX3lxTE5LT0MydE1HelVQbjNXUjQ3LVgtYmhHekxPZ3NWdWpqclNBaWNkWVVHMmM1NDJjODhOQW5DZnJzVXZiYjJPLWgwR2RVU3BQc0d4TXFwZFYxbUxDcWlWT29MUnNOQXpHeGJLUVZR?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "兩周內會敲定！川普暗示半導體關稅最高300%",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Wc3lJZDlQVzF4YkxBTmloS3lPY3E0cjNMNmhORHdmaE9QWTd1QmJoQXh6ZEg0NTNaWU5fczlHdVkwUzA4Y0ItMk9hZ2NfTjA?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Wc3lJZDlQVzF4YkxBTmloS3lPY3E0cjNMNmhORHdmaE9QWTd1QmJoQXh6ZEg0NTNaWU5fczlHdVkwUzA4Y0ItMk9hZ2NfTjA?oc=5",
+          "text": "彭博：晶片法案資金變股權？川普政府考慮入股英特爾救急",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE43bHJaakVpaTU4NTBRTnRtelJXeXc2TW5qT1dMYTFjQWs5YW1YcGVndWE0eE0tQ2xXTjU0cEFxTW9HQTB5ZTR6Qzl2WGVCWlk?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE43bHJaakVpaTU4NTBRTnRtelJXeXc2TW5qT1dMYTFjQWs5YW1YcGVndWE0eE0tQ2xXTjU0cEFxTW9HQTB5ZTR6Qzl2WGVCWlk?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -273,6 +273,6 @@
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 40,
+  "cost": 12,
   "status": 0
 }
