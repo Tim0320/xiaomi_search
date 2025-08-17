@@ -15,6 +15,30 @@
       "link_type": "app",
       "data": [
         {
+          "text": "新生高架橋現裂縫 北市府回應",
+          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E5%8C%97%E6%96%B0%E7%94%9F%E9%AB%98%E6%9E%B6%E6%A9%8B%E9%A9%9A%E7%8F%BE%E8%A3%82%E7%B8%AB-%E5%8C%97%E5%B8%82%E5%BA%9C%EF%BC%9A%E7%A2%BA%E8%AA%8D%E7%82%BA%E4%BC%B8%E7%B8%AE%E7%B8%AB-%E9%9D%9E%E6%90%8D%E5%A3%9E-061759455.html",
+          "h5_url": "https://tw.news.yahoo.com/%E5%8F%B0%E5%8C%97%E6%96%B0%E7%94%9F%E9%AB%98%E6%9E%B6%E6%A9%8B%E9%A9%9A%E7%8F%BE%E8%A3%82%E7%B8%AB-%E5%8C%97%E5%B8%82%E5%BA%9C%EF%BC%9A%E7%A2%BA%E8%AA%8D%E7%82%BA%E4%BC%B8%E7%B8%AE%E7%B8%AB-%E9%9D%9E%E6%90%8D%E5%A3%9E-061759455.html",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_yahoo",
+          "package": ""
+        },
+        {
+          "text": "台灣想成AI樞紐 電力如「發燒巨獸」",
+          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E7%81%A3%E6%83%B3%E6%88%90%E7%82%BAai%E7%94%A2%E6%A5%AD%E9%8F%88%E6%A8%9E%E7%B4%90-%E4%BD%86%E9%9B%BB%E5%8A%9B%E5%A4%A0%E7%94%A8%E5%97%8E-092429471.html",
+          "h5_url": "https://tw.news.yahoo.com/%E5%8F%B0%E7%81%A3%E6%83%B3%E6%88%90%E7%82%BAai%E7%94%A2%E6%A5%AD%E9%8F%88%E6%A8%9E%E7%B4%90-%E4%BD%86%E9%9B%BB%E5%8A%9B%E5%A4%A0%E7%94%A8%E5%97%8E-092429471.html",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_yahoo",
+          "package": ""
+        },
+        {
+          "text": "軍公教是否加薪 兩版本出爐",
+          "url": "https://tw.news.yahoo.com/%E8%BB%8D%E5%85%AC%E6%95%99%E6%98%AF%E5%90%A6%E5%8A%A0%E8%96%AA2%E7%89%88%E6%9C%AC%E5%87%BA%E7%88%90-%E6%99%AE%E7%99%BC%E7%8F%BE%E9%87%91%E7%AD%893%E8%AE%8A%E6%95%B8-%E6%9C%AC%E5%91%A8%E9%80%81%E6%94%BF%E9%99%A2%E6%B1%BA%E5%AE%9A-052936918.html",
+          "h5_url": "https://tw.news.yahoo.com/%E8%BB%8D%E5%85%AC%E6%95%99%E6%98%AF%E5%90%A6%E5%8A%A0%E8%96%AA2%E7%89%88%E6%9C%AC%E5%87%BA%E7%88%90-%E6%99%AE%E7%99%BC%E7%8F%BE%E9%87%91%E7%AD%893%E8%AE%8A%E6%95%B8-%E6%9C%AC%E5%91%A8%E9%80%81%E6%94%BF%E9%99%A2%E6%B1%BA%E5%AE%9A-052936918.html",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_yahoo",
+          "package": ""
+        },
+        {
           "text": "少子化影響 未來40所大專恐退場",
           "url": "https://tw.news.yahoo.com/117%E5%AD%B8%E5%B9%B4%E8%99%8E%E5%B9%B4%E6%95%88%E6%87%89%E5%A4%A7%E4%B8%80%E7%94%9F%E4%BC%B0%E5%89%A9173%E8%90%AC%E4%BA%BA-%E6%95%99%E5%9C%98%EF%BC%9A40%E6%89%80%E5%A4%A7%E5%B0%88%E6%81%90%E9%80%80%E5%A0%B4-041042441.html",
           "h5_url": "https://tw.news.yahoo.com/117%E5%AD%B8%E5%B9%B4%E8%99%8E%E5%B9%B4%E6%95%88%E6%87%89%E5%A4%A7%E4%B8%80%E7%94%9F%E4%BC%B0%E5%89%A9173%E8%90%AC%E4%BA%BA-%E6%95%99%E5%9C%98%EF%BC%9A40%E6%89%80%E5%A4%A7%E5%B0%88%E6%81%90%E9%80%80%E5%A0%B4-041042441.html",
@@ -66,30 +90,6 @@
           "text": "五口之家墜谷傳理賠爭議 保險釋疑",
           "url": "https://tw.news.yahoo.com/%E5%8D%97%E6%A9%AB%E5%85%AC%E8%B7%AF%E5%A2%9C%E8%B0%B7%E7%94%B7%E5%AD%90%E6%95%91%E5%A6%BB%E5%B0%8F3%E5%BA%A6%E8%B7%B3%E5%9D%91%E5%BC%95%E7%88%86%E6%84%8F%E5%A4%96%E9%9A%AA%E7%90%86%E8%B3%A0%E7%88%AD%E8%AD%B0-%E4%BF%9D%E9%9A%AA%E9%87%8B%E7%96%91-%E6%AC%A1%E7%9C%8B-221330673.html",
           "h5_url": "https://tw.news.yahoo.com/%E5%8D%97%E6%A9%AB%E5%85%AC%E8%B7%AF%E5%A2%9C%E8%B0%B7%E7%94%B7%E5%AD%90%E6%95%91%E5%A6%BB%E5%B0%8F3%E5%BA%A6%E8%B7%B3%E5%9D%91%E5%BC%95%E7%88%86%E6%84%8F%E5%A4%96%E9%9A%AA%E7%90%86%E8%B3%A0%E7%88%AD%E8%AD%B0-%E4%BF%9D%E9%9A%AA%E9%87%8B%E7%96%91-%E6%AC%A1%E7%9C%8B-221330673.html",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_yahoo",
-          "package": ""
-        },
-        {
-          "text": "紫外線達危險級 8縣市高溫警戒",
-          "url": "https://tw.news.yahoo.com/8%E7%B8%A3%E5%B8%82%E4%BA%AE%E9%AB%98%E6%BA%AB%E7%87%88%E8%99%9F%E3%80%81%E9%9B%99%E5%8C%97%E9%A3%86376%E5%BA%A6-%E6%B0%A3%E8%B1%A1%E5%B0%88%E5%AE%B6%EF%BC%9A%E6%98%8E%E8%B5%B73%E5%A4%A9%E6%B0%B4%E6%B0%A3%E5%A2%9E%E5%A4%9A-%E5%8D%88%E5%BE%8C%E6%B3%A8%E6%84%8F%E5%BC%B7%E5%B0%8D%E6%B5%81-002735447.html",
-          "h5_url": "https://tw.news.yahoo.com/8%E7%B8%A3%E5%B8%82%E4%BA%AE%E9%AB%98%E6%BA%AB%E7%87%88%E8%99%9F%E3%80%81%E9%9B%99%E5%8C%97%E9%A3%86376%E5%BA%A6-%E6%B0%A3%E8%B1%A1%E5%B0%88%E5%AE%B6%EF%BC%9A%E6%98%8E%E8%B5%B73%E5%A4%A9%E6%B0%B4%E6%B0%A3%E5%A2%9E%E5%A4%9A-%E5%8D%88%E5%BE%8C%E6%B3%A8%E6%84%8F%E5%BC%B7%E5%B0%8D%E6%B5%81-002735447.html",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_yahoo",
-          "package": ""
-        },
-        {
-          "text": "教育部為學士後醫學系喬名額 大學不從",
-          "url": "https://tw.news.yahoo.com/%E6%95%99%E8%82%B2%E9%83%A8%E7%82%BA%E5%AD%B8%E5%A3%AB%E5%BE%8C%E9%86%AB%E5%AD%B8%E7%B3%BB%E5%96%AC%E5%90%8D%E9%A1%8D-%E5%A4%A7%E5%AD%B8%E4%B8%8D%E5%BE%9E-222948143.html",
-          "h5_url": "https://tw.news.yahoo.com/%E6%95%99%E8%82%B2%E9%83%A8%E7%82%BA%E5%AD%B8%E5%A3%AB%E5%BE%8C%E9%86%AB%E5%AD%B8%E7%B3%BB%E5%96%AC%E5%90%8D%E9%A1%8D-%E5%A4%A7%E5%AD%B8%E4%B8%8D%E5%BE%9E-222948143.html",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_yahoo",
-          "package": ""
-        },
-        {
-          "text": "川普曝任內「習保證不侵台」中方回應",
-          "url": "https://tw.news.yahoo.com/%E5%B7%9D%E6%99%AE%E6%9B%9D%E5%9C%A8%E4%BB%96%E4%BB%BB%E5%85%A7-%E7%BF%92%E8%BF%91%E5%B9%B3%E4%BF%9D%E8%AD%89%E4%B8%8D%E4%BE%B5%E5%8F%B0-%E5%A4%A7%E9%99%B8%E5%9B%9E%E6%87%89%E4%BA%86-222007272.html",
-          "h5_url": "https://tw.news.yahoo.com/%E5%B7%9D%E6%99%AE%E6%9B%9D%E5%9C%A8%E4%BB%96%E4%BB%BB%E5%85%A7-%E7%BF%92%E8%BF%91%E5%B9%B3%E4%BF%9D%E8%AD%89%E4%B8%8D%E4%BE%B5%E5%8F%B0-%E5%A4%A7%E9%99%B8%E5%9B%9E%E6%87%89%E4%BA%86-222007272.html",
           "appIconUrl": "",
           "sourceUniqueId": "content_yahoo",
           "package": ""
@@ -154,33 +154,33 @@
           "package": ""
         },
         {
-          "text": "眼睜睜看大人失去意識！山難2死8歲童倖存…登山嚮導：敬佩他冷靜勇敢",
-          "url": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxPOWc4OTh1M1VILUw3S0R0d0FoUlpPQno1bWxrVjE2THlTMzZtaWt4NVNzZ3V6Ykxzc1ZJWDJNUDZseEZ6X1d4Xy0yQ2xLXzRILXdiWDdhOFN3UkIzWUNkazRVcUluOXBJN3NyZDlJcndHT200enpMNEM4cXQtUkZpdDdfbXhyaDlfVS1uMnVOMWpWTlFJQUd5Z1c4Qk9idnhobkRpWkVhWlNZczlWVnBvdkxIekJRNmdZajlkVzhydXRuVk9ZSnNWdmdlUmRMRkl0Q2Z0V2ZEbVM1emJDS3cyOXc0MnZ5WUNmN2thSGoya2ZUeDgwX1J3YXBuUFlfUnowd2kwb196R2FLdURZNjJwNzVqLXYwU1NFQURUcDhHOGZWdVVrM20zckhaZ01QZ3FOaVhwTzFVNW5jZXRlOTN3YjBhUGlfemNuYktCSzZGcEVuU212NWVkamotUnBTSlZES3QxeFR4M2FYLWR1c2hxM2JlQ0E1UGxoNzlPMEE4b3hRVV9OZzd1MjM4UWZDRGRMNWNGc3RObFBOY1Bhc19FMVZjQWFaU013RlE?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxPOWc4OTh1M1VILUw3S0R0d0FoUlpPQno1bWxrVjE2THlTMzZtaWt4NVNzZ3V6Ykxzc1ZJWDJNUDZseEZ6X1d4Xy0yQ2xLXzRILXdiWDdhOFN3UkIzWUNkazRVcUluOXBJN3NyZDlJcndHT200enpMNEM4cXQtUkZpdDdfbXhyaDlfVS1uMnVOMWpWTlFJQUd5Z1c4Qk9idnhobkRpWkVhWlNZczlWVnBvdkxIekJRNmdZajlkVzhydXRuVk9ZSnNWdmdlUmRMRkl0Q2Z0V2ZEbVM1emJDS3cyOXc0MnZ5WUNmN2thSGoya2ZUeDgwX1J3YXBuUFlfUnowd2kwb196R2FLdURZNjJwNzVqLXYwU1NFQURUcDhHOGZWdVVrM20zckhaZ01QZ3FOaVhwTzFVNW5jZXRlOTN3YjBhUGlfemNuYktCSzZGcEVuU212NWVkamotUnBTSlZES3QxeFR4M2FYLWR1c2hxM2JlQ0E1UGxoNzlPMEE4b3hRVV9OZzd1MjM4UWZDRGRMNWNGc3RObFBOY1Bhc19FMVZjQWFaU013RlE?oc=5",
+          "text": "核電1度1元、風電6元 童子賢喊：不會持家就辭職",
+          "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOS2Q3cEt2dm4xYlVNN0JUemphVVRqeG5XcGp2aGVFdUw0c3RMbVhyc3o5clRGTm9sWU5zYlpsM0lRMzZCYVNHMGVyaFhROXN2QnFnSUFVZmJYRHZUTEVjZmljY1RPaXZBLW1uQnpuYVVBY2pELWE2aHRYZ3ZvS2hhaHVscXdpQzBPd212clc2ampQdnJmTVd2UFU5ako4b2JLTXY0Nlk0V1hVYzZ6cGJGYk03TE5idW95REZfcGtVb0hqTTlSM2ZFSFNnU3JpbFFIbWJ6M05LNzRJcS13NVBUcDFWZktwMjY5NHBneTRKbmhvMnpvaGExQjdraHA0RTRsR2puZEJHQlBiYWxzWlA5ZFduOF9fWERxb3pDemo1aG0yNU8teUJMa3hBUndsN3V6bFNrS3VEV0EwTm8?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOS2Q3cEt2dm4xYlVNN0JUemphVVRqeG5XcGp2aGVFdUw0c3RMbVhyc3o5clRGTm9sWU5zYlpsM0lRMzZCYVNHMGVyaFhROXN2QnFnSUFVZmJYRHZUTEVjZmljY1RPaXZBLW1uQnpuYVVBY2pELWE2aHRYZ3ZvS2hhaHVscXdpQzBPd212clc2ampQdnJmTVd2UFU5ako4b2JLTXY0Nlk0V1hVYzZ6cGJGYk03TE5idW95REZfcGtVb0hqTTlSM2ZFSFNnU3JpbFFIbWJ6M05LNzRJcS13NVBUcDFWZktwMjY5NHBneTRKbmhvMnpvaGExQjdraHA0RTRsR2puZEJHQlBiYWxzWlA5ZFduOF9fWERxb3pDemo1aG0yNU8teUJMa3hBUndsN3V6bFNrS3VEV0EwTm8?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "核三不重啟！20民團辦「為台灣祈福」屏東晚會：以多數決欺負屏東人不是民主",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MbktUWW1nYkVDdmg3N2QwN2pWYVlWZFc1WVBsS3p0eGZ0YTZmanlPUm1ES080dENJanVJNWZzT3R0SlhOaXc4SVg0MlNhMlF0X0lmWjBXVmkxQQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MbktUWW1nYkVDdmg3N2QwN2pWYVlWZFc1WVBsS3p0eGZ0YTZmanlPUm1ES080dENJanVJNWZzT3R0SlhOaXc4SVg0MlNhMlF0X0lmWjBXVmkxQQ?oc=5",
+          "text": "山難2死！70歲陳翁帶8歲童攀「南三段」 其實是近300岳資深嚮導",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ERkhEbG5RWDhlWXJWRV91U2h0LWV6VTBpT3VXZU1WcmRLcWpNcmpIZEFERElxaVVLUldxaDRuWmZEWFVmR08wd3ppaW5SRF9LOTlfU0dSQXBmUWtmSjlDaTVWOXV2TlIz0gFuQVVfeXFMTWRoWXdQSjY0eVplU3JoXzhVZmRYaTVpdkk0UHNQVVJzS2ZrZGY5Y0QxSnlCNXE0cHRQd0lyUjhxNUJZU0VDUV8zSXFselNsOE9vZGpINDdXcEIycmNrYVd0OFZFRDM4aEdGQzNVX2c?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ERkhEbG5RWDhlWXJWRV91U2h0LWV6VTBpT3VXZU1WcmRLcWpNcmpIZEFERElxaVVLUldxaDRuWmZEWFVmR08wd3ppaW5SRF9LOTlfU0dSQXBmUWtmSjlDaTVWOXV2TlIz0gFuQVVfeXFMTWRoWXdQSjY0eVplU3JoXzhVZmRYaTVpdkk0UHNQVVJzS2ZrZGY5Y0QxSnlCNXE0cHRQd0lyUjhxNUJZU0VDUV8zSXFselNsOE9vZGpINDdXcEIycmNrYVd0OFZFRDM4aEdGQzNVX2c?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "嘉義滯洪池堆滿光電廢棄物！彭啓明震怒：8／19前不改善再罰300萬",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBhRGdEa3VPcHNmN1p4OU83U0wzeXJpWHoyYkJXTmE3ZFNyU2VJZ0d0d0VWeGlzZmxoUURPS01MTm5qclhCdDNSXzNHYThaTHI3b0FwVmlYSVhLUnJ1eHfSAWhBVV95cUxPVm14WVlyakdfSURINVdRWEJrYmZ4R3hnS0owcXVWaTJQWjFsT1RORjNlbjdwRnpoQTBtQVROMVZEWG1XYl9hYzRQZTZFaGVsVzNUUzVQX0dGSWszUFA5TWNzcDFNR0FCWg?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBhRGdEa3VPcHNmN1p4OU83U0wzeXJpWHoyYkJXTmE3ZFNyU2VJZ0d0d0VWeGlzZmxoUURPS01MTm5qclhCdDNSXzNHYThaTHI3b0FwVmlYSVhLUnJ1eHfSAWhBVV95cUxPVm14WVlyakdfSURINVdRWEJrYmZ4R3hnS0owcXVWaTJQWjFsT1RORjNlbjdwRnpoQTBtQVROMVZEWG1XYl9hYzRQZTZFaGVsVzNUUzVQX0dGSWszUFA5TWNzcDFNR0FCWg?oc=5",
+          "text": "快訊／土城逆子砍媽媽再自殘　母親送醫搶命不治",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nU2hnVFQzN3E4TU1nWGFVSWlvYzVsOG9Td2NXbUZDcjlSb0U5bmhJWmxHMmlnYTkzQjdnbmxVNDdvNTBEMGpNcTBuMlZRMGFYbVMyY2tqMmpTOFJBdlHSAWhBVV95cUxPM2w5b3Vub09oRmRkZTQtRFlSdF8weTlUdE5vUWpmZ01uZW1nNFZTMXlFVWZNcFQ3YlNHeDdVOUlmVTRwelJOcC1vMW45ODF0YThTcVRUTDlMemVpZFZKREprXzRyU0JvTw?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nU2hnVFQzN3E4TU1nWGFVSWlvYzVsOG9Td2NXbUZDcjlSb0U5bmhJWmxHMmlnYTkzQjdnbmxVNDdvNTBEMGpNcTBuMlZRMGFYbVMyY2tqMmpTOFJBdlHSAWhBVV95cUxPM2w5b3Vub09oRmRkZTQtRFlSdF8weTlUdE5vUWpmZ01uZW1nNFZTMXlFVWZNcFQ3YlNHeDdVOUlmVTRwelJOcC1vMW45ODF0YThTcVRUTDlMemVpZFZKREprXzRyU0JvTw?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "憾！女子駕車北宜墜谷逃死劫 3天後農舍火警不治",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5LRU42X2JKSHdGbS1uandfX3lFQnRuT3NmbnNPSUFKZzZ0SUlrQlkyejZrMmlZZEw5WE5pQlQxMllHckk4aUtDM3Z2d0loR05QRndfUXNuMEp2TmJ1WmtLZkZOV3AySDc20gFuQVVfeXFMUHlVZS1VOFpFQWxNU25lU2wtTlpKbVpRWUZCUVFPSFUtQXpNc3NLR2RVV0tBMWJQU3J4NTlUQVQ3Tno1TWgzWUhOWjkxLXNUMHdQbEdQWFlJb1pHZjJ1U3JwMXQ4Z09WQzNyM3gyS1E?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5LRU42X2JKSHdGbS1uandfX3lFQnRuT3NmbnNPSUFKZzZ0SUlrQlkyejZrMmlZZEw5WE5pQlQxMllHckk4aUtDM3Z2d0loR05QRndfUXNuMEp2TmJ1WmtLZkZOV3AySDc20gFuQVVfeXFMUHlVZS1VOFpFQWxNU25lU2wtTlpKbVpRWUZCUVFPSFUtQXpNc3NLR2RVV0tBMWJQU3J4NTlUQVQ3Tno1TWgzWUhOWjkxLXNUMHdQbEdQWFlJb1pHZjJ1U3JwMXQ4Z09WQzNyM3gyS1E?oc=5",
+          "text": "光電垃圾「現地粉碎」環境部長當場看傻眼…限8/19前處理完畢",
+          "url": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxOVkgtdXFacTBodU10RFh2ZV92Q1Y0dS1vWlc0OXJfY1J6c2FTM2VjYXdpYmliRVVoTlpXbGpza0c2MG5VbXdRVENieU04RmtiZU1iZ2hlNlZVRS1ncThfZU55Q0RvczRVRHVHR2h5TnM3SUFUYjhydUx5Rlo2WVpoRkZ5NXBXQWNmamVqeFBxWUVRMUdYY21uNnhkNFBySEF0Y0tDd0VEU29Sb3h6RTFxNDdBQ1VpQjUxRXhadDlBVUgzR0JPa19KUHoxNER2YmktRW1mQVN2WW45bzI5N3Zkak9pRkJta1VrX2ZzNl9VQjFBejRyVElnRHh1aFpKT1FaWXJEMmNhQkp4ZXoxYllBVEplRnEzSG9ybE5VQlB2N3VpZGRpU2FUNS1uRHE0WE9SYjY2Yk0xYVZqRWNqMG81MDN1UzR3UUxCVTJIRUNYMzJOLUFweVl2cjVyeTVrWDhFZXN2SUJzNC1SQ3hLN2hJeQ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxOVkgtdXFacTBodU10RFh2ZV92Q1Y0dS1vWlc0OXJfY1J6c2FTM2VjYXdpYmliRVVoTlpXbGpza0c2MG5VbXdRVENieU04RmtiZU1iZ2hlNlZVRS1ncThfZU55Q0RvczRVRHVHR2h5TnM3SUFUYjhydUx5Rlo2WVpoRkZ5NXBXQWNmamVqeFBxWUVRMUdYY21uNnhkNFBySEF0Y0tDd0VEU29Sb3h6RTFxNDdBQ1VpQjUxRXhadDlBVUgzR0JPa19KUHoxNER2YmktRW1mQVN2WW45bzI5N3Zkak9pRkJta1VrX2ZzNl9VQjFBejRyVElnRHh1aFpKT1FaWXJEMmNhQkp4ZXoxYllBVEplRnEzSG9ybE5VQlB2N3VpZGRpU2FUNS1uRHE0WE9SYjY2Yk0xYVZqRWNqMG81MDN1UzR3UUxCVTJIRUNYMzJOLUFweVl2cjVyeTVrWDhFZXN2SUJzNC1SQ3hLN2hJeQ?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -194,33 +194,33 @@
           "package": ""
         },
         {
-          "text": "熱帶擾動最快今增為熱低壓 明起冷心低壓接近不排除下冰雹大雷雨",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9va3VKN3AzT2NWQ3lWNWlJYllIQkotaUFFMDhybzQ3ZWlqdE1BTEpDcmVpMU1PakptYzg4ek1uZkdQZlc3NjhjRllIeEZBVTEz0gFWQVVfeXFMUEdEc01ZdGliWllTWkJ5TWZOdHltRFJUZGtMbTJpTUZfeXdsUEhJOGNzVGM0em9obnlMOU05X1ZEdEhmLXVSdGtGYm5QWjkyNkNIVm02eEE?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9va3VKN3AzT2NWQ3lWNWlJYllIQkotaUFFMDhybzQ3ZWlqdE1BTEpDcmVpMU1PakptYzg4ek1uZkdQZlc3NjhjRllIeEZBVTEz0gFWQVVfeXFMUEdEc01ZdGliWllTWkJ5TWZOdHltRFJUZGtMbTJpTUZfeXdsUEhJOGNzVGM0em9obnlMOU05X1ZEdEhmLXVSdGtGYm5QWjkyNkNIVm02eEE?oc=5",
+          "text": "兩熱帶擾動恐發展 吳德榮：明起三天水氣增多",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBIOUY1b205eEVoV1JtckdzQTh2ZXRRbFMxM1YzQWRQYWNDcHJ5SkdtQmg4VXdSWDZUTFJYSXVqck93czVoaDU0NEYwcnE4eFJ60gFWQVVfeXFMUFJCdGQ5SnlXQXd0NTB1ZEZWUGxqd1A2RGwtT0tkUG1lbTM4ZUItVGlnWDk0N01rdzkwM0VIS3pFUjMxY3J6WmVjTDF4ZEdsMmxpZ2lQWGc?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBIOUY1b205eEVoV1JtckdzQTh2ZXRRbFMxM1YzQWRQYWNDcHJ5SkdtQmg4VXdSWDZUTFJYSXVqck93czVoaDU0NEYwcnE4eFJ60gFWQVVfeXFMUFJCdGQ5SnlXQXd0NTB1ZEZWUGxqd1A2RGwtT0tkUG1lbTM4ZUItVGlnWDk0N01rdzkwM0VIS3pFUjMxY3J6WmVjTDF4ZEdsMmxpZ2lQWGc?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "土城弒母命案…一家長期不合疑因曝光「孽子抱怨分家產不公」",
-          "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxQQnVvaHBZTzc4ZEJNbjJWcWRycjRIRDVtOXlIZkN3QWpTUEtFaDR2clB3TzQ2TUFUMUpJbURiaVJ0WV82Qy1nMkdVajRBUDlWbWVwWFNkU0dqUUNsV1MzVXdCekU4bVB0MGE3SGNpYWQxbWFKN1ZWMmdYTVpJTks1SXpMcmg2eE8xVTRHaDNKS0hHcFdiRlplU3FtS3dFQktiMnF4N09NX2hKSzBmOGRSYlFtdG9PUDhMaEhxamVhMHlVZnpSU2NlVjMtN2hEQ3lNLVNsRUdObzZWR3otV3BQeDE2QXFNZUt2NHhXdnNKX01iZXdRTkZIbUwwY1MybUxYZVd2Uy0yWFRuZXVZWElkc3lGeTktRExBMmtrRUpzbmFoZk1YRTAybnNVdnpEZHd0ZG92OGhwRkZRODJGZE5oRUdCck5PTmUydWJORlFoWFREMERKY2VZZFItLVF3dG5TT3AtTlhmNzlSd2dDZ1Jvd1RGTGI2QQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxQQnVvaHBZTzc4ZEJNbjJWcWRycjRIRDVtOXlIZkN3QWpTUEtFaDR2clB3TzQ2TUFUMUpJbURiaVJ0WV82Qy1nMkdVajRBUDlWbWVwWFNkU0dqUUNsV1MzVXdCekU4bVB0MGE3SGNpYWQxbWFKN1ZWMmdYTVpJTks1SXpMcmg2eE8xVTRHaDNKS0hHcFdiRlplU3FtS3dFQktiMnF4N09NX2hKSzBmOGRSYlFtdG9PUDhMaEhxamVhMHlVZnpSU2NlVjMtN2hEQ3lNLVNsRUdObzZWR3otV3BQeDE2QXFNZUt2NHhXdnNKX01iZXdRTkZIbUwwY1MybUxYZVd2Uy0yWFRuZXVZWElkc3lGeTktRExBMmtrRUpzbmFoZk1YRTAybnNVdnpEZHd0ZG92OGhwRkZRODJGZE5oRUdCck5PTmUydWJORlFoWFREMERKY2VZZFItLVF3dG5TT3AtTlhmNzlSd2dDZ1Jvd1RGTGI2QQ?oc=5",
+          "text": "等不到生日祝福！陳佩琪喊揹柯文哲骨灰：每天去堵賴清德夫妻",
+          "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxPTlJEV2hLc0txaTJyV3BObGlVQ05OdVl6dTRrR2hYYzFHWUJOWGxhZkhNNXJWSGJZS09MN1pQRVctTjdOcE1MV2RtU200WERLWWYtel81dEEtOXZxaHdfRGhQOVJubi1UanhBV2xPWTlCU1FDaE1BZ3VRMzVJLXZOLThnNjRrQlhxTGhpMkJnQWQ5U25aVWI1S2l2MkNRUFNuakpEQmUtLVZYanBvZlZ6TVl4NTk0VEpEaXBkZUpfSnJBLUJ1ZnFqMUF2OXJROXE1dWtPVVlfY09qaW5BVjdnRGozbDFEMHBJRVJSRkYteEtBY2RmblQyLTdENU16Y21NeWNVUU9xLUNiZ21Lb3VocGg2R3l2clE3Uk92YW1pbXlBU3pSVmFzQW01YWFlX0lkbllzREk5T3BEUzA4U3pqZDJMSF8wdVV2d1ZfdTU4QXBwNW16dVhZemxxU05DckprRGs0YW5nSGZ2azdBcDdjMFRONXJqR0JnNFdQMVFLRXRiSHRBMVFxY1Q3aVhvdw?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxPTlJEV2hLc0txaTJyV3BObGlVQ05OdVl6dTRrR2hYYzFHWUJOWGxhZkhNNXJWSGJZS09MN1pQRVctTjdOcE1MV2RtU200WERLWWYtel81dEEtOXZxaHdfRGhQOVJubi1UanhBV2xPWTlCU1FDaE1BZ3VRMzVJLXZOLThnNjRrQlhxTGhpMkJnQWQ5U25aVWI1S2l2MkNRUFNuakpEQmUtLVZYanBvZlZ6TVl4NTk0VEpEaXBkZUpfSnJBLUJ1ZnFqMUF2OXJROXE1dWtPVVlfY09qaW5BVjdnRGozbDFEMHBJRVJSRkYteEtBY2RmblQyLTdENU16Y21NeWNVUU9xLUNiZ21Lb3VocGg2R3l2clE3Uk92YW1pbXlBU3pSVmFzQW01YWFlX0lkbllzREk5T3BEUzA4U3pqZDJMSF8wdVV2d1ZfdTU4QXBwNW16dVhZemxxU05DckprRGs0YW5nSGZ2azdBcDdjMFRONXJqR0JnNFdQMVFLRXRiSHRBMVFxY1Q3aVhvdw?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "美前國安高層重砲示警 國民黨正削弱華府挺台根基",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tbnFDVXZJQVRkQUZjNlVScFViejQ2NmtjUG5sU3pyd3UtSGlxV2dZNGdYSzRyREhXR2hvazBfWXVQU1kxTERYNUpNQlplaGZxUjZxLXJIcDFFbXFsM0pBM3hadEZZd9IBa0FVX3lxTE5SRTRVS0ZHdk5ld2pNSm4zOUJwMjlkbzZibE1mMVJiVkN0OWZpMkF2SGJYbnA1cmxkM0lqbFdscmp6eUZOekNvNm1FOExMOWJPZFBsNUc5aVlMMGZwX243Q0EyRkFBLWxBaUln?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tbnFDVXZJQVRkQUZjNlVScFViejQ2NmtjUG5sU3pyd3UtSGlxV2dZNGdYSzRyREhXR2hvazBfWXVQU1kxTERYNUpNQlplaGZxUjZxLXJIcDFFbXFsM0pBM3hadEZZd9IBa0FVX3lxTE5SRTRVS0ZHdk5ld2pNSm4zOUJwMjlkbzZibE1mMVJiVkN0OWZpMkF2SGJYbnA1cmxkM0lqbFdscmp6eUZOekNvNm1FOExMOWJPZFBsNUc5aVlMMGZwX243Q0EyRkFBLWxBaUln?oc=5",
+          "text": "明年國防預算規模8000億元 達成賴總統GDP 3％承諾",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fckRxRE1nbEpxR2FXdGp2VWRNMElGblF4MlplQVNaQWY0aTNCNzZ3Y1F3V1lOUUx1MGVZekRkNXZ5b0llSVNDSUFIdWxWeUxuYVB1UU1vTTZMcTB2T29sV2tTX2J2ZG9kREHSAW9BVV95cUxOMU9kQVdsdWFRcERWQWxwTVNWWGlNVjJZUFBnaWJXWF9ab0dLZkRMLVNyTVAyNlh5S3ctYUN5M1E4RHVmcnlVaTlXVUpvenNjcmEydGVFbHdpLXJSNzRlY1FMTF9KRHJfWlJ0WnJBNE0?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fckRxRE1nbEpxR2FXdGp2VWRNMElGblF4MlplQVNaQWY0aTNCNzZ3Y1F3V1lOUUx1MGVZekRkNXZ5b0llSVNDSUFIdWxWeUxuYVB1UU1vTTZMcTB2T29sV2tTX2J2ZG9kREHSAW9BVV95cUxOMU9kQVdsdWFRcERWQWxwTVNWWGlNVjJZUFBnaWJXWF9ab0dLZkRMLVNyTVAyNlh5S3ctYUN5M1E4RHVmcnlVaTlXVUpvenNjcmEydGVFbHdpLXJSNzRlY1FMTF9KRHJfWlJ0WnJBNE0?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "國民黨版「南方四賤客」炸裂！綠控影射賴清德 藍酸：此地無銀三百兩",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9PNE01djU1VG9kTEFHdlN6OWpQai1lQi13OGFkcTBjeHRmOEZGR0dVR2lZeTQ1YkFfVHZ1dUlySFowSjBqWUJGd2ZTQXhPSldl0gFWQVVfeXFMTi1hX3lfN3JBbkJrZDczUmxfM3d4UldYQTU4WHlnZ3hzR0pVeGJLdFlPTFNaY3B1dms2YXk2UE4zX01OR2xqN1pXekVpVlpRelNxTFB5Y2c?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9PNE01djU1VG9kTEFHdlN6OWpQai1lQi13OGFkcTBjeHRmOEZGR0dVR2lZeTQ1YkFfVHZ1dUlySFowSjBqWUJGd2ZTQXhPSldl0gFWQVVfeXFMTi1hX3lfN3JBbkJrZDczUmxfM3d4UldYQTU4WHlnZ3hzR0pVeGJLdFlPTFNaY3B1dms2YXk2UE4zX01OR2xqN1pXekVpVlpRelNxTFB5Y2c?oc=5",
+          "text": "江啟臣豐原山城團結大會五子登科 禿子、燕子、漢子、扇子合體挺大鼻子",
+          "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxOa19Jckk5Mi1FQTdsQUlfVWZKT1ZmSGlKZVY1bUhkRkNWQ3B5Z2k1c0g5QTVBYnRYMFZjSG54Rk9OYXV1d2Y0bGM4UmFDTjdxbl9HMkxTUGtsLVROVnZPMlN4NGNQOXZGTndTS1Fua1ZFWWUxSHhpOXpYOTZMN1VlZjhqeG9SQlJUZEhseU1hM0F6YnBXWktxV0ZrSmI0NGJRRlZaY0JKMXRWenEyZ2ZOX1VNVEJqWkJaRUVVN2xaSGhxUENkSWpIWGhZVjFjN2h1MGFxaDhjczE2dzdKYWJnRnJsMm9FMjhDVDM4SXBkNmdlODF1M2Z0TzlySTVUS3h0WGhFVGEycWUyQkVqTFFQSWcwWjJ5S25GWWk3azBmampYMHlqeDNjS3lPZWpHVUozOElxb0JIV1BtTjc0SFJiUkg0cHFjcVVDX0xVQ2JEbkdSa29SS1Y1X3JGR09Sa21mTlN6X3pTVXpZQkNDTXcwNk5sMmdIaVZYUnVTSmRaSGRhRDhMeG4tcmhoTDVic3RDYVZYMjZZZ3RxR01DSUdMRGJROEM0a1BBRWdMTEFJVDhVUjlj?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMitANBVV95cUxOa19Jckk5Mi1FQTdsQUlfVWZKT1ZmSGlKZVY1bUhkRkNWQ3B5Z2k1c0g5QTVBYnRYMFZjSG54Rk9OYXV1d2Y0bGM4UmFDTjdxbl9HMkxTUGtsLVROVnZPMlN4NGNQOXZGTndTS1Fua1ZFWWUxSHhpOXpYOTZMN1VlZjhqeG9SQlJUZEhseU1hM0F6YnBXWktxV0ZrSmI0NGJRRlZaY0JKMXRWenEyZ2ZOX1VNVEJqWkJaRUVVN2xaSGhxUENkSWpIWGhZVjFjN2h1MGFxaDhjczE2dzdKYWJnRnJsMm9FMjhDVDM4SXBkNmdlODF1M2Z0TzlySTVUS3h0WGhFVGEycWUyQkVqTFFQSWcwWjJ5S25GWWk3azBmampYMHlqeDNjS3lPZWpHVUozOElxb0JIV1BtTjc0SFJiUkg0cHFjcVVDX0xVQ2JEbkdSa29SS1Y1X3JGR09Sa21mTlN6X3pTVXpZQkNDTXcwNk5sMmdIaVZYUnVTSmRaSGRhRDhMeG4tcmhoTDVic3RDYVZYMjZZZ3RxR01DSUdMRGJROEM0a1BBRWdMTEFJVDhVUjlj?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -234,17 +234,17 @@
           "package": ""
         },
         {
-          "text": "為何美中突然一團和氣？美專家指3原因 警告北京「好運到頭」下場",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9IMzJGNUNLRFJsS0ZXak9FcUZ3dVFpVk1KTmpPTTR0ZkNzVEpQcGp1TEVvdGk5YWRkdmNSRUx1ODVQNFdaOTBmUlZYbFFmNl9B0gFWQVVfeXFMTUpZU0pnQ2Faa0NLR2NILTRsVEMzdHQ4ZzBXUmF5WG9QWUthWjlia3pFQWtsU2V1bG9EVVI5WWhSSkdDb0dETTJvQ3VCam9qWFRzanM5bnc?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9IMzJGNUNLRFJsS0ZXak9FcUZ3dVFpVk1KTmpPTTR0ZkNzVEpQcGp1TEVvdGk5YWRkdmNSRUx1ODVQNFdaOTBmUlZYbFFmNl9B0gFWQVVfeXFMTUpZU0pnQ2Faa0NLR2NILTRsVEMzdHQ4ZzBXUmF5WG9QWUthWjlia3pFQWtsU2V1bG9EVVI5WWhSSkdDb0dETTJvQ3VCam9qWFRzanM5bnc?oc=5",
+          "text": "87歲國寶畫家「爺孫戀」翻車 36歲嫩妻疑劈腿多男！掏空84億書畫作品",
+          "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxPYnZXNzFMSGFKRXN6UXd6SHIwUXlQMjZzdkROYWFDaDB3WDg1c0p5eGs3UkJwdWhYLWtEVzAzbm5ENkMzZnBYOWkxU2hGX0NqaUZQVlJFSlgtU1NrV3RJZVJKTDJOWXVBeDJTcnNBeVJkU195UGJzLVBoNVhPYld1RmFrbVBDMmZ0MmZZQW0xOUcwX3AtSnBjVzlDTm5JTnVXT01FN0lJbWxkSkU1dW1PcEJ5cXFlSDJ1MzlzcWpMdmZJV3hUMlFjem5YWktaSklDVTZCamFORjg2Zk5ZMDVkSEhZTFhvVVUyUlZIVGQ3MVlzM2RrV2lzZDFCTXEtR1A5UU9hZlFXVDdob1hDbFpKSGlsM2lGZ2o4ei1vNVFaY21YVWw0cFBfNFEyZlNVNnpJc01JdWZjVm5hV1JUdGlEUkFISXB3ckNVdDR2LVRSOG1pSTVJbmk3al9lM1JLZlhKQzZ6OHlDZGplNkRwQ2FKcEtYME1pRksyTWtPYzVFMHhTLUFaYzhZdWhKOVM?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMijANBVV95cUxPYnZXNzFMSGFKRXN6UXd6SHIwUXlQMjZzdkROYWFDaDB3WDg1c0p5eGs3UkJwdWhYLWtEVzAzbm5ENkMzZnBYOWkxU2hGX0NqaUZQVlJFSlgtU1NrV3RJZVJKTDJOWXVBeDJTcnNBeVJkU195UGJzLVBoNVhPYld1RmFrbVBDMmZ0MmZZQW0xOUcwX3AtSnBjVzlDTm5JTnVXT01FN0lJbWxkSkU1dW1PcEJ5cXFlSDJ1MzlzcWpMdmZJV3hUMlFjem5YWktaSklDVTZCamFORjg2Zk5ZMDVkSEhZTFhvVVUyUlZIVGQ3MVlzM2RrV2lzZDFCTXEtR1A5UU9hZlFXVDdob1hDbFpKSGlsM2lGZ2o4ei1vNVFaY21YVWw0cFBfNFEyZlNVNnpJc01JdWZjVm5hV1JUdGlEUkFISXB3ckNVdDR2LVRSOG1pSTVJbmk3al9lM1JLZlhKQzZ6OHlDZGplNkRwQ2FKcEtYME1pRksyTWtPYzVFMHhTLUFaYzhZdWhKOVM?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "美國務院宣布 停止核發加薩居民停留簽證",
-          "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPYmtnVDFzYXJPUmRDdlBRcHEwX0pwdUEtN0RFcWRBQnZRMDJYdUJlWjJiMi1NajNFb20xTnl0NWtiSy1ZUDhWaWw1eXRDdUVkZlN2bEVEYkNKSi1BMlN5dGZJdFRZYlMxTC1uWjRjZExxU0QzU1lWOUx6VHN0eTZySzdmVHRlMnlrWXJWcEx0YkZTZV9GSEJ1RElmd0FWUzdTbk92MldZNWwtVkxwTm9WRjI2RTF5eXgtcFVwenRzd3hza0lEMUZPSklQbUJ5bFY2RjRSNFRMcWh6bVNlbVdsOFFfNGF6aTg5cWQ5LS1wc3B2LTlyRWJWeG8wMHVkbnNQNVg5cGdvSWczLVZYNk9sNmkwNWREMWh3c3Fvank2VEhHZkRmM20yMEc4Wk8?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPYmtnVDFzYXJPUmRDdlBRcHEwX0pwdUEtN0RFcWRBQnZRMDJYdUJlWjJiMi1NajNFb20xTnl0NWtiSy1ZUDhWaWw1eXRDdUVkZlN2bEVEYkNKSi1BMlN5dGZJdFRZYlMxTC1uWjRjZExxU0QzU1lWOUx6VHN0eTZySzdmVHRlMnlrWXJWcEx0YkZTZV9GSEJ1RElmd0FWUzdTbk92MldZNWwtVkxwTm9WRjI2RTF5eXgtcFVwenRzd3hza0lEMUZPSklQbUJ5bFY2RjRSNFRMcWh6bVNlbVdsOFFfNGF6aTg5cWQ5LS1wc3B2LTlyRWJWeG8wMHVkbnNQNVg5cGdvSWczLVZYNk9sNmkwNWREMWh3c3Fvank2VEhHZkRmM20yMEc4Wk8?oc=5",
+          "text": "超過400死！巴基斯坦遭豪雨猛襲釀恐怖山洪",
+          "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNVUM2UUR1SW4zTU5qTkdsU3RTeDQxTGlURXBRMWU5ZzM0RkM3UmdKVTBlUjR0M1VNZHJieHQ4OW5EWVk0QktSYzFNNzRhOUQtd0VYZE9yRmlTTTA4b1JRTkFXNUc1eVM5c21CS1VBckZTWnZzNXBWc1JOd2F4UjRGaHBLQW56Wjk5a25BOEVvWFNmMkF4eEdFaFRGaXBZaG9rVElFM1dWSWtLUTBEalBLWjhhbXpNVUFVQWduQWN2YkJnSHRmZW1mM051ZGdDZkdMSFV2NE1nR08xNExGWUhXSEZ0UlRWZFpqbkkxNWU1cVlsbnZSSmszcHcyTVQxcU1YUGNhUmNVaTJPWVpuUE5rVjZZTjNXQk5oZFZ5Mzk0ZndaQm0y?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNVUM2UUR1SW4zTU5qTkdsU3RTeDQxTGlURXBRMWU5ZzM0RkM3UmdKVTBlUjR0M1VNZHJieHQ4OW5EWVk0QktSYzFNNzRhOUQtd0VYZE9yRmlTTTA4b1JRTkFXNUc1eVM5c21CS1VBckZTWnZzNXBWc1JOd2F4UjRGaHBLQW56Wjk5a25BOEVvWFNmMkF4eEdFaFRGaXBZaG9rVElFM1dWSWtLUTBEalBLWjhhbXpNVUFVQWduQWN2YkJnSHRmZW1mM051ZGdDZkdMSFV2NE1nR08xNExGWUhXSEZ0UlRWZFpqbkkxNWU1cVlsbnZSSmszcHcyTVQxcU1YUGNhUmNVaTJPWVpuUE5rVjZZTjNXQk5oZFZ5Mzk0ZndaQm0y?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -273,6 +273,6 @@
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 50,
+  "cost": 35,
   "status": 0
 }
