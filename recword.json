@@ -15,14 +15,6 @@
       "link_type": "app",
       "data": [
         {
-          "text": "月薪10萬涉貪解職 超商打工被認出",
-          "url": "https://tw.news.yahoo.com/%E6%9C%88%E8%96%AA10%E8%90%AC%E6%B6%89%E8%B2%AA%E8%A7%A3%E8%81%B7%E8%B6%85%E5%95%86%E6%89%93%E5%B7%A5%E8%A2%AB%E8%AA%8D%E5%87%BA-%E5%89%8D%E6%94%BF%E9%99%A2%E5%8D%97%E6%9C%8D%E5%89%AF%E5%9F%B7%E8%A1%8C%E9%95%B7-%E6%98%AF%E6%88%91-095822671.html",
-          "h5_url": "https://tw.news.yahoo.com/%E6%9C%88%E8%96%AA10%E8%90%AC%E6%B6%89%E8%B2%AA%E8%A7%A3%E8%81%B7%E8%B6%85%E5%95%86%E6%89%93%E5%B7%A5%E8%A2%AB%E8%AA%8D%E5%87%BA-%E5%89%8D%E6%94%BF%E9%99%A2%E5%8D%97%E6%9C%8D%E5%89%AF%E5%9F%B7%E8%A1%8C%E9%95%B7-%E6%98%AF%E6%88%91-095822671.html",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_yahoo",
-          "package": ""
-        },
-        {
           "text": "颱風玲玲生成在即 防午後暴雨襲",
           "url": "https://tw.news.yahoo.com/%E6%98%8E%E5%A4%A9%E5%A4%A9%E6%B0%A3%E9%AB%98%E6%BA%AB%E7%82%8E%E7%86%B1-%E8%A5%BF%E5%8D%8A%E9%83%A8%E7%95%99%E6%84%8F%E5%8D%88%E5%BE%8C%E9%9B%B7%E9%9B%A8-%E9%A2%B1%E9%A2%A8%E7%8E%B2%E7%8E%B2%E6%9C%80%E5%BF%AB%E4%BB%8A%E6%99%9A%E7%94%9F%E6%88%90-113033553.html",
           "h5_url": "https://tw.news.yahoo.com/%E6%98%8E%E5%A4%A9%E5%A4%A9%E6%B0%A3%E9%AB%98%E6%BA%AB%E7%82%8E%E7%86%B1-%E8%A5%BF%E5%8D%8A%E9%83%A8%E7%95%99%E6%84%8F%E5%8D%88%E5%BE%8C%E9%9B%B7%E9%9B%A8-%E9%A2%B1%E9%A2%A8%E7%8E%B2%E7%8E%B2%E6%9C%80%E5%BF%AB%E4%BB%8A%E6%99%9A%E7%94%9F%E6%88%90-113033553.html",
@@ -31,9 +23,33 @@
           "package": ""
         },
         {
+          "text": "侯漢廷爆郭智輝設宴 經部：已提告",
+          "url": "https://tw.news.yahoo.com/%E9%83%AD%E6%99%BA%E8%BC%9D%E9%81%AD%E4%BE%AF%E6%BC%A2%E5%BB%B7%E7%88%86%E9%97%9C%E7%A8%85%E5%85%AC%E5%B8%83%E7%95%B6%E5%A4%A9%E8%A8%AD%E5%AE%B4-%E7%B6%93%E6%BF%9F%E9%83%A8%EF%BC%9A%E5%B7%B2%E5%A7%94%E7%94%B1%E5%BE%8B%E5%B8%AB%E6%8F%90%E5%91%8A-130627796.html",
+          "h5_url": "https://tw.news.yahoo.com/%E9%83%AD%E6%99%BA%E8%BC%9D%E9%81%AD%E4%BE%AF%E6%BC%A2%E5%BB%B7%E7%88%86%E9%97%9C%E7%A8%85%E5%85%AC%E5%B8%83%E7%95%B6%E5%A4%A9%E8%A8%AD%E5%AE%B4-%E7%B6%93%E6%BF%9F%E9%83%A8%EF%BC%9A%E5%B7%B2%E5%A7%94%E7%94%B1%E5%BE%8B%E5%B8%AB%E6%8F%90%E5%91%8A-130627796.html",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_yahoo",
+          "package": ""
+        },
+        {
+          "text": "月薪10萬涉貪解職 超商打工被認出",
+          "url": "https://tw.news.yahoo.com/%E6%9C%88%E8%96%AA10%E8%90%AC%E6%B6%89%E8%B2%AA%E8%A7%A3%E8%81%B7%E8%B6%85%E5%95%86%E6%89%93%E5%B7%A5%E8%A2%AB%E8%AA%8D%E5%87%BA-%E5%89%8D%E6%94%BF%E9%99%A2%E5%8D%97%E6%9C%8D%E5%89%AF%E5%9F%B7%E8%A1%8C%E9%95%B7-%E6%98%AF%E6%88%91-095822671.html",
+          "h5_url": "https://tw.news.yahoo.com/%E6%9C%88%E8%96%AA10%E8%90%AC%E6%B6%89%E8%B2%AA%E8%A7%A3%E8%81%B7%E8%B6%85%E5%95%86%E6%89%93%E5%B7%A5%E8%A2%AB%E8%AA%8D%E5%87%BA-%E5%89%8D%E6%94%BF%E9%99%A2%E5%8D%97%E6%9C%8D%E5%89%AF%E5%9F%B7%E8%A1%8C%E9%95%B7-%E6%98%AF%E6%88%91-095822671.html",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_yahoo",
+          "package": ""
+        },
+        {
           "text": "美專家：習最大的焦慮不是政變",
           "url": "https://tw.news.yahoo.com/%E7%BF%92%E8%BF%91%E5%B9%B3%E6%95%B4%E8%82%85%E8%BB%8D%E6%96%B9%E4%B8%A6%E9%9D%9E%E5%85%B5%E6%AC%8A%E9%AC%86%E5%8B%95-%E7%BE%8E%E5%B0%88%E5%AE%B6-%E4%BB%96%E6%9C%80%E5%A4%A7%E7%9A%84%E7%84%A6%E6%85%AE%E4%B8%8D%E6%98%AF%E6%94%BF%E8%AE%8A-072037768.html",
           "h5_url": "https://tw.news.yahoo.com/%E7%BF%92%E8%BF%91%E5%B9%B3%E6%95%B4%E8%82%85%E8%BB%8D%E6%96%B9%E4%B8%A6%E9%9D%9E%E5%85%B5%E6%AC%8A%E9%AC%86%E5%8B%95-%E7%BE%8E%E5%B0%88%E5%AE%B6-%E4%BB%96%E6%9C%80%E5%A4%A7%E7%9A%84%E7%84%A6%E6%85%AE%E4%B8%8D%E6%98%AF%E6%94%BF%E8%AE%8A-072037768.html",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_yahoo",
+          "package": ""
+        },
+        {
+          "text": "網歎「45歲都不知」求救專線一覽",
+          "url": "https://tw.news.yahoo.com/%E5%8D%97%E4%B8%89%E6%AE%B5-%E5%B1%B1%E9%9B%A38%E6%AD%B2%E7%AB%A5%E6%89%93112%E7%8D%B2%E6%95%91-%E5%A5%B9%E5%98%86-%E6%B4%BB%E4%BA%8645%E6%AD%B2%E9%83%BD%E4%B8%8D%E7%9F%A5-%E5%8F%B0%E7%81%A3%E5%B8%B8%E7%94%A8%E5%B0%88%E7%B7%9A-032100656.html",
+          "h5_url": "https://tw.news.yahoo.com/%E5%8D%97%E4%B8%89%E6%AE%B5-%E5%B1%B1%E9%9B%A38%E6%AD%B2%E7%AB%A5%E6%89%93112%E7%8D%B2%E6%95%91-%E5%A5%B9%E5%98%86-%E6%B4%BB%E4%BA%8645%E6%AD%B2%E9%83%BD%E4%B8%8D%E7%9F%A5-%E5%8F%B0%E7%81%A3%E5%B8%B8%E7%94%A8%E5%B0%88%E7%B7%9A-032100656.html",
           "appIconUrl": "",
           "sourceUniqueId": "content_yahoo",
           "package": ""
@@ -66,22 +82,6 @@
           "text": "羅一鈞怒告：痛恨特權人士喬病床",
           "url": "https://tw.news.yahoo.com/%E7%BE%85-%E9%88%9E%E6%8F%90%E5%91%8A%E4%BA%86-%E5%97%86-%E7%97%9B%E6%81%A8%E7%89%B9%E6%AC%8A%E4%BA%BA%E5%A3%AB%E5%96%AC%E7%97%85%E5%BA%8A%E8%A1%8C%E7%82%BA-082250165.html",
           "h5_url": "https://tw.news.yahoo.com/%E7%BE%85-%E9%88%9E%E6%8F%90%E5%91%8A%E4%BA%86-%E5%97%86-%E7%97%9B%E6%81%A8%E7%89%B9%E6%AC%8A%E4%BA%BA%E5%A3%AB%E5%96%AC%E7%97%85%E5%BA%8A%E8%A1%8C%E7%82%BA-082250165.html",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_yahoo",
-          "package": ""
-        },
-        {
-          "text": "吳淑珍又昏倒 陳致中：時刻在擔心",
-          "url": "https://tw.news.yahoo.com/%E5%90%B3%E6%B7%91%E7%8F%8D%E5%87%BA%E9%99%A2%E5%90%831%E7%89%A9%E5%8F%88%E6%98%8F%E5%80%92-%E9%99%B3%E8%87%B4%E4%B8%AD%E5%BF%83%E7%96%BC-%E6%99%82%E5%88%BB%E5%9C%A8%E6%93%94%E5%BF%83-100849106.html",
-          "h5_url": "https://tw.news.yahoo.com/%E5%90%B3%E6%B7%91%E7%8F%8D%E5%87%BA%E9%99%A2%E5%90%831%E7%89%A9%E5%8F%88%E6%98%8F%E5%80%92-%E9%99%B3%E8%87%B4%E4%B8%AD%E5%BF%83%E7%96%BC-%E6%99%82%E5%88%BB%E5%9C%A8%E6%93%94%E5%BF%83-100849106.html",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_yahoo",
-          "package": ""
-        },
-        {
-          "text": "遭控領就安基金 零日攻擊導演澄清",
-          "url": "https://tw.news.yahoo.com/%E5%9C%8B%E6%B0%91%E9%BB%A8%E6%8E%A7%E6%8B%BF%E5%B0%B1%E5%AE%89%E5%9F%BA%E9%87%912872%E8%90%AC%E8%A3%9C%E5%8A%A9-%E9%9B%B6%E6%97%A5%E6%94%BB%E6%93%8A-%E5%B0%8E%E6%BC%94%E7%BE%85%E6%99%AF%E5%A3%AC-%E6%8B%8D%E7%89%87%E4%B8%8D%E5%88%86%E9%BB%A8%E6%B4%BE-072300544.html",
-          "h5_url": "https://tw.news.yahoo.com/%E5%9C%8B%E6%B0%91%E9%BB%A8%E6%8E%A7%E6%8B%BF%E5%B0%B1%E5%AE%89%E5%9F%BA%E9%87%912872%E8%90%AC%E8%A3%9C%E5%8A%A9-%E9%9B%B6%E6%97%A5%E6%94%BB%E6%93%8A-%E5%B0%8E%E6%BC%94%E7%BE%85%E6%99%AF%E5%A3%AC-%E6%8B%8D%E7%89%87%E4%B8%8D%E5%88%86%E9%BB%A8%E6%B4%BE-072300544.html",
           "appIconUrl": "",
           "sourceUniqueId": "content_yahoo",
           "package": ""
@@ -146,9 +146,17 @@
       "link_type": "app",
       "data": [
         {
-          "text": "3熱帶擾動醞釀中！輕颱「玲玲」最快今晚生成一週天氣一圖看",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zMWhOb0h2RHU2S2kwWF9MQmJ5SFdCSU0yZF9yeE9jUi15NXhrZWU4MDhNblpCdlVJcG1CdjdCX2NTMkc3MlR5Q3dESWY0RE1zaGxRSFk1cHRJdw?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zMWhOb0h2RHU2S2kwWF9MQmJ5SFdCSU0yZF9yeE9jUi15NXhrZWU4MDhNblpCdlVJcG1CdjdCX2NTMkc3MlR5Q3dESWY0RE1zaGxRSFk1cHRJdw?oc=5",
+          "text": "快訊／南海熱帶低壓生成　「水炸彈」北上！短延時豪雨又來了",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0Q0dBbS1hU2pIb2RHU2UxTmd1Z2hRMVZ4YVA5bWRIU0FpdGtkbEtwWGZPVDJqdS1sckdzanFlSTJjeXh2SFBSa05OQlg2U3VlMUEwcHlFcGdMMXBBaFHSAWhBVV95cUxOTDkyTGltQVJvRVNnMjZidUo4dklacXZMM0paeS1OWVFzeUxrMDZscm9vSEZGNzJfc2c5V1dqUXhUVERONWI1QnNGY0tkMERYZzg1dGV2emtwTmRwMDdTektUbVpZSG8xVQ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0Q0dBbS1hU2pIb2RHU2UxTmd1Z2hRMVZ4YVA5bWRIU0FpdGtkbEtwWGZPVDJqdS1sckdzanFlSTJjeXh2SFBSa05OQlg2U3VlMUEwcHlFcGdMMXBBaFHSAWhBVV95cUxOTDkyTGltQVJvRVNnMjZidUo4dklacXZMM0paeS1OWVFzeUxrMDZscm9vSEZGNzJfc2c5V1dqUXhUVERONWI1QnNGY0tkMERYZzg1dGV2emtwTmRwMDdTektUbVpZSG8xVQ?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "拒絕烏克蘭被霸凌！歐洲「意志聯盟」領袖與澤連斯基赴美見川普",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uN0tkTTRaZXIweXpXckQzTmJhbVA0QnlfX29OdTlvaVBXaERjOWhnMmpVbGEtbWNRT0Q3czJnNXZ3RVNZc0pLbFM0MGtwT3otU3JmMUNmdWUzQQ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uN0tkTTRaZXIweXpXckQzTmJhbVA0QnlfX29OdTlvaVBXaERjOWhnMmpVbGEtbWNRT0Q3czJnNXZ3RVNZc0pLbFM0MGtwT3otU3JmMUNmdWUzQQ?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -178,17 +186,9 @@
           "package": ""
         },
         {
-          "text": "「川普從背後捅了我們一刀！」烏克蘭抱怨美俄聯手逼降，《經濟學人》警告：澤倫斯基的白宮惡夢再次降臨",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1hUnR4NDdjVlhKUTk4YVFqM3prSDdXc25TOGtZa1o4SEVDVHdqMVhPaUNyY2NOa2liNVdFUE1TREV1ZUwzT1dzZVB6YzZlUQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1hUnR4NDdjVlhKUTk4YVFqM3prSDdXc25TOGtZa1o4SEVDVHdqMVhPaUNyY2NOa2liNVdFUE1TREV1ZUwzT1dzZVB6YzZlUQ?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "黃國昌到南投推核三公投 大爆「他」要被民進黨斷尾求生了",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wQWhObVRIMDFNTFJPQUJ1VHFiZVRfLXZ5TVNxWHhwUTRnd3duSHMtUVBFWUdXczRqR3R3Q2c3cWMtc3dIdjhwaXRzV0hRTXRqcXBv0gFYQVVfeXFMUEV2MFpmTmpHby1XM1pCYUJmZVZHZ3B6dkttT1JGd1FCdGRvcFFQd0VuSkxqTmtrSGI0QXVzRmVPblBJQ1BRaklrdFNHejJMMk9iY2hTZnpTTw?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wQWhObVRIMDFNTFJPQUJ1VHFiZVRfLXZ5TVNxWHhwUTRnd3duSHMtUVBFWUdXczRqR3R3Q2c3cWMtc3dIdjhwaXRzV0hRTXRqcXBv0gFYQVVfeXFMUEV2MFpmTmpHby1XM1pCYUJmZVZHZ3B6dkttT1JGd1FCdGRvcFFQd0VuSkxqTmtrSGI0QXVzRmVPblBJQ1BRaklrdFNHejJMMk9iY2hTZnpTTw?oc=5",
+          "text": "影／「萊爾校長」爆紅 國民黨今再推番外篇「錯的路 別上車」",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5uekJ5ZmxSQm1Yb05YXzlzVTR1cVdtdC1EdVhidzcwVVRSRVBUQkEyQzM3ZG5uVGR3V1F6WDRYc0RPRFh1a1pvRkFxUkkwNGtZ0gFWQVVfeXFMTXB3NmhZUHhlQWxOWDJEZFQ3MkZEX2lyc0FVNXJtTnhZXzU5ZXFtQ0xUZ1RnNGp5c3hzMDdFQ1M2OXhzb25NWUFSTU9HYXVKSkZRS25uRHc?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5uekJ5ZmxSQm1Yb05YXzlzVTR1cVdtdC1EdVhidzcwVVRSRVBUQkEyQzM3ZG5uVGR3V1F6WDRYc0RPRFh1a1pvRkFxUkkwNGtZ0gFWQVVfeXFMTXB3NmhZUHhlQWxOWDJEZFQ3MkZEX2lyc0FVNXJtTnhZXzU5ZXFtQ0xUZ1RnNGp5c3hzMDdFQ1M2OXhzb25NWUFSTU9HYXVKSkZRS25uRHc?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -226,6 +226,14 @@
           "package": ""
         },
         {
+          "text": "川普：將廢除郵寄投票和投票機 恢復明年期中選舉公正性",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE55YmJHdkQzUG9fNVBLbjZmR0o5WTBMTHJtVDRueVVaMTlXVkxkZWdWazVjSjN3Vk56SlViRy1wbURjb3dLY0ZXZkJscTNsaTQx0gFWQVVfeXFMTTBKWmJVazJlZGR5V1VxZUpFdGRmNTAwczBYT19CRkN5WDZmVWlEWDBkUUJwdDA3N0NPWmNKWnJZVXBZZnR4cHdGa0hWbzNhcV85RWE0TGc?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE55YmJHdkQzUG9fNVBLbjZmR0o5WTBMTHJtVDRueVVaMTlXVkxkZWdWazVjSjN3Vk56SlViRy1wbURjb3dLY0ZXZkJscTNsaTQx0gFWQVVfeXFMTTBKWmJVazJlZGR5V1VxZUpFdGRmNTAwczBYT19CRkN5WDZmVWlEWDBkUUJwdDA3N0NPWmNKWnJZVXBZZnR4cHdGa0hWbzNhcV85RWE0TGc?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
           "text": "烏軍長驅直入！俄中將在自家國土遭「斬首」斷手斷腳",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nOEdDRm80YlFtbld2TElBUU42MFRZVlF1OFNEeVN0cWpneG01SFVVT2RNNVlnb0dBc291Q1N0anh5TURiU2FrQzQydkQ2MFhxbG5CMmQ2SXY1UUxHWHBIRtIBZkFVX3lxTE5XX0xpTURjUUdPOEZFNHEzV2JmSENvZkpJMHM4QXh5bXFsT1BlZ2huREJMRkdXRWp0RjhTYU92SXJiTzhvaWktMVJNNmpYSk5HdnA5cEVQZnJUa2ZPQTJBTllhaXk3QQ?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nOEdDRm80YlFtbld2TElBUU42MFRZVlF1OFNEeVN0cWpneG01SFVVT2RNNVlnb0dBc291Q1N0anh5TURiU2FrQzQydkQ2MFhxbG5CMmQ2SXY1UUxHWHBIRtIBZkFVX3lxTE5XX0xpTURjUUdPOEZFNHEzV2JmSENvZkpJMHM4QXh5bXFsT1BlZ2huREJMRkdXRWp0RjhTYU92SXJiTzhvaWktMVJNNmpYSk5HdnA5cEVQZnJUa2ZPQTJBTllhaXk3QQ?oc=5",
@@ -234,9 +242,9 @@
           "package": ""
         },
         {
-          "text": "全球長壽國家排行榜出爐！百歲人瑞比例冠軍非日本 台灣排名揭曉",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9QQlVjWEZBcVg0aXdaTng1NjE3NnJqZThmM3hRWThzRnZMMHZmOHFxdWZFWG5hcVVkWWY1Rk95SERSeHZPS0ZDNk05emEtdHA0?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9QQlVjWEZBcVg0aXdaTng1NjE3NnJqZThmM3hRWThzRnZMMHZmOHFxdWZFWG5hcVVkWWY1Rk95SERSeHZPS0ZDNk05emEtdHA0?oc=5",
+          "text": "馬斯克欽點天才少年跑了！SpaceX 16歲工程師跳槽華爾街巨鱷",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE00TVdMR01oTjhyakxrdUxMdUFTZkRTcDlUSEhvaFdBV0gzWFNuTUtwaWRuVk9SSVcwYjJaMnVkcktoNUJQMTEzcjhzUGNURm9XMlotZnhiNTh6Zy1qUHRn0gFkQVVfeXFMTzlya3hoNklYNGxfRXlqckY4dHhWbVdMVFZmZktWUWt3MkZPSy1XNWtONkl0c1k5dlN3NXBoMHVhSi1GOGFxRzdHQ3RtRi00UVA4bjI3bzZJR2JjcWFobUc2S09EYg?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE00TVdMR01oTjhyakxrdUxMdUFTZkRTcDlUSEhvaFdBV0gzWFNuTUtwaWRuVk9SSVcwYjJaMnVkcktoNUJQMTEzcjhzUGNURm9XMlotZnhiNTh6Zy1qUHRn0gFkQVVfeXFMTzlya3hoNklYNGxfRXlqckY4dHhWbVdMVFZmZktWUWt3MkZPSy1XNWtONkl0c1k5dlN3NXBoMHVhSi1GOGFxRzdHQ3RtRi00UVA4bjI3bzZJR2JjcWFobUc2S09EYg?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -245,14 +253,6 @@
           "text": "歐洲多國領袖8/18陪澤倫斯基見川普 防被邊緣化也防「外交慘案」重演",
           "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxOSV9pX0hfYzZHMHRYejFZY0dycUNYaDkyN241cG5pVTc5Ulhqd3RWUGc5ZXd0TXNWU1ZSQ25oRnZzUGdzeTBVOTkxT2tQTmE4d1UyOXQzdHpPbjhSRkNsUUlmdk9teFR6V2p1NHhCY2N3MUg1ZWhieE5xOHhBVk90cW5UbUJZR2RMZjR0MW1PbkhucjVhUkt4VTBycnNJekFfUEtrSFhEUXU0cmNzTG10YjVWcTQteWxva3dVZnNWemR0dzRaSVNaQ2RQemJVdFZKR1l3cmVyUFB3VTVKQXhGSVVBR0Zmb0ZOTkEwUGJLNlFoYTFzUG5LNXBhR0tJUWZ1QVRpTy1lbU0zWXRLZldINmVlU3hSZkdmYXNmNzl5aHpWaFROS2tUU3J6OUJlaXZoWFgycGVUM0I5WS1Id1NLTy14VVYya2xmLURFSTFFWjZGLUpjc2hPa2JzU3JiTDRJakNwMnpLQzFyUWxRS1JUbF9wWVAweUM5cFNQWHdORk85cEZxSzhFemlIVE1UTW5ELXBnd3kzNjd0NnRqbENIeA?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMioANBVV95cUxOSV9pX0hfYzZHMHRYejFZY0dycUNYaDkyN241cG5pVTc5Ulhqd3RWUGc5ZXd0TXNWU1ZSQ25oRnZzUGdzeTBVOTkxT2tQTmE4d1UyOXQzdHpPbjhSRkNsUUlmdk9teFR6V2p1NHhCY2N3MUg1ZWhieE5xOHhBVk90cW5UbUJZR2RMZjR0MW1PbkhucjVhUkt4VTBycnNJekFfUEtrSFhEUXU0cmNzTG10YjVWcTQteWxva3dVZnNWemR0dzRaSVNaQ2RQemJVdFZKR1l3cmVyUFB3VTVKQXhGSVVBR0Zmb0ZOTkEwUGJLNlFoYTFzUG5LNXBhR0tJUWZ1QVRpTy1lbU0zWXRLZldINmVlU3hSZkdmYXNmNzl5aHpWaFROS2tUU3J6OUJlaXZoWFgycGVUM0I5WS1Id1NLTy14VVYya2xmLURFSTFFWjZGLUpjc2hPa2JzU3JiTDRJakNwMnpLQzFyUWxRS1JUbF9wWVAweUM5cFNQWHdORk85cEZxSzhFemlIVE1UTW5ELXBnd3kzNjd0NnRqbENIeA?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "中國阿伯機上翻行李被抓現行 連挨3個巴掌畫面瘋傳",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1GWGIyLXE5eF9NSDNuZU1HcFJZT3hoSHZEYTYzS1N5eFgzeHRWOTc4NkZQeHh4dENWYnl5cEtBcXA0UjFHTm9QWTBZN01kcWFIZnpmM0IzY1M3ekltM05UNllFOWRjZ9IBa0FVX3lxTE9BdDJyVE56QndrSzdVcjA4NUgtaklzWmQ0VzlUY2pyRC1XZmNrbFFVZjM3QmhKTjB1Yi1qOG5ILWlhWnNZM0FXUVM4SjF2ZE0xd3ZuWWtPSmphQWgxVnh4RnpCNUFTdmpka3Vj?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1GWGIyLXE5eF9NSDNuZU1HcFJZT3hoSHZEYTYzS1N5eFgzeHRWOTc4NkZQeHh4dENWYnl5cEtBcXA0UjFHTm9QWTBZN01kcWFIZnpmM0IzY1M3ekltM05UNllFOWRjZ9IBa0FVX3lxTE9BdDJyVE56QndrSzdVcjA4NUgtaklzWmQ0VzlUY2pyRC1XZmNrbFFVZjM3QmhKTjB1Yi1qOG5ILWlhWnNZM0FXUVM4SjF2ZE0xd3ZuWWtPSmphQWgxVnh4RnpCNUFTdmpka3Vj?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -273,6 +273,6 @@
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 21,
+  "cost": 49,
   "status": 0
 }
