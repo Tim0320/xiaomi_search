@@ -55,9 +55,9 @@
           "package": ""
         },
         {
-          "text": "宜蘭6.0地震 最大震度冬山、信義區4級",
-          "url": "https://tw.news.yahoo.com/%E5%9C%B0%E9%9C%87%EF%BC%812111%E5%AE%9C%E8%98%AD%E8%A6%8F%E6%A8%A16%E5%9C%B0%E9%9C%87-%E6%9C%80%E5%A4%A7%E9%9C%87%E5%BA%A6%E5%AE%9C%E8%98%AD%E3%80%81%E5%8F%B0%E5%8C%974%E7%B4%9A-131412960.html",
-          "h5_url": "https://tw.news.yahoo.com/%E5%9C%B0%E9%9C%87%EF%BC%812111%E5%AE%9C%E8%98%AD%E8%A6%8F%E6%A8%A16%E5%9C%B0%E9%9C%87-%E6%9C%80%E5%A4%A7%E9%9C%87%E5%BA%A6%E5%AE%9C%E8%98%AD%E3%80%81%E5%8F%B0%E5%8C%974%E7%B4%9A-131412960.html",
+          "text": "宜蘭規模6地震 最大震度宜蘭、北市4級",
+          "url": "https://tw.news.yahoo.com/%E5%9C%B0%E9%9C%87%EF%BC%812111%E5%AE%9C%E8%98%AD%E8%BF%91%E6%B5%B7%E8%A6%8F%E6%A8%A16%E5%9C%B0%E9%9C%87-%E6%9C%80%E5%A4%A7%E9%9C%87%E5%BA%A6%E5%AE%9C%E8%98%AD%E3%80%81%E5%8F%B0%E5%8C%974%E7%B4%9A-131412965.html",
+          "h5_url": "https://tw.news.yahoo.com/%E5%9C%B0%E9%9C%87%EF%BC%812111%E5%AE%9C%E8%98%AD%E8%BF%91%E6%B5%B7%E8%A6%8F%E6%A8%A16%E5%9C%B0%E9%9C%87-%E6%9C%80%E5%A4%A7%E9%9C%87%E5%BA%A6%E5%AE%9C%E8%98%AD%E3%80%81%E5%8F%B0%E5%8C%974%E7%B4%9A-131412965.html",
           "appIconUrl": "",
           "sourceUniqueId": "content_yahoo",
           "package": ""
@@ -146,17 +146,9 @@
       "link_type": "app",
       "data": [
         {
-          "text": "國家級警報狂響！ 晚間21:11超有感地震 預估震度3級",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Ka3BTOWdKbUZRXzhRc2tsQnozX3h4SVZfemVDSHpEY0JCWXdEZzNvY3lIeHI1TllPcDg0RFV0STVLb1RZVDd3VmFxaGNGYmdB0gFWQVVfeXFMTW5EbkprZWo2TVlfWjk0N1NHVy1HWmNhdnhzX1doYUVSTGZCUmxMY19OallFOWFfb183OXlDdlR3OWZURElSLTZHU0dMeXFHNkhfNEhFZnc?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Ka3BTOWdKbUZRXzhRc2tsQnozX3h4SVZfemVDSHpEY0JCWXdEZzNvY3lIeHI1TllPcDg0RFV0STVLb1RZVDd3VmFxaGNGYmdB0gFWQVVfeXFMTW5EbkprZWo2TVlfWjk0N1NHVy1HWmNhdnhzX1doYUVSTGZCUmxMY19OallFOWFfb183OXlDdlR3OWZURElSLTZHU0dMeXFHNkhfNEhFZnc?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "卓內閣異動16人名單出爐石崇良掌衛福部阮昭雄接政院副秘書長",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE85alFiQmVnS21PcnBEQWtITVpOV01JMVVkb0g1M1BGSzAzVXp1eFVkaTlWbTctaW1WSTcxQmFGNjVvRjJSTHZKbU1jZV9BNzczMWxScUtKX09uSEI3NE1V?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE85alFiQmVnS21PcnBEQWtITVpOV01JMVVkb0g1M1BGSzAzVXp1eFVkaTlWbTctaW1WSTcxQmFGNjVvRjJSTHZKbU1jZV9BNzczMWxScUtKX09uSEI3NE1V?oc=5",
+          "text": "地牛翻身上下震！宜蘭近海21:11發生規模6地震 18縣市有感",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE83OFREQ2R4N3Q1R2VvREFSMWNHNkZUTU9VRWE3LWhZanJVTnd2S2xicmRKVkt5QkpnQ0FtMHlfYm1FZERVbi1MQnM0Z1UtNmlT0gFWQVVfeXFMUFhVTzdmODZuUmFuTWQ3S3g1NDZKSlEzcDFyMWVvbmFITlhCYXZFb0xjaEhtNU5GVTlUcE5OQ043akVqQU1IMEc4UTY4XzlYaFlDM1ltZ1E?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE83OFREQ2R4N3Q1R2VvREFSMWNHNkZUTU9VRWE3LWhZanJVTnd2S2xicmRKVkt5QkpnQ0FtMHlfYm1FZERVbi1MQnM0Z1UtNmlT0gFWQVVfeXFMUFhVTzdmODZuUmFuTWQ3S3g1NDZKSlEzcDFyMWVvbmFITlhCYXZFb0xjaEhtNU5GVTlUcE5OQ043akVqQU1IMEc4UTY4XzlYaFlDM1ltZ1E?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -170,6 +162,14 @@
           "package": ""
         },
         {
+          "text": "卓內閣異動16人名單出爐石崇良掌衛福部阮昭雄接政院副秘書長",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE85alFiQmVnS21PcnBEQWtITVpOV01JMVVkb0g1M1BGSzAzVXp1eFVkaTlWbTctaW1WSTcxQmFGNjVvRjJSTHZKbU1jZV9BNzczMWxScUtKX09uSEI3NE1V?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE85alFiQmVnS21PcnBEQWtITVpOV01JMVVkb0g1M1BGSzAzVXp1eFVkaTlWbTctaW1WSTcxQmFGNjVvRjJSTHZKbU1jZV9BNzczMWxScUtKX09uSEI3NE1V?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
           "text": "石崇良將接任衛福部長 基層醫療：嚇一大跳！ 給予無限肯定",
           "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNbjRTVlNHRjVUNHFERmxNZE9OVk94TTNGeEVwdjdac1JrcEhoMm11Z2NfS29oUzZmQWxXVmxMSjMtT3NwcDBHZ1pMZnBUaUZIZmFEQzgxYWU2ek12bVZNUzZGb0ZkN1R6VmN6UmdIRGktZlZaWml2ZFdUV0trYnl6OWVBVFpNUW95dW5uQ3NjU1NUMjRuQ0xpOFFWczRSOVBfbF80Z3RwNlBYeDJmdElnV21lSXBjZGV4V3B2ek1KQU5zUUpHNVVNU0FwNGdEaS1Pd2w2M09KS3dfT3FZczU5Mm1TWFV1R254Q1c0MngwcDNvZzltMk1ReTVoLXl4enprZ09nbmozNHdLb1RZVjFPUXI0bUhYbjN2UFlrX3ZSOGdyMHhpRTVFZ2IzZ2Z1SDl6WDhlQ2RKdEc3QTVVYXlobnVSNUhhV1hQcHptQlhxS0U3MlNTcF85dUVPa3ROWGpmTnBFWGVqMjUxZ0t6?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNbjRTVlNHRjVUNHFERmxNZE9OVk94TTNGeEVwdjdac1JrcEhoMm11Z2NfS29oUzZmQWxXVmxMSjMtT3NwcDBHZ1pMZnBUaUZIZmFEQzgxYWU2ek12bVZNUzZGb0ZkN1R6VmN6UmdIRGktZlZaWml2ZFdUV0trYnl6OWVBVFpNUW95dW5uQ3NjU1NUMjRuQ0xpOFFWczRSOVBfbF80Z3RwNlBYeDJmdElnV21lSXBjZGV4V3B2ek1KQU5zUUpHNVVNU0FwNGdEaS1Pd2w2M09KS3dfT3FZczU5Mm1TWFV1R254Q1c0MngwcDNvZzltMk1ReTVoLXl4enprZ09nbmozNHdLb1RZVjFPUXI0bUhYbjN2UFlrX3ZSOGdyMHhpRTVFZ2IzZ2Z1SDl6WDhlQ2RKdEc3QTVVYXlobnVSNUhhV1hQcHptQlhxS0U3MlNTcF85dUVPa3ROWGpmTnBFWGVqMjUxZ0t6?oc=5",
@@ -178,9 +178,9 @@
           "package": ""
         },
         {
-          "text": "普發一萬完成朝野黨團協商！特別預算公布後一個月內發放",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBmek1hUGg1NlRYZlFyVkFXcVdoelJta2RVR2pmSnlkUXFjVl9mU05vQjVBakowOGZNaW9sN0Vmakt2Q0hOM1dCYkN0SnhNMFNi0gFWQVVfeXFMUGVMR1d3NFd2MTVFbTE0b2JNWlN4amN5dG5FZlYycWdNajZzWDhXRG1WOTNJcUpSYVZJdjZmZ3gyd25UNVNnMXEyWGgxZnphcDY0TnFxckE?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBmek1hUGg1NlRYZlFyVkFXcVdoelJta2RVR2pmSnlkUXFjVl9mU05vQjVBakowOGZNaW9sN0Vmakt2Q0hOM1dCYkN0SnhNMFNi0gFWQVVfeXFMUGVMR1d3NFd2MTVFbTE0b2JNWlN4amN5dG5FZlYycWdNajZzWDhXRG1WOTNJcUpSYVZJdjZmZ3gyd25UNVNnMXEyWGgxZnphcDY0TnFxckE?oc=5",
+          "text": "普發現金編10億作業費！藍白轟「比上次多7億」　財政部解答了",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9lTmllLXg4RmxpMkJhakdaVU5VQ0ZYLS03T3lhY0xvWlpvcFVrT01Ocmd6a0xFdFRnRUo5SUJhZHV5WkQ3cXQxQ29rWDhKLXdQX093R1RzR3ZTc1ZqZHfSAWhBVV95cUxPcUw3UmVPT3lEcUVPcDZxdGpYLVBYV0tBU0Z5VTUxdVlxT2VTSUN4d3RpRXNLd1FWdmxiUkhEbFBZSThrNm10dWpRemhjT2JPNXYwWG1NN25lOW16SlNuRHJwaFJoQ3Q0Yg?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9lTmllLXg4RmxpMkJhakdaVU5VQ0ZYLS03T3lhY0xvWlpvcFVrT01Ocmd6a0xFdFRnRUo5SUJhZHV5WkQ3cXQxQ29rWDhKLXdQX093R1RzR3ZTc1ZqZHfSAWhBVV95cUxPcUw3UmVPT3lEcUVPcDZxdGpYLVBYV0tBU0Z5VTUxdVlxT2VTSUN4d3RpRXNLd1FWdmxiUkhEbFBZSThrNm10dWpRemhjT2JPNXYwWG1NN25lOW16SlNuRHJwaFJoQ3Q0Yg?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -189,6 +189,14 @@
           "text": "前綠能推動中心副執行長鄭亦麟涉收賄羈押禁見",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1fMV92dUxCQndfMHZ6NW8yRDBWWFVjNHgwMWRlTE5pbWkxUTJHNnl2SG1Qb0ZPdm91OEFScTJhWDZlNWM4ZDhRWXRoeXFTa2l5UERGTC1mLV96NktqZC1N?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1fMV92dUxCQndfMHZ6NW8yRDBWWFVjNHgwMWRlTE5pbWkxUTJHNnl2SG1Qb0ZPdm91OEFScTJhWDZlNWM4ZDhRWXRoeXFTa2l5UERGTC1mLV96NktqZC1N?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "快訊／台積電3工程師竊取核心關鍵技術　遭起訴並求處重刑",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA1STVTU01DTDhZQnlrLUNXMXpySEFYbGFSeEk1ZnN1clZwMmh6WnVPTjBFY0NBMzJOZkNBYXg5VjdOMWtTSTU0M0JRXzl1ZDBFdlFVbGdfNWJJaF9lVlHSAWhBVV95cUxOb1R6RVE4T25teGJ6NUxCUjl1T1paWVlOQ3AxZ28xVlhHcmlBOG15TjhVR1V5QXFEdzUxVUJaNFF0T2NIWFJZc2dOM1ZrdEdLSVBCSmhtN1J3TE5mYkxHWHJxUDMxQ0J6SA?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA1STVTU01DTDhZQnlrLUNXMXpySEFYbGFSeEk1ZnN1clZwMmh6WnVPTjBFY0NBMzJOZkNBYXg5VjdOMWtTSTU0M0JRXzl1ZDBFdlFVbGdfNWJJaF9lVlHSAWhBVV95cUxOb1R6RVE4T25teGJ6NUxCUjl1T1paWVlOQ3AxZ28xVlhHcmlBOG15TjhVR1V5QXFEdzUxVUJaNFF0T2NIWFJZc2dOM1ZrdEdLSVBCSmhtN1J3TE5mYkxHWHJxUDMxQ0J6SA?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -218,14 +226,6 @@
           "package": ""
         },
         {
-          "text": "跨政治光譜互動再加一 AIT：谷立言與黃國昌碰面談經濟、防衛",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBSS0FpVDlFWGdOZ0dIX013MnFlVUFCWjliT1plcGh1NE4wZkhTM1ZVb2JvSmdpR2FlY3FhMkFfdzVVUlM1Mi1xUkRuZE5EY2dH0gFWQVVfeXFMTTRsZWNOdnlaNjg2QWNRU0E5ak5wVHpBSXViZC1kSGdtd2cxdlB1WVllQjZUR3k2WWh1UDZIQjQtOV9xN2VxWTM5eF9sRU5USjJtd19PYVE?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBSS0FpVDlFWGdOZ0dIX013MnFlVUFCWjliT1plcGh1NE4wZkhTM1ZVb2JvSmdpR2FlY3FhMkFfdzVVUlM1Mi1xUkRuZE5EY2dH0gFWQVVfeXFMTTRsZWNOdnlaNjg2QWNRU0E5ak5wVHpBSXViZC1kSGdtd2cxdlB1WVllQjZUR3k2WWh1UDZIQjQtOV9xN2VxWTM5eF9sRU5USjJtd19PYVE?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
           "text": "韓國總統李在明訪美觀察：魅力攻勢避免了尷尬場面，金正恩被多次提及",
           "url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxONWdEaS1PRW9NWHJrVEZqWVZtYk1ua1JrUndhTm5ZY19FLVRzejhIajRPZDBzTEt2ZE9GSFFsUmoxeHRUcUc1N2g0VzdSbHBQVFhIR2YyUjdid0k5X1ZZRlBNaEVOcFlqLWZWYlkzU3hheVphRzM5MzNYZzUyeE5RTDQtUUdvU2tpRVBfZTNFLUh2d05iMU5TTUJVLUlzdnVhcXRHNVBpcndoN3VOZ21ORmFKUnViZVdZUUZldkRESzREaElzemEteDBGVkVJM2ZqbDd2aEZtRFFRY1p6MkZhYXh3TkdsVUdIdTJCdzRPdjlZX3AxUndWM19aVTByWFJDb3hZSmJnS3FqVExia0lzTkd4Mkx1Q3dxakxlYnFRdndzckl5QzZPRHVvTWhjNkh3ZFV3Ri1CMDQxQTFXQTNLcnFYVUxLdmNKNkNJcWRmc0l1S1FCWm9xT1dsUlpWNEhqdUgzbUQ4dVVFbVZ5eGxfWGZCcVgwdi1lWU9jZU9jQ05VN1pWa3ZvRXhKc0g3aEV4VjNQQThUTzU2MmxXa0xRTkw5VzVPZWg0eW9uQ3R3MlF1RFlaOENSblV2dzFNUQ?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxONWdEaS1PRW9NWHJrVEZqWVZtYk1ua1JrUndhTm5ZY19FLVRzejhIajRPZDBzTEt2ZE9GSFFsUmoxeHRUcUc1N2g0VzdSbHBQVFhIR2YyUjdid0k5X1ZZRlBNaEVOcFlqLWZWYlkzU3hheVphRzM5MzNYZzUyeE5RTDQtUUdvU2tpRVBfZTNFLUh2d05iMU5TTUJVLUlzdnVhcXRHNVBpcndoN3VOZ21ORmFKUnViZVdZUUZldkRESzREaElzemEteDBGVkVJM2ZqbDd2aEZtRFFRY1p6MkZhYXh3TkdsVUdIdTJCdzRPdjlZX3AxUndWM19aVTByWFJDb3hZSmJnS3FqVExia0lzTkd4Mkx1Q3dxakxlYnFRdndzckl5QzZPRHVvTWhjNkh3ZFV3Ri1CMDQxQTFXQTNLcnFYVUxLdmNKNkNJcWRmc0l1S1FCWm9xT1dsUlpWNEhqdUgzbUQ4dVVFbVZ5eGxfWGZCcVgwdi1lWU9jZU9jQ05VN1pWa3ZvRXhKc0g3aEV4VjNQQThUTzU2MmxXa0xRTkw5VzVPZWg0eW9uQ3R3MlF1RFlaOENSblV2dzFNUQ?oc=5",
@@ -234,17 +234,17 @@
           "package": ""
         },
         {
-          "text": "70歲嬤月領2.4萬退休金過活 卻因女兒「1通電話」快撐不住",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YdUZlRGFvYmtvNV9EakxQaFlPWFc0bFZlRFc0SWR0Q2cxeGxUY2oyeWpJcVdSczJPWXA5Z2psQjZuS2pGOVU0SW9tV1NOOVVFUEdLeTVIX2k2cXZYNWtV0gFkQVVfeXFMTW0tQ1FvVUdhSTY3UlZYZndQdEZBS05pdkk5Yk1UWTExMW92TEJkSU9mRXJPZjE5cm4wUjE5U3FSQ3lRNnBBeVhxQTk5SlBxUzdDbWhqZ051WW9VYm5zRTVScmZWTg?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YdUZlRGFvYmtvNV9EakxQaFlPWFc0bFZlRFc0SWR0Q2cxeGxUY2oyeWpJcVdSczJPWXA5Z2psQjZuS2pGOVU0SW9tV1NOOVVFUEdLeTVIX2k2cXZYNWtV0gFkQVVfeXFMTW0tQ1FvVUdhSTY3UlZYZndQdEZBS05pdkk5Yk1UWTExMW92TEJkSU9mRXJPZjE5cm4wUjE5U3FSQ3lRNnBBeVhxQTk5SlBxUzdDbWhqZ051WW9VYm5zRTVScmZWTg?oc=5",
+          "text": "史上最熱！北海道極品活不了 一碗海膽丼飆破3800元",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBqcDhsNzdueDJLMmZDbHRCQTRsOHVQQzZCMGFlOGh6RlRueW1IYXlhZ09PV2xOWl9JRXBtbWtlLXJwbTRyRUt2QUt6TjByNkNaRGdjMVZzQmhkZnBnTkF3NXZEcUJ5d9IBa0FVX3lxTE9HZnJRV3pJeF85UlhzUnFmUzJMS0VuNHhfWnVfR012LVJCM2hQRXpwQVRJNjN4S0QtdHNOM3lpaDNtUWVsalA0YmNMN0ZiakJDYVozOXlvcXhrSmkxZnVWVHNjNVRHVmVLWVA0?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBqcDhsNzdueDJLMmZDbHRCQTRsOHVQQzZCMGFlOGh6RlRueW1IYXlhZ09PV2xOWl9JRXBtbWtlLXJwbTRyRUt2QUt6TjByNkNaRGdjMVZzQmhkZnBnTkF3NXZEcUJ5d9IBa0FVX3lxTE9HZnJRV3pJeF85UlhzUnFmUzJMS0VuNHhfWnVfR012LVJCM2hQRXpwQVRJNjN4S0QtdHNOM3lpaDNtUWVsalA0YmNMN0ZiakJDYVozOXlvcXhrSmkxZnVWVHNjNVRHVmVLWVA0?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "史上最熱！北海道極品活不了 一碗海膽丼飆破3800元",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBqcDhsNzdueDJLMmZDbHRCQTRsOHVQQzZCMGFlOGh6RlRueW1IYXlhZ09PV2xOWl9JRXBtbWtlLXJwbTRyRUt2QUt6TjByNkNaRGdjMVZzQmhkZnBnTkF3NXZEcUJ5d9IBa0FVX3lxTE9HZnJRV3pJeF85UlhzUnFmUzJMS0VuNHhfWnVfR012LVJCM2hQRXpwQVRJNjN4S0QtdHNOM3lpaDNtUWVsalA0YmNMN0ZiakJDYVozOXlvcXhrSmkxZnVWVHNjNVRHVmVLWVA0?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBqcDhsNzdueDJLMmZDbHRCQTRsOHVQQzZCMGFlOGh6RlRueW1IYXlhZ09PV2xOWl9JRXBtbWtlLXJwbTRyRUt2QUt6TjByNkNaRGdjMVZzQmhkZnBnTkF3NXZEcUJ5d9IBa0FVX3lxTE9HZnJRV3pJeF85UlhzUnFmUzJMS0VuNHhfWnVfR012LVJCM2hQRXpwQVRJNjN4S0QtdHNOM3lpaDNtUWVsalA0YmNMN0ZiakJDYVozOXlvcXhrSmkxZnVWVHNjNVRHVmVLWVA0?oc=5",
+          "text": "不放棄格陵蘭？傳親川普人士當地從事「秘密行動」 丹麥急召見美外交官",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9IVTdfU2x6RHhBazhlZWVhV3N4Q0hsVG04R3dGcjdWS3R4RTZjOURwbUIxRUw0Z0JFVlR0WjBDaExEZnpEb2NTU0xSdzNVSm930gFWQVVfeXFMTUpxOFhmSXlOSFVzODVjNWk2SEc3b0xCUXhwRVRwT1NMVkRWT2xWZkgtbEoxZldmeFlhaWotNnhjZDlMOWdZay1weFNMT0xtMmNBOTVCYnc?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9IVTdfU2x6RHhBazhlZWVhV3N4Q0hsVG04R3dGcjdWS3R4RTZjOURwbUIxRUw0Z0JFVlR0WjBDaExEZnpEb2NTU0xSdzNVSm930gFWQVVfeXFMTUpxOFhmSXlOSFVzODVjNWk2SEc3b0xCUXhwRVRwT1NMVkRWT2xWZkgtbEoxZldmeFlhaWotNnhjZDlMOWdZay1weFNMT0xtMmNBOTVCYnc?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -273,6 +273,6 @@
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 32,
+  "cost": 38,
   "status": 0
 }
