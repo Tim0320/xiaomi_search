@@ -63,14 +63,6 @@
           "package": ""
         },
         {
-          "text": "live／本周悶熱午後雨 鄭明典解析",
-          "url": "https://tw.tv.yahoo.com/9-1-weather-045359760.html",
-          "h5_url": "https://tw.tv.yahoo.com/9-1-weather-045359760.html",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_yahoo",
-          "package": ""
-        },
-        {
           "text": "日本與那國島 罕見直擊中央山脈",
           "url": "https://tw.news.yahoo.com/%E6%97%A5%E6%9C%AC%E8%88%87%E9%82%A3%E5%9C%8B%E5%B3%B6-%E7%9C%8B%E8%A6%8B%E5%8F%B0%E7%81%A3-%E7%BD%95%E8%A6%8B%E7%9B%B4%E6%93%8A%E4%B8%AD%E5%A4%AE%E5%B1%B1%E8%84%88-%E6%97%A5%E7%B6%B2%E7%86%B1%E8%AD%B0-%E6%AF%94%E6%83%B3%E5%83%8F%E5%A4%A7-011303492.html",
           "h5_url": "https://tw.news.yahoo.com/%E6%97%A5%E6%9C%AC%E8%88%87%E9%82%A3%E5%9C%8B%E5%B3%B6-%E7%9C%8B%E8%A6%8B%E5%8F%B0%E7%81%A3-%E7%BD%95%E8%A6%8B%E7%9B%B4%E6%93%8A%E4%B8%AD%E5%A4%AE%E5%B1%B1%E8%84%88-%E6%97%A5%E7%B6%B2%E7%86%B1%E8%AD%B0-%E6%AF%94%E6%83%B3%E5%83%8F%E5%A4%A7-011303492.html",
@@ -133,6 +125,14 @@
           "appIconUrl": "",
           "sourceUniqueId": "content_yahoo",
           "package": ""
+        },
+        {
+          "text": "高鐵寧靜車廂禁講電話 9月新制統整",
+          "url": "https://tw.news.yahoo.com/9%E6%9C%88%E6%96%B0%E5%88%B6%E6%87%B6%E4%BA%BA%E5%8C%85%EF%BC%9A%E9%9D%92%E5%B9%B4%E5%B0%B1%E6%A5%AD%E6%9C%80%E9%AB%98%E5%8F%AF%E9%A0%984%E8%90%AC8%E3%80%81%E9%AB%98%E9%90%B5%E8%BB%8A%E5%BB%82%E5%85%A7%E7%A6%81%E8%AC%9B%E9%9B%BB%E8%A9%B1%E3%80%81%E5%8F%B0%E5%8C%97%E5%B8%822-12%E6%AD%B2%E6%AF%8F%E5%91%A8%E5%85%8D%E8%B2%BB%E5%96%9D%E9%AE%AE%E5%A5%B6-082448522.html",
+          "h5_url": "https://tw.news.yahoo.com/9%E6%9C%88%E6%96%B0%E5%88%B6%E6%87%B6%E4%BA%BA%E5%8C%85%EF%BC%9A%E9%9D%92%E5%B9%B4%E5%B0%B1%E6%A5%AD%E6%9C%80%E9%AB%98%E5%8F%AF%E9%A0%984%E8%90%AC8%E3%80%81%E9%AB%98%E9%90%B5%E8%BB%8A%E5%BB%82%E5%85%A7%E7%A6%81%E8%AC%9B%E9%9B%BB%E8%A9%B1%E3%80%81%E5%8F%B0%E5%8C%97%E5%B8%822-12%E6%AD%B2%E6%AF%8F%E5%91%A8%E5%85%8D%E8%B2%BB%E5%96%9D%E9%AE%AE%E5%A5%B6-082448522.html",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_yahoo",
+          "package": ""
         }
       ],
       "selectedStatus": false,
@@ -146,9 +146,9 @@
       "link_type": "app",
       "data": [
         {
-          "text": "民眾黨慘了！走讀爆衝突傷8警　內政部：蒐證完畢將移送北檢偵辦",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Ha1p5TWlOUFNqLUpTSVZDQmlxZXNZOVZjWWJmeWx2U01JVEJjTUh6THpnczFPMEVpaHZRMXczMGpTU3NUOWRieEhPdGhCWjRPU08ydUc4XzdnNzRjVGfSAWhBVV95cUxPMFNLa2N0S0d5ZXZsU1kxdjE5SFhFTnluWU1ZSGw2dk52eEdIODdWckhfTUN1LUZSZXhZSmRLWU5UZzNtb3dCcU1OSUZOYWNnTnVhSGxieVpQNnJPclppMXl6US1jME00Ug?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Ha1p5TWlOUFNqLUpTSVZDQmlxZXNZOVZjWWJmeWx2U01JVEJjTUh6THpnczFPMEVpaHZRMXczMGpTU3NUOWRieEhPdGhCWjRPU08ydUc4XzdnNzRjVGfSAWhBVV95cUxPMFNLa2N0S0d5ZXZsU1kxdjE5SFhFTnluWU1ZSGw2dk52eEdIODdWckhfTUN1LUZSZXhZSmRLWU5UZzNtb3dCcU1OSUZOYWNnTnVhSGxieVpQNnJPclppMXl6US1jME00Ug?oc=5",
+          "text": "內政部出手要辦民眾黨　黃國昌3張「賴蔡比較圖」回應：放馬過來",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBiRjdCaE5FZVpTbllQWDU2VjZKRzhmZzR4cEJNNUJDLVRVM0I1Ql9wdXE1S3RXYTBsQUZNU09RNjJLVzFxcDE4N3Eyam4tSFpoQmctOGtnYzJfM1owM1HSAWhBVV95cUxPX3YxRWRsZV9GYnlBVEUzbXpOb1ZMc3lvQTN1eUlhX192Z3lnUVp2dUdkTWJDSUFVeUluQjNCMnNKd0ZrcVdJQms1dlQwOHZoUTZfbmp3Y3FmSGk2N0otYXpobGp4SHJ2aw?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBiRjdCaE5FZVpTbllQWDU2VjZKRzhmZzR4cEJNNUJDLVRVM0I1Ql9wdXE1S3RXYTBsQUZNU09RNjJLVzFxcDE4N3Eyam4tSFpoQmctOGtnYzJfM1owM1HSAWhBVV95cUxPX3YxRWRsZV9GYnlBVEUzbXpOb1ZMc3lvQTN1eUlhX192Z3lnUVp2dUdkTWJDSUFVeUluQjNCMnNKd0ZrcVdJQms1dlQwOHZoUTZfbmp3Y3FmSGk2N0otYXpobGp4SHJ2aw?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -157,6 +157,14 @@
           "text": "大罷免失敗「全黨有責別推給柯建銘」？林濁水：甘脆說全民的責任",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpUnV5ZmNCOGYzclhjQzZaRExBb2FsbS1WOVpjWWlHWjBBeG1iZTk1YWp3dU1mNHhhQW1GZ1BIYWZGekhXc1p1V3d0dU5FV2VlU0dpNE8wbl9GUQ?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpUnV5ZmNCOGYzclhjQzZaRExBb2FsbS1WOVpjWWlHWjBBeG1iZTk1YWp3dU1mNHhhQW1GZ1BIYWZGekhXc1p1V3d0dU5FV2VlU0dpNE8wbl9GUQ?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "今天開學！爸媽「最崩潰9點」曝光 吸近萬人共鳴：全中了",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPTWhrT3FaWVQybFJ5bE90dVRSb3hNeklIcDlfUXBjOUc1U09ORjVxS1R4TWliYmY3NEFlcDFHSmJvQnktUVNteEFabnpzeFdfQTRzR1dTdldxY3g4aG9UN19PN3V2Uk8xYlhBWF9SZm8zQmtTVXJfTTVxX3lhTzE1Q0JjZkMxTUZ0QWlQRmdtLS01eVpnMjhhWUtqMDJydHNCMEtlbTgwa2Fkd2p6dUY4am96YktjSVdEVFpFQ3Q3ZEhsek9nN3c0Sjd2ZThXSGU0MFZhVndabjhNekVzSDRIV3pJLTRRNnVQSGREOVJDZmRFUFRDMGV3eUd0T2ktV0dQOEtFcldFRVdMNG00Wk9rUVpzbFEyUl96cVp1a09aNHpmMGNrRG9wYXpVc3FENWNrMVE?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPTWhrT3FaWVQybFJ5bE90dVRSb3hNeklIcDlfUXBjOUc1U09ORjVxS1R4TWliYmY3NEFlcDFHSmJvQnktUVNteEFabnpzeFdfQTRzR1dTdldxY3g4aG9UN19PN3V2Uk8xYlhBWF9SZm8zQmtTVXJfTTVxX3lhTzE1Q0JjZkMxTUZ0QWlQRmdtLS01eVpnMjhhWUtqMDJydHNCMEtlbTgwa2Fkd2p6dUY4am96YktjSVdEVFpFQ3Q3ZEhsek9nN3c0Sjd2ZThXSGU0MFZhVndabjhNekVzSDRIV3pJLTRRNnVQSGREOVJDZmRFUFRDMGV3eUd0T2ktV0dQOEtFcldFRVdMNG00Wk9rUVpzbFEyUl96cVp1a09aNHpmMGNrRG9wYXpVc3FENWNrMVE?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -178,25 +186,17 @@
           "package": ""
         },
         {
-          "text": "川普關稅遭判違法！彭博揭裁決藏「1伏筆」 這國正樂翻天",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1yTThZYXFXZ0F2OWo4Q3RvMUlqa0U3UzFsWEdBU1NPR283QnBDVjNDTHN4ZnEzbUo3b29pSDlTUTloZ082M3M2Wm80WmstSkp1TVFuWkFyaGxhTnpCN2dZ0gFkQVVfeXFMTnlGWm5aTUtCcU1Hbl8wb1hCYk5hdUxyOHZoVXNmUXBrdTVkOTA5dkZRd1RSaGg1b2RnUlhUWDVtOHdWMWpXd3FscDcyemRyYjBrM20yYXlmV1VtakozWU4wbkZnVQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1yTThZYXFXZ0F2OWo4Q3RvMUlqa0U3UzFsWEdBU1NPR283QnBDVjNDTHN4ZnEzbUo3b29pSDlTUTloZ082M3M2Wm80WmstSkp1TVFuWkFyaGxhTnpCN2dZ0gFkQVVfeXFMTnlGWm5aTUtCcU1Hbl8wb1hCYk5hdUxyOHZoVXNmUXBrdTVkOTA5dkZRd1RSaGg1b2RnUlhUWDVtOHdWMWpXd3FscDcyemRyYjBrM20yYXlmV1VtakozWU4wbkZnVQ?oc=5",
+          "text": "獨家》趙怡翔將辭議員上任國安會 接班新人劉品妡竟神似「學姐」",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42elpJQUhsaWtfUTNnUm5zZHAzcG84bTVoenl6bUd0MnlGXzhWSEc5N3NqTURNT2p6MVlwVVZBa284VHQzY3VRZHZHWGRIOXpSa1JiMTU3cXB6N3JuSUlrcl9jbWc3bUsxUnfSAW9BVV95cUxNdUtpaWJSbHdPMkZzUkN6RDFmelBrbVlxZ0JCT0hUSXowUDdFOWloeVI0dlY4N1ZKQ2xWT2pJR3gxd0FHR3E1Qzl0enlMZlVoVG1lanBDbHlxMzV2QlR4dXBEV09RdEQ3MlA5b0RqYW8?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42elpJQUhsaWtfUTNnUm5zZHAzcG84bTVoenl6bUd0MnlGXzhWSEc5N3NqTURNT2p6MVlwVVZBa284VHQzY3VRZHZHWGRIOXpSa1JiMTU3cXB6N3JuSUlrcl9jbWc3bUsxUnfSAW9BVV95cUxNdUtpaWJSbHdPMkZzUkN6RDFmelBrbVlxZ0JCT0hUSXowUDdFOWloeVI0dlY4N1ZKQ2xWT2pJR3gxd0FHR3E1Qzl0enlMZlVoVG1lanBDbHlxMzV2QlR4dXBEV09RdEQ3MlA5b0RqYW8?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "羅智強當面洗臉黃暐瀚 直指他變了「有愧媒體人使命」",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE10TG5sNnVxejNrTnlHYmRSYWRQSnp5YUJtOEJhU3JvdWUwSnF4dDY5d1ktTjRYZnFENm9PdU1LdjBRMEtPMU1YSHZhTVNUdzhu0gFWQVVfeXFMTjhJNUhLX092OVBUOXNzeWR3TGNqbHVPbS1ONGlwdVd6SGhpZVYxeFJvMUMzRHdYV3JFTjJ4NFluUlRhcDAzekoxZVYzc0pSZFFSWWJXWFE?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE10TG5sNnVxejNrTnlHYmRSYWRQSnp5YUJtOEJhU3JvdWUwSnF4dDY5d1ktTjRYZnFENm9PdU1LdjBRMEtPMU1YSHZhTVNUdzhu0gFWQVVfeXFMTjhJNUhLX092OVBUOXNzeWR3TGNqbHVPbS1ONGlwdVd6SGhpZVYxeFJvMUMzRHdYV3JFTjJ4NFluUlRhcDAzekoxZVYzc0pSZFFSWWJXWFE?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "總統府：趙怡翔、李問接任國安會副秘書長",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1EUXhJMWVCUnZCQVl4aW5STWhSYVVLTVo4b3FScmw5ekF5VVRnaFVZZ0E1Z1ZfWFhNbUh6WWRTdVJzdVVJMGlyOTl0aGEtQzh4V1M3R0VvN3dXb2xaTDJV?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1EUXhJMWVCUnZCQVl4aW5STWhSYVVLTVo4b3FScmw5ekF5VVRnaFVZZ0E1Z1ZfWFhNbUh6WWRTdVJzdVVJMGlyOTl0aGEtQzh4V1M3R0VvN3dXb2xaTDJV?oc=5",
+          "text": "台海空域交鋒 疑我飛行員嗆共機：你們懂自由嗎？",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yQUpHU056eVZOcFdvb255ZGltOG5mZXhQWEFxZ01nOXZhUGVuNGo1Ny1CMTJleVBhcHNQbFh5amRNZ2lGV0psd245dGlSYl9SeDdBUDNBWVFTVVlLWFVtWtIBZkFVX3lxTE5tR0hwNjJRUHpfRDZPbGthRDFLQ24zMHpRa2pkaUxCNWlWRU0tX191RDhfUzE5el9DYzJoT3p6aUVKZ1BSUXB3UUJKTUVFZ3dCQUFUakwyVFVFOUNKSWQ5R2lfamZDdw?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yQUpHU056eVZOcFdvb255ZGltOG5mZXhQWEFxZ01nOXZhUGVuNGo1Ny1CMTJleVBhcHNQbFh5amRNZ2lGV0psd245dGlSYl9SeDdBUDNBWVFTVVlLWFVtWtIBZkFVX3lxTE5tR0hwNjJRUHpfRDZPbGthRDFLQ24zMHpRa2pkaUxCNWlWRU0tX191RDhfUzE5el9DYzJoT3p6aUVKZ1BSUXB3UUJKTUVFZ3dCQUFUakwyVFVFOUNKSWQ5R2lfamZDdw?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -218,25 +218,9 @@
           "package": ""
         },
         {
-          "text": "林口鐵皮工廠深夜大火2廠房陷火海 消防局急呼泰山五股民眾緊閉門窗",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9IM2xFN3ZoeUdVb0NlV3dXZW4xWW43QmtFTUZtSjBtUjI3MzBJSTFUUER1Ujk3aXlBOU8yNjkzbHR4cWZ3dGJabnp0ODVDdzhS?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9IM2xFN3ZoeUdVb0NlV3dXZW4xWW43QmtFTUZtSjBtUjI3MzBJSTFUUER1Ujk3aXlBOU8yNjkzbHR4cWZ3dGJabnp0ODVDdzhS?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "習近平利用峰會、閱兵和歷史展示中國影響力- 紐約時報中文網",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFByclYtMFZUTDZMRVpIQzBtWmdITWxhQ0R2MG5UcDFZZVp0UENXTF83QkxfXzVkMlJSejdsMTVzRzN3Y3E3TEVCNmNkMVVGSzVGanVmU0tXZjM2YThRb0ZISG1uNlVzRzZUbUZJUWw2RVNjY0pUVjJRMV92Ukp3QQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFByclYtMFZUTDZMRVpIQzBtWmdITWxhQ0R2MG5UcDFZZVp0UENXTF83QkxfXzVkMlJSejdsMTVzRzN3Y3E3TEVCNmNkMVVGSzVGanVmU0tXZjM2YThRb0ZISG1uNlVzRzZUbUZJUWw2RVNjY0pUVjJRMV92Ukp3QQ?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "中國九三閱兵傳金正恩蒲亭分坐習近平左右",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0tdVlNUFN1bTNHcFBad1lrNlRkUzgtRjVZdnpuNXoySmREZ01SZVc5VDBhNFpPX1RJUVRnbnFNNlh1clViMUxPa1oyZTJpU1FFNWk0Z2NHQ0U0NTFSZUE?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0tdVlNUFN1bTNHcFBad1lrNlRkUzgtRjVZdnpuNXoySmREZ01SZVc5VDBhNFpPX1RJUVRnbnFNNlh1clViMUxPa1oyZTJpU1FFNWk0Z2NHQ0U0NTFSZUE?oc=5",
+          "text": "立院新會期今報到…藍擬推李四川條款 綠有柯總召風暴待解",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE54a3FIVEFYRENSN2ZZc0k5aUdDU0NXUWNmUVNlRE1OdTRDQlB4TTJaYU40VzNBSjBBenVUa1d3VzNKR0lRTTFoMm9zcGtldWk00gFWQVVfeXFMUGdOQVdBQ3BONHVaQ0RFQ3FwdTJReUxzTlM3eTFnVDdNbmN5MVp4ME84cWxmMzdjX3BfOGJkTjVDV1hoMklKNVE2a3RJTlh0Ukg2TDZpZUE?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE54a3FIVEFYRENSN2ZZc0k5aUdDU0NXUWNmUVNlRE1OdTRDQlB4TTJaYU40VzNBSjBBenVUa1d3VzNKR0lRTTFoMm9zcGtldWk00gFWQVVfeXFMUGdOQVdBQ3BONHVaQ0RFQ3FwdTJReUxzTlM3eTFnVDdNbmN5MVp4ME84cWxmMzdjX3BfOGJkTjVDV1hoMklKNVE2a3RJTlh0Ukg2TDZpZUE?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -250,9 +234,25 @@
           "package": ""
         },
         {
-          "text": "印尼國會自肥引暴動群眾怒火蔓延財長住宅遭兩批人士洗劫| 國際焦點",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5LNlFvMVRmcjhacDdNM3NhMFpGbWN0cG5WSjJENkg4T1FNRlNJRHF0akdTMVVUczRfcS00Ujdhc0hCT1VoTWVVdHBoakgyQXpq?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5LNlFvMVRmcjhacDdNM3NhMFpGbWN0cG5WSjJENkg4T1FNRlNJRHF0akdTMVVUczRfcS00Ujdhc0hCT1VoTWVVdHBoakgyQXpq?oc=5",
+          "text": "印尼反政府示威釀死總統稱各政黨同意削減國會議員福利",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBxbjNCbkVSUmZKT2JSYXpNa1lQMllCaFJCMDdDM0FCdGV0U2N4UGJlQ0lCMTFtaW5jSFBIdy10a3dlel9vZ3FKODZ1UlM2YkFVeE9ocWlZX2Y2XzlXWTRr?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBxbjNCbkVSUmZKT2JSYXpNa1lQMllCaFJCMDdDM0FCdGV0U2N4UGJlQ0lCMTFtaW5jSFBIdy10a3dlel9vZ3FKODZ1UlM2YkFVeE9ocWlZX2Y2XzlXWTRr?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "大韓航空班機延誤竟因「空服員集體遲到」　270乘客收簡訊氣炸",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9EM19HMXAzWnV5TTJGTy01R2RPei1lZUxMOTgzcjlGaFd3RzF0TzcyWTgwWGM0TFo1ZXIyc04tbkFVU2ZVWXFsNy1Tb3hmWW9jemxwdlV2eXF2VjRib2fSAWhBVV95cUxNbGx5ZHg1VlQ5SnhmTUtCSG1FblpZMnZ1RFJsZjZyRFlGTzI5Q2c5TUlxZ1VCdXV6cUdNNXZwckpHeGNPb3BaRndXenZuQWkyc2ZlaUNkMHVDSmdlakVQMF9qLUFCdHNxYg?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9EM19HMXAzWnV5TTJGTy01R2RPei1lZUxMOTgzcjlGaFd3RzF0TzcyWTgwWGM0TFo1ZXIyc04tbkFVU2ZVWXFsNy1Tb3hmWW9jemxwdlV2eXF2VjRib2fSAWhBVV95cUxNbGx5ZHg1VlQ5SnhmTUtCSG1FblpZMnZ1RFJsZjZyRFlGTzI5Q2c5TUlxZ1VCdXV6cUdNNXZwckpHeGNPb3BaRndXenZuQWkyc2ZlaUNkMHVDSmdlakVQMF9qLUFCdHNxYg?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "川普對等關稅再遭判違法、台美談判生變？鄭麗君回應了| 財經焦點",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAtaEJZZGxySTZjLW5pWTVTY0plZENMcmlnQ29IZDR6WEY5bG41TExvVXhUUUtkQlVCUVpJREZVOWg0SXdKeHZuU29QXzBzSFJM?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAtaEJZZGxySTZjLW5pWTVTY0plZENMcmlnQ29IZDR6WEY5bG41TExvVXhUUUtkQlVCUVpJREZVOWg0SXdKeHZuU29QXzBzSFJM?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -273,6 +273,6 @@
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 30,
+  "cost": 40,
   "status": 0
 }
