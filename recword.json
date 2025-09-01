@@ -226,6 +226,14 @@
           "package": ""
         },
         {
+          "text": "阿富汗規模6地震釀逾800死 3年多來最致命震災",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05bkNJblhQMVRTWUtOdkgyVU5RT3dRN3FzNm5NcmptNzdVLWtqbkl3YnBoM1czQ0RQVTFTZFVmRkJ4N2lydGhKdVB2RnhpNDdUdlg5cEtXLXhVM0ItRUw4?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05bkNJblhQMVRTWUtOdkgyVU5RT3dRN3FzNm5NcmptNzdVLWtqbkl3YnBoM1czQ0RQVTFTZFVmRkJ4N2lydGhKdVB2RnhpNDdUdlg5cEtXLXhVM0ItRUw4?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
           "text": "印度對美高關稅擬降至0％？川普：為時已晚",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9oZ2UyMkpmN0k1ZzJSQmZpUGk1WmVnNnQzV29MdUl1Y0RqOTROQzh3ZURHQmNqakdWVkdmODlDUW50aHAzN0V3cm5QR0Vnbjg5NG1mOU4wX0VsamZzUlZB0gFkQVVfeXFMTnhTR1ZZekRqMlZtRXBfZjU0SlJQd1NKLUZDaTF5YXVWS3l5VEV0NHl2UGdaZEtXcmFoQUQxNENZQVRNNDdwQUZUWUIyWlMyNFdyUXlhTTRwai0xdFdwLURtcllfdg?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9oZ2UyMkpmN0k1ZzJSQmZpUGk1WmVnNnQzV29MdUl1Y0RqOTROQzh3ZURHQmNqakdWVkdmODlDUW50aHAzN0V3cm5QR0Vnbjg5NG1mOU4wX0VsamZzUlZB0gFkQVVfeXFMTnhTR1ZZekRqMlZtRXBfZjU0SlJQd1NKLUZDaTF5YXVWS3l5VEV0NHl2UGdaZEtXcmFoQUQxNENZQVRNNDdwQUZUWUIyWlMyNFdyUXlhTTRwai0xdFdwLURtcllfdg?oc=5",
@@ -250,14 +258,6 @@
           "package": ""
         },
         {
-          "text": "阿富汗規模6地震釀逾800死 3年多來最致命震災",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05bkNJblhQMVRTWUtOdkgyVU5RT3dRN3FzNm5NcmptNzdVLWtqbkl3YnBoM1czQ0RQVTFTZFVmRkJ4N2lydGhKdVB2RnhpNDdUdlg5cEtXLXhVM0ItRUw4?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05bkNJblhQMVRTWUtOdkgyVU5RT3dRN3FzNm5NcmptNzdVLWtqbkl3YnBoM1czQ0RQVTFTZFVmRkJ4N2lydGhKdVB2RnhpNDdUdlg5cEtXLXhVM0ItRUw4?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
           "text": "〈台股盤後〉鴻海跌破200元 台積電拉尾盤仍跌161點 摜破月線險守2萬4",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBHMndmeHdIM0hibzZjQ1ctU0l3d3BzTmU5OFVXZzlUX1NDOTNUNk9yam9xVEFzdDhsLV9aS1JWN054WVBHN2RiUjUtRFAtMzA?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBHMndmeHdIM0hibzZjQ1ctU0l3d3BzTmU5OFVXZzlUX1NDOTNUNk9yam9xVEFzdDhsLV9aS1JWN054WVBHN2RiUjUtRFAtMzA?oc=5",
@@ -273,6 +273,6 @@
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 14,
+  "cost": 17,
   "status": 0
 }
