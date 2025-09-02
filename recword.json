@@ -55,15 +55,7 @@
           "package": ""
         },
         {
-          "text": "利空衝擊 美股開盤全面重挫",
-          "url": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E6%97%A9%E7%9B%A4-9%E6%9C%88%E9%A6%96%E6%97%A5%E5%A4%B1%E5%88%A9-%E9%97%9C%E7%A8%85%E7%96%91%E6%85%AE%E8%88%87%E7%BE%8E%E5%82%B5%E6%AE%96%E5%88%A9%E7%8E%87%E4%B8%8A%E6%8F%9A-%E4%B8%BB%E8%A6%81%E6%8C%87%E6%95%B8%E9%BD%8A%E6%8C%AB-134643884.html",
-          "h5_url": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E6%97%A9%E7%9B%A4-9%E6%9C%88%E9%A6%96%E6%97%A5%E5%A4%B1%E5%88%A9-%E9%97%9C%E7%A8%85%E7%96%91%E6%85%AE%E8%88%87%E7%BE%8E%E5%82%B5%E6%AE%96%E5%88%A9%E7%8E%87%E4%B8%8A%E6%8F%9A-%E4%B8%BB%E8%A6%81%E6%8C%87%E6%95%B8%E9%BD%8A%E6%8C%AB-134643884.html",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_yahoo",
-          "package": ""
-        },
-        {
-          "text": "美禁令掃到南京廠 台積ADR急跌",
+          "text": "美國撤銷南京廠豁免 台積電證實",
           "url": "https://tw.news.yahoo.com/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%8D%97%E4%BA%AC%E5%BB%A0%E9%81%AD%E7%BE%8E%E5%9C%8B%E5%8F%96%E6%B6%88%E9%81%8B%E9%80%81%E8%A8%B1%E5%8F%AF-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%9C%A8%E7%B4%90%E7%B4%84%E8%82%A1%E5%83%B9%E4%B8%8B%E8%B7%8C%E9%80%BE2-133938295.html",
           "h5_url": "https://tw.news.yahoo.com/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%8D%97%E4%BA%AC%E5%BB%A0%E9%81%AD%E7%BE%8E%E5%9C%8B%E5%8F%96%E6%B6%88%E9%81%8B%E9%80%81%E8%A8%B1%E5%8F%AF-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%9C%A8%E7%B4%90%E7%B4%84%E8%82%A1%E5%83%B9%E4%B8%8B%E8%B7%8C%E9%80%BE2-133938295.html",
           "appIconUrl": "",
@@ -133,6 +125,14 @@
           "appIconUrl": "",
           "sourceUniqueId": "content_yahoo",
           "package": ""
+        },
+        {
+          "text": "闢謠 數發部：國內海纜均正常運作",
+          "url": "https://tw.news.yahoo.com/%E7%B6%B2%E5%82%B3%E5%A4%9A%E6%A2%9D%E6%B5%B7%E7%BA%9C%E4%B8%AD%E6%96%B7%EF%BC%9F-%E6%95%B8%E7%99%BC%E9%83%A8%E6%BE%84%E6%B8%85%EF%BC%9A%E5%9C%8B%E5%85%A7%E6%B5%B7%E7%BA%9C%E5%9D%87%E6%AD%A3%E5%B8%B8%E9%81%8B%E4%BD%9C-%E5%B0%8D%E5%A4%96%E9%80%A3%E7%B6%B2%E4%B8%8D%E5%8F%97%E5%BD%B1%E9%9F%BF-103039784.html",
+          "h5_url": "https://tw.news.yahoo.com/%E7%B6%B2%E5%82%B3%E5%A4%9A%E6%A2%9D%E6%B5%B7%E7%BA%9C%E4%B8%AD%E6%96%B7%EF%BC%9F-%E6%95%B8%E7%99%BC%E9%83%A8%E6%BE%84%E6%B8%85%EF%BC%9A%E5%9C%8B%E5%85%A7%E6%B5%B7%E7%BA%9C%E5%9D%87%E6%AD%A3%E5%B8%B8%E9%81%8B%E4%BD%9C-%E5%B0%8D%E5%A4%96%E9%80%A3%E7%B6%B2%E4%B8%8D%E5%8F%97%E5%BD%B1%E9%9F%BF-103039784.html",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_yahoo",
+          "package": ""
         }
       ],
       "selectedStatus": false,
@@ -162,17 +162,17 @@
           "package": ""
         },
         {
-          "text": "持續飄揚的草帽海賊旗：印尼抗爭全國蔓延，軍警鎮壓能解決政治不滿？",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90VXRERDdWZkJ4dkczd1NsVF9UQXRrMDFjelo5NDNOdC10WE56b0ZDY1FpQzBFVUdtSlctNjdnaHBCeW5sT01yMUdZVVY4cHNublFPZTA2Mkp4R0I0YXZ5ZnZJWVFCd9IBa0FVX3lxTE82NDYtVXUzOFR0NmREQ095UnZRdjJXMVlfb0xKcVV6STh1VFgzdDhCQ05Ddkp5a0JLYWRhWWplMUJ4MmJveFI5LVNEdkI2Wlp0Q2g1RnE0NHNIZWJuekVIbEhrSWlaeVBhUDZj?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90VXRERDdWZkJ4dkczd1NsVF9UQXRrMDFjelo5NDNOdC10WE56b0ZDY1FpQzBFVUdtSlctNjdnaHBCeW5sT01yMUdZVVY4cHNublFPZTA2Mkp4R0I0YXZ5ZnZJWVFCd9IBa0FVX3lxTE82NDYtVXUzOFR0NmREQ095UnZRdjJXMVlfb0xKcVV6STh1VFgzdDhCQ05Ddkp5a0JLYWRhWWplMUJ4MmJveFI5LVNEdkI2Wlp0Q2g1RnE0NHNIZWJuekVIbEhrSWlaeVBhUDZj?oc=5",
+          "text": "印尼騷亂：送貨司機之死如何引發民眾對政府持久的不滿",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE40NGdIR3dSeDN3eE1hNm4wQ1lfOWFJVmF0OWZLMVd6QjhDLV8ycjZEbFlqN2JUQ2ZmTjNEMDUtQ1VabkZ2bXZqVEFYSm9KeTl2czlSbmpvWF9IdjgxNjZLQVd2Vklmd9IBa0FVX3lxTFBaVFhjaEFVZWkzVGx5Q1BnRGFCWTFFOXRwaklJZ2kwdzZ0dEZrUHpkSFNXMHctR0FnMEZpZGxIVW1nRjVJdm42MHBUc2xZZEJDaFAwb3ctam9scm16UWRJcmtwWGVjNkxTc1NB?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE40NGdIR3dSeDN3eE1hNm4wQ1lfOWFJVmF0OWZLMVd6QjhDLV8ycjZEbFlqN2JUQ2ZmTjNEMDUtQ1VabkZ2bXZqVEFYSm9KeTl2czlSbmpvWF9IdjgxNjZLQVd2Vklmd9IBa0FVX3lxTFBaVFhjaEFVZWkzVGx5Q1BnRGFCWTFFOXRwaklJZ2kwdzZ0dEZrUHpkSFNXMHctR0FnMEZpZGxIVW1nRjVJdm42MHBUc2xZZEJDaFAwb3ctam9scm16UWRJcmtwWGVjNkxTc1NB?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "中華電信嚴正澄清：海纜並無斷線",
-          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQODZOUVlLMlEwYjAwWnN5Nk5ZcXl1dW1XMGNGUFY2S190WGxjbXAydm13R1dFanlIZTMwaFZXTWlkSHc1RUZXMnpEeVFrN3kwN1dXT2VKRE1oUk9ya1c0cC13RXNCNjFvZ0tlVHVDS0szNDM4Rmc0X3VsNF93VVlNYmMtSGdvWHVUMHZ4dHZYWnFZdlRFckkzQ0NzVmM0XzF3dGhZMVJkN1RlVXBkLU8xRVh1QXRscjNSRGlVQ2diN2ZfbGZVa0RiT0J5WUpuWjVNRjh0bDNvRWdac1ZvbXpoTk5GbEZvb1hiT2JqdGZBZTAwQnAtSGZibFhSSEU?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQODZOUVlLMlEwYjAwWnN5Nk5ZcXl1dW1XMGNGUFY2S190WGxjbXAydm13R1dFanlIZTMwaFZXTWlkSHc1RUZXMnpEeVFrN3kwN1dXT2VKRE1oUk9ya1c0cC13RXNCNjFvZ0tlVHVDS0szNDM4Rmc0X3VsNF93VVlNYmMtSGdvWHVUMHZ4dHZYWnFZdlRFckkzQ0NzVmM0XzF3dGhZMVJkN1RlVXBkLU8xRVh1QXRscjNSRGlVQ2diN2ZfbGZVa0RiT0J5WUpuWjVNRjh0bDNvRWdac1ZvbXpoTk5GbEZvb1hiT2JqdGZBZTAwQnAtSGZibFhSSEU?oc=5",
+          "text": "同時9條海底電纜斷了？賴總統Threads發文：上網、通話都沒問題",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBTME5fV1JOLWNyQXpGLTQtSXNvaGY0NjRRQWJmbXJZVnV1NThtcV9nWGc3dmN3TDlodlJ0Ty1CRWJQVnB0dmkyVklwTXo3Q1Vw0gFWQVVfeXFMT3FGbDlXZVEyaUFkd01TSmdHNXRaaUE2Wlh2SzJKeUVPblRvTk9ua2JjeW9wSkpWQ255aDYtYlZZN2RSSDhyN3pHZmRncW5mQWtnNGFwWlE?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBTME5fV1JOLWNyQXpGLTQtSXNvaGY0NjRRQWJmbXJZVnV1NThtcV9nWGc3dmN3TDlodlJ0Ty1CRWJQVnB0dmkyVklwTXo3Q1Vw0gFWQVVfeXFMT3FGbDlXZVEyaUFkd01TSmdHNXRaaUE2Wlh2SzJKeUVPblRvTk9ua2JjeW9wSkpWQ255aDYtYlZZN2RSSDhyN3pHZmRncW5mQWtnNGFwWlE?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -186,9 +186,9 @@
           "package": ""
         },
         {
-          "text": "婦包水餃右手遭捲入絞肉機 無呼吸心跳送醫搶救不治",
-          "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxPVU1yS2xQRmNsei12OWR6NTRmY0U3YmFmSWE2TGFKTFpJUGJXcW1yZkFnNVFnTjZfckszcWpzdm5hR1RNY09mNmVwYjFzN0s1R1g5TmEtMTVXOFNqbVlkd0dFS1AtUG5vRmNNSGtjN1A1X013Z1IybjlGa01rQjlhRVZCTHA0bDFrOHE2Slc4dEZDVFYzQ3k0ME1QM1N3LU5GOEI5Nm1ENGFZdEYycURiRGRBS0N2bU0yOW1yRzNLQ3htbjRKOG5BeE9CcDFwSG4wN0c4XzR1M3pZNG05NE0zMWphRjNnMTVtWS1qOW9KQUh3NE9YUi1PVWJxbmVjZURpQ2E3TldaOWJsbWpRTG84WGhJVl9xbkFwQkNjWGJPc0VkRUxkakg5REpJbjJEWHlBWENINVlETjVCb3p5eTJoWXMyWmlOZ2xwTlZOclFDcG5DRnl1bzlTX3dJaHI1OUpORFNxOTlwdEQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxPVU1yS2xQRmNsei12OWR6NTRmY0U3YmFmSWE2TGFKTFpJUGJXcW1yZkFnNVFnTjZfckszcWpzdm5hR1RNY09mNmVwYjFzN0s1R1g5TmEtMTVXOFNqbVlkd0dFS1AtUG5vRmNNSGtjN1A1X013Z1IybjlGa01rQjlhRVZCTHA0bDFrOHE2Slc4dEZDVFYzQ3k0ME1QM1N3LU5GOEI5Nm1ENGFZdEYycURiRGRBS0N2bU0yOW1yRzNLQ3htbjRKOG5BeE9CcDFwSG4wN0c4XzR1M3pZNG05NE0zMWphRjNnMTVtWS1qOW9KQUh3NE9YUi1PVWJxbmVjZURpQ2E3TldaOWJsbWpRTG84WGhJVl9xbkFwQkNjWGJPc0VkRUxkakg5REpJbjJEWHlBWENINVlETjVCb3p5eTJoWXMyWmlOZ2xwTlZOclFDcG5DRnl1bzlTX3dJaHI1OUpORFNxOTlwdEQ?oc=5",
+          "text": "「九三」閱兵看點：中國軍事實力和威權領袖「朋友圈」",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE00cTl0dW9xRFRFSy0tdFM5Z0Rxc05RclViMXRJcDFWTjhTUEhZRUFUU0JDdlNPd1oycnZCb2IyVFlzM1c0TEl6SHVzemZqa1VLUXN3Zlk5cUQyWkpBajNxSm1hM0VRRmRrYzYyakctSnNURUI4Q0pNUA?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE00cTl0dW9xRFRFSy0tdFM5Z0Rxc05RclViMXRJcDFWTjhTUEhZRUFUU0JDdlNPd1oycnZCb2IyVFlzM1c0TEl6SHVzemZqa1VLUXN3Zlk5cUQyWkpBajNxSm1hM0VRRmRrYzYyakctSnNURUI4Q0pNUA?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -218,41 +218,41 @@
           "package": ""
         },
         {
-          "text": "天氣預報》新颱風琵琶恐生成！路徑大迴轉「今起雷雨狂炸」，本周天氣一次看",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9fTEtGSmxoYXJXSl9QWURoR0VPQ245dV9yWjlyY1pHa2pLSVBuZWFtdTJJZ1o4QVktOWFrazNXMHYxYXAtWVV3aEVIN2d5ZkNh?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9fTEtGSmxoYXJXSl9QWURoR0VPQ245dV9yWjlyY1pHa2pLSVBuZWFtdTJJZ1o4QVktOWFrazNXMHYxYXAtWVV3aEVIN2d5ZkNh?oc=5",
+          "text": "114年國慶主視覺藍白紅呈現字樣融中華民國與台灣",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA5ZFF2aTVQMktKQVpsSkhVMUxZRGo1MkNPWml2NVc5NWRzbEg3VGJUN3RNS2VzOHJPYWhfbzdZLXRXZHo4aVZzT01zV0FqQkhQbXBTNjJiQ29JVi1PaHpr?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA5ZFF2aTVQMktKQVpsSkhVMUxZRGo1MkNPWml2NVc5NWRzbEg3VGJUN3RNS2VzOHJPYWhfbzdZLXRXZHo4aVZzT01zV0FqQkhQbXBTNjJiQ29JVi1PaHpr?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "金正恩已乘坐防彈火車跨越邊境進入中國，朝鮮領導人70年來首次參加中國閱兵",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yUGoyLVlOSVF0ZmZseTcyajNGV3pVWXppMmJnUFI2YW1FLTdxZ3YwUTRsN3ZMLXhwLXMyeUo5SXNzenA1bHFXc2xLX3VCTy0xeU9RQmVIbTlqZmtjWVBZSEI0djVBUdIBa0FVX3lxTE9aSDF2REdDRHJJTS1mVWVJSUtuamh2cXhscDd6aVYwcFBuZEo5eTVpN3hnaWkxcjNlQm4yX0J2RV9jYVBMdW03RGdudTNDcjVkS2QxMzI0bkhOZllMbVpPTzRTV09VVjUxTG44?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yUGoyLVlOSVF0ZmZseTcyajNGV3pVWXppMmJnUFI2YW1FLTdxZ3YwUTRsN3ZMLXhwLXMyeUo5SXNzenA1bHFXc2xLX3VCTy0xeU9RQmVIbTlqZmtjWVBZSEI0djVBUdIBa0FVX3lxTE9aSDF2REdDRHJJTS1mVWVJSUtuamh2cXhscDd6aVYwcFBuZEo5eTVpN3hnaWkxcjNlQm4yX0J2RV9jYVBMdW03RGdudTNDcjVkS2QxMzI0bkhOZllMbVpPTzRTV09VVjUxTG44?oc=5",
+          "text": "美媒盤點九三閱兵軍事看點 西方專家：檢驗中共戰力或扯淡？",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1EeWpOTHhyaW1YQlBnOTM1djdTMnRJcTZZa1F5TXVFOHA2VndPdVJTX19tYXhWeFJ2V2hLT0Y3NEIySzhtU0pHUVdYR194MFVP0gFWQVVfeXFMUHRYYU1lSDBpaDZvRU1VODlwZWJsMVdVX1Z6dWxqWW9Vc09FVVk5Rk50b0RZLXNzYmcwZTRpVXhURElDdkNwX1RlbFU0ZTg5LXoxZ2RoVHc?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1EeWpOTHhyaW1YQlBnOTM1djdTMnRJcTZZa1F5TXVFOHA2VndPdVJTX19tYXhWeFJ2V2hLT0Y3NEIySzhtU0pHUVdYR194MFVP0gFWQVVfeXFMUHRYYU1lSDBpaDZvRU1VODlwZWJsMVdVX1Z6dWxqWW9Vc09FVVk5Rk50b0RZLXNzYmcwZTRpVXhURElDdkNwX1RlbFU0ZTg5LXoxZ2RoVHc?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "普丁經過天安門廣場 專車罕見換上中國車牌",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9JLUttd3VvZ0F3N05mSUZlTGlXSmd5clMzSHpaLUllSzlGN0JHNXpQZElCSUVsREVpVDE5Ujg4OEk1Mld3NDNucjBySURaZTg?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9JLUttd3VvZ0F3N05mSUZlTGlXSmd5clMzSHpaLUllSzlGN0JHNXpQZElCSUVsREVpVDE5Ujg4OEk1Mld3NDNucjBySURaZTg?oc=5",
+          "text": "從莫迪到金正恩 普丁將「車輪外交」駛向中國",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9JQXU5dXYwMWVtRXE1dzBqc2Y0b0ZUZGt3a0lKY3FlZ0RCRzFiXzgwNXF3WjdOcFFocVo4UDllcmpSbWFIb2p3NnRxcG80WGs?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9JQXU5dXYwMWVtRXE1dzBqc2Y0b0ZUZGt3a0lKY3FlZ0RCRzFiXzgwNXF3WjdOcFFocVo4UDllcmpSbWFIb2p3NnRxcG80WGs?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "泰國總理貝東塔下台 前女國會議員「裸體跳舞」還願慶祝",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE40RlRwTG1fOUhMVWdXb3o3ZkxfYnBPY0NRTzV4MWRZTkZlSHFRb0FPaTNWTVYwekM2cHFhdk9GTXdfM25TeWdZODhFRVZjOFdhYUdUTWhablBUc0Zia01RUm5qaVJmUdIBa0FVX3lxTE9ZeElodEJFakFpYzRpTUJNRDZ6OFZSenlUOUdYUjBBemdKR1p1VjBVZThrQ1pWSWlGRXJZZVhHSWZYSGJ0N2FNU3ktY2hQOWNhVGozTmtIVk9XS2tUZDlxbXRHY1lvVkNwelQ4?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE40RlRwTG1fOUhMVWdXb3o3ZkxfYnBPY0NRTzV4MWRZTkZlSHFRb0FPaTNWTVYwekM2cHFhdk9GTXdfM25TeWdZODhFRVZjOFdhYUdUTWhablBUc0Zia01RUm5qaVJmUdIBa0FVX3lxTE9ZeElodEJFakFpYzRpTUJNRDZ6OFZSenlUOUdYUjBBemdKR1p1VjBVZThrQ1pWSWlGRXJZZVhHSWZYSGJ0N2FNU3ktY2hQOWNhVGozTmtIVk9XS2tUZDlxbXRHY1lvVkNwelQ4?oc=5",
+          "text": "中俄20多項合作簽約 西伯利亞二號線有望落實",
+          "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPbGZxcFdNU1NTaktpcFpmendOenRuaGQybG5yWDVaUEVVelRvQnVKbEktMkU3UV85cTB4MWdoT09SZHRRYnVWT21tRko0eDRCYVBwaG9Jdzhod2M3eUo5a2M5eWtUY3dtMm9FOHlTQjl2Z2w4bGEzN3YtZHZZVUpFR0hZd0g2LUJ3ZWExb202dE1RVm5PTTRma21idEZNaXVhV2VHZnVMMzNYYUZEa0w1d3JFYkg0ckZmbF9ZMnRzUVJ5N0NBWE5rRjl5N0p5RFhkU1p1Z3ozSkJyekZWNC1DWkVRWG1PLVd2dDVKTWR6UWJlc3Zxb3Y5NTh4LWQ5LWt0SkdsSVdMQXRtY00zQ3dSTXhUaFpBMWsxMkhtcDJ0NUdYNE8tQVBwZ2JncW05TmlQS2FqVnJ1dmhqczg?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPbGZxcFdNU1NTaktpcFpmendOenRuaGQybG5yWDVaUEVVelRvQnVKbEktMkU3UV85cTB4MWdoT09SZHRRYnVWT21tRko0eDRCYVBwaG9Jdzhod2M3eUo5a2M5eWtUY3dtMm9FOHlTQjl2Z2w4bGEzN3YtZHZZVUpFR0hZd0g2LUJ3ZWExb202dE1RVm5PTTRma21idEZNaXVhV2VHZnVMMzNYYUZEa0w1d3JFYkg0ckZmbF9ZMnRzUVJ5N0NBWE5rRjl5N0p5RFhkU1p1Z3ozSkJyekZWNC1DWkVRWG1PLVd2dDVKTWR6UWJlc3Zxb3Y5NTh4LWQ5LWt0SkdsSVdMQXRtY00zQ3dSTXhUaFpBMWsxMkhtcDJ0NUdYNE8tQVBwZ2JncW05TmlQS2FqVnJ1dmhqczg?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "快訊／全日空班機疑故障進入緊急狀態 返回羽田機場",
-          "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxORk52c3AzY08ycGdIMHhReGtfb2lzSkRxVUZ5a3FvOVcwRHltUmZ5YXo0SFRCV24tTVdOaFFfRlA5N0tGQVlCN3JLaC1vUU13Y1NtUGRPMUtfdVBxeGxBXzg4bkswWW1VTm16SklBTk5kUGtZVUVqcmJiOEJobS1KWlMyd2hmT1UtaThKdlZOT05lUUU4NVZnT3RwUmhxekMzNi1GZTQxLXVZcU53UDJtc3djdWhpQlBPSkxMZ19veE9JN0Z3NHZnckVfenEyMXpVYkVSV1V0cWd4dGtiOFRqcEJtNWNIY1RVUGp6VENtMXl6R09aYjJsZnVvb2ktdnlPcVQ2VjVmZkloYjFRa3ZxZ0N5LU5jdmVUT2NzTDdzRXNtb0dQUHY5eUs0S2VqQUJ6RDZqSVBJYTRCdU9aZHlPSWN0RmVyN21JOXpOcDE4T1FkVnlNb2Rzb3huYm1GZw?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxORk52c3AzY08ycGdIMHhReGtfb2lzSkRxVUZ5a3FvOVcwRHltUmZ5YXo0SFRCV24tTVdOaFFfRlA5N0tGQVlCN3JLaC1vUU13Y1NtUGRPMUtfdVBxeGxBXzg4bkswWW1VTm16SklBTk5kUGtZVUVqcmJiOEJobS1KWlMyd2hmT1UtaThKdlZOT05lUUU4NVZnT3RwUmhxekMzNi1GZTQxLXVZcU53UDJtc3djdWhpQlBPSkxMZ19veE9JN0Z3NHZnckVfenEyMXpVYkVSV1V0cWd4dGtiOFRqcEJtNWNIY1RVUGp6VENtMXl6R09aYjJsZnVvb2ktdnlPcVQ2VjVmZkloYjFRa3ZxZ0N5LU5jdmVUT2NzTDdzRXNtb0dQUHY5eUs0S2VqQUJ6RDZqSVBJYTRCdU9aZHlPSWN0RmVyN21JOXpOcDE4T1FkVnlNb2Rzb3huYm1GZw?oc=5",
+          "text": "快訊／聯合航空客機「宣布緊急狀態」！　引擎異常掉頭返航羽田",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJUWhpYzV6OTU3ckwyRGVIUlVHNE5BSXVHRmkya0FIXzAtNzA2N2poenZUREEwSVBLY1l0NXdibkhWdS0tZE1XQWs0THczVFpDdjFUb3BIVVctZ1U2ZkHSAWhBVV95cUxNeXN5MUs1QzlRQXBVU3dGeFBsTl8xT2JRYUNVSWc2UEt6cmVEUTJ6dlAwbmhkQVZ5TzhoVDQtVTZlZFpBZGZVdE1wR1luTG5EQ0VZYUJLV01mWjlrREIxSFZDUVFrUlJoTw?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJUWhpYzV6OTU3ckwyRGVIUlVHNE5BSXVHRmkya0FIXzAtNzA2N2poenZUREEwSVBLY1l0NXdibkhWdS0tZE1XQWs0THczVFpDdjFUb3BIVVctZ1U2ZkHSAWhBVV95cUxNeXN5MUs1QzlRQXBVU3dGeFBsTl8xT2JRYUNVSWc2UEt6cmVEUTJ6dlAwbmhkQVZ5TzhoVDQtVTZlZFpBZGZVdE1wR1luTG5EQ0VZYUJLV01mWjlrREIxSFZDUVFrUlJoTw?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -273,6 +273,6 @@
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 18,
+  "cost": 38,
   "status": 0
 }
