@@ -15,14 +15,6 @@
       "link_type": "app",
       "data": [
         {
-          "text": "iPhone 17價格",
-          "url": "https://tw.search.yahoo.com/search?p=iPhone+17%E5%83%B9%E6%A0%BC&amp;fr=ush-bt1",
-          "h5_url": "https://tw.search.yahoo.com/search?p=iPhone+17%E5%83%B9%E6%A0%BC&amp;fr=ush-bt1",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_yahoo",
-          "package": ""
-        },
-        {
           "text": "8/23罷免核三公投",
           "url": "https://tw.news.yahoo.com/topic/recall/",
           "h5_url": "https://tw.news.yahoo.com/topic/recall/",
@@ -96,8 +88,8 @@
         },
         {
           "text": "下班注意 苗栗等5縣市大雨特報",
-          "url": "https://tw.news.yahoo.com/%E4%B8%8B%E7%8F%AD%E6%B3%A8%E6%84%8F%EF%BC%815%E7%B8%A3%E5%B8%82%E5%A4%A7%E9%9B%A8%E7%89%B9%E5%A0%B1-%E5%BD%B0%E5%8C%96%E5%8D%97%E6%8A%95%E9%9B%B2%E6%9E%97%E9%98%B2%E5%A4%A7%E9%9B%B7%E9%9B%A8-094631553.html",
-          "h5_url": "https://tw.news.yahoo.com/%E4%B8%8B%E7%8F%AD%E6%B3%A8%E6%84%8F%EF%BC%815%E7%B8%A3%E5%B8%82%E5%A4%A7%E9%9B%A8%E7%89%B9%E5%A0%B1-%E5%BD%B0%E5%8C%96%E5%8D%97%E6%8A%95%E9%9B%B2%E6%9E%97%E9%98%B2%E5%A4%A7%E9%9B%B7%E9%9B%A8-094631553.html",
+          "url": "https://tw.news.yahoo.com/%E4%B8%8B%E7%8F%AD%E6%B3%A8%E6%84%8F%EF%BC%815%E7%B8%A3%E5%B8%82%E5%A4%A7%E9%9B%A8%E7%89%B9%E5%A0%B1-094631317.html",
+          "h5_url": "https://tw.news.yahoo.com/%E4%B8%8B%E7%8F%AD%E6%B3%A8%E6%84%8F%EF%BC%815%E7%B8%A3%E5%B8%82%E5%A4%A7%E9%9B%A8%E7%89%B9%E5%A0%B1-094631317.html",
           "appIconUrl": "",
           "sourceUniqueId": "content_yahoo",
           "package": ""
@@ -133,6 +125,14 @@
           "appIconUrl": "",
           "sourceUniqueId": "content_yahoo",
           "package": ""
+        },
+        {
+          "text": "羅一鈞掌疾管署 曝上任第一要務",
+          "url": "https://tw.news.yahoo.com/%E5%9C%8B%E6%B0%91%E5%A5%B3%E5%A9%BF-%E7%BE%85-%E9%88%9E%E6%8E%A5%E4%BB%BB%E7%96%BE%E7%AE%A1%E7%BD%B2%E9%95%B7-%E6%9B%9D%E4%B8%8A%E4%BB%BB%E5%BE%8C%E7%AC%AC-%E8%A6%81%E5%8B%99-083439258.html",
+          "h5_url": "https://tw.news.yahoo.com/%E5%9C%8B%E6%B0%91%E5%A5%B3%E5%A9%BF-%E7%BE%85-%E9%88%9E%E6%8E%A5%E4%BB%BB%E7%96%BE%E7%AE%A1%E7%BD%B2%E9%95%B7-%E6%9B%9D%E4%B8%8A%E4%BB%BB%E5%BE%8C%E7%AC%AC-%E8%A6%81%E5%8B%99-083439258.html",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_yahoo",
+          "package": ""
         }
       ],
       "selectedStatus": false,
@@ -154,17 +154,17 @@
           "package": ""
         },
         {
-          "text": "財劃法「分母寫錯」大出包　藍白16首長明1400北市合開記者會",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBhMnI0aGVuRThtTEZjUXY4Y0VzMF9XRWJBZHlYY1FYOURZUlN1SHQ3bS1MMXpHbTh4QTZxWXY3WkhydEpBUUxOS1kwbTR5V09NRW5wTWhaZG9OZHhOX2fSAWhBVV95cUxOM0FGSmN0V0V3clhWQzdjUTFEMXBTcEM1UE9FMmRNZFlIa3dtdEtnZVMzcHlvUlE5d1M2eWNQVHZLMFRCcHNiQW1Fc0NiNU5VcFQ1S1ladEZaWlZiQ1JrSEFfdlZ4eDdlNQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBhMnI0aGVuRThtTEZjUXY4Y0VzMF9XRWJBZHlYY1FYOURZUlN1SHQ3bS1MMXpHbTh4QTZxWXY3WkhydEpBUUxOS1kwbTR5V09NRW5wTWhaZG9OZHhOX2fSAWhBVV95cUxOM0FGSmN0V0V3clhWQzdjUTFEMXBTcEM1UE9FMmRNZFlIa3dtdEtnZVMzcHlvUlE5d1M2eWNQVHZLMFRCcHNiQW1Fc0NiNU5VcFQ1S1ladEZaWlZiQ1JrSEFfdlZ4eDdlNQ?oc=5",
+          "text": "盧秀燕揪藍白16縣市明天北上發聲 籲中央統籌款、補助款要公開、公平",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA1aENnbEFPbVdIdGJ3d19CUDRfUjJtcUpzZHFRSXE5V1FvenRELU9XdVlkWFVlaWIzM0dOVllkMmhuRDgyRC1UanltcGV5ZllT0gFWQVVfeXFMUG1Ca2xOZFE1Z2RGMGJfQTh3Qk45LUlNZ1lxWXBxa0s5VF9ydERBUE5Cb3lTWWYzMW90eGxMUXJwMWVWUU54V01lV25JN09abDZ0VGJsd0E?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA1aENnbEFPbVdIdGJ3d19CUDRfUjJtcUpzZHFRSXE5V1FvenRELU9XdVlkWFVlaWIzM0dOVllkMmhuRDgyRC1UanltcGV5ZllT0gFWQVVfeXFMUG1Ca2xOZFE1Z2RGMGJfQTh3Qk45LUlNZ1lxWXBxa0s5VF9ydERBUE5Cb3lTWWYzMW90eGxMUXJwMWVWUU54V01lV25JN09abDZ0VGJsd0E?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "稱國民黨最需要的不是分裂 張雅屏宣布退出黨主席選舉",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5feTJ2Z3ZPYXNfMWx2WUtXbGRkYklhWGNMbVVTTy0zdGpzMUEwS2pxbHZLeVIwcEt4NzlhNUQ2Y0hJYkc2clFieDhCRndzemZmZGQw0gFYQVVfeXFMT19lTHdnYkltaUF0LXhuMnluM2dmSjk5eFg5M1VqRmowWFBIQWtSS3gzSnpIVzJna0NLMVQzNzVadXRsdXY1c3A2MWpURDRTS3NnaF9ld3NxZg?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5feTJ2Z3ZPYXNfMWx2WUtXbGRkYklhWGNMbVVTTy0zdGpzMUEwS2pxbHZLeVIwcEt4NzlhNUQ2Y0hJYkc2clFieDhCRndzemZmZGQw0gFYQVVfeXFMT19lTHdnYkltaUF0LXhuMnluM2dmSjk5eFg5M1VqRmowWFBIQWtSS3gzSnpIVzJna0NLMVQzNzVadXRsdXY1c3A2MWpURDRTS3NnaF9ld3NxZg?oc=5",
+          "text": "藍黨魁內戰升溫2／急尋共主拉朱下馬　反朱派遭4大咖打槍內幕",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2cmxVNnlIUTFCUGJ3Q1RNLXYxbUc1NERidUM0S3phQXE5d01hSjNCOGwzMHJZeExmamFYMURXZ3FMZUVGTjBRaVJCT3I5bi1FbjNDbGRQQldsZ1HSAWBBVV95cUxQOWNIY3FNcmhCM2Izd0dzS3U3MlBJeGU1VGVnRWV5ZlVhdGYxNVYya0J2ZWczRDR6MW5CX2w5UW9Ub3VTTXB3a1ZqTHVvdC1kbWVLVkpKMDhJZ3R1QXNIaGY?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2cmxVNnlIUTFCUGJ3Q1RNLXYxbUc1NERidUM0S3phQXE5d01hSjNCOGwzMHJZeExmamFYMURXZ3FMZUVGTjBRaVJCT3I5bi1FbjNDbGRQQldsZ1HSAWBBVV95cUxQOWNIY3FNcmhCM2Izd0dzS3U3MlBJeGU1VGVnRWV5ZlVhdGYxNVYya0J2ZWczRDR6MW5CX2w5UW9Ub3VTTXB3a1ZqTHVvdC1kbWVLVkpKMDhJZ3R1QXNIaGY?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -186,41 +186,41 @@
           "package": ""
         },
         {
-          "text": "快訊／麥當勞死者身份曝！10元硬幣開見屍…竟是台積電外包商　留1遺物",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vOWJfc0R4aWp0dnJaaXBUMGxycUFIU2NBc0Vvb3hBSnVqM3pjRUxJOUpxaG5XdHFMVkhHYVM1R3pYZE5aMU1nUzE0MWpBSmI2QjJ2bDlsaWvSAV9BVV95cUxOMHFTbDcwbXFGWEZwc3M1UERyd01CUTdBNmt2YW5wWnFqUEdYYWc1Ti1yNktvZEhVT1o5WDEtVHpMM0g0bkJCOFFLTEVFU0c4ekpoX0RDOHotajNMWXMxQQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vOWJfc0R4aWp0dnJaaXBUMGxycUFIU2NBc0Vvb3hBSnVqM3pjRUxJOUpxaG5XdHFMVkhHYVM1R3pYZE5aMU1nUzE0MWpBSmI2QjJ2bDlsaWvSAV9BVV95cUxOMHFTbDcwbXFGWEZwc3M1UERyd01CUTdBNmt2YW5wWnFqUEdYYWc1Ti1yNktvZEhVT1o5WDEtVHpMM0g0bkJCOFFLTEVFU0c4ekpoX0RDOHotajNMWXMxQQ?oc=5",
+          "text": "江祖平事件疑涉管制藥品 石崇良：盡快補漏洞 嚴查嚴處",
+          "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNYXhfZ1FoWVBZVXRZSXZrSzVZcU9iVHRtVnlPcG9mQWJTZENUTGRiSnFucjNpTS1EV1RfUXo3bHlpc1FaUFk3Y1RqYVBHSWNDaFM5OXZYT1NoOFc1SDZtZVBhTnhzRmpYbkJKWjJNUEdueV93X3VoVTQwT0Z6V1VfdFU3RnpaRklZWDdPVjVpdnYtRV9oQ2M4Xzc3VVVCMzVSUXdZZ0t1ZDRmOU93Ni1tU2ZFYmZ2LTV6LVByeDRUczhrV090N3VLSU92eTBkdnFDMUVvYml3OWtBX3dMYU92a040anFFTzZVYmJOZGgteTFHYm1sTFd4UWIyaGg2c3lsMzRnVE5Mc1hSWmh3amF5THdGaFZzdzloekNZVkdpV01FaE5pN3N5MnFCcy12UjZfeE1RQnVBMlVIblFVb2NNU1hpMDFSdlIwODcwdUhYc2xpck9VTFJ2VmJ2Q3d2NzcyRFQyaE43SXZ4WnJwYmZXajNKNlF0Zw?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNYXhfZ1FoWVBZVXRZSXZrSzVZcU9iVHRtVnlPcG9mQWJTZENUTGRiSnFucjNpTS1EV1RfUXo3bHlpc1FaUFk3Y1RqYVBHSWNDaFM5OXZYT1NoOFc1SDZtZVBhTnhzRmpYbkJKWjJNUEdueV93X3VoVTQwT0Z6V1VfdFU3RnpaRklZWDdPVjVpdnYtRV9oQ2M4Xzc3VVVCMzVSUXdZZ0t1ZDRmOU93Ni1tU2ZFYmZ2LTV6LVByeDRUczhrV090N3VLSU92eTBkdnFDMUVvYml3OWtBX3dMYU92a040anFFTzZVYmJOZGgteTFHYm1sTFd4UWIyaGg2c3lsMzRnVE5Mc1hSWmh3amF5THdGaFZzdzloekNZVkdpV01FaE5pN3N5MnFCcy12UjZfeE1RQnVBMlVIblFVb2NNU1hpMDFSdlIwODcwdUhYc2xpck9VTFJ2VmJ2Q3d2NzcyRFQyaE43SXZ4WnJwYmZXajNKNlF0Zw?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "羅一鈞接任疾管署長 擬培養人才 派防疫醫師赴非洲考察",
-          "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNMlpXMF9TN1lKSVpjcW1GZXpwRzZObDJ1UVF3UFBfRDJtdTBmckJfNXdpNFh3eFZjNnA2WmE3R0dVNXh4UEpaT3VnMkREQWNUNnZaaGxZNm9YLWZ2S2lvaHVnMjkyc2NNR3l2ZGU3dngyci1DRlFLT3NPU2xGeG14US0zbmpXNVBVbEtTYVlvbGFmRnN1SkhmcGI1TWFwcl9FOVNfVS0wYXhUQ0VxMlRJRWFwbzMwOS1GSXpZTVdxZmhhTzlFSHJrMDdSWFpvYmhKUWE4aVVJLTRGZEVyaE9YTUk5SW93OFhuWVQ5WmdBVzVIS3pPU0FVWldsOFFPYkpKU1hJNlJ1aEE3bS1XQ0VpWDRDMWREQlJSUmZKNXV2TEhxNFBqNFUzSzQ2TDA3NFZhbmZCbUpOWUJHeWNKSk1FbzRIS25BbHVjckJobnFGWk5ZNFk2VnBhc2VtQUl5SjlzcVBxaFc1Q01mcDBkWndUMzJKS2VfZw?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNMlpXMF9TN1lKSVpjcW1GZXpwRzZObDJ1UVF3UFBfRDJtdTBmckJfNXdpNFh3eFZjNnA2WmE3R0dVNXh4UEpaT3VnMkREQWNUNnZaaGxZNm9YLWZ2S2lvaHVnMjkyc2NNR3l2ZGU3dngyci1DRlFLT3NPU2xGeG14US0zbmpXNVBVbEtTYVlvbGFmRnN1SkhmcGI1TWFwcl9FOVNfVS0wYXhUQ0VxMlRJRWFwbzMwOS1GSXpZTVdxZmhhTzlFSHJrMDdSWFpvYmhKUWE4aVVJLTRGZEVyaE9YTUk5SW93OFhuWVQ5WmdBVzVIS3pPU0FVWldsOFFPYkpKU1hJNlJ1aEE3bS1XQ0VpWDRDMWREQlJSUmZKNXV2TEhxNFBqNFUzSzQ2TDA3NFZhbmZCbUpOWUJHeWNKSk1FbzRIS25BbHVjckJobnFGWk5ZNFk2VnBhc2VtQUl5SjlzcVBxaFc1Q01mcDBkWndUMzJKS2VfZw?oc=5",
+          "text": "陳亮妤升任健保署長 王鴻薇批「信賴」背景：又是信賴關係戶",
+          "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxPbmFWQlFBQUZMcUt1MGJ6VHNlUTFwcHYxNDlwU2NtZ2IyNFFkTHFEZFgwbEJPTHJGQWdMUzUwQllNSXo3M3gwZFR6ZnlqczlFVi11bm9xSTl5bWxlU1JMWDBWU3Nrel9qWEFRYU1wNGd6N0szbEQ0SnV3TjdMSElhTk0ySUdGNnFWanNETW1KYW1uQjVZUkVFTmNQak1NbzZreGtORzdtSjU5S25GN2JxR2tlbkxDWEJOLU9sZURhTUpKMU5HckxwMEU3NkVUWVNoQ1l6SXNaeExiQjNQZTYtS0pMckU1WkVydjJHYVNJQWE4dnFmVUR0RWhzVWlqODRjMWFnbjhUUnhUWnlaSnd0RDRDRDRqNUh0Mjg1Tkd6T2hhdHp2SWdqbnFDbEdlc05Fc0g4d1o2YUoxZVZyU0ZmVEFlV2V0LTVBTzNycUFIN3lGMmpzUHdMM01IMGdnYzJFQ1BOTW5QWTBFanV4OHBJQUxfeXV3ei12?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxPbmFWQlFBQUZMcUt1MGJ6VHNlUTFwcHYxNDlwU2NtZ2IyNFFkTHFEZFgwbEJPTHJGQWdMUzUwQllNSXo3M3gwZFR6ZnlqczlFVi11bm9xSTl5bWxlU1JMWDBWU3Nrel9qWEFRYU1wNGd6N0szbEQ0SnV3TjdMSElhTk0ySUdGNnFWanNETW1KYW1uQjVZUkVFTmNQak1NbzZreGtORzdtSjU5S25GN2JxR2tlbkxDWEJOLU9sZURhTUpKMU5HckxwMEU3NkVUWVNoQ1l6SXNaeExiQjNQZTYtS0pMckU1WkVydjJHYVNJQWE4dnFmVUR0RWhzVWlqODRjMWFnbjhUUnhUWnlaSnd0RDRDRDRqNUh0Mjg1Tkd6T2hhdHp2SWdqbnFDbEdlc05Fc0g4d1o2YUoxZVZyU0ZmVEFlV2V0LTVBTzNycUFIN3lGMmpzUHdMM01IMGdnYzJFQ1BOTW5QWTBFanV4OHBJQUxfeXV3ei12?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "4小黨宣布合作拚2026選戰　同選區共推「提出讓人不用猶豫的人選」",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9EOElIM1JZTFhfNEpENkhPMmR4TkVkMXVTQjdUMWpPYlZFTjFlXzUyU0cyUThGMzdrV0FZVmpsblhVTXJqTC1taGFnMWE0cEs4SkgtOUFFN0pVa3Q2TkHSAWhBVV95cUxQNjRtc1pCbFdFSFgyckJyUmF2YnFJb3lHdzR4SG1iZFNnNUpxRlZaQTh6RjEwQXpPWWU3YU9Ec1lOWkVWUEI4dk5MZkozVmE5cWIybkJlQWRLc1R6UzVPd1drVUE4bHZNYw?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9EOElIM1JZTFhfNEpENkhPMmR4TkVkMXVTQjdUMWpPYlZFTjFlXzUyU0cyUThGMzdrV0FZVmpsblhVTXJqTC1taGFnMWE0cEs4SkgtOUFFN0pVa3Q2TkHSAWhBVV95cUxQNjRtc1pCbFdFSFgyckJyUmF2YnFJb3lHdzR4SG1iZFNnNUpxRlZaQTh6RjEwQXpPWWU3YU9Ec1lOWkVWUEI4dk5MZkozVmE5cWIybkJlQWRLc1R6UzVPd1drVUE4bHZNYw?oc=5",
+          "text": "立委籲推動「台灣名義」入聯 外交部：不排除",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JN1ROM0JjQkpsS19nQTFFQ1p6V3BOdTRFZlRJa1pDdlRDT2c0NUVPXzVaM2NqSE1FTlhVQlp2S0dQcUs4ZzZCSUw0Nkd3aWRxVG8yR0hfV1dMR2NqVHdKc3ZFdjgyYjhPNGfSAW9BVV95cUxNWW1BNWVCNnhRbE1KTy1OZzdlNUw5TWIyb0ZrYXJnOERGUTBmUEFqRlc5TzJOMm1LcGxlYU90S084V19zMV90VnJIRjR6NlhkZk5GX3F0YjBVYUpkaWZRcUFFQnJkVG9EVmNTaDk1cUE?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JN1ROM0JjQkpsS19nQTFFQ1p6V3BOdTRFZlRJa1pDdlRDT2c0NUVPXzVaM2NqSE1FTlhVQlp2S0dQcUs4ZzZCSUw0Nkd3aWRxVG8yR0hfV1dMR2NqVHdKc3ZFdjgyYjhPNGfSAW9BVV95cUxNWW1BNWVCNnhRbE1KTy1OZzdlNUw5TWIyb0ZrYXJnOERGUTBmUEFqRlc5TzJOMm1LcGxlYU90S084V19zMV90VnJIRjR6NlhkZk5GX3F0YjBVYUpkaWZRcUFFQnJkVG9EVmNTaDk1cUE?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "台中潭子男身中多刀倒路旁亡 菲籍男持刀殺人遭聲押",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE45RlFSRGpMTFk5c1VnWnRJelZlSnlzZ016U1o3RUE1dFZTOTRZczk4TmtfNHVQZGJwTjg0bncwZW9jeFh3Ujg0ZkI4RmJ2ajlS0gFWQVVfeXFMUGVRV082M2NJd2JONmlyb0Jmc1R1RnFJVDNXZXRFNVM2SHNUR2tfOUpxY3hvcjVlc2FzUnhfbHpRV1BCMXI4a0FHUmNIOE1DcU5wZm1xNnc?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE45RlFSRGpMTFk5c1VnWnRJelZlSnlzZ016U1o3RUE1dFZTOTRZczk4TmtfNHVQZGJwTjg0bncwZW9jeFh3Ujg0ZkI4RmJ2ajlS0gFWQVVfeXFMUGVRV082M2NJd2JONmlyb0Jmc1R1RnFJVDNXZXRFNVM2SHNUR2tfOUpxY3hvcjVlc2FzUnhfbHpRV1BCMXI4a0FHUmNIOE1DcU5wZm1xNnc?oc=5",
+          "text": "快訊／逆子溜出醫院陳屍草莓園　菲籍男多刀刺死他遭法官羈押",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8tX2F6LVZ0MXF0LUNGaTk1NWdTVmJkX04tb2pMZmQ4NzJmWF9WRzJ3QWJtbW52U0FhT3pubWRJc05DaTlGV0U4cFI5cEItX3cyUzdzMG53WGo2bFJMd1HSAWhBVV95cUxQYnRZR2k3LU5kNXZWejNLSzliS083d0lTNWNBMFRTRHpjQzdSRnU5R1BmN3Y2Nk10eHphNmVsVHFLRmpJRjRZSVJyMVh5UloxWklJRHZUSWFFQnE5M1ZXbm9RNDV2aEF0SA?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8tX2F6LVZ0MXF0LUNGaTk1NWdTVmJkX04tb2pMZmQ4NzJmWF9WRzJ3QWJtbW52U0FhT3pubWRJc05DaTlGV0U4cFI5cEItX3cyUzdzMG53WGo2bFJMd1HSAWhBVV95cUxQYnRZR2k3LU5kNXZWejNLSzliS083d0lTNWNBMFRTRHpjQzdSRnU5R1BmN3Y2Nk10eHphNmVsVHFLRmpJRjRZSVJyMVh5UloxWklJRHZUSWFFQnE5M1ZXbm9RNDV2aEF0SA?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "柯文哲說莫忘世上苦人多 王浩宇驚：他獄友至少4個是車手",
-          "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxPVDQ4Q2hNY2dveEZvTnE0OGhvZjIyV3dYTXhILVR0VjVNOElYY2c2SXNWR0JSUUltT2tRY2lqSWxiM3dUNVJKZVVlcFhZYUl3UGgtQjY5MzNDREtlSUtJa0dua3k0aTZLMkJ3aVJOamFuaWFSMXUxNmZabnd3N0JvTVJITGxrdmZjdHR6WFBOaDQ1b1dGQmRDd2dER3lFUWFFOENodXFKeVlhUGdxRV83elZFendtMkpEUDBobjZhb0FFT1BibGRHNWQ4dEtoVWZyV2tWenVXakkzSUpPSkFoTEJfZkVEbzdpTlVybmF2U1FYZnhSeW5Wc0p4MWxPTjdzV0Z5N1pfNGtTWGNVRXJKc0dBWWpQaVNiSWFiZlVBUEctXzM2MTlJWVROaVJ0TTUwUkpnLTE0eFpvVXFqS0lSODVHODJoSWdtZTIydEpsNFBhQkk5RDNVYTE2YTU2SDNSbWJualpUVEtUMGJGZjBSVXVmbGMzazQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxPVDQ4Q2hNY2dveEZvTnE0OGhvZjIyV3dYTXhILVR0VjVNOElYY2c2SXNWR0JSUUltT2tRY2lqSWxiM3dUNVJKZVVlcFhZYUl3UGgtQjY5MzNDREtlSUtJa0dua3k0aTZLMkJ3aVJOamFuaWFSMXUxNmZabnd3N0JvTVJITGxrdmZjdHR6WFBOaDQ1b1dGQmRDd2dER3lFUWFFOENodXFKeVlhUGdxRV83elZFendtMkpEUDBobjZhb0FFT1BibGRHNWQ4dEtoVWZyV2tWenVXakkzSUpPSkFoTEJfZkVEbzdpTlVybmF2U1FYZnhSeW5Wc0p4MWxPTjdzV0Z5N1pfNGtTWGNVRXJKc0dBWWpQaVNiSWFiZlVBUEctXzM2MTlJWVROaVJ0TTUwUkpnLTE0eFpvVXFqS0lSODVHODJoSWdtZTIydEpsNFBhQkk5RDNVYTE2YTU2SDNSbWJualpUVEtUMGJGZjBSVXVmbGMzazQ?oc=5",
+          "text": "時力基進小歐盟台灣綠黨宣布合作 王婉諭：盼讓人民看到更好選擇 擺脫比爛、含淚投票",
+          "url": "https://news.google.com/rss/articles/CBMingRBVV95cUxPVWRZSEduaEFqT29ER1Bwc2J1UXVFOHN1empLSXB4UXJkS25lWnNRQUtLYkpQUjFIbmJNWXp6azA4TFNqVnVveVZOZVpVY0Y3TzVwbFJITk82MGJicEFzNVF0MS00Vk1FdjVaYmc3TXlfYnE2aVdrUlpMZHVJZ1FEOTlLVTIyamxfWGFFY01YQ0tDRzRuZFRtdEJmSUozVVBHcjBKWWtNY3BjUlJiMFlUVlNoQU5LYTNqM3dwRmE0cnZadFBWTXJIMFRSdHJLWlByVlVQQW1OaF9lODNfN3hKbzJ3R3l2dlg4Vmlma283VnRBeVBqdFN2ekVJQVM5V3BuNF9HUC1QYmVOZWZBbmxWX1dhdGVCTGJielNvcF9RMk9UQWlHX1NyQlBLSjZFRnR1UWxSa1dyd2l0aVlUMmg0enluZFdlMHVJeERzQ3B6Vm5ib05PSkVWSnR0djdkYnV4ZkRZdlhHZk9hWkFyNUVPWXg5dTBnQzhGXzc4V0xiMWlWbTItbWkwNnAtWGNuWWFPS3ZvWlFZN3RfWDRxQ1ZVeWR3Z1VPUTA4UE00MGVyRlJuVGFWMDhtWUNEN0xHcWJ5VlF5QjRJTGJmbWs5c256MlZhUWpOOGhnSDdSTzB0OGs1UnhkeFgwMk9sdFJWTE4yeTZ6UHpybWdfMDVFUGxnS3liWmNQWjg3MXBsQmdEbXgxMTl3c09CVWM1N2xpQQ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMingRBVV95cUxPVWRZSEduaEFqT29ER1Bwc2J1UXVFOHN1empLSXB4UXJkS25lWnNRQUtLYkpQUjFIbmJNWXp6azA4TFNqVnVveVZOZVpVY0Y3TzVwbFJITk82MGJicEFzNVF0MS00Vk1FdjVaYmc3TXlfYnE2aVdrUlpMZHVJZ1FEOTlLVTIyamxfWGFFY01YQ0tDRzRuZFRtdEJmSUozVVBHcjBKWWtNY3BjUlJiMFlUVlNoQU5LYTNqM3dwRmE0cnZadFBWTXJIMFRSdHJLWlByVlVQQW1OaF9lODNfN3hKbzJ3R3l2dlg4Vmlma283VnRBeVBqdFN2ekVJQVM5V3BuNF9HUC1QYmVOZWZBbmxWX1dhdGVCTGJielNvcF9RMk9UQWlHX1NyQlBLSjZFRnR1UWxSa1dyd2l0aVlUMmg0enluZFdlMHVJeERzQ3B6Vm5ib05PSkVWSnR0djdkYnV4ZkRZdlhHZk9hWkFyNUVPWXg5dTBnQzhGXzc4V0xiMWlWbTItbWkwNnAtWGNuWWFPS3ZvWlFZN3RfWDRxQ1ZVeWR3Z1VPUTA4UE00MGVyRlJuVGFWMDhtWUNEN0xHcWJ5VlF5QjRJTGJmbWs5c256MlZhUWpOOGhnSDdSTzB0OGs1UnhkeFgwMk9sdFJWTE4yeTZ6UHpybWdfMDVFUGxnS3liWmNQWjg3MXBsQmdEbXgxMTl3c09CVWM1N2xpQQ?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -242,6 +242,14 @@
           "package": ""
         },
         {
+          "text": "「150歲」話題發酵 民眾高鐵留言 呼籲覺醒",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5lYkhzQkpZSkpIVTRXUzF4Mkd2WU5hM0YwTm5rRlBPRWp5a1dIeHV2R2h6bUZpNnFVSkhZX0FmUUNUN0tFR1VFU0xERG5oWWxwUzZTVUNsS3F3UElTSVI00gFkQVVfeXFMTUszRkZLdTBvWFpsbDJuRWtuUk5rdWdpak9kbFVEX3N6QzdnZ0kxejkyZm1sZHF5M0VQcGFnTFdPU0NvSzNNZjNIRzFNeDNWeHFTUlBPeFl3VnRiaWhSeENKWmZ6cw?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5lYkhzQkpZSkpIVTRXUzF4Mkd2WU5hM0YwTm5rRlBPRWp5a1dIeHV2R2h6bUZpNnFVSkhZX0FmUUNUN0tFR1VFU0xERG5oWWxwUzZTVUNsS3F3UElTSVI00gFkQVVfeXFMTUszRkZLdTBvWFpsbDJuRWtuUk5rdWdpak9kbFVEX3N6QzdnZ0kxejkyZm1sZHF5M0VQcGFnTFdPU0NvSzNNZjNIRzFNeDNWeHFTUlBPeFl3VnRiaWhSeENKWmZ6cw?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
           "text": "博愛座更名「優先席」！交通部統一圖示要業者年底前更新 逾期最高罰5萬",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB6VWhGblJWS1drZll4M3BKNGNSRTNkeDhWdXVfa09jSHJOVVk2cnZsZFNiVjBYbXkxUGRzSWtMd295UjBwMzBUNkFITUc1ZXdN0gFWQVVfeXFMT0pnMDFacmFpdXpPTEhwamw4MVRDcU4wamY0VExyYk5KcW9Lb2dib3ZKT2RaVFZHZnBGbHdJMTY0TDQ4OE1yRTZZMXh6UUtEN2RYU085ZUE?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB6VWhGblJWS1drZll4M3BKNGNSRTNkeDhWdXVfa09jSHJOVVk2cnZsZFNiVjBYbXkxUGRzSWtMd295UjBwMzBUNkFITUc1ZXdN0gFWQVVfeXFMT0pnMDFacmFpdXpPTEhwamw4MVRDcU4wamY0VExyYk5KcW9Lb2dib3ZKT2RaVFZHZnBGbHdJMTY0TDQ4OE1yRTZZMXh6UUtEN2RYU085ZUE?oc=5",
@@ -250,17 +258,9 @@
           "package": ""
         },
         {
-          "text": "白胡信任投票失利將請辭總理看懂法國政局為何動盪",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmaFZwblRvZnRGeFl6RXNyTk9sQzRKQnd3aHFzVXc0ZnlOWmdoQWJsQTlxbXUxT2RpV252Y1UzOW1kWkUwQkdsR3pDQmN4U3JxcVNxM0lOTGR3X0dUUmRj?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmaFZwblRvZnRGeFl6RXNyTk9sQzRKQnd3aHFzVXc0ZnlOWmdoQWJsQTlxbXUxT2RpV252Y1UzOW1kWkUwQkdsR3pDQmN4U3JxcVNxM0lOTGR3X0dUUmRj?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "尖點、昇佳電子再飆漲停！玻璃陶瓷股噴出「台玻一度亮燈」 銘旺科、華擎也攻頂",
-          "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxPclIweEhzODJrMkJuaGVnVW9ESWE0UmZCbmdYekltaGF3WUJHenRPV2l4WlN6NElrenlYZ0FsaWR4aEpfcm9sUjNVNzJKRFgwcWRKY01SMm9xT0Z4UGVGeXdia3d0aGlFSktZQ3dDckwwNkFPRDVjNU1tU25SOFdNdDFjZ1ZQWjdMNExMV2o4SEdNd3hVbENjdGhBalpNdHdtdXQ0d1V1dkJoMTNhUVFSbEQ2aEI1cmQtT1BuVkRyZU45YlJxeFprREdjMG1ZcTgwQjFkcTZoaUFINUptVmp4MFh3ZGNJem1Ta2VSY3JMNm5wYkNzaVZvakNORTZCejNqVG10UFhtdHo0dHBZRUhuTndYeEtSY0prZjV1aDc2YUNvc1A5LUROWkNiREIyeXRGNlV2bnptYzJSS0Y0cFltY2FCeWNEeWh5TllpeEJtVmR6bi1WaVB3N1dENjRnblNiRjhZeWpZd2s?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxPclIweEhzODJrMkJuaGVnVW9ESWE0UmZCbmdYekltaGF3WUJHenRPV2l4WlN6NElrenlYZ0FsaWR4aEpfcm9sUjNVNzJKRFgwcWRKY01SMm9xT0Z4UGVGeXdia3d0aGlFSktZQ3dDckwwNkFPRDVjNU1tU25SOFdNdDFjZ1ZQWjdMNExMV2o4SEdNd3hVbENjdGhBalpNdHdtdXQ0d1V1dkJoMTNhUVFSbEQ2aEI1cmQtT1BuVkRyZU45YlJxeFprREdjMG1ZcTgwQjFkcTZoaUFINUptVmp4MFh3ZGNJem1Ta2VSY3JMNm5wYkNzaVZvakNORTZCejNqVG10UFhtdHo0dHBZRUhuTndYeEtSY0prZjV1aDc2YUNvc1A5LUROWkNiREIyeXRGNlV2bnptYzJSS0Y0cFltY2FCeWNEeWh5TllpeEJtVmR6bi1WaVB3N1dENjRnblNiRjhZeWpZd2s?oc=5",
+          "text": "台積電、台達電、聯發科等拉升，台股指數再創歷史新高",
+          "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxPdEI1cFhKd1lPMGlIQ2ZUWXJGWGtRU1JtNmNMODJBZlRYak5kRVFlMGotU1NMUC03dkRwZ2JKbU9DaWktM0ZTMWdPaFV0b29kY3pkZEFoaWo0VXhCdVRZUjN5cGdZVWdTMU9MdUd2X0VLc0lZRHUwaFEzTHUtZzdLcnMwZWN0eHNnWDc1cVlLMkotS1JMZWFhU2hLS3hIZ0RZRUtqZHZ5ZXVpTC04WkR5X3M3dmRUbkpuV1N6WjF1QjZmcmN5WXFZSE5kNkx2NXNqOW0wM2ZsN2RWMW9VYWI4X2UyWTgyRmFTamlUei1ERkJiZnp3YXViLUdTeWp4d0k0TGdncXNDa3VBeVU4MjJZTFhKakR5cVAwbjlKb20tSEJwNDF1WW1nckVMYjVSUXhUZ0RQNUVKbG80M0JhLWJNRDBpNnhiSDhjMU95bjNYcnpial9HS0NiaEJPc18xSy1fc29kM0hhRQ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxPdEI1cFhKd1lPMGlIQ2ZUWXJGWGtRU1JtNmNMODJBZlRYak5kRVFlMGotU1NMUC03dkRwZ2JKbU9DaWktM0ZTMWdPaFV0b29kY3pkZEFoaWo0VXhCdVRZUjN5cGdZVWdTMU9MdUd2X0VLc0lZRHUwaFEzTHUtZzdLcnMwZWN0eHNnWDc1cVlLMkotS1JMZWFhU2hLS3hIZ0RZRUtqZHZ5ZXVpTC04WkR5X3M3dmRUbkpuV1N6WjF1QjZmcmN5WXFZSE5kNkx2NXNqOW0wM2ZsN2RWMW9VYWI4X2UyWTgyRmFTamlUei1ERkJiZnp3YXViLUdTeWp4d0k0TGdncXNDa3VBeVU4MjJZTFhKakR5cVAwbjlKb20tSEJwNDF1WW1nckVMYjVSUXhUZ0RQNUVKbG80M0JhLWJNRDBpNnhiSDhjMU95bjNYcnpial9HS0NiaEJPc18xSy1fc29kM0hhRQ?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -273,6 +273,6 @@
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 30,
+  "cost": 22,
   "status": 0
 }
