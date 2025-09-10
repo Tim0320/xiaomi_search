@@ -146,17 +146,17 @@
       "link_type": "app",
       "data": [
         {
-          "text": "「柯文哲故意激怒北檢！就是要檢提抗告」張益贍曝柯盤算網讚一針見血",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KdzByQ3BidzR3UFFveWduMDBqNTFNQ0FJX0dqc2gzVFl1ZUNKT2hFeDhWWkFveEQ2cWtPUkw0SEE1VU45b1I1dUZ5NEVyNkFWQ2tFVG9fMVllZw?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KdzByQ3BidzR3UFFveWduMDBqNTFNQ0FJX0dqc2gzVFl1ZUNKT2hFeDhWWkFveEQ2cWtPUkw0SEE1VU45b1I1dUZ5NEVyNkFWQ2tFVG9fMVllZw?oc=5",
+          "text": "尼泊爾封社媒引示威動亂來龍去脈一次看",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1mRWVlWHRGUkJvam0zRFhNN2dNekd2MFJxak5WczB2dFFsckoyNWpuQVJZUUw5THB1bUktakVYaHluSllSNFB4Xzc2cmxNUzNVVW9SY2FIbUxpRDVmTzZJ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1mRWVlWHRGUkJvam0zRFhNN2dNekd2MFJxak5WczB2dFFsckoyNWpuQVJZUUw5THB1bUktakVYaHluSllSNFB4Xzc2cmxNUzNVVW9SY2FIbUxpRDVmTzZJ?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "尼泊爾封社媒引示威動亂來龍去脈一次看",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1mRWVlWHRGUkJvam0zRFhNN2dNekd2MFJxak5WczB2dFFsckoyNWpuQVJZUUw5THB1bUktakVYaHluSllSNFB4Xzc2cmxNUzNVVW9SY2FIbUxpRDVmTzZJ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1mRWVlWHRGUkJvam0zRFhNN2dNekd2MFJxak5WczB2dFFsckoyNWpuQVJZUUw5THB1bUktakVYaHluSllSNFB4Xzc2cmxNUzNVVW9SY2FIbUxpRDVmTzZJ?oc=5",
+          "text": "「柯文哲故意激怒北檢！就是要檢提抗告」張益贍曝柯盤算網讚一針見血",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KdzByQ3BidzR3UFFveWduMDBqNTFNQ0FJX0dqc2gzVFl1ZUNKT2hFeDhWWkFveEQ2cWtPUkw0SEE1VU45b1I1dUZ5NEVyNkFWQ2tFVG9fMVllZw?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KdzByQ3BidzR3UFFveWduMDBqNTFNQ0FJX0dqc2gzVFl1ZUNKT2hFeDhWWkFveEQ2cWtPUkw0SEE1VU45b1I1dUZ5NEVyNkFWQ2tFVG9fMVllZw?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -273,6 +273,6 @@
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 28,
+  "cost": 22,
   "status": 0
 }
