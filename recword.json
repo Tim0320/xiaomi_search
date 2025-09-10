@@ -15,14 +15,6 @@
       "link_type": "app",
       "data": [
         {
-          "text": "Apple Watch",
-          "url": "https://tw.search.yahoo.com/search?p=Apple+Watch&amp;fr=ush-bt1",
-          "h5_url": "https://tw.search.yahoo.com/search?p=Apple+Watch&amp;fr=ush-bt1",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_yahoo",
-          "package": ""
-        },
-        {
           "text": "iPhone17 價格一次看",
           "url": "https://tw.news.yahoo.com/%E8%98%8B%E6%9E%9C-iphone-air%E3%80%81iphone-17-pro%E6%87%B6%E4%BA%BA%E5%8C%85%EF%BC%9A%E5%83%B9%E6%A0%BC%E3%80%81%E8%A6%8F%E6%A0%BC%E3%80%81%E9%A1%8F%E8%89%B2%E4%B8%80%E6%AC%A1%E7%9C%8B%EF%BC%8C%E5%8F%B0%E7%81%A3%E9%A0%90%E8%B3%BC%E3%80%81%E9%96%8B%E8%B3%A3%E6%99%82%E9%96%93%E6%9B%9D%E5%85%89%EF%BC%81-215929998.html",
           "h5_url": "https://tw.news.yahoo.com/%E8%98%8B%E6%9E%9C-iphone-air%E3%80%81iphone-17-pro%E6%87%B6%E4%BA%BA%E5%8C%85%EF%BC%9A%E5%83%B9%E6%A0%BC%E3%80%81%E8%A6%8F%E6%A0%BC%E3%80%81%E9%A1%8F%E8%89%B2%E4%B8%80%E6%AC%A1%E7%9C%8B%EF%BC%8C%E5%8F%B0%E7%81%A3%E9%A0%90%E8%B3%BC%E3%80%81%E9%96%8B%E8%B3%A3%E6%99%82%E9%96%93%E6%9B%9D%E5%85%89%EF%BC%81-215929998.html",
@@ -133,6 +125,14 @@
           "appIconUrl": "",
           "sourceUniqueId": "content_yahoo",
           "package": ""
+        },
+        {
+          "text": "鮮為人知 80年前墜機中央山脈留謎團",
+          "url": "https://tw.news.yahoo.com/%E4%BA%8C%E6%88%B0%E7%B5%90%E6%9D%9F80%E5%91%A8%E5%B9%B4-%E4%B8%89%E5%8F%89%E5%B1%B1%E4%BA%8B%E4%BB%B6%E6%9C%89%E8%AC%8E%E5%9C%98%E6%9C%AA%E8%A7%A3-%E5%A2%9C%E6%AF%80%E4%B8%AD%E5%A4%AE%E5%B1%B1%E8%84%88%E7%BE%8E%E8%BB%8D%E6%A9%9F%E6%A9%9F%E6%A7%8D%E9%81%8B%E4%B8%8B%E5%B1%B1-032935137.html",
+          "h5_url": "https://tw.news.yahoo.com/%E4%BA%8C%E6%88%B0%E7%B5%90%E6%9D%9F80%E5%91%A8%E5%B9%B4-%E4%B8%89%E5%8F%89%E5%B1%B1%E4%BA%8B%E4%BB%B6%E6%9C%89%E8%AC%8E%E5%9C%98%E6%9C%AA%E8%A7%A3-%E5%A2%9C%E6%AF%80%E4%B8%AD%E5%A4%AE%E5%B1%B1%E8%84%88%E7%BE%8E%E8%BB%8D%E6%A9%9F%E6%A9%9F%E6%A7%8D%E9%81%8B%E4%B8%8B%E5%B1%B1-032935137.html",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_yahoo",
+          "package": ""
         }
       ],
       "selectedStatus": false,
@@ -154,14 +154,6 @@
           "package": ""
         },
         {
-          "text": "蘋果發表會亮點整理：有史以來最強大的 iPhone 17 Pro 驚艷登場、全新 AirPods Pro 3、Apple Watch 系列同步釋出！",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPS3Q5TVJZSnVtRGRETVFJNHVZd045d3g2UTNqeTZQdzVOY2VDSWxPdW12VzlMdnBVdlFra2gyT0EwbHVjTk1yQzR2QmRnQ05uZzFhVzlLWnVxNEVTb2cxaDVkX01ncUMwRUtLZ1l1Z2dlM2ZxVHk4bVJBdWFFTXJtT2NIWEx0bHR4VHFoNmtIUGZVY0hJTXdNcUlxU1NFRC1JQS1jVHppYjVvOGhVdWZSekw5a2QzWl9QR2wtSmZhS3BNMlN5MDZyWDJHQmh0XzVkNkMxZlQtUmMtdw?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPS3Q5TVJZSnVtRGRETVFJNHVZd045d3g2UTNqeTZQdzVOY2VDSWxPdW12VzlMdnBVdlFra2gyT0EwbHVjTk1yQzR2QmRnQ05uZzFhVzlLWnVxNEVTb2cxaDVkX01ncUMwRUtLZ1l1Z2dlM2ZxVHk4bVJBdWFFTXJtT2NIWEx0bHR4VHFoNmtIUGZVY0hJTXdNcUlxU1NFRC1JQS1jVHppYjVvOGhVdWZSekw5a2QzWl9QR2wtSmZhS3BNMlN5MDZyWDJHQmh0XzVkNkMxZlQtUmMtdw?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
           "text": "高雄興達電廠火警曾文生證實天然氣外洩導致起火",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jUy1DMnNHdmRlWTNXTkxsd0VPY180YTAxNzVETjAxMnRJSlJwQVlZSTJBd3p6XzVhMGZHWVVjQ0JMYXJSajlhTmY4OVBudjh6TkFTNTE1RXRabkV0YVdv?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jUy1DMnNHdmRlWTNXTkxsd0VPY180YTAxNzVETjAxMnRJSlJwQVlZSTJBd3p6XzVhMGZHWVVjQ0JMYXJSajlhTmY4OVBudjh6TkFTNTE1RXRabkV0YVdv?oc=5",
@@ -170,25 +162,25 @@
           "package": ""
         },
         {
+          "text": "蘋果發表會亮點整理：有史以來最強大的 iPhone 17 Pro 驚艷登場、全新 AirPods Pro 3、Apple Watch 系列同步釋出！",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPS3Q5TVJZSnVtRGRETVFJNHVZd045d3g2UTNqeTZQdzVOY2VDSWxPdW12VzlMdnBVdlFra2gyT0EwbHVjTk1yQzR2QmRnQ05uZzFhVzlLWnVxNEVTb2cxaDVkX01ncUMwRUtLZ1l1Z2dlM2ZxVHk4bVJBdWFFTXJtT2NIWEx0bHR4VHFoNmtIUGZVY0hJTXdNcUlxU1NFRC1JQS1jVHppYjVvOGhVdWZSekw5a2QzWl9QR2wtSmZhS3BNMlN5MDZyWDJHQmh0XzVkNkMxZlQtUmMtdw?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPS3Q5TVJZSnVtRGRETVFJNHVZd045d3g2UTNqeTZQdzVOY2VDSWxPdW12VzlMdnBVdlFra2gyT0EwbHVjTk1yQzR2QmRnQ05uZzFhVzlLWnVxNEVTb2cxaDVkX01ncUMwRUtLZ1l1Z2dlM2ZxVHk4bVJBdWFFTXJtT2NIWEx0bHR4VHFoNmtIUGZVY0hJTXdNcUlxU1NFRC1JQS1jVHppYjVvOGhVdWZSekw5a2QzWl9QR2wtSmZhS3BNMlN5MDZyWDJHQmh0XzVkNkMxZlQtUmMtdw?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "要轉涼了！　入秋首波東北季風報到時間曝",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50M1VjVTlOZlJodEt6Nk55YXFtVC05V2FTZ1dDc3g4cmEzZ1pHc0U5VnczaTMtRG1ScjVGaEFkX0U2SG81ZkR5WjZCZEhCVXVvQzZTcGU5bDJ6bmI4WnfSAWhBVV95cUxPS0k5Sk42Q1NnMDNWblNPaVFISzFHODhNN0k0bUE2Vl9zY0VSSE9ubzVmSHRzZ1haSG5HQy1nU2dMNTctT1QtTm5wNnNIRGR2RGd4eG8xV19PRk5NeEd3SkJ2bnZyenYtVg?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50M1VjVTlOZlJodEt6Nk55YXFtVC05V2FTZ1dDc3g4cmEzZ1pHc0U5VnczaTMtRG1ScjVGaEFkX0U2SG81ZkR5WjZCZEhCVXVvQzZTcGU5bDJ6bmI4WnfSAWhBVV95cUxPS0k5Sk42Q1NnMDNWblNPaVFISzFHODhNN0k0bUE2Vl9zY0VSSE9ubzVmSHRzZ1haSG5HQy1nU2dMNTctT1QtTm5wNnNIRGR2RGd4eG8xV19PRk5NeEd3SkJ2bnZyenYtVg?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
           "text": "以軍轟炸卡達境內哈瑪斯領導人 川普劃清界線曾試圖警告卡達",
           "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxQRkxhZGloTkJDV0lPZF9zeHcwenNPQ25jQzVPcDg1QktIdF9QV3JRWjNoX2poZ2wyU2NSeDRNaGZxUVNXLTZDQ3BIUnl3ZW1yR3JKRERiY01RYUtGNVI2bHA0dGdwZTFtX19ZWkhCLTB4ZWdDWS1kc3FyQ2NYVlFPeUxtc3l5ZzlOcjZuUnNhZ2o5Zk4zMEE0WDQ5RmtwdWhsX3BpSE9Ed1VpUmZMTzNSeVlzRjZyT0d1X3QzNXVVUXRIdTZ3X2trQUp2RnhBZDg4b2FRblRoUEItZTlzbkFQTHZ6QWdQdXVnb3k2Y2E1MGFpU3pQdE9TRlJGQXFBN1puYkFjc3ZTVm55R0ZQai13V29tRkVBVVQ3QWw3bVktTklUc1hranlsZGpxQkQ0OWZXQWVxUFpiQ1djQVpLekZlT0VTdjliVWliUDNGYVBkY0EzZDl6ZW8wS1BPc3NkTmJCaG1LXzF3QldLUlpJSkhCTzhBcXl1Vjh6eUxndVNWdnF4ZXQ3bTl6TllsaTlfXzdHX25aRmZabUw?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMimANBVV95cUxQRkxhZGloTkJDV0lPZF9zeHcwenNPQ25jQzVPcDg1QktIdF9QV3JRWjNoX2poZ2wyU2NSeDRNaGZxUVNXLTZDQ3BIUnl3ZW1yR3JKRERiY01RYUtGNVI2bHA0dGdwZTFtX19ZWkhCLTB4ZWdDWS1kc3FyQ2NYVlFPeUxtc3l5ZzlOcjZuUnNhZ2o5Zk4zMEE0WDQ5RmtwdWhsX3BpSE9Ed1VpUmZMTzNSeVlzRjZyT0d1X3QzNXVVUXRIdTZ3X2trQUp2RnhBZDg4b2FRblRoUEItZTlzbkFQTHZ6QWdQdXVnb3k2Y2E1MGFpU3pQdE9TRlJGQXFBN1puYkFjc3ZTVm55R0ZQai13V29tRkVBVVQ3QWw3bVktTklUc1hranlsZGpxQkQ0OWZXQWVxUFpiQ1djQVpLekZlT0VTdjliVWliUDNGYVBkY0EzZDl6ZW8wS1BPc3NkTmJCaG1LXzF3QldLUlpJSkhCTzhBcXl1Vjh6eUxndVNWdnF4ZXQ3bTl6TllsaTlfXzdHX25aRmZabUw?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "尼泊爾封鎖社群媒體掀Z世代示威釀19死總理奧利請辭",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9aeG9QZWhURFJpZUlUY0c4Ylp6aUxJNHBvY3lEZ3FYOURYaFBOdkVTTUhqYkU1aUdlNnFVdWFxX0xoX0owWElZMFNLLWQwZnVnZzF2S25vQXNUZUVkcDhv?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9aeG9QZWhURFJpZUlUY0c4Ylp6aUxJNHBvY3lEZ3FYOURYaFBOdkVTTUhqYkU1aUdlNnFVdWFxX0xoX0owWElZMFNLLWQwZnVnZzF2S25vQXNUZUVkcDhv?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "柯文哲今拜父親牌位　本藏法師親迎接擁抱喊：你終於趕到了",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1hLXhFWXBQdHc3Tkp5ZW1xR0tjc2dLai1XZHRiMXh0My1KNTlHS0VYcmFCY0xDbUpsNG5nN2RmelN1b0I4TVZUOEdMcGNfOFZPbFJtc2dxcDktNnQzYUHSAWhBVV95cUxORVJOY1FqX3dMaWNaeEQ4MDQ1aUF1cWZPakV1ZVdKazZaM0UyRzJ2VktEQ0pEQ0JsRWt1VC1rQm5BTldJeW9LSEQ5cGtJcUtMeTZIbnFGSGNLWEl0dWd3V3JUd3paaVVrVQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1hLXhFWXBQdHc3Tkp5ZW1xR0tjc2dLai1XZHRiMXh0My1KNTlHS0VYcmFCY0xDbUpsNG5nN2RmelN1b0I4TVZUOEdMcGNfOFZPbFJtc2dxcDktNnQzYUHSAWhBVV95cUxORVJOY1FqX3dMaWNaeEQ4MDQ1aUF1cWZPakV1ZVdKazZaM0UyRzJ2VktEQ0pEQ0JsRWt1VC1rQm5BTldJeW9LSEQ5cGtJcUtMeTZIbnFGSGNLWEl0dWd3V3JUd3paaVVrVQ?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -210,17 +202,41 @@
           "package": ""
         },
         {
-          "text": "快訊》國家警報響 2地暴雨 大雷雨轟3縣市",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYlU3ZWNXT252TzVMQmpXMFh0cnotZkhMX21GdG1RYTRjcXFUWDBSZ01mUjNHUXB1R3d1WXNyc1p3NlpVb2xQbUpqRDRGcVJZVUNZZEx2ZzZqZU42MXlCdFBXMjRXeWxRZGp2dnNpU083QktwWmswVG9mZXM3SVNTZ3pNcXNPVFRNLU1wVXNlcw?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYlU3ZWNXT252TzVMQmpXMFh0cnotZkhMX21GdG1RYTRjcXFUWDBSZ01mUjNHUXB1R3d1WXNyc1p3NlpVb2xQbUpqRDRGcVJZVUNZZEx2ZzZqZU42MXlCdFBXMjRXeWxRZGp2dnNpU083QktwWmswVG9mZXM3SVNTZ3pNcXNPVFRNLU1wVXNlcw?oc=5",
+          "text": "雨區擴大！12縣市大雨特報 大雷雨炸8地",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnNks0WmVmRXo5TXpNVGlUS0ZqUWItbmpnRXVWWEdrejR5UzF0VTFHUnhWdlhCNXJHRUdFajFNLWR1UG52OFU0bXhSUEJHdVlxRzg2MmlrT3VSTG9JRHJEb0tINFHSAWpBVV95cUxNX2ZiOTlMQnFzNUhCTkVoS1pBRC1JOFk2TjhLUk93QzAzYVdqNEdOOFdWb1FldEloRnJJNWJvQ3FycGg5NjJzMnliNnlfbVNUd2F0Rm5LZThrQS1EaVpoVnBlelRLc01uQmRn?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnNks0WmVmRXo5TXpNVGlUS0ZqUWItbmpnRXVWWEdrejR5UzF0VTFHUnhWdlhCNXJHRUdFajFNLWR1UG52OFU0bXhSUEJHdVlxRzg2MmlrT3VSTG9JRHJEb0tINFHSAWpBVV95cUxNX2ZiOTlMQnFzNUhCTkVoS1pBRC1JOFk2TjhLUk93QzAzYVdqNEdOOFdWb1FldEloRnJJNWJvQ3FycGg5NjJzMnliNnlfbVNUd2F0Rm5LZThrQS1EaVpoVnBlelRLc01uQmRn?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "賴清德臉書分享三叉山事件人道救援 強調以團結拒絕威權野心",
-          "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxQUHd5dUR2d2liUzRtS05xbFB4azh0b1BQRXpXZXJzUkJLYjRMN19oNGEtaDFYeXlkaXdkb0JKc3JKeDN1NEs5dHA5WklOZHRBZUs4Tnd4a2FxSjc3azZZU3pUOVNwbnVrR0pZdEZwSVRnZ0pHUkd6SXlwTGN2UE84emhJVmxNVUY5UkNSdlU3akJKTHpmdHNhemhVTnZlTnRZNGlEdU9BYWNhZkRxS2RHNDN2My1NRjl4eEVHQUtMY0dpQklPNi1xRUpDejg1N1BxZGVuNXIta25aZkhRbkhVeDZJQWNzN1g0amxsUVZraDExWHl0eHN0WkFaMHFXb0xEQVRCcXZXcFRqNWdLbjIwMWFoalU1ODZlU1kzckV2OV8xcHVsQzE5Mmh4Uy0ySFA3dVBTcHE5Ti0tWnZHc1VVU0Y2eUd0X2VXYlhpb1p0T2hKZHpVem90eERpNmxQeVMxT25SWWp5bGJkV3diREc3a01MTGQxaUVUYnpFQW9xQ2o2djhVXzlMay1wRDdVVXdVMmV5TzhBdG0?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMimANBVV95cUxQUHd5dUR2d2liUzRtS05xbFB4azh0b1BQRXpXZXJzUkJLYjRMN19oNGEtaDFYeXlkaXdkb0JKc3JKeDN1NEs5dHA5WklOZHRBZUs4Tnd4a2FxSjc3azZZU3pUOVNwbnVrR0pZdEZwSVRnZ0pHUkd6SXlwTGN2UE84emhJVmxNVUY5UkNSdlU3akJKTHpmdHNhemhVTnZlTnRZNGlEdU9BYWNhZkRxS2RHNDN2My1NRjl4eEVHQUtMY0dpQklPNi1xRUpDejg1N1BxZGVuNXIta25aZkhRbkhVeDZJQWNzN1g0amxsUVZraDExWHl0eHN0WkFaMHFXb0xEQVRCcXZXcFRqNWdLbjIwMWFoalU1ODZlU1kzckV2OV8xcHVsQzE5Mmh4Uy0ySFA3dVBTcHE5Ti0tWnZHc1VVU0Y2eUd0X2VXYlhpb1p0T2hKZHpVem90eERpNmxQeVMxT25SWWp5bGJkV3diREc3a01MTGQxaUVUYnpFQW9xQ2o2djhVXzlMay1wRDdVVXdVMmV5TzhBdG0?oc=5",
+          "text": "三叉山事件遺落深山80年 墜毀中央山脈美軍機機槍被運下山[影]",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qMDh1TnBfSmtfdzNjejBfR3h0WVB3TVNiU3o3U3VfcnpnYlA1MkpvMzV2V0FlUW5fVkJubmQxY1BrY3hzMHRPOV96bzJ3OXNhaVZtT2hqZWF6NW5ITkdR?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qMDh1TnBfSmtfdzNjejBfR3h0WVB3TVNiU3o3U3VfcnpnYlA1MkpvMzV2V0FlUW5fVkJubmQxY1BrY3hzMHRPOV96bzJ3OXNhaVZtT2hqZWF6NW5ITkdR?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "柯文哲滿血回歸！她點「這3人」不退出黨核心 藍白高機率不合",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOV2Fkem84RFJBRlVNS2xtNHAzNXBFQjZla1VuSUhIVlhDcVM3bkdsbW1WaTU3a2U4cVdEbEd2dVF0QTNNV1IweUxJQzcxRzEtRFJjekR1aGRSck1BRHh2bUJCYmNubHhHc2JOalBOSWdtMTU0ZWh5b09uWU9rdWh0Nw?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOV2Fkem84RFJBRlVNS2xtNHAzNXBFQjZla1VuSUhIVlhDcVM3bkdsbW1WaTU3a2U4cVdEbEd2dVF0QTNNV1IweUxJQzcxRzEtRFJjekR1aGRSck1BRHh2bUJCYmNubHhHc2JOalBOSWdtMTU0ZWh5b09uWU9rdWh0Nw?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "尼泊爾動亂加劇！總理、總統辭職難息眾怒 示威者縱火燒死前總理夫人",
+          "url": "https://news.google.com/rss/articles/CBMiswNBVV95cUxObmU3cXdFMng4akowTGNIeVliZmFDTi1UZVU4TWQ0SHBRNndTcUk0UnFrRVRUZjRvNUJEdUlMSnBWZXlBTjBEMEJNVzhUUUs2aWxNeHNkZXJMdkEzWDN0cjNzOW1oUm9PVGY0NEtjbm1FdURxNnFjVF9SaHg2NWdPWDdrblZaYVViTldoMUdZMVpjcmF1YURpS0ROYi1LTHVKekpmWWI5ZEtYdURkTTM1Q3Y5Z3VTM3IwcHJsWjBCak9ONG1IU1ZOVXpyb2J4a0NTLUFmWWotTndsMC05NnpXSTJ2V19uQ1ctMnFnRWdLYnA0aXlxZGU1Zmxfa09JVnJmb2ItSXBWWm9RQi1MV18yNHcwTE9xY21QY0pobklLU0VmZW44X0o5SGlTNkhJWl9BNUhTUzFjOENJSkxVdU01cm1fMEQ4aGVZOEdBVDkxVlJsSHRVakVYS0RPU2tYdGswSnJVMVlMZmc0NGFyS1ZCQVhOR1RIOENwb3lvd2tkYnFHYjdJYUxQejdiMDZFdXFGckVpdENYVDlpRHM0V1hTcUNNZGRfNlVOcndaVERLcWFxYm8?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiswNBVV95cUxObmU3cXdFMng4akowTGNIeVliZmFDTi1UZVU4TWQ0SHBRNndTcUk0UnFrRVRUZjRvNUJEdUlMSnBWZXlBTjBEMEJNVzhUUUs2aWxNeHNkZXJMdkEzWDN0cjNzOW1oUm9PVGY0NEtjbm1FdURxNnFjVF9SaHg2NWdPWDdrblZaYVViTldoMUdZMVpjcmF1YURpS0ROYi1LTHVKekpmWWI5ZEtYdURkTTM1Q3Y5Z3VTM3IwcHJsWjBCak9ONG1IU1ZOVXpyb2J4a0NTLUFmWWotTndsMC05NnpXSTJ2V19uQ1ctMnFnRWdLYnA0aXlxZGU1Zmxfa09JVnJmb2ItSXBWWm9RQi1MV18yNHcwTE9xY21QY0pobklLU0VmZW44X0o5SGlTNkhJWl9BNUhTUzFjOENJSkxVdU01cm1fMEQ4aGVZOEdBVDkxVlJsSHRVakVYS0RPU2tYdGswSnJVMVlMZmc0NGFyS1ZCQVhOR1RIOENwb3lvd2tkYnFHYjdJYUxQejdiMDZFdXFGckVpdENYVDlpRHM0V1hTcUNNZGRfNlVOcndaVERLcWFxYm8?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "川普提議對中國和印度加徵100%關稅施壓普丁！但有一大「前提」",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTYjZwVmFkbWRfeURuMlItRDktWkJwY2pCYk5qa28yNllGamRKZTJVSFBDMzQzdEdCNjBQcnpZVm9JdXFYM3BvVmJZTU1SWlE?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTYjZwVmFkbWRfeURuMlItRDktWkJwY2pCYk5qa28yNllGamRKZTJVSFBDMzQzdEdCNjBQcnpZVm9JdXFYM3BvVmJZTU1SWlE?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -242,22 +258,6 @@
           "package": ""
         },
         {
-          "text": "不畏俄軍4倍優勢！烏奇襲毀俄自走砲強勢收復58平方公里領土",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qMVljWmFxX1hheFUwdG9xT1FLNnB4MHFlWGxjdEpucUxaMW0wNENIZlNCaTdPSmRjNlc4dDhCbjhQLURtYlFoY1VxOExlMlJnQWxnMzFmdnVaUQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qMVljWmFxX1hheFUwdG9xT1FLNnB4MHFlWGxjdEpucUxaMW0wNENIZlNCaTdPSmRjNlc4dDhCbjhQLURtYlFoY1VxOExlMlJnQWxnMzFmdnVaUQ?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "白胡信任投票失利將請辭總理看懂法國政局為何動盪",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmaFZwblRvZnRGeFl6RXNyTk9sQzRKQnd3aHFzVXc0ZnlOWmdoQWJsQTlxbXUxT2RpV252Y1UzOW1kWkUwQkdsR3pDQmN4U3JxcVNxM0lOTGR3X0dUUmRj?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmaFZwblRvZnRGeFl6RXNyTk9sQzRKQnd3aHFzVXc0ZnlOWmdoQWJsQTlxbXUxT2RpV252Y1UzOW1kWkUwQkdsR3pDQmN4U3JxcVNxM0lOTGR3X0dUUmRj?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
           "text": "台股還沒漲夠就喊卡？外資示警：降息恐釀資金大逃殺「蔡明彰直指2大因素左右後市」",
           "url": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxNOVg2SmFieF9rcXdXajBpVE9oVHF5YTNiUUc1N29Zd3VDYzZnajFueHlzNlhDam5NbVhTbVNoQlluXzM5MlhYSkJ1aXpOVFFxQlAwMjNNT2pCeUdmY3JQSVpWM0U3VjhORXBtU3gwb0ZubWNqNWFCSko4R2JaWmhYM2l0OERqcFpQZDJSd3dBLXVjdnZOU243aFhNY1lNT3pENExNcjB3X2NzRkNFeGlFS0RsMHdHMGVHckRDMmxydUl1M2k2Uk5mMjNHNWZCXzJKaWpLX0lOYnZIZWJ0OGc0VTRKNlFvWUMzQVBmemZ5NFU4SmN4bzA2b2NMZVpTeTJMOXJJVzZIeVRNaTV0LXp0NmtMZUc1ZU5xd05NQll0WHRqWW1BakdLSW5WV3E0ZWM1OUxsSV91VXFyNzBfRnB2WWNMeFhQYWlZam9ZRHF5S21xYnp0QW54alRzLVhDaVJmUzZ5NmZadE1iSHJhVE1VMFdpLVdSakVKRTlBUDFSNnQzN0xzbDN2dGJ1bUdKVTdqMUItLVVQbmYxZzVJTjlSdk1FTmRlMWZkN3pNbWVUaU1Yby0teWhlaWsxY3FSb3kzUk51dVpPNmxBZ3pLTDFPbFhHa2g2QjdtRG1CZzJHMG0ya3ZVbFo5MHkzdHJKTTlfbWJQcVY2Wjg?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxNOVg2SmFieF9rcXdXajBpVE9oVHF5YTNiUUc1N29Zd3VDYzZnajFueHlzNlhDam5NbVhTbVNoQlluXzM5MlhYSkJ1aXpOVFFxQlAwMjNNT2pCeUdmY3JQSVpWM0U3VjhORXBtU3gwb0ZubWNqNWFCSko4R2JaWmhYM2l0OERqcFpQZDJSd3dBLXVjdnZOU243aFhNY1lNT3pENExNcjB3X2NzRkNFeGlFS0RsMHdHMGVHckRDMmxydUl1M2k2Uk5mMjNHNWZCXzJKaWpLX0lOYnZIZWJ0OGc0VTRKNlFvWUMzQVBmemZ5NFU4SmN4bzA2b2NMZVpTeTJMOXJJVzZIeVRNaTV0LXp0NmtMZUc1ZU5xd05NQll0WHRqWW1BakdLSW5WV3E0ZWM1OUxsSV91VXFyNzBfRnB2WWNMeFhQYWlZam9ZRHF5S21xYnp0QW54alRzLVhDaVJmUzZ5NmZadE1iSHJhVE1VMFdpLVdSakVKRTlBUDFSNnQzN0xzbDN2dGJ1bUdKVTdqMUItLVVQbmYxZzVJTjlSdk1FTmRlMWZkN3pNbWVUaU1Yby0teWhlaWsxY3FSb3kzUk51dVpPNmxBZ3pLTDFPbFhHa2g2QjdtRG1CZzJHMG0ya3ZVbFo5MHkzdHJKTTlfbWJQcVY2Wjg?oc=5",
@@ -273,6 +273,6 @@
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 36,
+  "cost": 30,
   "status": 0
 }
