@@ -15,14 +15,6 @@
       "link_type": "app",
       "data": [
         {
-          "text": "Apple Watch",
-          "url": "https://tw.search.yahoo.com/search?p=Apple+Watch&amp;fr=ush-bt1",
-          "h5_url": "https://tw.search.yahoo.com/search?p=Apple+Watch&amp;fr=ush-bt1",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_yahoo",
-          "package": ""
-        },
-        {
           "text": "iPhone17 價格一次看",
           "url": "https://tw.news.yahoo.com/%E8%98%8B%E6%9E%9C-iphone-air%E3%80%81iphone-17-pro%E6%87%B6%E4%BA%BA%E5%8C%85%EF%BC%9A%E5%83%B9%E6%A0%BC%E3%80%81%E8%A6%8F%E6%A0%BC%E3%80%81%E9%A1%8F%E8%89%B2%E4%B8%80%E6%AC%A1%E7%9C%8B%EF%BC%8C%E5%8F%B0%E7%81%A3%E9%A0%90%E8%B3%BC%E3%80%81%E9%96%8B%E8%B3%A3%E6%99%82%E9%96%93%E6%9B%9D%E5%85%89%EF%BC%81-215929998.html",
           "h5_url": "https://tw.news.yahoo.com/%E8%98%8B%E6%9E%9C-iphone-air%E3%80%81iphone-17-pro%E6%87%B6%E4%BA%BA%E5%8C%85%EF%BC%9A%E5%83%B9%E6%A0%BC%E3%80%81%E8%A6%8F%E6%A0%BC%E3%80%81%E9%A1%8F%E8%89%B2%E4%B8%80%E6%AC%A1%E7%9C%8B%EF%BC%8C%E5%8F%B0%E7%81%A3%E9%A0%90%E8%B3%BC%E3%80%81%E9%96%8B%E8%B3%A3%E6%99%82%E9%96%93%E6%9B%9D%E5%85%89%EF%BC%81-215929998.html",
@@ -95,9 +87,17 @@
           "package": ""
         },
         {
-          "text": "「爸爸排位放這」柯文哲擁抱法師",
+          "text": "「爸爸牌位放這」柯文哲擁抱法師",
           "url": "https://tw.news.yahoo.com/%E4%BA%A4%E4%BF%9D%E7%AC%AC%E4%BA%8C%E5%A4%A9-%E6%9F%AF%E6%96%87%E5%93%B2%E8%B5%B4%E6%A1%83%E5%9C%92%E8%A8%AA%E5%AE%8F%E9%A1%98%E5%A4%A7%E5%8D%83%E4%B8%96%E7%95%8C-%E6%9F%AF%E7%88%B8%E6%8E%92%E4%BD%8D%E6%94%BE%E9%80%99-032329685.html",
           "h5_url": "https://tw.news.yahoo.com/%E4%BA%A4%E4%BF%9D%E7%AC%AC%E4%BA%8C%E5%A4%A9-%E6%9F%AF%E6%96%87%E5%93%B2%E8%B5%B4%E6%A1%83%E5%9C%92%E8%A8%AA%E5%AE%8F%E9%A1%98%E5%A4%A7%E5%8D%83%E4%B8%96%E7%95%8C-%E6%9F%AF%E7%88%B8%E6%8E%92%E4%BD%8D%E6%94%BE%E9%80%99-032329685.html",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_yahoo",
+          "package": ""
+        },
+        {
+          "text": "【齊有此理】專訪立委林俊憲",
+          "url": "https://tw.tv.yahoo.com/9-10-chi-071244356.html",
+          "h5_url": "https://tw.tv.yahoo.com/9-10-chi-071244356.html",
           "appIconUrl": "",
           "sourceUniqueId": "content_yahoo",
           "package": ""
@@ -111,9 +111,17 @@
           "package": ""
         },
         {
-          "text": "又見山林「剃光頭」空拍畫面現形",
-          "url": "https://tw.news.yahoo.com/%E9%AB%98%E9%9B%84%E6%BF%AB%E5%A2%BE%E7%88%AD%E8%AD%B0-%E5%A4%A7%E6%A8%B9%E5%8F%88%E7%88%86%E5%B1%B1%E9%A0%AD%E6%8C%96%E7%A6%BF-%E5%81%B7%E5%80%92%E5%BB%A2%E6%A3%84%E7%89%A9-224005153.html",
-          "h5_url": "https://tw.news.yahoo.com/%E9%AB%98%E9%9B%84%E6%BF%AB%E5%A2%BE%E7%88%AD%E8%AD%B0-%E5%A4%A7%E6%A8%B9%E5%8F%88%E7%88%86%E5%B1%B1%E9%A0%AD%E6%8C%96%E7%A6%BF-%E5%81%B7%E5%80%92%E5%BB%A2%E6%A3%84%E7%89%A9-224005153.html",
+          "text": "連勝文勸退 謝典林退出黨主席選舉",
+          "url": "https://tw.news.yahoo.com/%E5%BF%AB%E8%A8%8A-%E8%AC%9D%E5%85%B8%E6%9E%97%E5%AE%A3%E5%B8%83%E9%80%80%E5%87%BA%E5%9C%8B%E6%B0%91%E9%BB%A8%E4%B8%BB%E5%B8%AD%E9%81%B8%E8%88%89-%E4%BB%96%E8%AD%89%E5%AF%A6-%E8%A2%AB%E9%80%A3%E5%8B%9D%E6%96%87%E5%8B%B8%E9%80%80-021700773.html",
+          "h5_url": "https://tw.news.yahoo.com/%E5%BF%AB%E8%A8%8A-%E8%AC%9D%E5%85%B8%E6%9E%97%E5%AE%A3%E5%B8%83%E9%80%80%E5%87%BA%E5%9C%8B%E6%B0%91%E9%BB%A8%E4%B8%BB%E5%B8%AD%E9%81%B8%E8%88%89-%E4%BB%96%E8%AD%89%E5%AF%A6-%E8%A2%AB%E9%80%A3%E5%8B%9D%E6%96%87%E5%8B%B8%E9%80%80-021700773.html",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_yahoo",
+          "package": ""
+        },
+        {
+          "text": "全新iPhone亮相 一文掌握售價規格",
+          "url": "https://tw.news.yahoo.com/%E8%98%8B%E6%9E%9Ciphone-air%E3%80%81iphone-17-pro%E6%87%B6%E4%BA%BA%E5%8C%85%EF%BC%9A%E5%83%B9%E6%A0%BC%E3%80%81%E8%A6%8F%E6%A0%BC%E3%80%81%E9%A1%8F%E8%89%B2%E4%B8%80%E6%AC%A1%E7%9C%8B%EF%BC%8C%E5%8F%B0%E7%81%A3%E9%A0%90%E8%B3%BC%E3%80%81%E9%96%8B%E8%B3%A3%E6%99%82%E9%96%93%E6%9B%9D%E5%85%89%EF%BC%81-215929815.html",
+          "h5_url": "https://tw.news.yahoo.com/%E8%98%8B%E6%9E%9Ciphone-air%E3%80%81iphone-17-pro%E6%87%B6%E4%BA%BA%E5%8C%85%EF%BC%9A%E5%83%B9%E6%A0%BC%E3%80%81%E8%A6%8F%E6%A0%BC%E3%80%81%E9%A1%8F%E8%89%B2%E4%B8%80%E6%AC%A1%E7%9C%8B%EF%BC%8C%E5%8F%B0%E7%81%A3%E9%A0%90%E8%B3%BC%E3%80%81%E9%96%8B%E8%B3%A3%E6%99%82%E9%96%93%E6%9B%9D%E5%85%89%EF%BC%81-215929815.html",
           "appIconUrl": "",
           "sourceUniqueId": "content_yahoo",
           "package": ""
@@ -122,14 +130,6 @@
           "text": "公館圓環將拆除引議論 各方回應",
           "url": "https://tw.news.yahoo.com/%E5%85%AC%E9%A4%A8%E5%9C%93%E7%92%B09-13%E6%8B%86%E9%99%A4%E5%BC%95%E7%99%BC%E8%A8%8E%E8%AB%96-%E5%8C%97%E5%B8%82%E5%BA%9C-%E6%B0%91%E4%BB%A3-%E5%B1%85%E6%B0%91%E5%90%84%E6%96%B9%E8%AA%AA%E6%B3%95-101025729.html",
           "h5_url": "https://tw.news.yahoo.com/%E5%85%AC%E9%A4%A8%E5%9C%93%E7%92%B09-13%E6%8B%86%E9%99%A4%E5%BC%95%E7%99%BC%E8%A8%8E%E8%AB%96-%E5%8C%97%E5%B8%82%E5%BA%9C-%E6%B0%91%E4%BB%A3-%E5%B1%85%E6%B0%91%E5%90%84%E6%96%B9%E8%AA%AA%E6%B3%95-101025729.html",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_yahoo",
-          "package": ""
-        },
-        {
-          "text": "連勝文勸退 謝典林退出黨主席選舉",
-          "url": "https://tw.news.yahoo.com/%E5%BF%AB%E8%A8%8A-%E8%AC%9D%E5%85%B8%E6%9E%97%E5%AE%A3%E5%B8%83%E9%80%80%E5%87%BA%E5%9C%8B%E6%B0%91%E9%BB%A8%E4%B8%BB%E5%B8%AD%E9%81%B8%E8%88%89-%E4%BB%96%E8%AD%89%E5%AF%A6-%E8%A2%AB%E9%80%A3%E5%8B%9D%E6%96%87%E5%8B%B8%E9%80%80-021700773.html",
-          "h5_url": "https://tw.news.yahoo.com/%E5%BF%AB%E8%A8%8A-%E8%AC%9D%E5%85%B8%E6%9E%97%E5%AE%A3%E5%B8%83%E9%80%80%E5%87%BA%E5%9C%8B%E6%B0%91%E9%BB%A8%E4%B8%BB%E5%B8%AD%E9%81%B8%E8%88%89-%E4%BB%96%E8%AD%89%E5%AF%A6-%E8%A2%AB%E9%80%A3%E5%8B%9D%E6%96%87%E5%8B%B8%E9%80%80-021700773.html",
           "appIconUrl": "",
           "sourceUniqueId": "content_yahoo",
           "package": ""
@@ -145,14 +145,6 @@
       "headImageUrl": "",
       "link_type": "app",
       "data": [
-        {
-          "text": "高雄興達電廠火警曾文生證實天然氣外洩導致起火",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jUy1DMnNHdmRlWTNXTkxsd0VPY180YTAxNzVETjAxMnRJSlJwQVlZSTJBd3p6XzVhMGZHWVVjQ0JMYXJSajlhTmY4OVBudjh6TkFTNTE1RXRabkV0YVdv?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jUy1DMnNHdmRlWTNXTkxsd0VPY180YTAxNzVETjAxMnRJSlJwQVlZSTJBd3p6XzVhMGZHWVVjQ0JMYXJSajlhTmY4OVBudjh6TkFTNTE1RXRabkV0YVdv?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
         {
           "text": "蘋果秋季新品懶人包：iPhone 17 Pro/Air、AirPods Pro 3、Apple Watch 11一次看",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1acFFLN0FBWnJBTHRUOG1LZ2hPZ2x2aV9TRVhXNDJVTTBMcWFBRU0zU2l6bzJ6MGFhYnJoTTBxX0pPQVE5N2xyR25yUUJwZzA?oc=5",
@@ -178,9 +170,9 @@
           "package": ""
         },
         {
-          "text": "快訊／卡達首都遭轟炸　美國大使館發就地避難令",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjXzdiSEtzSnlEdmR4bzV3alZHaC1wcFdTbVZtaThselpQdHd5SHYwNFlUbVdPcEhRT1V1dGJZVE5NUEVoc01jYWFjek5Dbmh5bDNsWEtURjVMMVlMZ2fSAWhBVV95cUxQa21ObFJSZ2d3YkkwanJKRjNTSEU0RlFWWUluWnNVVm1jUE9relpuenN3clpzRmM3MEVscEVUUWs2elRaNkhXMzVQU3BHYjZHZTNYaFZ4blhIRFFfU3JxQmF6bG9uNFdFcw?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjXzdiSEtzSnlEdmR4bzV3alZHaC1wcFdTbVZtaThselpQdHd5SHYwNFlUbVdPcEhRT1V1dGJZVE5NUEVoc01jYWFjek5Dbmh5bDNsWEtURjVMMVlMZ2fSAWhBVV95cUxQa21ObFJSZ2d3YkkwanJKRjNTSEU0RlFWWUluWnNVVm1jUE9relpuenN3clpzRmM3MEVscEVUUWs2elRaNkhXMzVQU3BHYjZHZTNYaFZ4blhIRFFfU3JxQmF6bG9uNFdFcw?oc=5",
+          "text": "以色列單方面轟炸卡達境內白宮：不利推進以美目標",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SUi04dGh5QVlBclV5UHdlOHZPT3laajhvMi1SZ2N0LXIwRDRHXzRRVXBjZ1gyYkFaUEQyRTQ0TXE1S0s2eUNna0VCSGJkZXFZc0UybzdnUFpmWlR4anAw?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SUi04dGh5QVlBclV5UHdlOHZPT3laajhvMi1SZ2N0LXIwRDRHXzRRVXBjZ1gyYkFaUEQyRTQ0TXE1S0s2eUNna0VCSGJkZXFZc0UybzdnUFpmWlR4anAw?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -194,9 +186,17 @@
           "package": ""
         },
         {
-          "text": "財劃法爭議懶人包／分母搞錯！4大烏龍讓統籌分配款發不出去…藍白16縣市長明同場，政院秀圖：早示警",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOallqNld6MTVGcU51czdJcG9FTnp3a2xPbklycl9RSGVVZERHZUdFeTlTQjFuNDRrWVo3QnhvWjdqQlFnUkZ0MjI2ZUtjbmVSMVdyZU9DN3JTcVAtVjZyeVlFbGE5VW5ESzVZSmJKNE1XQUxHZWs3UzhvaEJiM0U5Rg?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOallqNld6MTVGcU51czdJcG9FTnp3a2xPbklycl9RSGVVZERHZUdFeTlTQjFuNDRrWVo3QnhvWjdqQlFnUkZ0MjI2ZUtjbmVSMVdyZU9DN3JTcVAtVjZyeVlFbGE5VW5ESzVZSmJKNE1XQUxHZWs3UzhvaEJiM0U5Rg?oc=5",
+          "text": "興達電廠爆炸火警「孩童被嚇哭」！受驚喊：不要住在這裡了",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xNTVzMUhUbjQwNl9IZnVuaERBR1B1dWVjM0xRTFpOaWNYN3pwTGZpcVFmbDJQTEpzM2JzSFJzd2dyR2o4aGRoWnZuNUEzSTVhSEhlbnFMRzFyRXNBUnfSAWhBVV95cUxPRjRPa1NvTXRLaTg1WUdVemZBQXltcVZHTzZFTk9ZeXVZYmdWSDVpamU0WTdnaG5ZeFo4bTVtQWI2b19IcXVpWXhhcWxTbTlUTE56RUFyaVllbzhEMUhFNHN6SjRsdFFxTA?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xNTVzMUhUbjQwNl9IZnVuaERBR1B1dWVjM0xRTFpOaWNYN3pwTGZpcVFmbDJQTEpzM2JzSFJzd2dyR2o4aGRoWnZuNUEzSTVhSEhlbnFMRzFyRXNBUnfSAWhBVV95cUxPRjRPa1NvTXRLaTg1WUdVemZBQXltcVZHTzZFTk9ZeXVZYmdWSDVpamU0WTdnaG5ZeFo4bTVtQWI2b19IcXVpWXhhcWxTbTlUTE56RUFyaVllbzhEMUhFNHN6SjRsdFFxTA?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "財劃法公式錯誤爭議 藍白15縣市首長今齊聚開記者會",
+          "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNYXV2NTQ5M1BtS3FweTJCdHlaUDlRdEZqeGhmWmk3RGRNbEs1WlpfWHJ3am9MdFFpLTBVR0FGMlVEODlsem10a095VkdQWG51UzVXNjhGTGE3OG9FclJ4MFpkX0g2ZVg5d1o5UnBKdEJRbGh5cTFGNkIteFRVVEx4NE04RmY0TFJuallHa0ZjLUhNbnBlcHUzSVZjQ3dpOS1HUHd3RGxobTNnWlBrYmRRbUxKYjhlNlotQmRmeWp2Q21OMUxTeE9oc2lfUFVOTWQwaE9KYlEtcDBQaS1XN0ZyR2VINEM3ZEJwRFBoMGl5dkZETkQ3M0s5WDc2UGh2elgwRTVTQnNZZl9xTXVjei1lZ3lXeF9xa2ZvZklNMmRXYXAtVHFJaU1xWm9QSHFCdjdsb0c5dE9QR0prMEhsWTdRV1oxdkpkWlM4SENKV21UbjlsNGZxU1llV3VQWkJ3QVU?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNYXV2NTQ5M1BtS3FweTJCdHlaUDlRdEZqeGhmWmk3RGRNbEs1WlpfWHJ3am9MdFFpLTBVR0FGMlVEODlsem10a095VkdQWG51UzVXNjhGTGE3OG9FclJ4MFpkX0g2ZVg5d1o5UnBKdEJRbGh5cTFGNkIteFRVVEx4NE04RmY0TFJuallHa0ZjLUhNbnBlcHUzSVZjQ3dpOS1HUHd3RGxobTNnWlBrYmRRbUxKYjhlNlotQmRmeWp2Q21OMUxTeE9oc2lfUFVOTWQwaE9KYlEtcDBQaS1XN0ZyR2VINEM3ZEJwRFBoMGl5dkZETkQ3M0s5WDc2UGh2elgwRTVTQnNZZl9xTXVjei1lZ3lXeF9xa2ZvZklNMmRXYXAtVHFJaU1xWm9QSHFCdjdsb0c5dE9QR0prMEhsWTdRV1oxdkpkWlM4SENKV21UbjlsNGZxU1llV3VQWkJ3QVU?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -210,14 +210,6 @@
           "package": ""
         },
         {
-          "text": "三叉山事件遺落深山80年 墜毀中央山脈美軍機機槍被運下山[影]",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qMDh1TnBfSmtfdzNjejBfR3h0WVB3TVNiU3o3U3VfcnpnYlA1MkpvMzV2V0FlUW5fVkJubmQxY1BrY3hzMHRPOV96bzJ3OXNhaVZtT2hqZWF6NW5ITkdR?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qMDh1TnBfSmtfdzNjejBfR3h0WVB3TVNiU3o3U3VfcnpnYlA1MkpvMzV2V0FlUW5fVkJubmQxY1BrY3hzMHRPOV96bzJ3OXNhaVZtT2hqZWF6NW5ITkdR?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
           "text": "國4驚見「紅色移動神主牌」逆飆4公里...駕駛嚇壞　超扯畫面曝",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB2Umc0LXprTXN2cG5ZYW9IQUF4aFF3OTJkS0EzVUU5SnF0algyMktlb2JfN3NYalJYQXpMNVU4bUJlSUhPYVp5R0RTSkdMRlloZmFKQTJJSVd5VHg2NUHSAWhBVV95cUxPeU5SamhjczFTbWhsSXVPUWRoMUt2TGt1VVFWdHFfc0FOdG9JY3JBQ1lFYUw1bk9seEtTNExYbWVWM1BxcGlUemsxdDB2bS1rT1pvbGVVcDJaMmNRN2NsdmpCR0tiU3Zzdg?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB2Umc0LXprTXN2cG5ZYW9IQUF4aFF3OTJkS0EzVUU5SnF0algyMktlb2JfN3NYalJYQXpMNVU4bUJlSUhPYVp5R0RTSkdMRlloZmFKQTJJSVd5VHg2NUHSAWhBVV95cUxPeU5SamhjczFTbWhsSXVPUWRoMUt2TGt1VVFWdHFfc0FOdG9JY3JBQ1lFYUw1bk9seEtTNExYbWVWM1BxcGlUemsxdDB2bS1rT1pvbGVVcDJaMmNRN2NsdmpCR0tiU3Zzdg?oc=5",
@@ -226,9 +218,25 @@
           "package": ""
         },
         {
-          "text": "南韓15座機場勞工大罷工！19日起一路到中秋假期 恐影響航班",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4xNjVkZDBFVXY1QS1SVW96MmRvUXMyQWJBbnBIaldWdHNydThaRHljWG5lSkxNVDRKanduUVVvTDJ0R3VLNVhLTlhfMk5pV2pk?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4xNjVkZDBFVXY1QS1SVW96MmRvUXMyQWJBbnBIaldWdHNydThaRHljWG5lSkxNVDRKanduUVVvTDJ0R3VLNVhLTlhfMk5pV2pk?oc=5",
+          "text": "高雄濫墾爭議／大樹又爆山頭挖禿 偷倒廢棄物",
+          "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPeGxlX052THVpUWhMUkF5ZGc3c3R0RFd3UjJRQm80YmhLOHBzVUdTNXBmNGxoTk1SX2JmTkk4TzdNX2dOUVp3S1lwOENnNTlKRG1Za2dLeDFaclJIWXd5VVRxQWVSTUp4eVZPUHByanlWR0xlUE11SEMwSy1QOGZIeUtKaFNxTXVJTWI5b0JiT1F6bENYOE50V1dKQWV6Z3o4TDU1UVNkZ3A4U3hqVlppMDR0cndFSE1HQ0xWdm9fUUowbFd6aUdUVV9ZSC01MjBXa3hRRklTN251T1NhUzN2LWR4M21IWlh0bDZYRzZFNTk0eEdXTGI1UkhyMHpPeDljQU9udWkxcmFsOGxEY3dLcjdkWG96M1BkVU8weDh1NUpGeUdueWhsSHNaTHYwOXY3Slk1SEp2enJaZw?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPeGxlX052THVpUWhMUkF5ZGc3c3R0RFd3UjJRQm80YmhLOHBzVUdTNXBmNGxoTk1SX2JmTkk4TzdNX2dOUVp3S1lwOENnNTlKRG1Za2dLeDFaclJIWXd5VVRxQWVSTUp4eVZPUHByanlWR0xlUE11SEMwSy1QOGZIeUtKaFNxTXVJTWI5b0JiT1F6bENYOE50V1dKQWV6Z3o4TDU1UVNkZ3A4U3hqVlppMDR0cndFSE1HQ0xWdm9fUUowbFd6aUdUVV9ZSC01MjBXa3hRRklTN251T1NhUzN2LWR4M21IWlh0bDZYRzZFNTk0eEdXTGI1UkhyMHpPeDljQU9udWkxcmFsOGxEY3dLcjdkWG96M1BkVU8weDh1NUpGeUdueWhsSHNaTHYwOXY3Slk1SEp2enJaZw?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "尼泊爾加德滿都陷入無法無天 前總理夫人傳遭困家中縱火後身亡",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE55TGFIUXhoSkVfcmZtdXoycVM4dkNwd2VUUFNZRDRoVnREREdrODBUQ2pnOV83eV9saFdyYUtKVmRubmlJWFoyN0RKT3ExX3Nv0gFWQVVfeXFMTzM3aVJjb0lpWi1ZMmR5OUlocjJvYU8wcm5tU0tQcmVib1E2U3EwemF5Y1pLYm1mQXVHcFFMUVB0THVJNk5WcTE4WXliSkNueWJaeEJvalE?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE55TGFIUXhoSkVfcmZtdXoycVM4dkNwd2VUUFNZRDRoVnREREdrODBUQ2pnOV83eV9saFdyYUtKVmRubmlJWFoyN0RKT3ExX3Nv0gFWQVVfeXFMTzM3aVJjb0lpWi1ZMmR5OUlocjJvYU8wcm5tU0tQcmVib1E2U3EwemF5Y1pLYm1mQXVHcFFMUVB0THVJNk5WcTE4WXliSkNueWJaeEJvalE?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "美ICE突襲韓廠延燒！台積電會是下一個？內部人士全說了",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tRFEwTjVLaTE2NnpHU0VTbVhaeXZiYmstWHdDbFBDX2JBZEhmeTFpWE44ZUZZcHJla2xnNEVoS0dsa1ByWVlfelB6N1psN1JiV05ZaklyZDB1ajhjMV9J0gFkQVVfeXFMUDlIYkw4M2JpZzg3Mkk3MmNxa2cxenUyRTFxYXBadDlMNDBkTExOMTFNWGFRb2Rudk94Vko1OGxlOU9HT2UyR0I2OFhRTTNUU2RPLVRfRnJCZS1vcDhTN2FWbWlCQw?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tRFEwTjVLaTE2NnpHU0VTbVhaeXZiYmstWHdDbFBDX2JBZEhmeTFpWE44ZUZZcHJla2xnNEVoS0dsa1ByWVlfelB6N1psN1JiV05ZaklyZDB1ajhjMV9J0gFkQVVfeXFMUDlIYkw4M2JpZzg3Mkk3MmNxa2cxenUyRTFxYXBadDlMNDBkTExOMTFNWGFRb2Rudk94Vko1OGxlOU9HT2UyR0I2OFhRTTNUU2RPLVRfRnJCZS1vcDhTN2FWbWlCQw?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -242,25 +250,17 @@
           "package": ""
         },
         {
-          "text": "日迎來首位女首相？爭奪戰白熱化 親台高市早苗民調領先",
-          "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxOT2dBN2tSWkwzTHNOVGlncXYxYmcxalR2eHpCTENSemNrbWRUSzVyVzZqcjZKVjNDWHptRE92NDNEWHQwSmhvOGtZa3RvZWhYQlJsQ0tZZWZrVlRTUXdQRWE5WGVKYVBiSEk5NlNxSjUxLWVDZlhUY3VDcVBic0d5SUZ1TV9ISV9rTGVSYkliaEVKTmNIcHllMnJzazRmd2x5ZnZCbDlPQ043R0Vnek5BbGZndUY5cDlPNE9qRDZ4NjJlX0trc0RfUUJPLXotcDZ2U0NMU3JpbUh3SlJOclZPakUycDZfWVlTNWtCMFVtajhMODd3ZkhIaUI2b3dIc0Q4NlBrOUZJTjB1QXdKcC1YMDdwVFpWTnJrV19OZ2ZlZHdNMEdTVGR4ZzFHTDhwMVItMVpwR0xiSkZQWnJhUF9ickpLZDRaR1NaUll6NkpzTUY2LWVPNk1TRVZIQjlEcTloQ3lfNzVPN3VNdWV6ekgyNjdXMWtJdw?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxOT2dBN2tSWkwzTHNOVGlncXYxYmcxalR2eHpCTENSemNrbWRUSzVyVzZqcjZKVjNDWHptRE92NDNEWHQwSmhvOGtZa3RvZWhYQlJsQ0tZZWZrVlRTUXdQRWE5WGVKYVBiSEk5NlNxSjUxLWVDZlhUY3VDcVBic0d5SUZ1TV9ISV9rTGVSYkliaEVKTmNIcHllMnJzazRmd2x5ZnZCbDlPQ043R0Vnek5BbGZndUY5cDlPNE9qRDZ4NjJlX0trc0RfUUJPLXotcDZ2U0NMU3JpbUh3SlJOclZPakUycDZfWVlTNWtCMFVtajhMODd3ZkhIaUI2b3dIc0Q4NlBrOUZJTjB1QXdKcC1YMDdwVFpWTnJrV19OZ2ZlZHdNMEdTVGR4ZzFHTDhwMVItMVpwR0xiSkZQWnJhUF9ickpLZDRaR1NaUll6NkpzTUY2LWVPNk1TRVZIQjlEcTloQ3lfNzVPN3VNdWV6ekgyNjdXMWtJdw?oc=5",
+          "text": "即將展開最大規模入侵 以色列下令百萬居民撤出加薩市",
+          "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxNc2Z4bHJlejZFZTdTbWI3ajdBOExoNGM4NkFuVkpVdU5qZFIwYVR6bm84OHNVcGFYWWwtMlVKSlVyMEhpMWJCT1RON3lwelJIUk5yNjFXeTFTbElpQ21lR0lDZHZLUkdYeDRfdGRPUUUyZWVhMFZucVZhcS1ReDZwQ1o3LWkwejV0NWpuZUVxckU1eGxlN1FDN0oxc09lVmVOQU1VdzVpZkI4V2dWUXladmhlYXJYR2o2WlcwS1NNaXFqbDNHTHBnSXFlRnBpOHZVemlwYVhlOHQ0d2l5SjlhT0xsV096STlJNjZZRl9XcDFKZ3JqVHBZc2M1cFJ4WlpOd19TaDUxR0lHYkRmMmhBbS1sSWNPZDFpOVV3M3A5UzdkT2NzbGdKSy0zRk43VVVwV1hlQ1JyT3ExMnRmdkp0dnlLVlU1VTdzWTlwaXNmendOZzdVSWh6N3dwc1pHR1NtYm1pYWRsMldEc1NPYk40bFdONlg?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxNc2Z4bHJlejZFZTdTbWI3ajdBOExoNGM4NkFuVkpVdU5qZFIwYVR6bm84OHNVcGFYWWwtMlVKSlVyMEhpMWJCT1RON3lwelJIUk5yNjFXeTFTbElpQ21lR0lDZHZLUkdYeDRfdGRPUUUyZWVhMFZucVZhcS1ReDZwQ1o3LWkwejV0NWpuZUVxckU1eGxlN1FDN0oxc09lVmVOQU1VdzVpZkI4V2dWUXladmhlYXJYR2o2WlcwS1NNaXFqbDNHTHBnSXFlRnBpOHZVemlwYVhlOHQ0d2l5SjlhT0xsV096STlJNjZZRl9XcDFKZ3JqVHBZc2M1cFJ4WlpOd19TaDUxR0lHYkRmMmhBbS1sSWNPZDFpOVV3M3A5UzdkT2NzbGdKSy0zRk43VVVwV1hlQ1JyT3ExMnRmdkp0dnlLVlU1VTdzWTlwaXNmendOZzdVSWh6N3dwc1pHR1NtYm1pYWRsMldEc1NPYk40bFdONlg?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "俄羅斯空襲命中烏克蘭心臟地帶！基輔平民死傷慘重",
-          "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQR3FfSUNRQTIxQVlGa0lBdnYxWlRvcTFmZTZ3SFBWbkc1SE8yQmdKNUFtOTVlRXVBdWlnbWt1ZmtSbFJyXzBzamtxVWRqSWVONWFuRVVkZ3pxS2ttd3lxMWZEVFpZenM2SUhwT2hubXh4SmlfbEhMR3hWUm1KN29ISHpJX2c4V1JUQ0pWdGc3NWhsaGdBV2NMck5MN1NaRmJjTHZZbThIREk2NVJEVkdJMDdsTDdMUV90Y3dGMDVGQ2VoSjN1Ums2QV9RR3ByS1JQVzJTRHB6NzJhcVMyNTI3NHJhUVdmSThVVU5SZmdPYjJqRzJGTk5UVHZ3MjdGdVNxRDQtT18xRjNTWWFza1NsOHRiT0F6TGhXa2g1NmdTV01PZThkQ0xlTmtwdmlfN2NZbVVHbE9nNWE4TzFPMWhHY3dSR1Z3cHRZaFBiTUlJRE1mTmNiNGg2SzFGM2I?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQR3FfSUNRQTIxQVlGa0lBdnYxWlRvcTFmZTZ3SFBWbkc1SE8yQmdKNUFtOTVlRXVBdWlnbWt1ZmtSbFJyXzBzamtxVWRqSWVONWFuRVVkZ3pxS2ttd3lxMWZEVFpZenM2SUhwT2hubXh4SmlfbEhMR3hWUm1KN29ISHpJX2c4V1JUQ0pWdGc3NWhsaGdBV2NMck5MN1NaRmJjTHZZbThIREk2NVJEVkdJMDdsTDdMUV90Y3dGMDVGQ2VoSjN1Ums2QV9RR3ByS1JQVzJTRHB6NzJhcVMyNTI3NHJhUVdmSThVVU5SZmdPYjJqRzJGTk5UVHZ3MjdGdVNxRDQtT18xRjNTWWFza1NsOHRiT0F6TGhXa2g1NmdTV01PZThkQ0xlTmtwdmlfN2NZbVVHbE9nNWE4TzFPMWhHY3dSR1Z3cHRZaFBiTUlJRE1mTmNiNGg2SzFGM2I?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "美股｜降息升溫、美債反轉 4大指數創高 台積電ADR揚1.5％",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGeFFNZTQ4b1lhbzgwSjNnUGx5aUxjTmFLOHBaUE4waVlkdXdHMUJzcTRDTDUwb3dDRk9TZ2U4UjFrYVhOREhSNkNWVC1BdDlxdEJCelJXVmF0ZlpzWjlj?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGeFFNZTQ4b1lhbzgwSjNnUGx5aUxjTmFLOHBaUE4waVlkdXdHMUJzcTRDTDUwb3dDRk9TZ2U4UjFrYVhOREhSNkNWVC1BdDlxdEJCelJXVmF0ZlpzWjlj?oc=5",
+          "text": "台積電ADR再創歷史新高！帶動現股開高20元 台股早盤直衝2萬5",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5yRU9qbTBvSGVfMjA0QndGSWlVajhqQ1VLQnh4bnd3azB0ZVlUQmV4T2Z2LVJZWkdnX0tweTN6TmlDNzE3YXhDNlFSam1YeGVk0gFWQVVfeXFMUDJGQTFYblg2SDI4d2l5YW1vbnQzQTdUM3VSSlFHUFl6UXFmOTZ0Y1FZX1pPY3lWbHlrbWxlclpFU3Uza2FEcTRxTW85bzBudlphYUI2SVE?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5yRU9qbTBvSGVfMjA0QndGSWlVajhqQ1VLQnh4bnd3azB0ZVlUQmV4T2Z2LVJZWkdnX0tweTN6TmlDNzE3YXhDNlFSam1YeGVk0gFWQVVfeXFMUDJGQTFYblg2SDI4d2l5YW1vbnQzQTdUM3VSSlFHUFl6UXFmOTZ0Y1FZX1pPY3lWbHlrbWxlclpFU3Uza2FEcTRxTW85bzBudlphYUI2SVE?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -273,6 +273,6 @@
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 33,
+  "cost": 11,
   "status": 0
 }
