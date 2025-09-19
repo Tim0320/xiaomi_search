@@ -15,14 +15,6 @@
       "link_type": "app",
       "data": [
         {
-          "text": "iPhone 17 Pro",
-          "url": "https://tw.search.yahoo.com/search?p=iPhone+17+Pro&amp;fr=ush-bt1",
-          "h5_url": "https://tw.search.yahoo.com/search?p=iPhone+17+Pro&amp;fr=ush-bt1",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_yahoo",
-          "package": ""
-        },
-        {
           "text": "8/23罷免核三公投",
           "url": "https://tw.news.yahoo.com/topic/recall/",
           "h5_url": "https://tw.news.yahoo.com/topic/recall/",
@@ -133,6 +125,14 @@
           "appIconUrl": "",
           "sourceUniqueId": "content_yahoo",
           "package": ""
+        },
+        {
+          "text": "美「房貸求助」Google搜尋竄升",
+          "url": "https://tw.news.yahoo.com/%E9%87%8D%E6%BC%942008%E5%B9%B4%E5%8D%B1%E6%A9%9F-%E6%88%BF%E8%B2%B8%E6%B1%82%E5%8A%A9-google%E6%90%9C%E5%B0%8B%E6%9A%B4%E5%A2%9E-%E5%B0%88%E5%AE%B6-%E5%AE%8C%E7%BE%8E%E9%A2%A8%E6%9A%B4%E5%B0%9A%E6%9C%AA%E6%88%90%E5%BD%A2-143009657.html",
+          "h5_url": "https://tw.news.yahoo.com/%E9%87%8D%E6%BC%942008%E5%B9%B4%E5%8D%B1%E6%A9%9F-%E6%88%BF%E8%B2%B8%E6%B1%82%E5%8A%A9-google%E6%90%9C%E5%B0%8B%E6%9A%B4%E5%A2%9E-%E5%B0%88%E5%AE%B6-%E5%AE%8C%E7%BE%8E%E9%A2%A8%E6%9A%B4%E5%B0%9A%E6%9C%AA%E6%88%90%E5%BD%A2-143009657.html",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_yahoo",
+          "package": ""
         }
       ],
       "selectedStatus": false,
@@ -170,17 +170,17 @@
           "package": ""
         },
         {
-          "text": "釋昭慧倡議拒領普發1萬　他質疑：做得到拒絕信眾善款才令人敬佩",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1CTjFaSFFJcV9ZNU52emdMNHhDaVFvZk13RWY4eVZxdDlza2Y2THpxcUdWLThHa2o0NkN1X1oxa2d6eklONXFSZ3FvNzdUVkpoeVFNekxOSTFmLXVqM2fSAWhBVV95cUxPc0FDU2VMREdxTHpfWG94bl9TVmhhV0VTVVVJNmVJb19nejloUUNTNzB1SlVjRFhzWkpxNXprbzBEOGxyT2VHZUZhZ2pZd3JscTlrU2FMNlEyNDQ1QjlRNXpmakd5T002NQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1CTjFaSFFJcV9ZNU52emdMNHhDaVFvZk13RWY4eVZxdDlza2Y2THpxcUdWLThHa2o0NkN1X1oxa2d6eklONXFSZ3FvNzdUVkpoeVFNekxOSTFmLXVqM2fSAWhBVV95cUxPc0FDU2VMREdxTHpfWG94bl9TVmhhV0VTVVVJNmVJb19nejloUUNTNzB1SlVjRFhzWkpxNXprbzBEOGxyT2VHZUZhZ2pZd3JscTlrU2FMNlEyNDQ1QjlRNXpmakd5T002NQ?oc=5",
+          "text": "13藍委相挺登記選主席 羅智強：鬥國民黨一流的人 怎打敗賴清德？",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtVEhNdkNMREtkUTNJdzkwQy05WjBjSllOSUNkZHN2bWx4YXNEMHpSUGo3eTEyQlVfLVlUOUxOR1UzZVRPYk1Lby12UnZHNVdtdVFj0gFYQVVfeXFMTWtVRm94UTJTMlc5bkE5QVRoY3FidWE3UUxjSXV1MW1WRHg2YnFPNzNuMEUwWDhfcE5iX2kyQVg3U2tDbWJmZ0dqeVhZLTVReHNKTGYzWWFtXw?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtVEhNdkNMREtkUTNJdzkwQy05WjBjSllOSUNkZHN2bWx4YXNEMHpSUGo3eTEyQlVfLVlUOUxOR1UzZVRPYk1Lby12UnZHNVdtdVFj0gFYQVVfeXFMTWtVRm94UTJTMlc5bkE5QVRoY3FidWE3UUxjSXV1MW1WRHg2YnFPNzNuMEUwWDhfcE5iX2kyQVg3U2tDbWJmZ0dqeVhZLTVReHNKTGYzWWFtXw?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "館長證實擔任「黨魁辯論提問人」：大家準時收看- 政治",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5aMXpvblZpYzFhR0ZzOTcxSXcyUkgtT3NhZkIwSWVWQ0VMQWsxX2NObE5obXoxRjloZS1idWlPYkNwYW5sbkVZLXFzMG9kOFd6UWxjdWFsMXRVemg3MDNyZk9BalNOV0hIZ3hiNVhR?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5aMXpvblZpYzFhR0ZzOTcxSXcyUkgtT3NhZkIwSWVWQ0VMQWsxX2NObE5obXoxRjloZS1idWlPYkNwYW5sbkVZLXFzMG9kOFd6UWxjdWFsMXRVemg3MDNyZk9BalNOV0hIZ3hiNVhR?oc=5",
+          "text": "釋昭慧倡議拒領普發1萬　他質疑：做得到拒絕信眾善款才令人敬佩",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1CTjFaSFFJcV9ZNU52emdMNHhDaVFvZk13RWY4eVZxdDlza2Y2THpxcUdWLThHa2o0NkN1X1oxa2d6eklONXFSZ3FvNzdUVkpoeVFNekxOSTFmLXVqM2fSAWhBVV95cUxPc0FDU2VMREdxTHpfWG94bl9TVmhhV0VTVVVJNmVJb19nejloUUNTNzB1SlVjRFhzWkpxNXprbzBEOGxyT2VHZUZhZ2pZd3JscTlrU2FMNlEyNDQ1QjlRNXpmakd5T002NQ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1CTjFaSFFJcV9ZNU52emdMNHhDaVFvZk13RWY4eVZxdDlza2Y2THpxcUdWLThHa2o0NkN1X1oxa2d6eklONXFSZ3FvNzdUVkpoeVFNekxOSTFmLXVqM2fSAWhBVV95cUxPc0FDU2VMREdxTHpfWG94bl9TVmhhV0VTVVVJNmVJb19nejloUUNTNzB1SlVjRFhzWkpxNXprbzBEOGxyT2VHZUZhZ2pZd3JscTlrU2FMNlEyNDQ1QjlRNXpmakd5T002NQ?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -234,9 +234,9 @@
           "package": ""
         },
         {
-          "text": "優雅永不過時！凱特王妃接待川普化身「時尚外交教科書」氣質爆棚 穿搭「致敬黛安娜」藏溫馨細節",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kRzRkSXRrY04yeVY3cGZQOXBLLWNOcFdCLWNSY3d5Q1RadDlyak5QdWwzZHVKQXpVMUhIMFpfM2daZm9NT2ZRcVNmQTlRcFZkTkJrNTRSZVhiZ9IBX0FVX3lxTE1hTEVrM2VxVnd5Vk1xTl9yZHdyZWVodjlNRHVBQkxPSmRGTnh2dEd4QlFac3RMenJwNjIxNDVjSW9LWlloU3lNM203VkF3clFXcDlITi04dk1mTndBdzZF?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kRzRkSXRrY04yeVY3cGZQOXBLLWNOcFdCLWNSY3d5Q1RadDlyak5QdWwzZHVKQXpVMUhIMFpfM2daZm9NT2ZRcVNmQTlRcFZkTkJrNTRSZVhiZ9IBX0FVX3lxTE1hTEVrM2VxVnd5Vk1xTl9yZHdyZWVodjlNRHVBQkxPSmRGTnh2dEd4QlFac3RMenJwNjIxNDVjSW9LWlloU3lNM203VkF3clFXcDlITi04dk1mTndBdzZF?oc=5",
+          "text": "笑看黃仁勳 川普：AI正在接管世界 希望你是對的",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBiNmNfbUtGNXNGYVpqNHZsRlRIUGdQXzlFTFBBMHJMQnJOVGtSU0I3SlRqOUpZaUwzYXctV0dSUEVJOXZTY2lVdUFzREk2NDg?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBiNmNfbUtGNXNGYVpqNHZsRlRIUGdQXzlFTFBBMHJMQnJOVGtSU0I3SlRqOUpZaUwzYXctV0dSUEVJOXZTY2lVdUFzREk2NDg?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -273,6 +273,6 @@
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 16,
+  "cost": 29,
   "status": 0
 }
