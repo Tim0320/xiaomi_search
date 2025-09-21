@@ -146,17 +146,9 @@
       "link_type": "app",
       "data": [
         {
-          "text": "颱風樺加沙海警發布最快白天轉強颱 午後風雨漸增、傍晚可能發陸警[影]",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBuSDZQV2J6NlRZUm1rbjBFajlWNW9WU3pHODl5RDdod29FMzR4V0FjOTJmRnRIMVYzRlQ4NUZVam15VHNQNUFQV2Y0RWNKbWgtMlc4eFdDRmtSYmdaTDk0?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBuSDZQV2J6NlRZUm1rbjBFajlWNW9WU3pHODl5RDdod29FMzR4V0FjOTJmRnRIMVYzRlQ4NUZVam15VHNQNUFQV2Y0RWNKbWgtMlc4eFdDRmtSYmdaTDk0?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "喜馬拉雅山煙火秀挨批破壞環境蔡國強及始祖鳥道歉",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tR0ZpRC1jNnV4aGFfM01UaUh1ajBnYmhmWDEzVDA4UUtmUGxMRmh2S19RQjBod09wNU5OZ3pLaElrYUJUWjNsekg2NnUwOGt3N2pBS1VydldqOEdsRFE?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tR0ZpRC1jNnV4aGFfM01UaUh1ajBnYmhmWDEzVDA4UUtmUGxMRmh2S19RQjBod09wNU5OZ3pLaElrYUJUWjNsekg2NnUwOGt3N2pBS1VydldqOEdsRFE?oc=5",
+          "text": "颱風樺加沙逼近 氣象署擬下午5時30分發布陸警[影]",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2SWZmWEVqa0VSUC0zbXY4YzdlNXpRbmJRX1lnQjB2SkxCWnZJaHpYTHVkYWI5dmZiNElqU002SFo1SVJ2SDlHOVZXMzJPNWxhM0NFbEdoYWJZOE1SNW5Z?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2SWZmWEVqa0VSUC0zbXY4YzdlNXpRbmJRX1lnQjB2SkxCWnZJaHpYTHVkYWI5dmZiNElqU002SFo1SVJ2SDlHOVZXMzJPNWxhM0NFbEdoYWJZOE1SNW5Z?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -165,6 +157,14 @@
           "text": "電塔雙屍疑經商欠高利貸 新北夫妻躲債旅館一周今陳屍",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1JWHF6MS1VX3ZtVThBelRuT3JUcVB3UWw5aU9QWHEwVkdvTXkydTVDNFZoUFYtczdCaEJtQUhVZFZ2YndMODJtN080ZWlxSjda0gFWQVVfeXFMUG9zQVdVMW03OVhHTThBaGVZUXVGUzZiUFl6S0c3S0RseEZzWHc0WUxOcENCbFRwRWRqcEVudV95OHd0cWxBUXFBZnNOWjBvdnJOLXJmN3c?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1JWHF6MS1VX3ZtVThBelRuT3JUcVB3UWw5aU9QWHEwVkdvTXkydTVDNFZoUFYtczdCaEJtQUhVZFZ2YndMODJtN080ZWlxSjda0gFWQVVfeXFMUG9zQVdVMW03OVhHTThBaGVZUXVGUzZiUFl6S0c3S0RseEZzWHc0WUxOcENCbFRwRWRqcEVudV95OHd0cWxBUXFBZnNOWjBvdnJOLXJmN3c?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "喜馬拉雅山煙火秀挨批破壞環境蔡國強及始祖鳥道歉",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tR0ZpRC1jNnV4aGFfM01UaUh1ajBnYmhmWDEzVDA4UUtmUGxMRmh2S19RQjBod09wNU5OZ3pLaElrYUJUWjNsekg2NnUwOGt3N2pBS1VydldqOEdsRFE?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tR0ZpRC1jNnV4aGFfM01UaUh1ajBnYmhmWDEzVDA4UUtmUGxMRmh2S19RQjBod09wNU5OZ3pLaElrYUJUWjNsekg2NnUwOGt3N2pBS1VydldqOEdsRFE?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -202,9 +202,9 @@
           "package": ""
         },
         {
-          "text": "柯志恩爭取大阪世博台灣館移回高雄 尹立諷「又刪又蹭」加「無知又烏龍」",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FS0twWVFMWFF2SlhMLUNoV0wxVUdQZjhMLWlzLUp2OEZQcFhVOEFnSGlhWGtsOExqOEw1LU1NWkRkSlBOY1ppNHdOdFdsQldaVW9QUzY3amxXbE10NTQ4TlppYzZLV1VtZGfSAW9BVV95cUxOTnJ5NDhlX0o1Y0xZS0ZsV2RVNEJUcVI3Vlp4dlEyZUhySEtGNy1zYVJUNWRaN3FjMlduWHBEdWRkWDFOXzNkaEhJV284OGNMemd6bGJYTi04Mlp4S0dWOGo2WEtPbWNDSngteW82S3M?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FS0twWVFMWFF2SlhMLUNoV0wxVUdQZjhMLWlzLUp2OEZQcFhVOEFnSGlhWGtsOExqOEw1LU1NWkRkSlBOY1ppNHdOdFdsQldaVW9QUzY3amxXbE10NTQ4TlppYzZLV1VtZGfSAW9BVV95cUxOTnJ5NDhlX0o1Y0xZS0ZsV2RVNEJUcVI3Vlp4dlEyZUhySEtGNy1zYVJUNWRaN3FjMlduWHBEdWRkWDFOXzNkaEhJV284OGNMemd6bGJYTi04Mlp4S0dWOGo2WEtPbWNDSngteW82S3M?oc=5",
+          "text": "未來國民黨主席面臨1最大挑戰 蔡正元：難度很高",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxeDEwTVNlZUl4NF9PemphMGVTQTZjalIxOTllZ1N0bnF4ZHR3UndsQlg0a1JpOUFoLUF6WjE5X2NMa01ISU8ySkZWczJSM05pdmdB0gFYQVVfeXFMTm42ajdlVkhZSlZBaGtmTGtyc2YtY0dRb1FtYlFzdnR5QjAzamVOMXdPMEMyTzRoNGF0Wk5BR2lFRkEtNndkcG5zQkVUa1VIbGNOWjVzLXNWbA?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxeDEwTVNlZUl4NF9PemphMGVTQTZjalIxOTllZ1N0bnF4ZHR3UndsQlg0a1JpOUFoLUF6WjE5X2NMa01ISU8ySkZWczJSM05pdmdB0gFYQVVfeXFMTm42ajdlVkhZSlZBaGtmTGtyc2YtY0dRb1FtYlFzdnR5QjAzamVOMXdPMEMyTzRoNGF0Wk5BR2lFRkEtNndkcG5zQkVUa1VIbGNOWjVzLXNWbA?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -218,33 +218,9 @@
           "package": ""
         },
         {
-          "text": "內政部統計：113年國人離婚計5.3萬對 半數婚齡未滿9年",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1GMEpOSDNub1QtZm02MjM5SUNQRHJvengyVm1BaENOUF9jdlpwRU5CYUZPNnYzUldCWGRfX2pYRDJSZmtvb1JpV3hIeVBYelJuU1VnRS0zMFpsT01BM2xTejdJM1PSAWpBVV95cUxPRFF4MzRuZEFOQktVNUlBaHdHTU9BQ2JKXzMwS1A3T3hWNW5uSU9palhvMVJZaVZET19jeHNTY3dQQmxXbk03NGtVSmNkUGFBLVpQeVRyam8wcFBwSzVtUmk0NzF1YkhTcmhB?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1GMEpOSDNub1QtZm02MjM5SUNQRHJvengyVm1BaENOUF9jdlpwRU5CYUZPNnYzUldCWGRfX2pYRDJSZmtvb1JpV3hIeVBYelJuU1VnRS0zMFpsT01BM2xTejdJM1PSAWpBVV95cUxPRFF4MzRuZEFOQktVNUlBaHdHTU9BQ2JKXzMwS1A3T3hWNW5uSU9palhvMVJZaVZET19jeHNTY3dQQmxXbk03NGtVSmNkUGFBLVpQeVRyam8wcFBwSzVtUmk0NzF1YkhTcmhB?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "遊歐注意！多國機場遭駭客入侵 報到系統癱瘓旅客擠爆",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9nTjNnQjdQVUxtSE05V2RxeXBzbXA0VTRsUHR1YmNadGNOVnVlaVh1QjA3bF9wb1FrUExWWGp2M2ZPakxmVWpzN0hQZkxKTUZF0gFWQVVfeXFMT3ZuMU01cmRTNU8yczFFdjY3dEdCRWNaRnQ4QmE2N0gtSTZQcTBXWUREbFhURG1lTGVxLWM4bXViNGdjM1lhSDl5OGNXcGhTdFJnbnRjWUE?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9nTjNnQjdQVUxtSE05V2RxeXBzbXA0VTRsUHR1YmNadGNOVnVlaVh1QjA3bF9wb1FrUExWWGp2M2ZPakxmVWpzN0hQZkxKTUZF0gFWQVVfeXFMT3ZuMU01cmRTNU8yczFFdjY3dEdCRWNaRnQ4QmE2N0gtSTZQcTBXWUREbFhURG1lTGVxLWM4bXViNGdjM1lhSDl5OGNXcGhTdFJnbnRjWUE?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "俄「匕首」極音速飛彈被烏攔截 高志榮：我國應循管道向烏取經",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kRElaaXNYRElrSXg2TTRFVmZZQzdlbVpTM3NYcTR0d1NGZjdCTV9CVlduS1o0Yk5md2JSR2tudC1wNXZaTW1pVm05Q0xNRGplVkNvbDQ1M3RTSzZRd0JqedIBZkFVX3lxTE9XbVpLSjlfZTYzN0FmY3otWWtJUW55bWtZLVVjTUJCTmNlZENfUmhVNFJPcWQyT0M5eVBBRzNVMHBYSHRXOUZKbXMtVjRiSWlEUWpKOGltZVlvaWx0dWg2bXpBSmtNZw?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kRElaaXNYRElrSXg2TTRFVmZZQzdlbVpTM3NYcTR0d1NGZjdCTV9CVlduS1o0Yk5md2JSR2tudC1wNXZaTW1pVm05Q0xNRGplVkNvbDQ1M3RTSzZRd0JqedIBZkFVX3lxTE9XbVpLSjlfZTYzN0FmY3otWWtJUW55bWtZLVVjTUJCTmNlZENfUmhVNFJPcWQyT0M5eVBBRzNVMHBYSHRXOUZKbXMtVjRiSWlEUWpKOGltZVlvaWx0dWg2bXpBSmtNZw?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "川普漲H-1B簽證費震撼矽谷 台科技人返鄉旅遊急喊卡",
-          "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOSTJJZU1GaVBZazltUGN3YUg5VjQ1LVdSZk16QXM3eHBtRTAxRF82bWdUb0NBZVRqaGFKNWEzZ1dnT0VBYldwa1VNZkRaSVBpVEl2M1JSTWNQWVZvQkFrWTVnN2tJU0R3aXlBXzNhWG0wZ2luOWVMaFdZdDQtcnBmSnhhbWhHZTVDM29KQ2llVVhpdUJqSjVheEwzT3VTdldWQ21iaEJLT243VnQ2bXpSU2kzZHhGSThLUXFPazQycVc5bDZxUlRxZ2dOV19vS2NEOUNEbGNBT2FHb0VpUHBhdFpMVU5CWERhZmhLNkw1aUNyb2F3OFBtUl8zT3BwZXgtR0tXMk5qUWR0NmFuUUJwOU00QXV1c1cyY0d2MFpWNl96ZTY5SzNuUFNXeVNER20zc3N2dV9uV3pRSnl4Sno3OGtaMW55c091V0U0QkNnZUJobERnbGc?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOSTJJZU1GaVBZazltUGN3YUg5VjQ1LVdSZk16QXM3eHBtRTAxRF82bWdUb0NBZVRqaGFKNWEzZ1dnT0VBYldwa1VNZkRaSVBpVEl2M1JSTWNQWVZvQkFrWTVnN2tJU0R3aXlBXzNhWG0wZ2luOWVMaFdZdDQtcnBmSnhhbWhHZTVDM29KQ2llVVhpdUJqSjVheEwzT3VTdldWQ21iaEJLT243VnQ2bXpSU2kzZHhGSThLUXFPazQycVc5bDZxUlRxZ2dOV19vS2NEOUNEbGNBT2FHb0VpUHBhdFpMVU5CWERhZmhLNkw1aUNyb2F3OFBtUl8zT3BwZXgtR0tXMk5qUWR0NmFuUUJwOU00QXV1c1cyY0d2MFpWNl96ZTY5SzNuUFNXeVNER20zc3N2dV9uV3pRSnl4Sno3OGtaMW55c091V0U0QkNnZUJobERnbGc?oc=5",
+          "text": "柯志恩爭取大阪世博台灣館移回高雄 尹立諷「又刪又蹭」加「無知又烏龍」",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FS0twWVFMWFF2SlhMLUNoV0wxVUdQZjhMLWlzLUp2OEZQcFhVOEFnSGlhWGtsOExqOEw1LU1NWkRkSlBOY1ppNHdOdFdsQldaVW9QUzY3amxXbE10NTQ4TlppYzZLV1VtZGfSAW9BVV95cUxOTnJ5NDhlX0o1Y0xZS0ZsV2RVNEJUcVI3Vlp4dlEyZUhySEtGNy1zYVJUNWRaN3FjMlduWHBEdWRkWDFOXzNkaEhJV284OGNMemd6bGJYTi04Mlp4S0dWOGo2WEtPbWNDSngteW82S3M?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FS0twWVFMWFF2SlhMLUNoV0wxVUdQZjhMLWlzLUp2OEZQcFhVOEFnSGlhWGtsOExqOEw1LU1NWkRkSlBOY1ppNHdOdFdsQldaVW9QUzY3amxXbE10NTQ4TlppYzZLV1VtZGfSAW9BVV95cUxOTnJ5NDhlX0o1Y0xZS0ZsV2RVNEJUcVI3Vlp4dlEyZUhySEtGNy1zYVJUNWRaN3FjMlduWHBEdWRkWDFOXzNkaEhJV284OGNMemd6bGJYTi04Mlp4S0dWOGo2WEtPbWNDSngteW82S3M?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -258,9 +234,33 @@
           "package": ""
         },
         {
-          "text": "iPhone新機「2色」爆災情！　外媒記者實地觀察：幾小時就刮傷",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBmZHotUGhSMU9hU0pwQVE2RkhFbTBvV2VzUWdBdDBaQjJQbTNvTmZhUWtKQzQ4Wk05cHk0azB3VVBHdDRtRHpvSHExWXdheEV0dHZqRDRVcTl0aC1ma2fSAWhBVV95cUxPMlFETFo4WURFSlJ3N3E4ZEtFSU91VWg4bEdNUGdpbE5JVzc2d2hlZEJ1VnRJZzlZck5mQlg2aW1VblFjcFM3ajAwYXlyblZoTlh1N1ZTeGF0QUhwa0o4eHRSQkNFMGdUTA?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBmZHotUGhSMU9hU0pwQVE2RkhFbTBvV2VzUWdBdDBaQjJQbTNvTmZhUWtKQzQ4Wk05cHk0azB3VVBHdDRtRHpvSHExWXdheEV0dHZqRDRVcTl0aC1ma2fSAWhBVV95cUxPMlFETFo4WURFSlJ3N3E4ZEtFSU91VWg4bEdNUGdpbE5JVzc2d2hlZEJ1VnRJZzlZck5mQlg2aW1VblFjcFM3ajAwYXlyblZoTlh1N1ZTeGF0QUhwa0o4eHRSQkNFMGdUTA?oc=5",
+          "text": "遊歐注意！多國機場遭駭客入侵 報到系統癱瘓旅客擠爆",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9nTjNnQjdQVUxtSE05V2RxeXBzbXA0VTRsUHR1YmNadGNOVnVlaVh1QjA3bF9wb1FrUExWWGp2M2ZPakxmVWpzN0hQZkxKTUZF0gFWQVVfeXFMT3ZuMU01cmRTNU8yczFFdjY3dEdCRWNaRnQ4QmE2N0gtSTZQcTBXWUREbFhURG1lTGVxLWM4bXViNGdjM1lhSDl5OGNXcGhTdFJnbnRjWUE?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9nTjNnQjdQVUxtSE05V2RxeXBzbXA0VTRsUHR1YmNadGNOVnVlaVh1QjA3bF9wb1FrUExWWGp2M2ZPakxmVWpzN0hQZkxKTUZF0gFWQVVfeXFMT3ZuMU01cmRTNU8yczFFdjY3dEdCRWNaRnQ4QmE2N0gtSTZQcTBXWUREbFhURG1lTGVxLWM4bXViNGdjM1lhSDl5OGNXcGhTdFJnbnRjWUE?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "哈瑪斯釋出47人質「告別照片」 民眾上街抗議、家屬要求政府展開談判",
+          "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxQbDB4RWF5N0hUY3RUM01SdGdkSjdCZFppa3FaZlpUTTBJZHJzWDhjanZzaVVQb0kzTFVSaXJpaHhkdjJBYV9ZYTNGaXRHejdNMk1ObktPSS1pYTVxbVZhLXB1eUllZ0FEdWRUUzdmd191ZzZHbTNGeEcyUHg5SlZySmM4ODhNbzhnbEphcGkwQ3l1VXdxTHFnWnhmVUxUVW5IY1ZXWlhyV2VpM3hFQTkySjQzWEQ4bzUwZ1JJMXM1LVJrVkNOb0ViLU1WcXJ3RTlJOElYMU4wdEludFF0MkRCazNxOTJ0Smc3SENfdmN5RjFJWlhpNnhFb1dGVjNLaElSXzFqUEoyS2ozdVU3dVR5ckhvLWpFTkhRZy1WV2hwR3FsN3pxVWhpMkt0ZmRyV19tcDhNS0tVSzZBYVJtMTZEXzZKRFZ2Q0cxQjZHTDVYclBKazBGY3lQVlJZRWU4amZYSEREWFJBOUNqT3VqRXIwTm9KNVJKNHladERKbHphS1NFRnZsLWpHdmhTRTRsandoeEo2bVcyLVQ2SWs2UEE?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMingNBVV95cUxQbDB4RWF5N0hUY3RUM01SdGdkSjdCZFppa3FaZlpUTTBJZHJzWDhjanZzaVVQb0kzTFVSaXJpaHhkdjJBYV9ZYTNGaXRHejdNMk1ObktPSS1pYTVxbVZhLXB1eUllZ0FEdWRUUzdmd191ZzZHbTNGeEcyUHg5SlZySmM4ODhNbzhnbEphcGkwQ3l1VXdxTHFnWnhmVUxUVW5IY1ZXWlhyV2VpM3hFQTkySjQzWEQ4bzUwZ1JJMXM1LVJrVkNOb0ViLU1WcXJ3RTlJOElYMU4wdEludFF0MkRCazNxOTJ0Smc3SENfdmN5RjFJWlhpNnhFb1dGVjNLaElSXzFqUEoyS2ozdVU3dVR5ckhvLWpFTkhRZy1WV2hwR3FsN3pxVWhpMkt0ZmRyV19tcDhNS0tVSzZBYVJtMTZEXzZKRFZ2Q0cxQjZHTDVYclBKazBGY3lQVlJZRWU4amZYSEREWFJBOUNqT3VqRXIwTm9KNVJKNHladERKbHphS1NFRnZsLWpHdmhTRTRsandoeEo2bVcyLVQ2SWs2UEE?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "俄「匕首」極音速飛彈被烏攔截 高志榮：我國應循管道向烏取經",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kRElaaXNYRElrSXg2TTRFVmZZQzdlbVpTM3NYcTR0d1NGZjdCTV9CVlduS1o0Yk5md2JSR2tudC1wNXZaTW1pVm05Q0xNRGplVkNvbDQ1M3RTSzZRd0JqedIBZkFVX3lxTE9XbVpLSjlfZTYzN0FmY3otWWtJUW55bWtZLVVjTUJCTmNlZENfUmhVNFJPcWQyT0M5eVBBRzNVMHBYSHRXOUZKbXMtVjRiSWlEUWpKOGltZVlvaWx0dWg2bXpBSmtNZw?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kRElaaXNYRElrSXg2TTRFVmZZQzdlbVpTM3NYcTR0d1NGZjdCTV9CVlduS1o0Yk5md2JSR2tudC1wNXZaTW1pVm05Q0xNRGplVkNvbDQ1M3RTSzZRd0JqedIBZkFVX3lxTE9XbVpLSjlfZTYzN0FmY3otWWtJUW55bWtZLVVjTUJCTmNlZENfUmhVNFJPcWQyT0M5eVBBRzNVMHBYSHRXOUZKbXMtVjRiSWlEUWpKOGltZVlvaWx0dWg2bXpBSmtNZw?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "重回賽道！三星HBM3E終獲輝達驗證 攜手台積尋求HBM4突圍",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzYUNkZkV1S3NQSjA2YVc1Q1MzZ2pCb3E4Rm43LWNrQXl1blQ5WWFkUHQtSmNLY3NpX1I4aHNfZlk2U3dIby1pTFVQMkFIVjdHY2hCUnNpeFByMHc2dm9Z0gFkQVVfeXFMUDNiNm5pWXhDYzZxdnBIbDVScmFCLXhtV2NpVFF4d3lzcWlmN0hpWDk0QURTeWJIQ3FvZUV2TFkycldpbVJqYTZwZTJ4LVlRbVpDMm5HYTdNQ1NicDFUOWRXVEVaVA?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzYUNkZkV1S3NQSjA2YVc1Q1MzZ2pCb3E4Rm43LWNrQXl1blQ5WWFkUHQtSmNLY3NpX1I4aHNfZlk2U3dIby1pTFVQMkFIVjdHY2hCUnNpeFByMHc2dm9Z0gFkQVVfeXFMUDNiNm5pWXhDYzZxdnBIbDVScmFCLXhtV2NpVFF4d3lzcWlmN0hpWDk0QURTeWJIQ3FvZUV2TFkycldpbVJqYTZwZTJ4LVlRbVpDMm5HYTdNQ1NicDFUOWRXVEVaVA?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -273,6 +273,6 @@
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 20,
+  "cost": 14,
   "status": 0
 }
