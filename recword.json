@@ -146,17 +146,33 @@
       "link_type": "app",
       "data": [
         {
-          "text": "強颱樺加沙暴風圈觸陸 下半天至明天風雨最強 氣象署最新說明、颱風即時動態【不斷更新】",
-          "url": "https://news.google.com/rss/articles/CBMivARBVV95cUxNckRHTFd1MFJ2R3h2NzhWZ2d3RlpkTDRjcE1tbmpNUERlX0tmOHBxUnhNeV8wYjRZY1E4M01jUG5TcDhhR3NRZlBpU0hzcTFFU0taQ3lYZDZRcmpOQ2EyMWt6Y1ZGT2M4MHY0XzFVQTF5cFVEN2MwZS02c3dyX1E0T1M0WVp2bFBsWWhjVkhXZXdDRjRLaDRZbHVOaGIybnR0czZpVDhjWXR0dGNsOWVSSDl5R3NJQnRIbVJsdC0zUEhJZGE2NlNLTWl1MEoxVFZQVHhuUmdTOFNDb3h0dXpwVVBQeUYzZkZUdzZwN0NvYkNyajRCZUF5Q281R3AyRDRRTXJwUVZSbWRXUkktTHgwbDR6Y3M4aC1DTW0yZXA2X2tqRm9DcEk1Q25JR2NTeExzMXdON0hMdXY2b0NZVzdJRDV3VHJ1U2pyQ0tOenhUZk1WcFBIRzdWOU5BdnA1UzBFZGVDZXVkMVdMMDNlZWlNTlZYMVJTU2hGQ1VSaFB4bzdwUVVRNm1tSmhWQW9yZlpQei1UU3lSZDh1b2J0YkNXRGtmYnJyaUs1N2N0Y1hQZjhCdGNCU3MtYVp5NTQwMXVOcWU1bUJ6cDhmWlBQSnJteUpNYmdKT29ORW9FdTFCS3lnQ1pmOUd2UHVUakwtWVVpeEJ1c1Y1Ynp1TVZ3aURwYUNyWlZKSXVHR2xpbDZGZHBUTFdqMERrOGtKQ3pZdUI3cGw3aHB1azFWc3hCT0N0ZEI2RkphQUkyOU5PSQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMivARBVV95cUxNckRHTFd1MFJ2R3h2NzhWZ2d3RlpkTDRjcE1tbmpNUERlX0tmOHBxUnhNeV8wYjRZY1E4M01jUG5TcDhhR3NRZlBpU0hzcTFFU0taQ3lYZDZRcmpOQ2EyMWt6Y1ZGT2M4MHY0XzFVQTF5cFVEN2MwZS02c3dyX1E0T1M0WVp2bFBsWWhjVkhXZXdDRjRLaDRZbHVOaGIybnR0czZpVDhjWXR0dGNsOWVSSDl5R3NJQnRIbVJsdC0zUEhJZGE2NlNLTWl1MEoxVFZQVHhuUmdTOFNDb3h0dXpwVVBQeUYzZkZUdzZwN0NvYkNyajRCZUF5Q281R3AyRDRRTXJwUVZSbWRXUkktTHgwbDR6Y3M4aC1DTW0yZXA2X2tqRm9DcEk1Q25JR2NTeExzMXdON0hMdXY2b0NZVzdJRDV3VHJ1U2pyQ0tOenhUZk1WcFBIRzdWOU5BdnA1UzBFZGVDZXVkMVdMMDNlZWlNTlZYMVJTU2hGQ1VSaFB4bzdwUVVRNm1tSmhWQW9yZlpQei1UU3lSZDh1b2J0YkNXRGtmYnJyaUs1N2N0Y1hQZjhCdGNCU3MtYVp5NTQwMXVOcWU1bUJ6cDhmWlBQSnJteUpNYmdKT29ORW9FdTFCS3lnQ1pmOUd2UHVUakwtWVVpeEJ1c1Y1Ynp1TVZ3aURwYUNyWlZKSXVHR2xpbDZGZHBUTFdqMERrOGtKQ3pZdUI3cGw3aHB1azFWc3hCT0N0ZEI2RkphQUkyOU5PSQ?oc=5",
+          "text": "颱風假9/22停班停課全台最新通知北北基未列警戒區蘭嶼、綠島、屏東縣等8鄉鎮、花蓮3校停止上班上課",
+          "url": "https://news.google.com/rss/articles/CBMi4ARBVV95cUxQRkEyY1lxV2xGTktRaTNCM3lIMm9PT3RPT1N3VndITVNZdW1Ed2h2VzFZV0JWT1c2d1ZBNmRKWUJtaXZDUEFUOXdYQkJyeWIwb3A2MVlVZ2FrR2xKWHg4aEZtUm45d0JPbEt3MU82eXJ3WVpEcHVpem1QWTk2dlY0bHFKMzZ6Vm12UTlaMU16MTlwWWF4cVJZWHB3YXNjOUFKeEk1bUM3YmJ5dzhGTUFlQTlPeDZ1aXJISTBnU0pNdUZxN04yZFFSVWNsd2dmVHc4VUFLVVRfN0YyMkxBWE9lTTRuYU83QWU4ODBNdUoyWGowbVlOQ3Qyb3AxS09GN2k1UzRoZ29PWlk1NXBMM3dwZHl0OXlJbWJYRk1ldHZLQWx1TkdudXM2WHBiVFpkNnlTR0hGTTEweEZMUG00bnpWMmE2NEd6d2JiRXpKR293WEZieC1XVDFDTUFIR3UwVFpkLVhqTzVHa1U4UWdjQUZ1NFZRd3hwc0FOTU9MY3B1aGt0THhHRU53YzNVWEpKZmJCUThMX3RZUzFFV0NVUnh2amtmNUhBV2YyQ2doVjVhMjdHbW4zSjlITXNsY1hpU2YtWmVoMEtyVE1YaDdhUGVXUjd1N2RXb1VsMWZCZTFaa0c1Z0Z0T24zQ0M4OWt1UTg5YktWaXNJNkJwcWVuWEhNcF80bE5kN2VsemY2bDBKUlVaQWNzMWVWM2Y3UDZkS0lKcWlTaS1Za1hFbEwtcUR3ZElFdVEwMXdabDFBZFVoRkplWmRkaV9qbTRVZGVTWGYtNjZISHIxZmZWdmJDV3FLbg?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMi4ARBVV95cUxQRkEyY1lxV2xGTktRaTNCM3lIMm9PT3RPT1N3VndITVNZdW1Ed2h2VzFZV0JWT1c2d1ZBNmRKWUJtaXZDUEFUOXdYQkJyeWIwb3A2MVlVZ2FrR2xKWHg4aEZtUm45d0JPbEt3MU82eXJ3WVpEcHVpem1QWTk2dlY0bHFKMzZ6Vm12UTlaMU16MTlwWWF4cVJZWHB3YXNjOUFKeEk1bUM3YmJ5dzhGTUFlQTlPeDZ1aXJISTBnU0pNdUZxN04yZFFSVWNsd2dmVHc4VUFLVVRfN0YyMkxBWE9lTTRuYU83QWU4ODBNdUoyWGowbVlOQ3Qyb3AxS09GN2k1UzRoZ29PWlk1NXBMM3dwZHl0OXlJbWJYRk1ldHZLQWx1TkdudXM2WHBiVFpkNnlTR0hGTTEweEZMUG00bnpWMmE2NEd6d2JiRXpKR293WEZieC1XVDFDTUFIR3UwVFpkLVhqTzVHa1U4UWdjQUZ1NFZRd3hwc0FOTU9MY3B1aGt0THhHRU53YzNVWEpKZmJCUThMX3RZUzFFV0NVUnh2amtmNUhBV2YyQ2doVjVhMjdHbW4zSjlITXNsY1hpU2YtWmVoMEtyVE1YaDdhUGVXUjd1N2RXb1VsMWZCZTFaa0c1Z0Z0T24zQ0M4OWt1UTg5YktWaXNJNkJwcWVuWEhNcF80bE5kN2VsemY2bDBKUlVaQWNzMWVWM2Y3UDZkS0lKcWlTaS1Za1hFbEwtcUR3ZElFdVEwMXdabDFBZFVoRkplWmRkaV9qbTRVZGVTWGYtNjZISHIxZmZWdmJDV3FLbg?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "外交部：無規劃承認巴勒斯坦國將台灣納入中國有失尊重",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1TzdGTXFaT2V1RTZUcm1PUk9JakhWOEdQci0zVlpnNmV2cVYwS1Y4QWxNblRkWlBQRDZJRU9sT2NmTnNrb2pvUmxlZzZKaDkwVDRvaXlMcEo3cl9nN0Nz?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1TzdGTXFaT2V1RTZUcm1PUk9JakhWOEdQci0zVlpnNmV2cVYwS1Y4QWxNblRkWlBQRDZJRU9sT2NmTnNrb2pvUmxlZzZKaDkwVDRvaXlMcEo3cl9nN0Nz?oc=5",
+          "text": "貴賓室被徐巧芯突擊！王義川：要求華航檢討",
+          "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNLUx3X28zblBheWhzaENtOENvbnBZNlRaREF4NEVsRmp5Z092UnRzLW5YYjl2WWRQMjJBUFRvY3RVUWNzVEwtN1hvSVNCaS1hcmNoSjZuMlJoMzhRRGtWZkUtTzlWSndZRnYzY01qYkFGVEM4Tm4xd2lDcmxvN0VNbDJnY1REUzhuQnJ1dWVBdl8wUU52ZVJnZmRydFlNdXI3WGR2d0RPNll1dWhBbEZRY2Y1QXRtSzVJdjM0ZF9OU2J5U1VIaVkyOGNSd3ExWGNNYUg5RDlOWXR3RkFXRllfcnpPbTNadHNGanl3cjhrc2g3Y19DRVpOVGJrSDdIUC16VE43VzItaS1JdTlPNWJ4cWVIY2ViR0tzZjdVMlg1bDRTQXNEMEdXS1hEcW16dw?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNLUx3X28zblBheWhzaENtOENvbnBZNlRaREF4NEVsRmp5Z092UnRzLW5YYjl2WWRQMjJBUFRvY3RVUWNzVEwtN1hvSVNCaS1hcmNoSjZuMlJoMzhRRGtWZkUtTzlWSndZRnYzY01qYkFGVEM4Tm4xd2lDcmxvN0VNbDJnY1REUzhuQnJ1dWVBdl8wUU52ZVJnZmRydFlNdXI3WGR2d0RPNll1dWhBbEZRY2Y1QXRtSzVJdjM0ZF9OU2J5U1VIaVkyOGNSd3ExWGNNYUg5RDlOWXR3RkFXRllfcnpPbTNadHNGanl3cjhrc2g3Y19DRVpOVGJrSDdIUC16VE43VzItaS1JdTlPNWJ4cWVIY2ViR0tzZjdVMlg1bDRTQXNEMEdXS1hEcW16dw?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "台灣被列名承認巴勒斯坦國！專家揭國際承認潮將衝擊與以色列關係",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA0dTNPbG1mOWg4M1FmdTNNUFFtVm0zVWJLUUhwSGo0VE1ZX0N5NFRFckNJSmhtMG91Ui1JVWhrWlBRMGh1RUpDX1lkRy1ZSHI10gFWQVVfeXFMTks1VXIycFkwanNLNEZrS01Icnc4UUFoazZFc2dNOVpRRUxXSHliR0pVbzBJbVJrYklKVmJaOTdMcFpVcHIyb1JSc2hZNkxvRlU5dHk2NXc?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA0dTNPbG1mOWg4M1FmdTNNUFFtVm0zVWJLUUhwSGo0VE1ZX0N5NFRFckNJSmhtMG91Ui1JVWhrWlBRMGh1RUpDX1lkRy1ZSHI10gFWQVVfeXFMTks1VXIycFkwanNLNEZrS01Icnc4UUFoazZFc2dNOVpRRUxXSHliR0pVbzBJbVJrYklKVmJaOTdMcFpVcHIyb1JSc2hZNkxvRlU5dHk2NXc?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "國民黨主席下月登場！ 最新網路民調結果出爐「這人」獲近40%支持穩居第一",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwRVVWVlJpM2NYU011VkRSSFRzSjYyUTdJZGZiVGw3c3N3azJIb0QxdHJUclFkb0RBY0l5VDFWRDdTZUp6akxMcEoyeTd5eVhHUFM0UlY2cTNydw?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwRVVWVlJpM2NYU011VkRSSFRzSjYyUTdJZGZiVGw3c3N3azJIb0QxdHJUclFkb0RBY0l5VDFWRDdTZUp6akxMcEoyeTd5eVhHUFM0UlY2cTNydw?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -170,25 +186,9 @@
           "package": ""
         },
         {
-          "text": "始祖鳥蔡國強炸山事件懶人包：來龍去脈、爭議、各方說法一文看懂",
-          "url": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxNZGZDSktKbkpYZUg2Sm84RS1Gd21laWpZTHZmVmJ6Smx3a1BFUnNRTU1LeG00b093U1pfeU5WdXE5ZTRhQ3BleWZVN3RrUHpCdTl6cDhqd2lNRTNDa29rYmQ1ZV9qSVlqTy01TFZRTXJmQ0Z1TUZZWldHNnliRWZibE9SOWdQT3JXT3YxZ1FmQWlfVDc5OGxXOEVyVnlOYXg4QXhPV09CbldJa0ZvNDVnaDByTlNGbnIyQWh4dFhwWFpZV2M0WG51dy1tejUwX3ZoM1FOY1Q5WW9NWDQ4amZ4ZXBXYVo3Y2N0WFFRQzNzOUx2WUNwb0lJREt6OHFYZXJ5ay1oTnlKdGlhOGZMcjBQcWRUM2ZScEEwWlpvSnVJN19oSDVaeGpSYkF4bjdzMVUwYVhjWnJEaEJxTEpmc0czM0lNLWNVc29mYkNhOVdLMzg3NGg4Y1plWHhpTVN3N2dFMVk3RFNEQmw5Z2g3aFZ5WHgwWlhaeHNzQjJ5cS11d0xYSF9aU1Y2ekk5bERQSXlMR2tMdGdaY2lBRlVUZS1HcC1MUkp0b0xfNmVhQTM5UG9jNjZ2QWk0RWpKbw?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxNZGZDSktKbkpYZUg2Sm84RS1Gd21laWpZTHZmVmJ6Smx3a1BFUnNRTU1LeG00b093U1pfeU5WdXE5ZTRhQ3BleWZVN3RrUHpCdTl6cDhqd2lNRTNDa29rYmQ1ZV9qSVlqTy01TFZRTXJmQ0Z1TUZZWldHNnliRWZibE9SOWdQT3JXT3YxZ1FmQWlfVDc5OGxXOEVyVnlOYXg4QXhPV09CbldJa0ZvNDVnaDByTlNGbnIyQWh4dFhwWFpZV2M0WG51dy1tejUwX3ZoM1FOY1Q5WW9NWDQ4amZ4ZXBXYVo3Y2N0WFFRQzNzOUx2WUNwb0lJREt6OHFYZXJ5ay1oTnlKdGlhOGZMcjBQcWRUM2ZScEEwWlpvSnVJN19oSDVaeGpSYkF4bjdzMVUwYVhjWnJEaEJxTEpmc0czM0lNLWNVc29mYkNhOVdLMzg3NGg4Y1plWHhpTVN3N2dFMVk3RFNEQmw5Z2g3aFZ5WHgwWlhaeHNzQjJ5cS11d0xYSF9aU1Y2ekk5bERQSXlMR2tMdGdaY2lBRlVUZS1HcC1MUkp0b0xfNmVhQTM5UG9jNjZ2QWk0RWpKbw?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
           "text": "拒領普發現金掀供養爭議 釋昭慧：月薪14萬全捐不需供養",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE04RmNVaUFENVRtUjJqMWdSNHB0RGlOUS1odWhlOW92XzBoV1RaeGluaXo0YUZPUkdXdDYyYUpzdkhRYXpRRkJuUDJTLTBMTW1x0gFWQVVfeXFMUDZ5UFNXYXRFUlZ4LTBKX2hMSjRrclVZdnRXY0FoUEJtYmpvNkNXNEs3eFVtWGprdHBOZFdLSHBWbnB0bEpwSU5tNXpKT1EzX1RvQ05pRGc?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE04RmNVaUFENVRtUjJqMWdSNHB0RGlOUS1odWhlOW92XzBoV1RaeGluaXo0YUZPUkdXdDYyYUpzdkhRYXpRRkJuUDJTLTBMTW1x0gFWQVVfeXFMUDZ5UFNXYXRFUlZ4LTBKX2hMSjRrclVZdnRXY0FoUEJtYmpvNkNXNEs3eFVtWGprdHBOZFdLSHBWbnB0bEpwSU5tNXpKT1EzX1RvQ05pRGc?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "撞3貼機車奪2命！肇事駕駛「頭上一大包」現身　低頭不發一語",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBaMk94UnhqeDhPWW9teEJrR3FRcjBKSE5WY1RsLV9pMlYwMU1kRnNBVGJuSGdVbEs3RzBuSWtrT1JPd1lyYktZUURXSVFmUmtkM2tseFZLb2tiRFRPSFHSAWhBVV95cUxOSkM4RmNoTklrWEVnbWFhOW1DWXpOWDNweU42X1ZmNENmMkNTVlRwRkloY2JuS0l1aUg3TWpYMUhOM1N3blQxZHg5UVRyanhwSVlRMVB4dnFaWDgtU1AwdjFya0lmOGF4Rg?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBaMk94UnhqeDhPWW9teEJrR3FRcjBKSE5WY1RsLV9pMlYwMU1kRnNBVGJuSGdVbEs3RzBuSWtrT1JPd1lyYktZUURXSVFmUmtkM2tseFZLb2tiRFRPSFHSAWhBVV95cUxOSkM4RmNoTklrWEVnbWFhOW1DWXpOWDNweU42X1ZmNENmMkNTVlRwRkloY2JuS0l1aUg3TWpYMUhOM1N3blQxZHg5UVRyanhwSVlRMVB4dnFaWDgtU1AwdjFya0lmOGF4Rg?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -210,9 +210,9 @@
           "package": ""
         },
         {
-          "text": "誰盯上上王義川？跟監黑手指向凱思國際徐巧芯、黃國昌遭點名",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yZXRQenBlZzFkSVF0RUJFRnBOb0g2OWVpakNZZW85cEpoWHNiM0FKa0t1N3E1aWEwb2xtWGdOMVhHQnVQQ1gyOGNYeHY2azZPV0dOSUZyWkxiQQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yZXRQenBlZzFkSVF0RUJFRnBOb0g2OWVpakNZZW85cEpoWHNiM0FKa0t1N3E1aWEwb2xtWGdOMVhHQnVQQ1gyOGNYeHY2azZPV0dOSUZyWkxiQQ?oc=5",
+          "text": "演訓出意外！十軍團悍馬車突冒煙變火球　整輛燒成廢鐵",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14bmVXVC1tcGc2d1UwZy1xYTQxcGVOTTAzTUVobnNaQmg5OGhudXJiRkc1UmgxMTBzekppNm1zbldLYmM1aHZ6VEtkWUczeGphckVhdjNaNzVHU1hYZ0HSAWhBVV95cUxNekFnc3ZGendja3Y1bDhOWXo3T1hXQW4yajBGT0JXMzBjdTlBUElYQzJoNUNXM1NESVdtVXR0WmZlR25FUU1jbmRRX2ZaTVA0eUVXTHZDNDRKTmkyZUFNREUtNzN2bXBkdw?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14bmVXVC1tcGc2d1UwZy1xYTQxcGVOTTAzTUVobnNaQmg5OGhudXJiRkc1UmgxMTBzekppNm1zbldLYmM1aHZ6VEtkWUczeGphckVhdjNaNzVHU1hYZ0HSAWhBVV95cUxNekFnc3ZGendja3Y1bDhOWXo3T1hXQW4yajBGT0JXMzBjdTlBUElYQzJoNUNXM1NESVdtVXR0WmZlR25FUU1jbmRRX2ZaTVA0eUVXTHZDNDRKTmkyZUFNREUtNzN2bXBkdw?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -242,17 +242,17 @@
           "package": ""
         },
         {
-          "text": "整理／川普政府推天價簽證！H-1B哪裡特別？2國申請占逾8成",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MVUd6NjFtLTJvWFB4QWU2YWZOQkNZSmN1bnRLQ3JCTEl6cy0xc1hwTExTTHZJdFhDY3R2Unpha29DUzl5cGt2cnEyeFNubXhJa1dR?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MVUd6NjFtLTJvWFB4QWU2YWZOQkNZSmN1bnRLQ3JCTEl6cy0xc1hwTExTTHZJdFhDY3R2Unpha29DUzl5cGt2cnEyeFNubXhJa1dR?oc=5",
+          "text": "女助教與17歲男學生過從甚密 數度午休離校激戰下場GG了",
+          "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxNTENBT2VGOFlEdER2WF9fZ0duLTZ0RFRRenliSDMtUGtZYm1jek1xNTUtTUk0dmJUTkYxYmdlQ0FEcmhOX0lJczQxc1ZwNmdGMUJ4NER5QmI2VkFYaF81WnVXOXhOdHJnZnU4ZVFqR3hEM2NNd0VTZzRyQVZNczhpWXE5eUtSTWpMTVU1ajZVMURHMWEyTTBubW1lRFdqeWkybTJ1cUpWWmZRdS1sU0ZscjNUSzhZRHN3dUxRWENYV1RzUXBCR3BwNlVvVDJLT19JemVUcjRycXVTa0J0M3o0RmlzM25NY1VtQnA0VWxHZTFPWnc2RlF4dGZObWVmQ1lxNS1pLTlrUXFYNFRYZm41c29meVFaQXktaTZBdkprbmgzZXY5b1Y4cVlUTGM1Vm5aOV95V3JuZTdaN1pFT1k1eHlzOE0wbEdGbHlQaUhiR0ZZZGRtbEdnejhmVXl5QVI4T05MdVBEbXpZTzNNUFE?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxNTENBT2VGOFlEdER2WF9fZ0duLTZ0RFRRenliSDMtUGtZYm1jek1xNTUtTUk0dmJUTkYxYmdlQ0FEcmhOX0lJczQxc1ZwNmdGMUJ4NER5QmI2VkFYaF81WnVXOXhOdHJnZnU4ZVFqR3hEM2NNd0VTZzRyQVZNczhpWXE5eUtSTWpMTVU1ajZVMURHMWEyTTBubW1lRFdqeWkybTJ1cUpWWmZRdS1sU0ZscjNUSzhZRHN3dUxRWENYV1RzUXBCR3BwNlVvVDJLT19JemVUcjRycXVTa0J0M3o0RmlzM25NY1VtQnA0VWxHZTFPWnc2RlF4dGZObWVmQ1lxNS1pLTlrUXFYNFRYZm41c29meVFaQXktaTZBdkprbmgzZXY5b1Y4cVlUTGM1Vm5aOV95V3JuZTdaN1pFT1k1eHlzOE0wbEdGbHlQaUhiR0ZZZGRtbEdnejhmVXl5QVI4T05MdVBEbXpZTzNNUFE?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "女助教與17歲男學生過從甚密 數度午休離校激戰下場GG了",
-          "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxNTENBT2VGOFlEdER2WF9fZ0duLTZ0RFRRenliSDMtUGtZYm1jek1xNTUtTUk0dmJUTkYxYmdlQ0FEcmhOX0lJczQxc1ZwNmdGMUJ4NER5QmI2VkFYaF81WnVXOXhOdHJnZnU4ZVFqR3hEM2NNd0VTZzRyQVZNczhpWXE5eUtSTWpMTVU1ajZVMURHMWEyTTBubW1lRFdqeWkybTJ1cUpWWmZRdS1sU0ZscjNUSzhZRHN3dUxRWENYV1RzUXBCR3BwNlVvVDJLT19JemVUcjRycXVTa0J0M3o0RmlzM25NY1VtQnA0VWxHZTFPWnc2RlF4dGZObWVmQ1lxNS1pLTlrUXFYNFRYZm41c29meVFaQXktaTZBdkprbmgzZXY5b1Y4cVlUTGM1Vm5aOV95V3JuZTdaN1pFT1k1eHlzOE0wbEdGbHlQaUhiR0ZZZGRtbEdnejhmVXl5QVI4T05MdVBEbXpZTzNNUFE?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxNTENBT2VGOFlEdER2WF9fZ0duLTZ0RFRRenliSDMtUGtZYm1jek1xNTUtTUk0dmJUTkYxYmdlQ0FEcmhOX0lJczQxc1ZwNmdGMUJ4NER5QmI2VkFYaF81WnVXOXhOdHJnZnU4ZVFqR3hEM2NNd0VTZzRyQVZNczhpWXE5eUtSTWpMTVU1ajZVMURHMWEyTTBubW1lRFdqeWkybTJ1cUpWWmZRdS1sU0ZscjNUSzhZRHN3dUxRWENYV1RzUXBCR3BwNlVvVDJLT19JemVUcjRycXVTa0J0M3o0RmlzM25NY1VtQnA0VWxHZTFPWnc2RlF4dGZObWVmQ1lxNS1pLTlrUXFYNFRYZm41c29meVFaQXktaTZBdkprbmgzZXY5b1Y4cVlUTGM1Vm5aOV95V3JuZTdaN1pFT1k1eHlzOE0wbEdGbHlQaUhiR0ZZZGRtbEdnejhmVXl5QVI4T05MdVBEbXpZTzNNUFE?oc=5",
+          "text": "中國高學歷求職悲歌！ 博士畢業起薪不到1.3萬台幣引熱議",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VaU5oSS0zd3RXZjF0N1dvR2lDMEtxN3NoZzFGX0ZmMFNqWi1UcWpxeEJMZjd6MV9MNXlkd3liSDBLNlVyZE1LVEJwcE9KMXYta0ZHTjJ0SlhtdzZCdFhv0gFkQVVfeXFMTllwclVmek9GUUMzaVpqSnE5VnpMeU0tYU9reUtlSDhKUk9IcHhZYTk1dXI3RnN2N2h4MW1CWGg1cVBiSnBBTy1Eb2hxbGFJbVR2TXp1bDRfanhxcnhTcjg3SzVsUg?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VaU5oSS0zd3RXZjF0N1dvR2lDMEtxN3NoZzFGX0ZmMFNqWi1UcWpxeEJMZjd6MV9MNXlkd3liSDBLNlVyZE1LVEJwcE9KMXYta0ZHTjJ0SlhtdzZCdFhv0gFkQVVfeXFMTllwclVmek9GUUMzaVpqSnE5VnpMeU0tYU9reUtlSDhKUk9IcHhZYTk1dXI3RnN2N2h4MW1CWGg1cVBiSnBBTy1Eb2hxbGFJbVR2TXp1bDRfanhxcnhTcjg3SzVsUg?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -273,6 +273,6 @@
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 14,
+  "cost": 45,
   "status": 0
 }
