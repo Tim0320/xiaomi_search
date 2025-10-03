@@ -146,6 +146,14 @@
       "link_type": "app",
       "data": [
         {
+          "text": "鏟子超人歡呼！總協調官宣布：光復鄉中午以前家戶清淤完成",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDSGtDRDZVUHJVcnRFSW4wQXFXWUJLcVptTm01amZmS0ZNT2pUNEV5STZXQ0JKcHBFdlpldGNPb3U1Z1hSaXNWZ3Qxbmsyb2haeWVv0gFYQVVfeXFMT0sxYU95eHZEYzBIbE16ekZwcXdZMnBZcVZkckZYME5OQ0REeU8xQVhVU254QjNRSlJ4NGoweUVjQUh3dGVFMjZZVjRfalFYSnVVQlZXemswcA?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDSGtDRDZVUHJVcnRFSW4wQXFXWUJLcVptTm01amZmS0ZNT2pUNEV5STZXQ0JKcHBFdlpldGNPb3U1Z1hSaXNWZ3Qxbmsyb2haeWVv0gFYQVVfeXFMT0sxYU95eHZEYzBIbE16ekZwcXdZMnBZcVZkckZYME5OQ0REeU8xQVhVU254QjNRSlJ4NGoweUVjQUh3dGVFMjZZVjRfalFYSnVVQlZXemswcA?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
           "text": "中秋節恰逢賴清德生日　柯文哲送上四個字",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XMGJwc185WG5YclFMWEVMa3dWcmFmZFhrYUpqVjZ6Slg1WDJsUUNYR1ZJZWJoS290TU44aEtoMDY4dXpJMmpnVmpHdHMwaElPNFBLUW9DdFJLVWZyY2fSAWhBVV95cUxOcFgyeVA4cEpIQ2JrU0FvSjNLQlAwUWM0ZmRNb0k3bTg3NDdXbkhUcVYtNnBGdVhxWWQxQXhnN1hGeXVHbEVsLVN2eTRfNTluVnFobXFQemJxOHpJdmtPaTB5WGRyS2xiRQ?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XMGJwc185WG5YclFMWEVMa3dWcmFmZFhrYUpqVjZ6Slg1WDJsUUNYR1ZJZWJoS290TU44aEtoMDY4dXpJMmpnVmpHdHMwaElPNFBLUW9DdFJLVWZyY2fSAWhBVV95cUxOcFgyeVA4cEpIQ2JrU0FvSjNLQlAwUWM0ZmRNb0k3bTg3NDdXbkhUcVYtNnBGdVhxWWQxQXhnN1hGeXVHbEVsLVN2eTRfNTluVnFobXFQemJxOHpJdmtPaTB5WGRyS2xiRQ?oc=5",
@@ -154,25 +162,17 @@
           "package": ""
         },
         {
-          "text": "影／苗栗隨機殺人2女學童受傷 學校家長嚇壞：孩子聽到一直抖",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NRzY0TVRqNmxlbzBSLXpwOTZYbEdoSHJsRVJwaTNWbklCNG5SdEdRRWJRcl9pMjZyY2t3Zzk4MGdxX2dqelFpT0k1YWlqcmZhU0o00gFYQVVfeXFMT0N6aDcwQzB2MVFoWWF2ZHg0ckF4VUZDbGRWbTNGNzY4MTVKdVhvLWRlZzhpVEg3VTRXT0tfR2dnMXZQT0ItUW96dFdEOG9yY0dZYlVWVE5RMw?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NRzY0TVRqNmxlbzBSLXpwOTZYbEdoSHJsRVJwaTNWbklCNG5SdEdRRWJRcl9pMjZyY2t3Zzk4MGdxX2dqelFpT0k1YWlqcmZhU0o00gFYQVVfeXFMT0N6aDcwQzB2MVFoWWF2ZHg0ckF4VUZDbGRWbTNGNzY4MTVKdVhvLWRlZzhpVEg3VTRXT0tfR2dnMXZQT0ItUW96dFdEOG9yY0dZYlVWVE5RMw?oc=5",
+          "text": "苗栗隨機砍人！父擋刀救女童遭刺重傷 孝女求1事",
+          "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOelJxWE5kYzJmaHpzZF9BMEhqVDJUeVN4c3FkN3Rrbl9uR2NrYlZJRUNKR3hYdkRETU1TX1c0b3Blem9nTWNFVm1QX1BoeEREZGpvLXVWWDdjSzBZZWpuU2UyQWZFZi1fak9PSXBEaDZ2cWVfNFhPeGRFeDFkM0ZjQk42bXFXeThZWnFob2pVdnFOODNSMzVLQTNtdGNFcGllT1doQjFfcFp0N1QxZUt4WDMwX19adkttaXZQa2xOMGhGSFAzcUc5VjZjckhsU2RHc3AyS1pURGlfYzZPYTBvOVkyMjJRZTdhTDFzN2JaLWduRjlWWVpvandoUmRmN2Y1NlVUZXJZSkU2WWQ5MEJBRXVOb1RNaWoweWhIY1V1Z1E3dEsyY05iYzlOUnFfTmNUeGdhZmdiQTZRb1dhY2lKUHJUWnNqbzQ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOelJxWE5kYzJmaHpzZF9BMEhqVDJUeVN4c3FkN3Rrbl9uR2NrYlZJRUNKR3hYdkRETU1TX1c0b3Blem9nTWNFVm1QX1BoeEREZGpvLXVWWDdjSzBZZWpuU2UyQWZFZi1fak9PSXBEaDZ2cWVfNFhPeGRFeDFkM0ZjQk42bXFXeThZWnFob2pVdnFOODNSMzVLQTNtdGNFcGllT1doQjFfcFp0N1QxZUt4WDMwX19adkttaXZQa2xOMGhGSFAzcUc5VjZjckhsU2RHc3AyS1pURGlfYzZPYTBvOVkyMjJRZTdhTDFzN2JaLWduRjlWWVpvandoUmRmN2Y1NlVUZXJZSkU2WWQ5MEJBRXVOb1RNaWoweWhIY1V1Z1E3dEsyY05iYzlOUnFfTmNUeGdhZmdiQTZRb1dhY2lKUHJUWnNqbzQ?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "謝謝鏟子超人…光復鄉火車站前斑馬線「撥泥見日」！震撼畫面曝",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JZ3FYWFY5SWRtekFNVUgxZW81YzN5bVVUbXZEZjl3Z05Bc1pOaDhlN1BTNGhOX2NwRVpTSWg0M1dvMXcxeUUtekFTVkRZMTg4MjlKd0FqRS12d1HSAV9BVV95cUxOMnVTcWxVb1B6ZVdiS2lEOW4yMXZaall0ZC11aWE2aUlyc2wxX3RmSTBGVE5KOTR0c0FCOXBKNl9uS2VyNzFZalJtQTV6ZmcxWVhuR3UzMDg2cUcteTdPbw?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JZ3FYWFY5SWRtekFNVUgxZW81YzN5bVVUbXZEZjl3Z05Bc1pOaDhlN1BTNGhOX2NwRVpTSWg0M1dvMXcxeUUtekFTVkRZMTg4MjlKd0FqRS12d1HSAV9BVV95cUxOMnVTcWxVb1B6ZVdiS2lEOW4yMXZaall0ZC11aWE2aUlyc2wxX3RmSTBGVE5KOTR0c0FCOXBKNl9uS2VyNzFZalJtQTV6ZmcxWVhuR3UzMDg2cUcteTdPbw?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "台美關稅談判 我提「台灣模式」美正面回應",
-          "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQbW92a1lBLUo1U0N3eGNVODhJY0hHSGVHakJTSnhjTG1ueGFYOHFhRlB1aW9oZmFoSkk0UXZyNFdYYUk2TDBmYllONU02QTZUdkJTcVdSbnM3cUlTMUNoNTBzd2MydGh4ZW5hcFV1b2hRMzJPc2p4ZHdoaEV2elE1ZElGWXJiODI5clRlUEZacFBydnA2U3V0U3haOUJDSl9odkl3RmVEa0xkY0VSazZjaFUyRktLcjB5Y2diQ0hJSDlkam1wU3BCQnF6RndYUFJyVVBsMHBKT214RUhfUFZTdE14Qm9mVnNHYncxbDl1NUEwY3doaWItZFdmSFdGdTNJY01yYy1ocHM1bmhBbVhMOWs1SWFmTy1EWWxNeHB2UnYtX0E?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQbW92a1lBLUo1U0N3eGNVODhJY0hHSGVHakJTSnhjTG1ueGFYOHFhRlB1aW9oZmFoSkk0UXZyNFdYYUk2TDBmYllONU02QTZUdkJTcVdSbnM3cUlTMUNoNTBzd2MydGh4ZW5hcFV1b2hRMzJPc2p4ZHdoaEV2elE1ZElGWXJiODI5clRlUEZacFBydnA2U3V0U3haOUJDSl9odkl3RmVEa0xkY0VSazZjaFUyRktLcjB5Y2diQ0hJSDlkam1wU3BCQnF6RndYUFJyVVBsMHBKT214RUhfUFZTdE14Qm9mVnNHYncxbDl1NUEwY3doaWItZFdmSFdGdTNJY01yYy1ocHM1bmhBbVhMOWs1SWFmTy1EWWxNeHB2UnYtX0E?oc=5",
+          "text": "台美關稅談判》我提G2G合作打造產業聚落 美方正面回應",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5hQTlWNzZESVRKLVk5U1cwM3M0SUZ4R2VLMTRNZkVudVp3RTJXREZXWGVVUWFlaWpzSWJxNExidVk1UTI0NWJfcFJtR0tjc3A1UEhBTG1aVzI0bmQ0N0Yw0gFkQVVfeXFMTzJKUUpjdzMxeFhOMUNOZkNJblJJOF8yY19sUlVjV1ZRS0Q4dTBPbk45VjZUdUFIUDd3N1p2Zzh5ejVQVDZndHV1emlsbmQ3eFBNV0w2Yk9DSGNFbUl0X1ZHaG95OQ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5hQTlWNzZESVRKLVk5U1cwM3M0SUZ4R2VLMTRNZkVudVp3RTJXREZXWGVVUWFlaWpzSWJxNExidVk1UTI0NWJfcFJtR0tjc3A1UEhBTG1aVzI0bmQ0N0Yw0gFkQVVfeXFMTzJKUUpjdzMxeFhOMUNOZkNJblJJOF8yY19sUlVjV1ZRS0Q4dTBPbk45VjZUdUFIUDd3N1p2Zzh5ejVQVDZndHV1emlsbmQ3eFBNV0w2Yk9DSGNFbUl0X1ZHaG95OQ?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -194,6 +194,14 @@
           "package": ""
         },
         {
+          "text": "鏟子超人登國際媒體 衛報親訪光復鄉見證台灣暖心風景",
+          "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxQVVZ6RkNMMkZrUU93bXN2V1RlZERyckV6TXNDS18wc1Fob1pWZE5QZ2hNdEtPbGZfVThORFVka1E0aGpRVE5mTW5oZmRlbHlfZU5QcGw1dk5HOWF2dDFjbGFmTmZlQzYwMmgxc0s5aDZraTZPTWlaWXUyR2tkRmZXZ01mcElaNzFZZDlxTzdYazR1djl6OWdvVnhLNzJRU3ZBTzh6T1c3UWEyaHFOcFNHd0dTT0p0bHlHUnZIZ1A4bl83V0puN3JLa2JEaDhDd3NBNGlwOTQ0XzR6VVJwZ0otd2FDOHNDb3hmZGF6VVhhbGtXUVF4NS1ka3NVVm1NTkNJUUpuaUREMnZJZUJlYU5yUUo5S1dGODlQRXF1cS1wRVgwRlFNOW80R1lnZjJTSXlsck9zWkFpNzVMbGZiNHo2UU1RN3p4UU54ZVh2Y2pHYjRwZ1htV3dBY2ZhLXlobXI2ZkR2bVQzVHVfYUVvM1BjcDM3N0E?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxQVVZ6RkNMMkZrUU93bXN2V1RlZERyckV6TXNDS18wc1Fob1pWZE5QZ2hNdEtPbGZfVThORFVka1E0aGpRVE5mTW5oZmRlbHlfZU5QcGw1dk5HOWF2dDFjbGFmTmZlQzYwMmgxc0s5aDZraTZPTWlaWXUyR2tkRmZXZ01mcElaNzFZZDlxTzdYazR1djl6OWdvVnhLNzJRU3ZBTzh6T1c3UWEyaHFOcFNHd0dTT0p0bHlHUnZIZ1A4bl83V0puN3JLa2JEaDhDd3NBNGlwOTQ0XzR6VVJwZ0otd2FDOHNDb3hmZGF6VVhhbGtXUVF4NS1ka3NVVm1NTkNJUUpuaUREMnZJZUJlYU5yUUo5S1dGODlQRXF1cS1wRVgwRlFNOW80R1lnZjJTSXlsck9zWkFpNzVMbGZiNHo2UU1RN3p4UU54ZVh2Y2pHYjRwZ1htV3dBY2ZhLXlobXI2ZkR2bVQzVHVfYUVvM1BjcDM3N0E?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
           "text": "北捷優先席踹人事件凸顯「台灣擅逃避」 醫憂心：不改善遲早出人命",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5hcnN5QW56cUhZUUxfbWFBV1dxWHJaTEJkbWZDMmI4ckVMZkdHa1dHYTNTeUI4OGd4TGhYalBVY0V5TzZpRmRERlBFN2FCY3FU0gFWQVVfeXFMUFNLaDlteG5QSjRQYUZaZFQyLVRWS0JtTEd5UkpLWmZMUVRhdDhCcWt1MzJMczZVOVNYanRSU1ZhMjVoR09WNGMwd0ZmcmNxWFNVYThaNEE?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5hcnN5QW56cUhZUUxfbWFBV1dxWHJaTEJkbWZDMmI4ckVMZkdHa1dHYTNTeUI4OGd4TGhYalBVY0V5TzZpRmRERlBFN2FCY3FU0gFWQVVfeXFMUFNLaDlteG5QSjRQYUZaZFQyLVRWS0JtTEd5UkpLWmZMUVRhdDhCcWt1MzJMczZVOVNYanRSU1ZhMjVoR09WNGMwd0ZmcmNxWFNVYThaNEE?oc=5",
@@ -202,9 +210,9 @@
           "package": ""
         },
         {
-          "text": "鏟子超人歡呼！總協調官宣布：光復鄉中午以前家戶清淤完成",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDSGtDRDZVUHJVcnRFSW4wQXFXWUJLcVptTm01amZmS0ZNT2pUNEV5STZXQ0JKcHBFdlpldGNPb3U1Z1hSaXNWZ3Qxbmsyb2haeWVv0gFYQVVfeXFMT0sxYU95eHZEYzBIbE16ekZwcXdZMnBZcVZkckZYME5OQ0REeU8xQVhVU254QjNRSlJ4NGoweUVjQUh3dGVFMjZZVjRfalFYSnVVQlZXemswcA?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDSGtDRDZVUHJVcnRFSW4wQXFXWUJLcVptTm01amZmS0ZNT2pUNEV5STZXQ0JKcHBFdlpldGNPb3U1Z1hSaXNWZ3Qxbmsyb2haeWVv0gFYQVVfeXFMT0sxYU95eHZEYzBIbE16ekZwcXdZMnBZcVZkckZYME5OQ0REeU8xQVhVU254QjNRSlJ4NGoweUVjQUh3dGVFMjZZVjRfalFYSnVVQlZXemswcA?oc=5",
+          "text": "蔣萬安被問「輝達北士科土地」 南港高工校長竟動手阻擋媒體",
+          "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPeUhxbDd0em9nX2pxZ0xlcWc4bWo5aTJEOWhLeFhIU2pNQmxOY3hGLUQ5b2Y2RzJsT1JEaXJKaDV1LWJXa3ZmTmtwZnVrX1Y1a2xRdkNUM1l0OUs0WnlodzUtc3FucF9tRFg2UlZIR2NnRjJxV2JkS3pjODVJYTFqY0FWa1o0RnpUZDdKSk52Y0R6VEduQ0dQVjZub1hrb3BDNlRhT1BFRE44bFFLaHlUQ1dFcnlfdVJSQ1JXUUl1VHZmWnZsemFrM2d0VU9pZHBuLW80X2JwUGU1S0ZtVWNGN1NpeDFVYzFTTWFmeTg5U21mdHFyWUZQeE5YcWFfQV94X3UwcTdzTlpoN3A0MlNPQUhtQ2RxMkdEa2pybW1OamdseWJyR3Fta1p6M3BLMnpQM2ppMEQyRXlUVmVxLWFCZjNSbl9RRTU5ZHBRblNUVzNQMXJoVGJjNnI1WUhlWDNGN1plNWZRTFF0cXZGY0RZZzlSa2VLVUJvbXp3dlBqTDEtdw?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPeUhxbDd0em9nX2pxZ0xlcWc4bWo5aTJEOWhLeFhIU2pNQmxOY3hGLUQ5b2Y2RzJsT1JEaXJKaDV1LWJXa3ZmTmtwZnVrX1Y1a2xRdkNUM1l0OUs0WnlodzUtc3FucF9tRFg2UlZIR2NnRjJxV2JkS3pjODVJYTFqY0FWa1o0RnpUZDdKSk52Y0R6VEduQ0dQVjZub1hrb3BDNlRhT1BFRE44bFFLaHlUQ1dFcnlfdVJSQ1JXUUl1VHZmWnZsemFrM2d0VU9pZHBuLW80X2JwUGU1S0ZtVWNGN1NpeDFVYzFTTWFmeTg5U21mdHFyWUZQeE5YcWFfQV94X3UwcTdzTlpoN3A0MlNPQUhtQ2RxMkdEa2pybW1OamdseWJyR3Fta1p6M3BLMnpQM2ppMEQyRXlUVmVxLWFCZjNSbl9RRTU5ZHBRblNUVzNQMXJoVGJjNnI1WUhlWDNGN1plNWZRTFF0cXZGY0RZZzlSa2VLVUJvbXp3dlBqTDEtdw?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -218,41 +226,33 @@
           "package": ""
         },
         {
-          "text": "快訊／黃國昌被爆養狗仔！王義川控告7人　北檢國安專組偵辦",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB5SlBKT1R4TVVOUzZZMEJ2YkhZRGZwZlR2ZG9iOVhiZTVKX05Ka3I0WnViaUpaaEJVRUxhbGowbkh2VHNRVVB4NFZHbUNBRVhsd1NsUVdpRnlfV2RDUXfSAWhBVV95cUxQVXZyajZhRGc3bzVObUV4eEMxNEg4cDFhbDRaSUE3WlBCbUZBdEhxVUtlSlJuLW1FOWFuS1hicEVXVFktTGxuV2t1NmZCc2NrQlp4aFRRQ3dZVE5BOVlTYUt1SFgxa1IwRQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB5SlBKT1R4TVVOUzZZMEJ2YkhZRGZwZlR2ZG9iOVhiZTVKX05Ka3I0WnViaUpaaEJVRUxhbGowbkh2VHNRVVB4NFZHbUNBRVhsd1NsUVdpRnlfV2RDUXfSAWhBVV95cUxQVXZyajZhRGc3bzVObUV4eEMxNEg4cDFhbDRaSUE3WlBCbUZBdEhxVUtlSlJuLW1FOWFuS1hicEVXVFktTGxuV2t1NmZCc2NrQlp4aFRRQ3dZVE5BOVlTYUt1SFgxa1IwRQ?oc=5",
+          "text": "關稅年收上兆美元！ 川普拋全民分紅 擬發6萬元",
+          "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNbFJWWFYwNkstWmx6S2hRaUdPSHhKOVdoWHl4ZG1mY2V6WWxfVzBFMWlqOWRua1J5SUZyb1p2ZlljdVZCRUVkMUU3dGhSRW83NnNLSmZmWk5TUFNodXQ3aGNGN3hCSW9vblY2SnNoX0ctRW5DZE5RYW4yUXhTRGRjcEt3LWxWQl8ydXBlTEpiQzEwTzFxQ2ZtZks1SFpHZUZTaWszbllRbHlrcjRvN1ZPWVNkbDBySnM2dlIzdTlKSVZpeEkzczZ2dzhsQmtiMUtiRXAzbDlub3c4N3dENEtWelNjUzljazV2U1dFRGcxNVlDS0V1Yk9GQkVnQktNNnJOS1dwTVpwVERqNm16bEcxaERoeXYtOHl6WFlXZUFWdHVmeVpFQ2lGd25kZHNEcGpQOUswYzRuSXVlN2M?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNbFJWWFYwNkstWmx6S2hRaUdPSHhKOVdoWHl4ZG1mY2V6WWxfVzBFMWlqOWRua1J5SUZyb1p2ZlljdVZCRUVkMUU3dGhSRW83NnNLSmZmWk5TUFNodXQ3aGNGN3hCSW9vblY2SnNoX0ctRW5DZE5RYW4yUXhTRGRjcEt3LWxWQl8ydXBlTEpiQzEwTzFxQ2ZtZks1SFpHZUZTaWszbllRbHlrcjRvN1ZPWVNkbDBySnM2dlIzdTlKSVZpeEkzczZ2dzhsQmtiMUtiRXAzbDlub3c4N3dENEtWelNjUzljazV2U1dFRGcxNVlDS0V1Yk9GQkVnQktNNnJOS1dwTVpwVERqNm16bEcxaERoeXYtOHl6WFlXZUFWdHVmeVpFQ2lGd25kZHNEcGpQOUswYzRuSXVlN2M?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "美國期今年收3000億美元關稅 川普：計畫發2千美元紅利給民眾",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBlcHlEYlUwS1NhQmhxX3dNc1otLUY2dEFUbmZlblhiUi0yNmVjdGVPbnVtUkRKcmR0OFQ0QTBqVEROcG5Ma1RnQmZVeEFHNTZ5QkNr0gFYQVVfeXFMTlJrVmVkZUpLaG9CVTRRcE05V01pNGJMa3JDdmZUaDdlYUthaFVPTU50QmdnZ3ZjMzFWV1IydEhMR1FfSVpGNTBKckVaVVFwbWdjRnNiblg0Sw?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBlcHlEYlUwS1NhQmhxX3dNc1otLUY2dEFUbmZlblhiUi0yNmVjdGVPbnVtUkRKcmR0OFQ0QTBqVEROcG5Ma1RnQmZVeEFHNTZ5QkNr0gFYQVVfeXFMTlJrVmVkZUpLaG9CVTRRcE05V01pNGJMa3JDdmZUaDdlYUthaFVPTU50QmdnZ3ZjMzFWV1IydEhMR1FfSVpGNTBKckVaVVFwbWdjRnNiblg0Sw?oc=5",
+          "text": "美國政府關門波及川習會？外媒曝五角大廈國務院「微停擺」現況",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5YMUlmRVh3Y2ZYbHoxcVJkMEVFR1gtNTFkTXhrTlNxSWFESk5WbjdKVm5hNm1uUjk5a3gtRHpETkx4dFg5M2dwR1N6OExpdEEt0gFWQVVfeXFMTlZOMWJ6czdSZ3h5c3FwY3pSTlRlbE4xNFF0MmlRWVhvZE1VYzRUTTBaWHU4ckI5RTZndkQwUWhwOVhRcmdQZFhFc2k3a3N0cldTNWxnUkE?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5YMUlmRVh3Y2ZYbHoxcVJkMEVFR1gtNTFkTXhrTlNxSWFESk5WbjdKVm5hNm1uUjk5a3gtRHpETkx4dFg5M2dwR1N6OExpdEEt0gFWQVVfeXFMTlZOMWJ6czdSZ3h5c3FwY3pSTlRlbE4xNFF0MmlRWVhvZE1VYzRUTTBaWHU4ckI5RTZndkQwUWhwOVhRcmdQZFhFc2k3a3N0cldTNWxnUkE?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "美政府停擺現況曝6大景點仍開放川普怒祭重手懲罰民主黨- 國際",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qUmtvTFFEQjI5TWRzTHJCVzBXRVZFaGpUMV92dEx6R3BvdVNYcEdrZ2k5dS1VRmotbnBPNmloZC1Gd09zb3YxT0lEQnpwT19VbGZDUFlvQXNNUzkzM2M0cHlBMUdjTGdReG4wdzd3?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qUmtvTFFEQjI5TWRzTHJCVzBXRVZFaGpUMV92dEx6R3BvdVNYcEdrZ2k5dS1VRmotbnBPNmloZC1Gd09zb3YxT0lEQnpwT19VbGZDUFlvQXNNUzkzM2M0cHlBMUdjTGdReG4wdzd3?oc=5",
+          "text": "定調恐攻！英國曼城猶太會堂屠殺非孤狼犯案 警再逮2嫌",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5GR0lDOUpkdDdWbVhzeWp4alY4LVlEaERrZ3EtMlJQN09WVWY3RzlGRE1fbE9LMXN6STFhOHczd19SUlNVbEdmT05QM3VQRlBaLWtwTkdkR1dZM3J0cG9oNS05ZDlUZ9IBa0FVX3lxTE1oOVZNYlpoTE00VVh2ZnQ2enFkYUVIaklodkUtVlczQWJqTkdONVJtcWpMc3VkM2FLOURQQkgtd3NCWlBaa2daYW1Zd1ZESFJXYXNOT2tIazhoYjJzU19rTENOVjVLaFFYOWlR?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5GR0lDOUpkdDdWbVhzeWp4alY4LVlEaERrZ3EtMlJQN09WVWY3RzlGRE1fbE9LMXN6STFhOHczd19SUlNVbEdmT05QM3VQRlBaLWtwTkdkR1dZM3J0cG9oNS05ZDlUZ9IBa0FVX3lxTE1oOVZNYlpoTE00VVh2ZnQ2enFkYUVIaklodkUtVlczQWJqTkdONVJtcWpMc3VkM2FLOURQQkgtd3NCWlBaa2daYW1Zd1ZESFJXYXNOT2tIazhoYjJzU19rTENOVjVLaFFYOWlR?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "曼徹斯特猶太會堂遇恐攻 英國將加強猶太社群維安",
-          "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxNa1VQMlhRa0lVSkxJYTdEd210OUlnY2tsSFdFTTFTNnBfMEhQNFNScm9MOS1ZODBBeld6WDNENjJyVVh4UGZxbjBTUkpHaGJMNVFUekpBSUc2bVZ0TUZBVmlSeHBGM0dEWmxyd3J1emxWODcxaUVldjVTbWN1RnFqQjlhZHo5YTl0ckVUX0hyUnFIcy1GODEyZjJ5b2JCZEZaWllrU2pybEN4SHlxYkN3WF9naTJEVEV3NzlROFlRamlMRmFBR3oxVXVnUGc1SnhsRHJINnUxbDliX0JWNWRkTmFpY1dWTnk0YUx0cU5oR1g1cEtUS0NzY0JrbUFVckxYTjVtTXE2ZERrTVJMQ1FOQ0Y4VGlITy1KU2hTZllTaTJYb2lIREtuSmZKcmtXMVNQdVNzNF9hTzB3RDRnOVVFMGYzYzF3bklCUW5FV3g3VE1CRGt1MmFDLTZsanQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxNa1VQMlhRa0lVSkxJYTdEd210OUlnY2tsSFdFTTFTNnBfMEhQNFNScm9MOS1ZODBBeld6WDNENjJyVVh4UGZxbjBTUkpHaGJMNVFUekpBSUc2bVZ0TUZBVmlSeHBGM0dEWmxyd3J1emxWODcxaUVldjVTbWN1RnFqQjlhZHo5YTl0ckVUX0hyUnFIcy1GODEyZjJ5b2JCZEZaWllrU2pybEN4SHlxYkN3WF9naTJEVEV3NzlROFlRamlMRmFBR3oxVXVnUGc1SnhsRHJINnUxbDliX0JWNWRkTmFpY1dWTnk0YUx0cU5oR1g1cEtUS0NzY0JrbUFVckxYTjVtTXE2ZERrTVJMQ1FOQ0Y4VGlITy1KU2hTZllTaTJYb2lIREtuSmZKcmtXMVNQdVNzNF9hTzB3RDRnOVVFMGYzYzF3bklCUW5FV3g3VE1CRGt1MmFDLTZsanQ?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "哈瑪斯拒絕川普停火計畫決定繼續戰鬥- 國際",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FTUFhQ01mYXFOTFZIWjN2M1RWN0lNeUZiMWFMTUlIelB4ZFl1TW92YkVfYUhUTWYzMTU1UFpkQkJ5Yk9WYnF5V1V5MHhlWVZibmdESXlZYnNkamVlNjZuV3hvTElhUkVKcE41RC1B?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FTUFhQ01mYXFOTFZIWjN2M1RWN0lNeUZiMWFMTUlIelB4ZFl1TW92YkVfYUhUTWYzMTU1UFpkQkJ5Yk9WYnF5V1V5MHhlWVZibmdESXlZYnNkamVlNjZuV3hvTElhUkVKcE41RC1B?oc=5",
+          "text": "壹蘋10點強打｜最年輕首相vs.首位女首相 自民黨總裁選舉明天投票 料延續「台灣有事即日本有事」｜壹蘋新聞網",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOWxUWUZrNFVBdXdxTjk1SktUVkI4ZGtUR2dfbndXbzhyazF4eGxYTEdVSlJ1STd2a0tfeFJhb2RZdDdHdEVUWElCRjdnNHFyY2JmQ3c2Q1VsdzhIR3pDUXdCbUwzc01rS2xQckN5NmlCdGVDY2FyWlZTZ3RjaGQ1aXo4bWd3N1k?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOWxUWUZrNFVBdXdxTjk1SktUVkI4ZGtUR2dfbndXbzhyazF4eGxYTEdVSlJ1STd2a0tfeFJhb2RZdDdHdEVUWElCRjdnNHFyY2JmQ3c2Q1VsdzhIR3pDUXdCbUwzc01rS2xQckN5NmlCdGVDY2FyWlZTZ3RjaGQ1aXo4bWd3N1k?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -273,6 +273,6 @@
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 22,
+  "cost": 18,
   "status": 0
 }
