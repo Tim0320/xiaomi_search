@@ -103,6 +103,14 @@
           "package": ""
         },
         {
+          "text": "連假首日 專業志工接棒鏟子超人",
+          "url": "https://tw.news.yahoo.com/%E4%B8%AD%E7%A7%8B%E9%80%A3%E5%81%87%E9%A6%96%E6%97%A5%E8%8A%B1%E8%93%AE%E7%81%BD%E5%8D%80%E6%8B%9A%E5%AE%8C%E6%88%90%E9%81%93%E8%B7%AF%E6%B8%85%E6%B7%A4-%E5%85%89%E5%BE%A9%E9%84%89%E5%B0%88%E6%A5%AD%E5%BF%97%E5%B7%A5%E5%8F%96%E4%BB%A3%E9%8F%9F%E5%AD%90%E8%B6%85%E4%BA%BA-020448436.html",
+          "h5_url": "https://tw.news.yahoo.com/%E4%B8%AD%E7%A7%8B%E9%80%A3%E5%81%87%E9%A6%96%E6%97%A5%E8%8A%B1%E8%93%AE%E7%81%BD%E5%8D%80%E6%8B%9A%E5%AE%8C%E6%88%90%E9%81%93%E8%B7%AF%E6%B8%85%E6%B7%A4-%E5%85%89%E5%BE%A9%E9%84%89%E5%B0%88%E6%A5%AD%E5%BF%97%E5%B7%A5%E5%8F%96%E4%BB%A3%E9%8F%9F%E5%AD%90%E8%B6%85%E4%BA%BA-020448436.html",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_yahoo",
+          "package": ""
+        },
+        {
           "text": "世界經濟恐劃三大圈圈 學者提醒",
           "url": "https://tw.news.yahoo.com/%E4%B8%96%E7%95%8C%E7%B6%93%E6%BF%9F%E6%81%90%E5%8A%83-%E4%B8%89%E5%A4%A7%E5%9C%88%E5%9C%88-%E5%AD%B8%E8%80%85%E6%8F%90%E9%86%92%E5%8F%B0%E7%81%A3%E9%9D%88%E6%B4%BB%E6%87%89%E5%B0%8D-224521288.html",
           "h5_url": "https://tw.news.yahoo.com/%E4%B8%96%E7%95%8C%E7%B6%93%E6%BF%9F%E6%81%90%E5%8A%83-%E4%B8%89%E5%A4%A7%E5%9C%88%E5%9C%88-%E5%AD%B8%E8%80%85%E6%8F%90%E9%86%92%E5%8F%B0%E7%81%A3%E9%9D%88%E6%B4%BB%E6%87%89%E5%B0%8D-224521288.html",
@@ -125,14 +133,6 @@
           "appIconUrl": "",
           "sourceUniqueId": "content_yahoo",
           "package": ""
-        },
-        {
-          "text": "中央坦言 有再次形成堰塞湖風險",
-          "url": "https://tw.news.yahoo.com/%E4%B8%AD%E5%A4%AE%E5%9D%A6%E8%A8%80-%E6%9C%89%E5%86%8D%E6%AC%A1%E5%BD%A2%E6%88%90%E5%A0%B0%E5%A1%9E%E6%B9%96%E9%A2%A8%E9%9A%AA-201000166.html",
-          "h5_url": "https://tw.news.yahoo.com/%E4%B8%AD%E5%A4%AE%E5%9D%A6%E8%A8%80-%E6%9C%89%E5%86%8D%E6%AC%A1%E5%BD%A2%E6%88%90%E5%A0%B0%E5%A1%9E%E6%B9%96%E9%A2%A8%E9%9A%AA-201000166.html",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_yahoo",
-          "package": ""
         }
       ],
       "selectedStatus": false,
@@ -146,33 +146,9 @@
       "link_type": "app",
       "data": [
         {
-          "text": "苗栗隨機殺人兇手「出獄才半年就犯案」！縣長鍾東錦回應了",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PcnRRbUhkbUNTT20xeV9ZMzNxRnpfLVZyY3F5YmFGRVZiWkRRcGZFdXVocmIwV0d4TmxLOVZ3QXd0UHYwNmlXQlhFRy0yb0Z0N3FkZ0lBcC1tUQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PcnRRbUhkbUNTT20xeV9ZMzNxRnpfLVZyY3F5YmFGRVZiWkRRcGZFdXVocmIwV0d4TmxLOVZ3QXd0UHYwNmlXQlhFRy0yb0Z0N3FkZ0lBcC1tUQ?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "最美的風景！鏟子超人們齊聚光復車站 高唱《島嶼天光》逼哭數萬人",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JZVNwYzdOMDJRZVhoWHJObGZwRkxSVnJwV1NwU0RNVE8tVDFtekJpNkRfVERuWkhTZTZxVnpiYVBxb3NueUJTX3I1TG93VWo3dWRjMGVhSmJlclZJeWU2Q3czbi3SAWpBVV95cUxQVzFtdGNOX1pmNWdhOWFQeUpoekllVUlUcm9RcHBkNVJ6VzRxZDNKd2ltMTZMeWgzdUNEdFkyYjNiLVFRUEtyb1VGTDBmSzRwaTN0NzN5ZVBrWWdTanNNWjdLYURWNzY3NE1B?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JZVNwYzdOMDJRZVhoWHJObGZwRkxSVnJwV1NwU0RNVE8tVDFtekJpNkRfVERuWkhTZTZxVnpiYVBxb3NueUJTX3I1TG93VWo3dWRjMGVhSmJlclZJeWU2Q3czbi3SAWpBVV95cUxQVzFtdGNOX1pmNWdhOWFQeUpoekllVUlUcm9RcHBkNVJ6VzRxZDNKd2ltMTZMeWgzdUNEdFkyYjNiLVFRUEtyb1VGTDBmSzRwaTN0NzN5ZVBrWWdTanNNWjdLYURWNzY3NE1B?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "馬太鞍溪「5公尺土堤」建設進度曝光　季連成：水流不會再進光復鄉",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE54U3hwRGhXTEdzQWRialE5SFBhYS15dUpCeG1lNWZYMHBhaEVFUjRNdzh6LXFGNUFKTFhRWVlud3pDbGJfVm5SUnk3WmpDcDFiLWkxZmQtTWh1ODR1R3fSAWhBVV95cUxOTmdtV2pIZWRpSGxVS2pkRC1hTjlRNUdMTXN0aE1wSjJMRFE2YThJQjhQUG12cFpkY2hjaHR6SnNzQmY3NFo5S2tvbXpVWkVBZGpCaU5KeldPWDJxU0Z6QXduWTVRdGZpdg?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE54U3hwRGhXTEdzQWRialE5SFBhYS15dUpCeG1lNWZYMHBhaEVFUjRNdzh6LXFGNUFKTFhRWVlud3pDbGJfVm5SUnk3WmpDcDFiLWkxZmQtTWh1ODR1R3fSAWhBVV95cUxOTmdtV2pIZWRpSGxVS2pkRC1hTjlRNUdMTXN0aE1wSjJMRFE2YThJQjhQUG12cFpkY2hjaHR6SnNzQmY3NFo5S2tvbXpVWkVBZGpCaU5KeldPWDJxU0Z6QXduWTVRdGZpdg?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "貴婦慘淪下流老人 破產淚求打工一聽時薪210元竟嫌少",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUT2dVZkVxQ19uYkZlOXlfTEp1eVB2cDk1MUFybUVDZUJHdEp6a0VlZW43UkEwUWpPa0dicUg4RnRWX1NGZDRTenpJRGpnQWxSMW1MWlVUQXFwUFFlRHFj0gFkQVVfeXFMUHlZU3B2R0ZKR2lXVVJOa3FaUHJ1RVVlQTVlYUR0ZUpySXo5WDBXV0ZxWmVXUlhSV0NYbXRCMFVBTDlUeG1IODV4WWw0WlYzS3J3WVgxWGFiVllSTF85X0hqZHNzdA?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUT2dVZkVxQ19uYkZlOXlfTEp1eVB2cDk1MUFybUVDZUJHdEp6a0VlZW43UkEwUWpPa0dicUg4RnRWX1NGZDRTenpJRGpnQWxSMW1MWlVUQXFwUFFlRHFj0gFkQVVfeXFMUHlZU3B2R0ZKR2lXVVJOa3FaUHJ1RVVlQTVlYUR0ZUpySXo5WDBXV0ZxWmVXUlhSV0NYbXRCMFVBTDlUeG1IODV4WWw0WlYzS3J3WVgxWGFiVllSTF85X0hqZHNzdA?oc=5",
+          "text": "徐榛蔚說明會被嗆爆！災民怒吼「講廢話」原地開睡　數人離席抗議",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9aeWRTdWpQZjAxNlZ0LUlucGRFWEEwWlFIcklvLUlfWXhXOTVyYTRycVZQNVpUNkR2WWtpRWFCbjVXWklrc3MzcEpCNmtzS2tGck0wWDNLZHRONE5SX2fSAWhBVV95cUxPc1JmUWw2S01GVjNjODBMVFI3SDV2UXB4bUR1b0VvWGtpRVBTbThjYXZ3MDdXMGZhN25FbkY4OTJVcnJhZnhkY3BSLXA5dXJUYm9UelNxNXphaXN0MVQtMUFxRUEwSFVpUg?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9aeWRTdWpQZjAxNlZ0LUlucGRFWEEwWlFIcklvLUlfWXhXOTVyYTRycVZQNVpUNkR2WWtpRWFCbjVXWklrc3MzcEpCNmtzS2tGck0wWDNLZHRONE5SX2fSAWhBVV95cUxPc1JmUWw2S01GVjNjODBMVFI3SDV2UXB4bUR1b0VvWGtpRVBTbThjYXZ3MDdXMGZhN25FbkY4OTJVcnJhZnhkY3BSLXA5dXJUYm9UelNxNXphaXN0MVQtMUFxRUEwSFVpUg?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -186,41 +162,65 @@
           "package": ""
         },
         {
-          "text": "超正女兵休假衝花蓮當「鏟子超人」　軍服美照1.4萬人朝聖",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9hblBEYjNpTXk3SS1YVUNiWjRnNGN0cm83a05iV0hRS25XZVcxcGtGdkVKcjZaTEt6enhyNzBLUlBpTlZRMkR3LXlCRTNVYlJVZk1ncjhZMC1yUWxiNlHSAWhBVV95cUxOMTVYRnp5djRRRXRpZEJWZURJVlZZcmFXNjdnVDRhamJwdS1ISDVBMkZrM2thYzZJS3NPanpCRlpEb3VHNjlQM0V6c2RTaEFBSFFSRWg2bkpRS01CVkk5LXpTYklvN2VwaQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9hblBEYjNpTXk3SS1YVUNiWjRnNGN0cm83a05iV0hRS25XZVcxcGtGdkVKcjZaTEt6enhyNzBLUlBpTlZRMkR3LXlCRTNVYlJVZk1ncjhZMC1yUWxiNlHSAWhBVV95cUxOMTVYRnp5djRRRXRpZEJWZURJVlZZcmFXNjdnVDRhamJwdS1ISDVBMkZrM2thYzZJS3NPanpCRlpEb3VHNjlQM0V6c2RTaEFBSFFSRWg2bkpRS01CVkk5LXpTYklvN2VwaQ?oc=5",
+          "text": "服刑出獄後又傷人！苗栗男持刀隨機殺人 檢方聲押禁見",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91cWtucDJDNEFySVNLbzdjV1AzWnFGMFE5UFRyYXkzTmUxYXZFcldMWlF1dTVPNzczTkVXdlBPQ2JRQnJUR3EtOGdEcGlha1oxZlNR?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91cWtucDJDNEFySVNLbzdjV1AzWnFGMFE5UFRyYXkzTmUxYXZFcldMWlF1dTVPNzczTkVXdlBPQ2JRQnJUR3EtOGdEcGlha1oxZlNR?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "徐榛蔚開講「募到電鍋」網炸鍋 災民傻眼躺地「比中指」",
-          "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxQV251TlVvSGstQXU5QUFHWjg4WVA3TFVGVHUtR2s5elFsUm01dUlGZTB5NFQzRXcwQnBoa0k4QUt5MU84X0V5MG04cGw5YmRhZVhvckdNRHJ4OUdIbENVcEQtMTZOeW5nQUlhVWh3d1hTTDlBMEdHSEQ5d3h5RzR4dW1xcU5WZVFiaklBbEYzQTV2WWp0dWlIRXdmd294SVpVTm96WjNaS1FyWnJaTURFWndaYTQ0UUtMaU1kX3dNdUZMNFFhc2M2YVJOWEo3WFVodHBaSGNrU0dMRFdxbU56cnNMLXJqbkRtcVdFVWxLSmxmcFBJajhHQ0pVcWx1T1E2Y2ZSUzhibzl3MmpMM3pUSzJHLTgyVjJtS1ZSUGFPMGd4bjZoZG5waTZSWHNlR0dXem1UVnFmOGtrbExFQTJBZmF2WkE0SllNVGJ3b01pVE1jRkJsTjJBdDZRRndDd1RqVkViUG5OZGdEbmdCZzJNb3FaN0VSZk5U?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxQV251TlVvSGstQXU5QUFHWjg4WVA3TFVGVHUtR2s5elFsUm01dUlGZTB5NFQzRXcwQnBoa0k4QUt5MU84X0V5MG04cGw5YmRhZVhvckdNRHJ4OUdIbENVcEQtMTZOeW5nQUlhVWh3d1hTTDlBMEdHSEQ5d3h5RzR4dW1xcU5WZVFiaklBbEYzQTV2WWp0dWlIRXdmd294SVpVTm96WjNaS1FyWnJaTURFWndaYTQ0UUtMaU1kX3dNdUZMNFFhc2M2YVJOWEo3WFVodHBaSGNrU0dMRFdxbU56cnNMLXJqbkRtcVdFVWxLSmxmcFBJajhHQ0pVcWx1T1E2Y2ZSUzhibzl3MmpMM3pUSzJHLTgyVjJtS1ZSUGFPMGd4bjZoZG5waTZSWHNlR0dXem1UVnFmOGtrbExFQTJBZmF2WkE0SllNVGJ3b01pVE1jRkJsTjJBdDZRRndDd1RqVkViUG5OZGdEbmdCZzJNb3FaN0VSZk5U?oc=5",
+          "text": "馬太鞍溪「5公尺土堤」建設進度曝光　季連成：水流不會再進光復鄉",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE54U3hwRGhXTEdzQWRialE5SFBhYS15dUpCeG1lNWZYMHBhaEVFUjRNdzh6LXFGNUFKTFhRWVlud3pDbGJfVm5SUnk3WmpDcDFiLWkxZmQtTWh1ODR1R3fSAWhBVV95cUxOTmdtV2pIZWRpSGxVS2pkRC1hTjlRNUdMTXN0aE1wSjJMRFE2YThJQjhQUG12cFpkY2hjaHR6SnNzQmY3NFo5S2tvbXpVWkVBZGpCaU5KeldPWDJxU0Z6QXduWTVRdGZpdg?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE54U3hwRGhXTEdzQWRialE5SFBhYS15dUpCeG1lNWZYMHBhaEVFUjRNdzh6LXFGNUFKTFhRWVlud3pDbGJfVm5SUnk3WmpDcDFiLWkxZmQtTWh1ODR1R3fSAWhBVV95cUxOTmdtV2pIZWRpSGxVS2pkRC1hTjlRNUdMTXN0aE1wSjJMRFE2YThJQjhQUG12cFpkY2hjaHR6SnNzQmY3NFo5S2tvbXpVWkVBZGpCaU5KeldPWDJxU0Z6QXduWTVRdGZpdg?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "鏟子超人歡呼！總協調官宣布：光復鄉中午以前家戶清淤完成",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDSGtDRDZVUHJVcnRFSW4wQXFXWUJLcVptTm01amZmS0ZNT2pUNEV5STZXQ0JKcHBFdlpldGNPb3U1Z1hSaXNWZ3Qxbmsyb2haeWVv0gFYQVVfeXFMT0sxYU95eHZEYzBIbE16ekZwcXdZMnBZcVZkckZYME5OQ0REeU8xQVhVU254QjNRSlJ4NGoweUVjQUh3dGVFMjZZVjRfalFYSnVVQlZXemswcA?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDSGtDRDZVUHJVcnRFSW4wQXFXWUJLcVptTm01amZmS0ZNT2pUNEV5STZXQ0JKcHBFdlpldGNPb3U1Z1hSaXNWZ3Qxbmsyb2haeWVv0gFYQVVfeXFMT0sxYU95eHZEYzBIbE16ekZwcXdZMnBZcVZkckZYME5OQ0REeU8xQVhVU254QjNRSlJ4NGoweUVjQUh3dGVFMjZZVjRfalFYSnVVQlZXemswcA?oc=5",
+          "text": "「鏟子超人別進災區」政府不領情　李鴻源回應了",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAzRC1wZ0NwUzBGN2c1cXZYS3dsVEM5WFlmM2NZYkNUWXN2YVE5bEhIZmZmNlhjZmliS1FmNnNvVXJsRUtHR0h5Sng0bllQX2VlQlNOdjlJQ1psUVBCSkHSAWhBVV95cUxPMThSZ3FYenR2NWhOQ0hHNGl1ektIVkQ3Vk9Hb0FTXzFrb1gwdmVrQjhTY0NwTzktWWJkb2twTDBfYmVTS2Npc0huYlpEcTgyak44ODA0azlkcDZOeUpoa2RJOTVLUlBvdA?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAzRC1wZ0NwUzBGN2c1cXZYS3dsVEM5WFlmM2NZYkNUWXN2YVE5bEhIZmZmNlhjZmliS1FmNnNvVXJsRUtHR0h5Sng0bllQX2VlQlNOdjlJQ1psUVBCSkHSAWhBVV95cUxPMThSZ3FYenR2NWhOQ0hHNGl1ektIVkQ3Vk9Hb0FTXzFrb1gwdmVrQjhTY0NwTzktWWJkb2twTDBfYmVTS2Npc0huYlpEcTgyak44ODA0azlkcDZOeUpoa2RJOTVLUlBvdA?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "北捷踹嬤「台大高材生」突清空IG！發黑底文曝心聲",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9lVFEyT21JUDEyam1DaWNWUXNKTXdyeFJnbm04cWhKcFg5YVM1S0JSOHJycnRKRzR1a2poXzZVU0c3TGdjM1hRc3A5dkhhLUtyTl90SzVqaHk3blVJbnfSAWhBVV95cUxNOVpTQTdyRUZLc21SRUZtcFBOaEFlaHRmNjNrUzZYNWNXMm5jUWo4SFdLY2RncUZCdW81ZXZFQWR4a1hmM1Jpc180ME1DSmltWEhUdnBYV0s1aXFrR2QxT3Y5cHBoQlI1WQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9lVFEyT21JUDEyam1DaWNWUXNKTXdyeFJnbm04cWhKcFg5YVM1S0JSOHJycnRKRzR1a2poXzZVU0c3TGdjM1hRc3A5dkhhLUtyTl90SzVqaHk3blVJbnfSAWhBVV95cUxNOVpTQTdyRUZLc21SRUZtcFBOaEFlaHRmNjNrUzZYNWNXMm5jUWo4SFdLY2RncUZCdW81ZXZFQWR4a1hmM1Jpc180ME1DSmltWEhUdnBYV0s1aXFrR2QxT3Y5cHBoQlI1WQ?oc=5",
+          "text": "「圓滾滾麥德姆」西奔登陸將胖成中颱　甩雨台灣腳！",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9QOUdsLWszZi1keTNYZlcxMHlpVVh2MWpNdmJJQWtuLU9xaUJvWm9XTUJNYlV0MTg5NG1La3ppQk41R2lUeklHWHJZRnRxLXA4TXd1Z2pwV3NCb0M5YmfSAWhBVV95cUxNNmxBMDVzVG4zdG9haTBZTElfVFlYSFhnU2wyb3B5QUxOaWo1dFdOeFFtR2pCWkpyakNOV1hxSUE5Y1pScTlsdnBKcnlxXy1NbXNzZzh0V3BKdTRmN0NtUF9rZURKMjFtcg?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9QOUdsLWszZi1keTNYZlcxMHlpVVh2MWpNdmJJQWtuLU9xaUJvWm9XTUJNYlV0MTg5NG1La3ppQk41R2lUeklHWHJZRnRxLXA4TXd1Z2pwV3NCb0M5YmfSAWhBVV95cUxNNmxBMDVzVG4zdG9haTBZTElfVFlYSFhnU2wyb3B5QUxOaWo1dFdOeFFtR2pCWkpyakNOV1hxSUE5Y1pScTlsdnBKcnlxXy1NbXNzZzh0V3BKdTRmN0NtUF9rZURKMjFtcg?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "輝達總部瀕破局？若不進駐 北士科房價被打回原形",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNNUFJQ0gyWTZTN3hWaE5KcXVHckZCQ1ZJSGE1X3JnTGhwenJ4dGxkZXdQMU9MWXRDczZ5ZGdRbUJNcWdUcWpnWkRXZU54aUpXUzhVbFdKQlVtSHRuRnM40gFkQVVfeXFMUE1aYm1YbVdTaUltem1FQndHQWhScUl5a0toM1RWYVo0cjNfRDJxa0FWY1NyaUJlTG01azZBUjJmM3ZCWjBBYXRzTVJRNV9JZ3JCWk1LcTJROTQwNVlBY3c5QUZNcw?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNNUFJQ0gyWTZTN3hWaE5KcXVHckZCQ1ZJSGE1X3JnTGhwenJ4dGxkZXdQMU9MWXRDczZ5ZGdRbUJNcWdUcWpnWkRXZU54aUpXUzhVbFdKQlVtSHRuRnM40gFkQVVfeXFMUE1aYm1YbVdTaUltem1FQndHQWhScUl5a0toM1RWYVo0cjNfRDJxa0FWY1NyaUJlTG01azZBUjJmM3ZCWjBBYXRzTVJRNV9JZ3JCWk1LcTJROTQwNVlBY3c5QUZNcw?oc=5",
+          "text": "一夜漲粉破萬！北捷飛踢男突刪光IG貼文 黑底限動曝「暫不回應」原因",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PYVhpY0pLVlRsSS10UVFvVThWZ2JYQXBFUFhHM3hrV0pld1hzV2VUaGZTeUNQbDlxUW5MdlJfN2Z0MXJnRnhVdTR4bjctQkh6aGZ4UnVMYml0UQ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PYVhpY0pLVlRsSS10UVFvVThWZ2JYQXBFUFhHM3hrV0pld1hzV2VUaGZTeUNQbDlxUW5MdlJfN2Z0MXJnRnhVdTR4bjctQkh6aGZ4UnVMYml0UQ?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "黨主席辯論場數超過總統大選…18藍委籲停止 全力投入花蓮救災",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YOUt0aVJNZ2ZnZzhoWEJiUTM2VzBseTJTT1FZejdNNndxbVBPQkJlM1lTTjh6cHFJcVBYRGVEX2d4Mm9ZdFQxYnZJbWZvZjJYZXhN0gFYQVVfeXFMTUo1WlBzUlZ6U2N4c0h6Qk9wRXEzUVVOdGJPaWgxR3Z5Vm5xd3M2Y21HMDc4ZzJEcU1Bb3YzWjJOT29xVDNNYVphYkUyRlp3bEF2a2lPSWxrYQ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YOUt0aVJNZ2ZnZzhoWEJiUTM2VzBseTJTT1FZejdNNndxbVBPQkJlM1lTTjh6cHFJcVBYRGVEX2d4Mm9ZdFQxYnZJbWZvZjJYZXhN0gFYQVVfeXFMTUo1WlBzUlZ6U2N4c0h6Qk9wRXEzUVVOdGJPaWgxR3Z5Vm5xd3M2Y21HMDc4ZzJEcU1Bb3YzWjJOT29xVDNNYVphYkUyRlp3bEF2a2lPSWxrYQ?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "王義川告黃國昌火速分案！尚毅夫爆北檢事前「掌握一些事」",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1IbDdVNVRDT0hkekpXdElaS0g4cjU3R1V4cmx5SWRMVGF6bkNKN1hMMWVGNTVpakFwclF3LUd6MWhBUEEzb3VicjNLZjJQYUpRZEpNSzA5bmpmNWhMM1ltWmNNYmtxekZwVEHSAW9BVV95cUxOUDc4Wkw5LS10d1pwMHN4d2FzbkhzN2IxbGJLSzg3VmdleFgwUm0teS1GcVRVNWRNbzE5c0dPWTd6THdyZ0Nqb2JTMGNEZjc5dEV3SGV6OGtHdGtES1JJLUVkLU9TZWg0bVIyMzBnNFU?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1IbDdVNVRDT0hkekpXdElaS0g4cjU3R1V4cmx5SWRMVGF6bkNKN1hMMWVGNTVpakFwclF3LUd6MWhBUEEzb3VicjNLZjJQYUpRZEpNSzA5bmpmNWhMM1ltWmNNYmtxekZwVEHSAW9BVV95cUxOUDc4Wkw5LS10d1pwMHN4d2FzbkhzN2IxbGJLSzg3VmdleFgwUm0teS1GcVRVNWRNbzE5c0dPWTd6THdyZ0Nqb2JTMGNEZjc5dEV3SGV6OGtHdGtES1JJLUVkLU9TZWg0bVIyMzBnNFU?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "鏟子超人光復車站大合唱《島嶼天光》！一句話讓數萬人眼眶濕了",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HMGNxQ3FTbzBFVFdqdGptelBtbTBPQzRGcUo4djgwZHc2ZHVTZ3ZJVDJhMmNsOGdOWGVIQ0tqZldFbWdHaE1hdnpaSVZhNnh3Y0ttelpZd3BzQnfSAV9BVV95cUxQcGc5RmJjQ3RiTEVEaU5TZmJOQWV6OVRRVlhOdTZiZ053ejd4WDR0TEd4MHFfdlZEU05KclVTMGdyRk14Y3lfVElmSXBDOUNjTHlockdUdEw5bEZiMUUwdw?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HMGNxQ3FTbzBFVFdqdGptelBtbTBPQzRGcUo4djgwZHc2ZHVTZ3ZJVDJhMmNsOGdOWGVIQ0tqZldFbWdHaE1hdnpaSVZhNnh3Y0ttelpZd3BzQnfSAV9BVV95cUxQcGc5RmJjQ3RiTEVEaU5TZmJOQWV6OVRRVlhOdTZiZ053ejd4WDR0TEd4MHFfdlZEU05KclVTMGdyRk14Y3lfVElmSXBDOUNjTHlockdUdEw5bEZiMUUwdw?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -242,17 +242,17 @@
           "package": ""
         },
         {
-          "text": "給我恢復採購大豆！川普：4周後將當面施壓習近平- 日報",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zOXgtdXF1QWdzSXJIb3dIZTNwM1ZMRi1tS0l0T0ZReTJ0S19nLUwxVUhZYVFMX0JIVnd5eE5JWHhGU21DTDFEVDZ5UWxnMzE5b2Vfd2M1Sk51VWx0bF93?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zOXgtdXF1QWdzSXJIb3dIZTNwM1ZMRi1tS0l0T0ZReTJ0S19nLUwxVUhZYVFMX0JIVnd5eE5JWHhGU21DTDFEVDZ5UWxnMzE5b2Vfd2M1Sk51VWx0bF93?oc=5",
+          "text": "川普口中的「大交易」？彭博：中國拋1兆美元投資 促美放寬國安限制",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9fdFZLSTJfQW56SDkzTFlobE9xME5KcGY4TnhqSkFiUTNkZXpqTW9GMU9aZkU2TllkZVFWWTJtNk9GNVJQbWZORUoyYW42dmlo0gFWQVVfeXFMUFlsUXgydVdXX0VBdklkeHhzOURUSmtJeUZnQXFURm5pR1gxdXpHNk82SU1kRVRZWE9VanMxOW5SMjY0NnF4YlU0dWg4S2N4SFNZNjlnQWc?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9fdFZLSTJfQW56SDkzTFlobE9xME5KcGY4TnhqSkFiUTNkZXpqTW9GMU9aZkU2TllkZVFWWTJtNk9GNVJQbWZORUoyYW42dmlo0gFWQVVfeXFMUFlsUXgydVdXX0VBdklkeHhzOURUSmtJeUZnQXFURm5pR1gxdXpHNk82SU1kRVRZWE9VanMxOW5SMjY0NnF4YlU0dWg4S2N4SFNZNjlnQWc?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "川普口中的「大交易」？彭博：中國拋1兆美元投資 促美放寬國安限制",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9fdFZLSTJfQW56SDkzTFlobE9xME5KcGY4TnhqSkFiUTNkZXpqTW9GMU9aZkU2TllkZVFWWTJtNk9GNVJQbWZORUoyYW42dmlo0gFWQVVfeXFMUFlsUXgydVdXX0VBdklkeHhzOURUSmtJeUZnQXFURm5pR1gxdXpHNk82SU1kRVRZWE9VanMxOW5SMjY0NnF4YlU0dWg4S2N4SFNZNjlnQWc?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9fdFZLSTJfQW56SDkzTFlobE9xME5KcGY4TnhqSkFiUTNkZXpqTW9GMU9aZkU2TllkZVFWWTJtNk9GNVJQbWZORUoyYW42dmlo0gFWQVVfeXFMUFlsUXgydVdXX0VBdklkeHhzOURUSmtJeUZnQXFURm5pR1gxdXpHNk82SU1kRVRZWE9VanMxOW5SMjY0NnF4YlU0dWg4S2N4SFNZNjlnQWc?oc=5",
+          "text": "靠關稅年增30兆收入 ! 川普擬全美「普發支票」每人最高6萬",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1laHVITXd2MFUzQzdELXV6WlAtQmhUa3hMbTdndnBvMGk0ZzloTDBUb0VWZDVFTHpnbERlYTNwcXhqT0VaR1lQUEwzcl94c1dseXNaUFF4ak1IZXZLUmM40gFkQVVfeXFMTmYyQTdsUWM3bFZCTG56RWowY1pvZ2REaTlEQVpYZGZ1bTRfNDh4SXVwMVNiNHFzTktFSFJBVC04T2I3Yko4UjlGWkJndTlIMXlzYWtKMEdiSnR5OVBhZ3YxVVJoTw?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1laHVITXd2MFUzQzdELXV6WlAtQmhUa3hMbTdndnBvMGk0ZzloTDBUb0VWZDVFTHpnbERlYTNwcXhqT0VaR1lQUEwzcl94c1dseXNaUFF4ak1IZXZLUmM40gFkQVVfeXFMTmYyQTdsUWM3bFZCTG56RWowY1pvZ2REaTlEQVpYZGZ1bTRfNDh4SXVwMVNiNHFzTktFSFJBVC04T2I3Yko4UjlGWkJndTlIMXlzYWtKMEdiSnR5OVBhZ3YxVVJoTw?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -273,6 +273,6 @@
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 42,
+  "cost": 19,
   "status": 0
 }
