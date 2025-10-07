@@ -79,6 +79,14 @@
           "package": ""
         },
         {
+          "text": "聽「咕咕」聲險丟命 濁流翻滾90分鐘",
+          "url": "https://tw.news.yahoo.com/%E8%A2%AB%E6%B4%AA%E6%B0%B4%E6%B2%96%E8%B5%B090%E5%88%86%E9%90%98-%E7%94%B7%E5%91%BD%E5%A4%A7%E7%8D%B2%E6%95%91-201000645.html",
+          "h5_url": "https://tw.news.yahoo.com/%E8%A2%AB%E6%B4%AA%E6%B0%B4%E6%B2%96%E8%B5%B090%E5%88%86%E9%90%98-%E7%94%B7%E5%91%BD%E5%A4%A7%E7%8D%B2%E6%95%91-201000645.html",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_yahoo",
+          "package": ""
+        },
+        {
           "text": "5都積極爭取輝達 「隨時可接棒」",
           "url": "https://tw.news.yahoo.com/5%E9%83%BD%E7%A9%8D%E6%A5%B5%E7%88%AD%E5%8F%96%E8%BC%9D%E9%81%94-%E9%9A%A8%E6%99%82%E5%8F%AF%E6%8E%A5%E6%A3%92-223230084.html",
           "h5_url": "https://tw.news.yahoo.com/5%E9%83%BD%E7%A9%8D%E6%A5%B5%E7%88%AD%E5%8F%96%E8%BC%9D%E9%81%94-%E9%9A%A8%E6%99%82%E5%8F%AF%E6%8E%A5%E6%A3%92-223230084.html",
@@ -90,14 +98,6 @@
           "text": "一生如電影「好小子」顏正國癌逝",
           "url": "https://tw.news.yahoo.com/%E5%A5%BD%E5%B0%8F%E5%AD%90%E9%A1%8F%E6%AD%A3%E5%9C%8B%E7%99%8C%E9%80%9D-%E7%94%9F%E5%A6%82%E9%9B%BB%E5%BD%B1-201000269.html",
           "h5_url": "https://tw.news.yahoo.com/%E5%A5%BD%E5%B0%8F%E5%AD%90%E9%A1%8F%E6%AD%A3%E5%9C%8B%E7%99%8C%E9%80%9D-%E7%94%9F%E5%A6%82%E9%9B%BB%E5%BD%B1-201000269.html",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_yahoo",
-          "package": ""
-        },
-        {
-          "text": "聽「咕咕」聲險丟命 濁流翻滾90分鐘",
-          "url": "https://tw.news.yahoo.com/%E8%A2%AB%E6%B4%AA%E6%B0%B4%E6%B2%96%E8%B5%B090%E5%88%86%E9%90%98-%E7%94%B7%E5%91%BD%E5%A4%A7%E7%8D%B2%E6%95%91-201000645.html",
-          "h5_url": "https://tw.news.yahoo.com/%E8%A2%AB%E6%B4%AA%E6%B0%B4%E6%B2%96%E8%B5%B090%E5%88%86%E9%90%98-%E7%94%B7%E5%91%BD%E5%A4%A7%E7%8D%B2%E6%95%91-201000645.html",
           "appIconUrl": "",
           "sourceUniqueId": "content_yahoo",
           "package": ""
@@ -146,9 +146,9 @@
       "link_type": "app",
       "data": [
         {
-          "text": "明起連3天降雨機率增　下周更強東北季風「高溫跌破30度」",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tR0dZR0M4ZkU2VTV6ei00VDdRWDFZUkxMcEt1YVQ1SmNsUjJERXZ1enVHdzZhWVQ2bnY4Mm0wRU5XQlFieTVHcTZYTkZJRlhQUlZQQ1ZLVnVWb3dqMmfSAWhBVV95cUxQN1dYei1icGx3Ti1RejlvNnFWdWYyWE1EN3oyeVVBZkxIWkhoR05HcHVkd1pOTWI0N2tDOHNldEdMeTFZcjItY3ltOE5UcFNoRmhmN0ZjaFVzNm9mQWZ3TDM2QnFjeFp0VA?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tR0dZR0M4ZkU2VTV6ei00VDdRWDFZUkxMcEt1YVQ1SmNsUjJERXZ1enVHdzZhWVQ2bnY4Mm0wRU5XQlFieTVHcTZYTkZJRlhQUlZQQ1ZLVnVWb3dqMmfSAWhBVV95cUxQN1dYei1icGx3Ti1RejlvNnFWdWYyWE1EN3oyeVVBZkxIWkhoR05HcHVkd1pOTWI0N2tDOHNldEdMeTFZcjItY3ltOE5UcFNoRmhmN0ZjaFVzNm9mQWZ3TDM2QnFjeFp0VA?oc=5",
+          "text": "挖土機老闆赴花蓮救災受傷引發敗血症亡災區受傷4警訊速回診",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LOERNNFZDXzJfTy1mNWJCUFRZTnNGd1RZWXBRNWZ1aURzNjFaUmxRN2FjcWZDWnN4S05UelcxdDFrXy1RbHA3eU5QcDN4WHVnYkxmdlJ0VDlONHNveF9r?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LOERNNFZDXzJfTy1mNWJCUFRZTnNGd1RZWXBRNWZ1aURzNjFaUmxRN2FjcWZDWnN4S05UelcxdDFrXy1RbHA3eU5QcDN4WHVnYkxmdlJ0VDlONHNveF9r?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -162,9 +162,9 @@
           "package": ""
         },
         {
-          "text": "桃園挖土機老闆花蓮救災受傷感染不治 卓榮泰：會給英雄最高慰問[影]",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmRlFvbkdhbF82YkNtV1UtWGdwMXA5SGRHRXhsUUtWRFI0aUl1N0s0aHpqTjVzbENZUktHVEJmVWFLeHJON3pFZnl1OTdKc1NXMTNWZnNvamdYNXk5Z3VN?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmRlFvbkdhbF82YkNtV1UtWGdwMXA5SGRHRXhsUUtWRFI0aUl1N0s0aHpqTjVzbENZUktHVEJmVWFLeHJON3pFZnl1OTdKc1NXMTNWZnNvamdYNXk5Z3VN?oc=5",
+          "text": "明起連3天降雨機率增　下周更強東北季風「高溫跌破30度」",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tR0dZR0M4ZkU2VTV6ei00VDdRWDFZUkxMcEt1YVQ1SmNsUjJERXZ1enVHdzZhWVQ2bnY4Mm0wRU5XQlFieTVHcTZYTkZJRlhQUlZQQ1ZLVnVWb3dqMmfSAWhBVV95cUxQN1dYei1icGx3Ti1RejlvNnFWdWYyWE1EN3oyeVVBZkxIWkhoR05HcHVkd1pOTWI0N2tDOHNldEdMeTFZcjItY3ltOE5UcFNoRmhmN0ZjaFVzNm9mQWZ3TDM2QnFjeFp0VA?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tR0dZR0M4ZkU2VTV6ei00VDdRWDFZUkxMcEt1YVQ1SmNsUjJERXZ1enVHdzZhWVQ2bnY4Mm0wRU5XQlFieTVHcTZYTkZJRlhQUlZQQ1ZLVnVWb3dqMmfSAWhBVV95cUxQN1dYei1icGx3Ti1RejlvNnFWdWYyWE1EN3oyeVVBZkxIWkhoR05HcHVkd1pOTWI0N2tDOHNldEdMeTFZcjItY3ltOE5UcFNoRmhmN0ZjaFVzNm9mQWZ3TDM2QnFjeFp0VA?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -186,25 +186,25 @@
           "package": ""
         },
         {
-          "text": "輝達北士科僵局誰的鍋？林濁水嘆「中央地方一樣無能」：卡關源頭就是他 | 張大任",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBzeG1KQVRodUg5RGtvSjFCN1k2R0dyZWhsQXg3T1V6LVZ6Z0dvQTBSbnpxdlROajV6anl6Ujd3SVRlUmdsWXI5NXNySGx1QQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBzeG1KQVRodUg5RGtvSjFCN1k2R0dyZWhsQXg3T1V6LVZ6Z0dvQTBSbnpxdlROajV6anl6Ujd3SVRlUmdsWXI5NXNySGx1QQ?oc=5",
+          "text": "黃國昌狗仔斂財5／偷拍集團遭爆斂財　張斯綱回應：民眾投書與狗仔無關",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fUHJjUTN5eEVfSzVRTmszM21jU1Zpc0JCWk1pV0U0TEhKVi1OMnAxdUpVTkY5RE1fNmVBa19yMTZDNlZ6RVR5Y0NhM19oSU15T3ltMUFJWFpseUXSAWBBVV95cUxNNFU3dWE3MlJ4NVZvbEFudm5MZENXZndzTDRMZlR6RWQ0OWg5SmJZWU13dk5ETVM3dDdtLWNOdC14R0VDS1oxcHpIcmxqTnowYzFGeXhxeWl0VllzTWJtMF8?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fUHJjUTN5eEVfSzVRTmszM21jU1Zpc0JCWk1pV0U0TEhKVi1OMnAxdUpVTkY5RE1fNmVBa19yMTZDNlZ6RVR5Y0NhM19oSU15T3ltMUFJWFpseUXSAWBBVV95cUxNNFU3dWE3MlJ4NVZvbEFudm5MZENXZndzTDRMZlR6RWQ0OWg5SmJZWU13dk5ETVM3dDdtLWNOdC14R0VDS1oxcHpIcmxqTnowYzFGeXhxeWl0VllzTWJtMF8?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "中國4年不戰「也能把台灣逼入危機」美前官員批川普政府短視近利",
-          "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxOY1BxMkhuUmItLXhQQnc3UmVTd2RQdWpfNklvUHFDWVBmSjFVOGo2TmNfWnlCc3EtSkN4Skc0ZVFyQm04TzlhakF6Rnl4cGNjRklCSDFwS0RCM2NHSUE0d2xNWUZHbEtVcnR1WExXV0dLQ05iVE9Kci1YaWZjbTJZQjY0Ykg2WEx3YW5Ya0EyS2lFQ2paQkNISXMwdzMtcGkwOU1jdFN5ak5TWHpfRWFneHJkbDRmLXBwWlBxeUs1ekEwYkRXYkRWVUNzRUdPT0FRd212VFFDa2RMaUQ4YXZ0eHZwRDJzaTY0aUk3Z2doQzQ5ZklmcHNlWWgtcDBKLUc1OE95REYwSUtCSVhUbEN1SlF4ZjRadE0wMV93eDU2a3h6QklWZ3R1RXlxckQxUjFuYVdFOTU4OW9WZFF0a0NyV21QbVp5cjBBbm5xamZ5cmFSRHJnLWhnTC1EZUVMV0VPWXNSZ1JkOGlOSDJ6ZGU5UktpRldwVDlITGFKVE5zSzUtOHk1MWdfdzR4THpxclEzeHVBVXpGbG05UlU?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxOY1BxMkhuUmItLXhQQnc3UmVTd2RQdWpfNklvUHFDWVBmSjFVOGo2TmNfWnlCc3EtSkN4Skc0ZVFyQm04TzlhakF6Rnl4cGNjRklCSDFwS0RCM2NHSUE0d2xNWUZHbEtVcnR1WExXV0dLQ05iVE9Kci1YaWZjbTJZQjY0Ykg2WEx3YW5Ya0EyS2lFQ2paQkNISXMwdzMtcGkwOU1jdFN5ak5TWHpfRWFneHJkbDRmLXBwWlBxeUs1ekEwYkRXYkRWVUNzRUdPT0FRd212VFFDa2RMaUQ4YXZ0eHZwRDJzaTY0aUk3Z2doQzQ5ZklmcHNlWWgtcDBKLUc1OE95REYwSUtCSVhUbEN1SlF4ZjRadE0wMV93eDU2a3h6QklWZ3R1RXlxckQxUjFuYVdFOTU4OW9WZFF0a0NyV21QbVp5cjBBbm5xamZ5cmFSRHJnLWhnTC1EZUVMV0VPWXNSZ1JkOGlOSDJ6ZGU5UktpRldwVDlITGFKVE5zSzUtOHk1MWdfdzR4THpxclEzeHVBVXpGbG05UlU?oc=5",
+          "text": "美前副國家安全顧問博明：中共不必動武 就能讓台陷困境",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EN2g2cFpBWTRNUGhPVXpSMlktcmlSQm4tRl93RjV5b0pwMF9Db0p5aFFDTDZ5dXpVdjdOME9rN094NG83dDRCbDkyVlBKdG1EbkHSAVdBVV95cUxNSWNNME9qd2Y3WlZWa0tVRHVPM1hEQTlnTV9fS3hTZlJWbF94ZWVnY0ZTTjBWTk9RSVJvWEpLZnRQM01MdmlSNjNxVXBoY1dhbl9yaUQwQnc?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EN2g2cFpBWTRNUGhPVXpSMlktcmlSQm4tRl93RjV5b0pwMF9Db0p5aFFDTDZ5dXpVdjdOME9rN094NG83dDRCbDkyVlBKdG1EbkHSAVdBVV95cUxNSWNNME9qd2Y3WlZWa0tVRHVPM1hEQTlnTV9fS3hTZlJWbF94ZWVnY0ZTTjBWTk9RSVJvWEpLZnRQM01MdmlSNjNxVXBoY1dhbl9yaUQwQnc?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "快訊／中央慰助金每戶35萬「直接入帳」　明起民眾可至服務站洽辦",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50anNST2tHcmQyb3lCbU1EcUpsRE1CRkh1aERKTWhtVDlUTVZYLXBzRnVXRGd3VnB4TGVwQWcyX3Y1RGJYMkpiUmxEY19ncFZwRGd4SmtOU09uZHcwY2fSAWhBVV95cUxPMlZqbllCWjhabEc4N0pyYnBobXV4VGNULXh3aFVWUkRkX01RUTZxZ1BmVGpseVBnNkpLWjJYTzFIVWpPSHBETVdzd0ZUczY0SUNoUjNvSWJibWVTYlhfQ01Vel9pQ0lNQQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50anNST2tHcmQyb3lCbU1EcUpsRE1CRkh1aERKTWhtVDlUTVZYLXBzRnVXRGd3VnB4TGVwQWcyX3Y1RGJYMkpiUmxEY19ncFZwRGd4SmtOU09uZHcwY2fSAWhBVV95cUxPMlZqbllCWjhabEc4N0pyYnBobXV4VGNULXh3aFVWUkRkX01RUTZxZ1BmVGpseVBnNkpLWjJYTzFIVWpPSHBETVdzd0ZUczY0SUNoUjNvSWJibWVTYlhfQ01Vel9pQ0lNQQ?oc=5",
+          "text": "徐榛蔚踹共！花蓮未受災村「每戶爽拿5萬慰助金」 3村長率民眾抗議",
+          "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxNZXY4UDhLOWxvaVlxRXN5QUp6RFlaVlhseklSMERha29Fd2NEcUFkREpSSngyRmNQV3RMQnZkOGtQVkhjamJqSkViMTB3RWdLbl9NSmN1QmktNHZzenc2emdfV2RCVDNvdzdUTm5GcE1FYjcwN0NaYy1HUWlQbWI3UGVlMjdwOE5hU19lNXMzVEpNNEJfME5xTGFnOHdFUXJBV0lvVW9RUHJZSWRZSXAtelVGdFdQbXUxeDg2cUR6b3ZNM0dRYkpRaUxqTkZaUDBYck5kUFlwdnQtSWlYUEZkYndpOXVBX3lHcjVqSzhRVkZwdFhyQmQxSENhMGhucUNTNkdicTVYS3h4X1RTM2o2WEVqeHdBbVF1TUFCczRsa2xBUzQ5ajFXd1YyOHdrcVJpcEJMaXFDbWhwR09UWHJSZFZiMTdKSFNaN250RUhQT2NyN2lGbk02N3ZDck5IcUtBd0RpZGY4XzA1NVNZX0YzanBmbE0yaGZRZ19LSDdMSVR3dnA2cUtGV2l6bW5Ia0pSMXc?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxNZXY4UDhLOWxvaVlxRXN5QUp6RFlaVlhseklSMERha29Fd2NEcUFkREpSSngyRmNQV3RMQnZkOGtQVkhjamJqSkViMTB3RWdLbl9NSmN1QmktNHZzenc2emdfV2RCVDNvdzdUTm5GcE1FYjcwN0NaYy1HUWlQbWI3UGVlMjdwOE5hU19lNXMzVEpNNEJfME5xTGFnOHdFUXJBV0lvVW9RUHJZSWRZSXAtelVGdFdQbXUxeDg2cUR6b3ZNM0dRYkpRaUxqTkZaUDBYck5kUFlwdnQtSWlYUEZkYndpOXVBX3lHcjVqSzhRVkZwdFhyQmQxSENhMGhucUNTNkdicTVYS3h4X1RTM2o2WEVqeHdBbVF1TUFCczRsa2xBUzQ5ajFXd1YyOHdrcVJpcEJMaXFDbWhwR09UWHJSZFZiMTdKSFNaN250RUhQT2NyN2lGbk02N3ZDck5IcUtBd0RpZGY4XzA1NVNZX0YzanBmbE0yaGZRZ19LSDdMSVR3dnA2cUtGV2l6bW5Ia0pSMXc?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -242,9 +242,9 @@
           "package": ""
         },
         {
-          "text": "諾貝爾物理學獎3學者發現宏觀量子力學穿隧效應獲表彰",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5SdzNFV1UtZUZnRllPazF5alVBMWFYSDVtMndrR2c0OG5OMWNPME1aaTU2LUpnR2F0WXl6RmlsZ0I3eWZPR1NLRUdoclIwdnFtTTFsbTdlSllCWjA3eUE?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5SdzNFV1UtZUZnRllPazF5alVBMWFYSDVtMndrR2c0OG5OMWNPME1aaTU2LUpnR2F0WXl6RmlsZ0I3eWZPR1NLRUdoclIwdnFtTTFsbTdlSllCWjA3eUE?oc=5",
+          "text": "諾貝爾物理學獎3學者共獲殊榮 發現宏觀量子機械穿隧、電路能量量子化",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1GMExtamVCcEFHdzNNNHJCQk5WbkpPZUxoMEdBQWxQVXM3S0IxZElZRkVtbjJ1YkszdkduWUdNX3ZEX0VuVkZqQ2FpTzh0OEFs0gFWQVVfeXFMTnoxQThRLTZzWGw4N2pmSUlLRWROcFBTb3dJdjFSX0lrN0tiUjNRRk5OSS1DWnZmbXNiQXMxYTNjbzNfSUs0dWtfM2FNVDRLbFhlQ2swUlE?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1GMExtamVCcEFHdzNNNHJCQk5WbkpPZUxoMEdBQWxQVXM3S0IxZElZRkVtbjJ1YkszdkduWUdNX3ZEX0VuVkZqQ2FpTzh0OEFs0gFWQVVfeXFMTnoxQThRLTZzWGw4N2pmSUlLRWROcFBTb3dJdjFSX0lrN0tiUjNRRk5OSS1DWnZmbXNiQXMxYTNjbzNfSUs0dWtfM2FNVDRLbFhlQ2swUlE?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -258,9 +258,9 @@
           "package": ""
         },
         {
-          "text": "台積電盤後交易天天指點明燈今再爆1540元新高- 上市櫃",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GN01zanlLT0ZTaWgwNk5wSF9HRnNrR2xSS3daWlBuZmlWLTVJSjdoYlE2cTAxLWlMd05TT3NyRjluOFFreTQ5aGxBVXdLNlk3cVJJemR1OXdrVWRvakJKN0dzdGtPc2VQSWc?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GN01zanlLT0ZTaWgwNk5wSF9HRnNrR2xSS3daWlBuZmlWLTVJSjdoYlE2cTAxLWlMd05TT3NyRjluOFFreTQ5aGxBVXdLNlk3cVJJemR1OXdrVWRvakJKN0dzdGtPc2VQSWc?oc=5",
+          "text": "台積電仙人又來指路啦！　盤後鉅額飆1540元新高",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBqdE52TW1Nd3IyWjJaUzI3RjdpbTBGMlEyYUhtcHoteXRPRUItUGZCUHZnajZOa3J5M0NLQTJVQkZfYTRHM3JWLWpWRFpITktXelHSAW5BVV95cUxPdzFlOFRWTXpteG1IM29vRDR5Nzl0d2wtT0xHVk9KSmJ3Q0RhbzVHY3g3b3VHTzNmaG1Yc29Mckw3UWVZaXNudmZsZGRLa2ZaZTN5bHpQaUFxSmMyQU5OSklJRThVczRZYjBUcWhsUQ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBqdE52TW1Nd3IyWjJaUzI3RjdpbTBGMlEyYUhtcHoteXRPRUItUGZCUHZnajZOa3J5M0NLQTJVQkZfYTRHM3JWLWpWRFpITktXelHSAW5BVV95cUxPdzFlOFRWTXpteG1IM29vRDR5Nzl0d2wtT0xHVk9KSmJ3Q0RhbzVHY3g3b3VHTzNmaG1Yc29Mckw3UWVZaXNudmZsZGRLa2ZaZTN5bHpQaUFxSmMyQU5OSklJRThVczRZYjBUcWhsUQ?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -273,6 +273,6 @@
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 22,
+  "cost": 18,
   "status": 0
 }
