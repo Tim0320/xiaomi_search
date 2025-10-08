@@ -47,17 +47,9 @@
           "package": ""
         },
         {
-          "text": "最新！堰塞湖洪災尋獲第19具遺體",
+          "text": "花蓮堰塞湖洪災 尋獲第19具遺體",
           "url": "https://tw.news.yahoo.com/%E8%8A%B1%E8%93%AE%E5%A0%B0%E5%A1%9E%E6%B9%96%E6%B4%AA%E7%81%BD%E5%B0%8B%E7%8D%B2%E7%AC%AC19%E5%85%B7%E9%81%BA%E9%AB%94-%E7%96%91%E5%A4%B1%E8%81%AF%E7%A0%82%E7%9F%B3%E5%A0%B4%E8%80%81%E9%97%86%E5%A8%98-042405765.html",
           "h5_url": "https://tw.news.yahoo.com/%E8%8A%B1%E8%93%AE%E5%A0%B0%E5%A1%9E%E6%B9%96%E6%B4%AA%E7%81%BD%E5%B0%8B%E7%8D%B2%E7%AC%AC19%E5%85%B7%E9%81%BA%E9%AB%94-%E7%96%91%E5%A4%B1%E8%81%AF%E7%A0%82%E7%9F%B3%E5%A0%B4%E8%80%81%E9%97%86%E5%A8%98-042405765.html",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_yahoo",
-          "package": ""
-        },
-        {
-          "text": "普發1萬元 財長：最快10/17三讀",
-          "url": "https://tw.stock.yahoo.com/news/%E6%99%AE%E7%99%BC%E4%B8%80%E8%90%AC%E5%85%831117%E5%89%8D%E7%99%BC%EF%BC%9F-%E8%B2%A1%E9%95%B7%E8%8E%8A%E7%BF%A0%E9%9B%B2%EF%BC%9A%E6%9C%89%E6%A9%9F%E6%9C%83-043253753.html",
-          "h5_url": "https://tw.stock.yahoo.com/news/%E6%99%AE%E7%99%BC%E4%B8%80%E8%90%AC%E5%85%831117%E5%89%8D%E7%99%BC%EF%BC%9F-%E8%B2%A1%E9%95%B7%E8%8E%8A%E7%BF%A0%E9%9B%B2%EF%BC%9A%E6%9C%89%E6%A9%9F%E6%9C%83-043253753.html",
           "appIconUrl": "",
           "sourceUniqueId": "content_yahoo",
           "package": ""
@@ -74,6 +66,14 @@
           "text": "李鴻源：災區不是大家想的那樣子",
           "url": "https://tw.news.yahoo.com/%E6%8C%96%E5%9C%9F%E6%A9%9F%E8%B6%85%E4%BA%BA%E6%9F%93%E7%97%85%E4%BA%A1-%E6%9D%8E%E9%B4%BB%E6%BA%90%E7%A4%BA%E8%AD%A6-%E7%81%BD%E5%8D%80%E4%B8%8D%E6%98%AF%E5%A4%A7%E5%AE%B6%E6%83%B3%E7%9A%84%E9%82%A3%E6%A8%A3%E5%AD%90-030319002.html",
           "h5_url": "https://tw.news.yahoo.com/%E6%8C%96%E5%9C%9F%E6%A9%9F%E8%B6%85%E4%BA%BA%E6%9F%93%E7%97%85%E4%BA%A1-%E6%9D%8E%E9%B4%BB%E6%BA%90%E7%A4%BA%E8%AD%A6-%E7%81%BD%E5%8D%80%E4%B8%8D%E6%98%AF%E5%A4%A7%E5%AE%B6%E6%83%B3%E7%9A%84%E9%82%A3%E6%A8%A3%E5%AD%90-030319002.html",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_yahoo",
+          "package": ""
+        },
+        {
+          "text": "普發1萬元 財長：最快10/17三讀",
+          "url": "https://tw.stock.yahoo.com/news/%E6%99%AE%E7%99%BC%E4%B8%80%E8%90%AC%E5%85%831117%E5%89%8D%E7%99%BC%EF%BC%9F-%E8%B2%A1%E9%95%B7%E8%8E%8A%E7%BF%A0%E9%9B%B2%EF%BC%9A%E6%9C%89%E6%A9%9F%E6%9C%83-043253753.html",
+          "h5_url": "https://tw.stock.yahoo.com/news/%E6%99%AE%E7%99%BC%E4%B8%80%E8%90%AC%E5%85%831117%E5%89%8D%E7%99%BC%EF%BC%9F-%E8%B2%A1%E9%95%B7%E8%8E%8A%E7%BF%A0%E9%9B%B2%EF%BC%9A%E6%9C%89%E6%A9%9F%E6%9C%83-043253753.html",
           "appIconUrl": "",
           "sourceUniqueId": "content_yahoo",
           "package": ""
@@ -146,14 +146,6 @@
       "link_type": "app",
       "data": [
         {
-          "text": "哈隆轉強颱 準「娜克莉颱風」生成、路徑可能複製貼上",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9SeWZLbmZaOTBWMXFDZmxzal94Z1pIUEpiSG0wMGt1R2dDcXhGQ1FLZG1vbFRGZkYyWVZFZlBEUDdOcnpwekZMbGJOMWV0VzJW0gFWQVVfeXFMUHFyN3NmODlSeTlCaEkyR1JFOXprcTVtMFRfdFNxRlZIbnB6VGVOVWZlR1lJa25pOVlOTzZvOVlUZU1qZ3pJMlgwRU9NOTFMSEFqQ3ZpZ2c?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9SeWZLbmZaOTBWMXFDZmxzal94Z1pIUEpiSG0wMGt1R2dDcXhGQ1FLZG1vbFRGZkYyWVZFZlBEUDdOcnpwekZMbGJOMWV0VzJW0gFWQVVfeXFMUHFyN3NmODlSeTlCaEkyR1JFOXprcTVtMFRfdFNxRlZIbnB6VGVOVWZlR1lJa25pOVlOTzZvOVlUZU1qZ3pJMlgwRU9NOTFMSEFqQ3ZpZ2c?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
           "text": "馬太鞍溪堰塞湖保全戶又收到疏散簡訊花蓮縣府坦承誤發",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pS0haRlRKWWhIR2E2S05laU53ZVc3aDd0UnNmaE5obWl4VENZNW5vMjBrWW1aZWQxOEx4R3pRX1hJQVdVMl9tazJvUm51eWhienkxV0FtM3VJandhOUkw?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pS0haRlRKWWhIR2E2S05laU53ZVc3aDd0UnNmaE5obWl4VENZNW5vMjBrWW1aZWQxOEx4R3pRX1hJQVdVMl9tazJvUm51eWhienkxV0FtM3VJandhOUkw?oc=5",
@@ -162,33 +154,41 @@
           "package": ""
         },
         {
-          "text": "挖土機超人感染亡「沒保險」！公會道歉曝救災緊急：盡力協助喪葬費",
-          "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxONDZwQk1CVmM1M3ZWNWR3OVNvSWJhRUpkeGljNFBjUFlfdWhlaEoxNEp3LVF4LVdES3J2REp5STRFMVJrZFhPTlQ5YXJhdkt0Z1l5NUE3MVFFZVZRTnllbC11N0lDcTVpVjB6M29UeGlsb2l4VVF5TXdHVkFDOUFDTE9nLVRkOWs2ODRpZ0ljTjJnWWNLcGl5SWp0VFJqT09lXzhoSDF1UDgzNVdpNndfZUE2V2hOYnFTLUxmQlFYTC1PQjBkV3d3eE0tM21MTTlYWjhrVDNHem1ZWE05b0IxVEFnb1NVRjhZWlBXOXh6cEFxeEhSdzUzcmFHMXVQMWM5WGI2ZDFJLWU2RElFZTM4X2N6MG1ESXdBWFo4U0pkdngwQm5LRDRtdm9SZUo0R3FUczZNN080YkFOZGl6ZWdISUVLWnNoeW1iN0N4RXJhUnhycFE4M2hkMlc3UWZHMThUNmxFaDQ1REoyTXVOOVo0LW1ZOWFHZHFNX1dGUkJCV0YzMEZmMWljZi1WYUxtNUp0UVlUSFgydVJBbkk?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxONDZwQk1CVmM1M3ZWNWR3OVNvSWJhRUpkeGljNFBjUFlfdWhlaEoxNEp3LVF4LVdES3J2REp5STRFMVJrZFhPTlQ5YXJhdkt0Z1l5NUE3MVFFZVZRTnllbC11N0lDcTVpVjB6M29UeGlsb2l4VVF5TXdHVkFDOUFDTE9nLVRkOWs2ODRpZ0ljTjJnWWNLcGl5SWp0VFJqT09lXzhoSDF1UDgzNVdpNndfZUE2V2hOYnFTLUxmQlFYTC1PQjBkV3d3eE0tM21MTTlYWjhrVDNHem1ZWE05b0IxVEFnb1NVRjhZWlBXOXh6cEFxeEhSdzUzcmFHMXVQMWM5WGI2ZDFJLWU2RElFZTM4X2N6MG1ESXdBWFo4U0pkdngwQm5LRDRtdm9SZUo0R3FUczZNN080YkFOZGl6ZWdISUVLWnNoeW1iN0N4RXJhUnhycFE4M2hkMlc3UWZHMThUNmxFaDQ1REoyTXVOOVo0LW1ZOWFHZHFNX1dGUkJCV0YzMEZmMWljZi1WYUxtNUp0UVlUSFgydVJBbkk?oc=5",
+          "text": "花蓮堰塞湖洪災尋獲第19具遺體 疑失聯砂石場老闆娘",
+          "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPODY2Z2MxWGlFRW1aMjhKalF2M0RtOUdfbTlQTkhiVFE0SWppOWJLNG9OX2FiOWZVNDd1RVZCVDg4b2haOHdJeTBNZHd3REZxLWxSX1NudjNDYlFDX3VQdFN2ZGxicUplXzF0aGlwWGFxV0JfSlQ1eGYzM1ZHaU1ISUFoNGcyX1FzYWtGYlFtbERoWV9jTUYxbEo4VHdjNmpqYkxGT19Yay1nMF9BMUJydXdNZEYyZlhiNm1jQ0hzRUpwOWJPdHMwUThtNHMtX01JbS1CRFFUbGVvU3NIcWpIMXRwZk41ZmhMc2Q3QmpoblY4OEswZUVRZmt2bnFxZ0RYZ1Z1Z1VTcXdvZkdySnRiY1oxZU8ybzh5c09aOHlJaXBEQnhTUF9vZjVGVjVWbGNRbVZhbnFIbjlXcHlLZU1rT2J2bG9PMV9qOWtEMW85MVZvWDQzbFhMdDR5R0hwM0k?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPODY2Z2MxWGlFRW1aMjhKalF2M0RtOUdfbTlQTkhiVFE0SWppOWJLNG9OX2FiOWZVNDd1RVZCVDg4b2haOHdJeTBNZHd3REZxLWxSX1NudjNDYlFDX3VQdFN2ZGxicUplXzF0aGlwWGFxV0JfSlQ1eGYzM1ZHaU1ISUFoNGcyX1FzYWtGYlFtbERoWV9jTUYxbEo4VHdjNmpqYkxGT19Yay1nMF9BMUJydXdNZEYyZlhiNm1jQ0hzRUpwOWJPdHMwUThtNHMtX01JbS1CRFFUbGVvU3NIcWpIMXRwZk41ZmhMc2Q3QmpoblY4OEswZUVRZmt2bnFxZ0RYZ1Z1Z1VTcXdvZkdySnRiY1oxZU8ybzh5c09aOHlJaXBEQnhTUF9vZjVGVjVWbGNRbVZhbnFIbjlXcHlLZU1rT2J2bG9PMV9qOWtEMW85MVZvWDQzbFhMdDR5R0hwM0k?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "控幼兒園膠帶封嘴、打臉虐童！網紅爸氣到哭...教育局勒令停辦",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1iaUVVcHVOeDBidGRLSjdfX1ZFXzE3elY5QUg5Q1JUOEhuOFl4enVSUEhNVEk0c1NGOXdmSWZQR0M5Qkppdmd5QWdhWWxIaHgta3pWeHlGQmc0UWhxX2fSAWhBVV95cUxPSGNFNThVcXJBTlRpS1AxcmdnRVQ1dUF0ZWdmeWo5RGZQMUlvQ2FiWTFQVUpUUEVjcHNZSVFWMmhTa0RyeGF6dFYzRU9PN2NNTWdmNXB1YThlZXdoV3JPQXdQOGFNNE03WQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1iaUVVcHVOeDBidGRLSjdfX1ZFXzE3elY5QUg5Q1JUOEhuOFl4enVSUEhNVEk0c1NGOXdmSWZQR0M5Qkppdmd5QWdhWWxIaHgta3pWeHlGQmc0UWhxX2fSAWhBVV95cUxPSGNFNThVcXJBTlRpS1AxcmdnRVQ1dUF0ZWdmeWo5RGZQMUlvQ2FiWTFQVUpUUEVjcHNZSVFWMmhTa0RyeGF6dFYzRU9PN2NNTWdmNXB1YThlZXdoV3JPQXdQOGFNNE03WQ?oc=5",
+          "text": "明起連3天降雨機率增　下周更強東北季風「高溫跌破30度」",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tR0dZR0M4ZkU2VTV6ei00VDdRWDFZUkxMcEt1YVQ1SmNsUjJERXZ1enVHdzZhWVQ2bnY4Mm0wRU5XQlFieTVHcTZYTkZJRlhQUlZQQ1ZLVnVWb3dqMmfSAWhBVV95cUxQN1dYei1icGx3Ti1RejlvNnFWdWYyWE1EN3oyeVVBZkxIWkhoR05HcHVkd1pOTWI0N2tDOHNldEdMeTFZcjItY3ltOE5UcFNoRmhmN0ZjaFVzNm9mQWZ3TDM2QnFjeFp0VA?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tR0dZR0M4ZkU2VTV6ei00VDdRWDFZUkxMcEt1YVQ1SmNsUjJERXZ1enVHdzZhWVQ2bnY4Mm0wRU5XQlFieTVHcTZYTkZJRlhQUlZQQ1ZLVnVWb3dqMmfSAWhBVV95cUxQN1dYei1icGx3Ti1RejlvNnFWdWYyWE1EN3oyeVVBZkxIWkhoR05HcHVkd1pOTWI0N2tDOHNldEdMeTFZcjItY3ltOE5UcFNoRmhmN0ZjaFVzNm9mQWZ3TDM2QnFjeFp0VA?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "白宮回應賴清德談話！ 川普配得上諾貝爾和平獎「理應多次獲獎」",
-          "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxPYk4yWE9oeUxiM2xTVVI4WFFvWWY0aWFfRHctUUtUWjN1U2tGa0FPM3V2aXYzTXRnNWpHbDg1T0o1TjFTU09oeXpUN0JPaEZ5TEotX2c2d08wak5rbGxpVmdhTXRsU3lCOFNYdy1sc0ZheXdsalBnM2MxYU9mVVNpNllNT2NyTjlob2Q5MGNzTXBfcDVKMDVMcGttVk5LRDVrVDJpd0JKdUtZSGpsclBuS3NYd3UyYUtrRVY4Smt4VlBROEhTTVBVS2ZPNzFEQ1JfTmhEOUJjOWVRVnUycW5tamI0Wml5WlQxdUp4ZGRteFBhVHdqb2xLb3hGQTI2NVRUOHNVVGJtclNaSG1HSDJZWklvLUVQajRIWmZnclVpVXRIZmpObG9idERhXzFGU0NZTjBmZk9uYXQzVkFlaVowVlJnNzBGd0JvRlF1U2tHWGZWQkN2UjlOOVBXa2hEdkszZFFPNjNYYm1GQkpZV2V6b3FFd1VpM0RuTXlPMThwZExSMUh3SkZVeExzdk1QUQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxPYk4yWE9oeUxiM2xTVVI4WFFvWWY0aWFfRHctUUtUWjN1U2tGa0FPM3V2aXYzTXRnNWpHbDg1T0o1TjFTU09oeXpUN0JPaEZ5TEotX2c2d08wak5rbGxpVmdhTXRsU3lCOFNYdy1sc0ZheXdsalBnM2MxYU9mVVNpNllNT2NyTjlob2Q5MGNzTXBfcDVKMDVMcGttVk5LRDVrVDJpd0JKdUtZSGpsclBuS3NYd3UyYUtrRVY4Smt4VlBROEhTTVBVS2ZPNzFEQ1JfTmhEOUJjOWVRVnUycW5tamI0Wml5WlQxdUp4ZGRteFBhVHdqb2xLb3hGQTI2NVRUOHNVVGJtclNaSG1HSDJZWklvLUVQajRIWmZnclVpVXRIZmpObG9idERhXzFGU0NZTjBmZk9uYXQzVkFlaVowVlJnNzBGd0JvRlF1U2tHWGZWQkN2UjlOOVBXa2hEdkszZFFPNjNYYm1GQkpZV2V6b3FFd1VpM0RuTXlPMThwZExSMUh3SkZVeExzdk1QUQ?oc=5",
+          "text": "「挖土機超人」辭世 曾說救災沒完成不回桃園 他記錄林鴻森最後的溫柔",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5EZVdsZE5DandsM2UwTDNESXVrTml4WTByNElnUTU4V1pJQ1ZIdVZHYkc4c29uT3ByNkFZdzI4TFRHVWtDZEJya3BneVljdzAwTEo40gFYQVVfeXFMTUxmeloxakxhSHV3V0lmTjBxRmowLVh2dVp0N2puc0hNWVQtZmx2NGNaUnpkYmVVOWM5c1hmVVJjbVBLQVJqUER2M2lKdDhYMXY3cjNwS3FOSA?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5EZVdsZE5DandsM2UwTDNESXVrTml4WTByNElnUTU4V1pJQ1ZIdVZHYkc4c29uT3ByNkFZdzI4TFRHVWtDZEJya3BneVljdzAwTEo40gFYQVVfeXFMTUxmeloxakxhSHV3V0lmTjBxRmowLVh2dVp0N2puc0hNWVQtZmx2NGNaUnpkYmVVOWM5c1hmVVJjbVBLQVJqUER2M2lKdDhYMXY3cjNwS3FOSA?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "嗆「把賴清德X頭斬下來」要被辦館長瞎喊司法迫害：把我當柯文哲",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmbGU4RXE3S0NheVN0cXdyX080U1p6X2t1Q0stVVJ6REgwTEd5YUhuYWVVNFB5a1MwRW9GbUtfd0dtMGZPbHU3U05TTWxLN3NQWmpVQzZXalM5QQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmbGU4RXE3S0NheVN0cXdyX080U1p6X2t1Q0stVVJ6REgwTEd5YUhuYWVVNFB5a1MwRW9GbUtfd0dtMGZPbHU3U05TTWxLN3NQWmpVQzZXalM5QQ?oc=5",
+          "text": "高雄美濃又爆盜採天坑 汙染水源地檢聲押4人獲准",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MT1AwR3JHTUcwMlJQc2lPQmhiTzNUZlR6bUZjY3JnMHlDbk5rZEFVMzZVeTltN0N5UE1lNk16LVFSQ1oxYV9uVGctWUVLRE5t0gFWQVVfeXFMT0hVajUtTGdZMnVIYk95OVJGR3RZLUV0TWl5Q1VEV1hlMHZFUTZpM0JrS3R0cFk4NldaNTlYbmZsMXF4RnlMVmZ3MHMtWV9KbUtzSk1ybWc?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MT1AwR3JHTUcwMlJQc2lPQmhiTzNUZlR6bUZjY3JnMHlDbk5rZEFVMzZVeTltN0N5UE1lNk16LVFSQ1oxYV9uVGctWUVLRE5t0gFWQVVfeXFMT0hVajUtTGdZMnVIYk95OVJGR3RZLUV0TWl5Q1VEV1hlMHZFUTZpM0JrS3R0cFk4NldaNTlYbmZsMXF4RnlMVmZ3MHMtWV9KbUtzSk1ybWc?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "日本機場等報到「行李箱突被偷走」　偷竊手法曝！一票人都遇過",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5mbm9GeEJ4bk9kd1YtdW9COWZnd2NxUkpheEtqaU82TmFIRzZ6a1c2SlBwZXg1YnNfaEpfNFdJTzlHVm4yakhwRV9UaS1PQ1lqZzVZVGl0T0dRNnJHUFHSAWhBVV95cUxQWFpROTVQUENLWHhxd2NXV1FQT082VEktSF8wUmk3Z181Sy10YVdnNzh4MjVrT25QWlg5NVk0WE85WDdfZThMM2dzZkFpZU1td1lSbnJUYmlOMHB2aXhjYlJHOE11aGgwYw?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5mbm9GeEJ4bk9kd1YtdW9COWZnd2NxUkpheEtqaU82TmFIRzZ6a1c2SlBwZXg1YnNfaEpfNFdJTzlHVm4yakhwRV9UaS1PQ1lqZzVZVGl0T0dRNnJHUFHSAWhBVV95cUxQWFpROTVQUENLWHhxd2NXV1FQT082VEktSF8wUmk3Z181Sy10YVdnNzh4MjVrT25QWlg5NVk0WE85WDdfZThMM2dzZkFpZU1td1lSbnJUYmlOMHB2aXhjYlJHOE11aGgwYw?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -202,49 +202,41 @@
           "package": ""
         },
         {
-          "text": "網傳劉世芳看潰堤「呵呵呵」災防中心揚言提告 白轟可恥：雞腸鳥肚不知反省",
-          "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxPekQya1VxOUpEWm9GVHpfcUJPU0IxMkdkbWRlRUFLNnJTODdDTkRqMU5NQnFVUHBBdVBmblAtRjRVWEIwclhxVl9wZndEYmdxd2wwTkEyOTJWcVNOLXZLSnk0aE1HRVhkTFlXanB1SmgydXo5ZUxaZU9iZjBBWlg0UG8tbFN2NlRzeURTUjdXckw0c1U0Y3RKLTU4bkNqZWVRLTJsUFNkY3JKdmdOMERfMDg2TnRiamVEOThteWN6Rm9GMDVtSEJJSmdXYXJGaklabjZ5Q1VUQmRxSUozVVZjWHNOcVhWMVg5SGxRaDg4NlBhTEFiaU8wcHNQZTM1d1pUOF9VenZ6bmYtaXVjeFY5QlRONGc1TlhfZ0Yzb1pZUHZ2N1NFYWJfQ3VTUTh3SXZ1UWkyUEV0R1pBXzdPVXVRdGN3NE94X0ZVSGdLSGFPYko5UGNoR1FqWEN4UGFKTTVlZ0t5a0dLcWlEZmE1cWc5elA3UFJ3Mzc4RG8wb3RCdllDV1NSTlJpLVJtZl80QUI3OUtjanNONnh2WFZyY0ZoMVdPQjBFc25lTUVySlcyYm9BQXh3U0t2UER0LVgyTkdKbnF0U0pJbTBQZkVS?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMizANBVV95cUxPekQya1VxOUpEWm9GVHpfcUJPU0IxMkdkbWRlRUFLNnJTODdDTkRqMU5NQnFVUHBBdVBmblAtRjRVWEIwclhxVl9wZndEYmdxd2wwTkEyOTJWcVNOLXZLSnk0aE1HRVhkTFlXanB1SmgydXo5ZUxaZU9iZjBBWlg0UG8tbFN2NlRzeURTUjdXckw0c1U0Y3RKLTU4bkNqZWVRLTJsUFNkY3JKdmdOMERfMDg2TnRiamVEOThteWN6Rm9GMDVtSEJJSmdXYXJGaklabjZ5Q1VUQmRxSUozVVZjWHNOcVhWMVg5SGxRaDg4NlBhTEFiaU8wcHNQZTM1d1pUOF9VenZ6bmYtaXVjeFY5QlRONGc1TlhfZ0Yzb1pZUHZ2N1NFYWJfQ3VTUTh3SXZ1UWkyUEV0R1pBXzdPVXVRdGN3NE94X0ZVSGdLSGFPYko5UGNoR1FqWEN4UGFKTTVlZ0t5a0dLcWlEZmE1cWc5elA3UFJ3Mzc4RG8wb3RCdllDV1NSTlJpLVJtZl80QUI3OUtjanNONnh2WFZyY0ZoMVdPQjBFc25lTUVySlcyYm9BQXh3U0t2UER0LVgyTkdKbnF0U0pJbTBQZkVS?oc=5",
+          "text": "賴總統稱川普若阻習近平犯台應獲諾貝爾和平獎 白宮回應了",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TM3FRRXFUV3lWVkVKY0JHeWZiMF9BMmVGTE1odkJxNF92SXBtTjVrNExPZmZDSHZ0YTYzQW5fRmpqaEpyRUNXbTFMa0Y5V3ZPeHfSAVdBVV95cUxPYnNwZU1aanlIYnlCWG9Ca3pWQ0lWeTNHbzBMTlRFTTZlQ3JqYlRqZ1BPMHV4Rzg5ejJHZkJqa01adVgyWWlsc3BUU0g4Mi1vSWhKX2lqZW8?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TM3FRRXFUV3lWVkVKY0JHeWZiMF9BMmVGTE1odkJxNF92SXBtTjVrNExPZmZDSHZ0YTYzQW5fRmpqaEpyRUNXbTFMa0Y5V3ZPeHfSAVdBVV95cUxPYnNwZU1aanlIYnlCWG9Ca3pWQ0lWeTNHbzBMTlRFTTZlQ3JqYlRqZ1BPMHV4Rzg5ejJHZkJqa01adVgyWWlsc3BUU0g4Mi1vSWhKX2lqZW8?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "傅崐萁要中央負責災後清溝　卓榮泰嗆：要中央接管花蓮縣府嗎？",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YazYtMGRseEd4SEFRc2wtMUtqalMwU2VyVTVFWnJ0LUJaOEExdllteTRVR1VibC1fdDZueG5QRExEaGx6T0JKTlZUU2sxelZuV2MwazJwTXBzWld6YlHSAWhBVV95cUxNU04tbnI3bTdDdUpWUFVTZC1RdmtpVzFXOEQzRk9MWC1Md0tPRzMwWjMwWHhueVdCMGFBVlhoZS1vb0VseWdER2hKWkhKUWdLbUp3dXZXcGJWb2M3NXlIZVVhaEsxeXpwcw?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YazYtMGRseEd4SEFRc2wtMUtqalMwU2VyVTVFWnJ0LUJaOEExdllteTRVR1VibC1fdDZueG5QRExEaGx6T0JKTlZUU2sxelZuV2MwazJwTXBzWld6YlHSAWhBVV95cUxNU04tbnI3bTdDdUpWUFVTZC1RdmtpVzFXOEQzRk9MWC1Md0tPRzMwWjMwWHhueVdCMGFBVlhoZS1vb0VseWdER2hKWkhKUWdLbUp3dXZXcGJWb2M3NXlIZVVhaEsxeXpwcw?oc=5",
+          "text": "劉世芳遭指「魔性訕笑」揚言送辦 民眾黨團：雞腸鳥肚不知反省",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBQTDdUTjJQRWRNZlQzWU54UGE1cTRqSEEzVU84cjBzbURTSk45VFFiWU9OXzg2bmpGXzc1MXJQSDl3Q3RsaG1GdkdrdGFLaUYz0gFWQVVfeXFMTmpHVzNsLWFGZENPVWdpdnZZTndLRExhUk9tQ2hBLWMxM3d0RUZGQzB5RFFDWlZzZ3FKMTF2VzB1V0tUY2hPcTJKT3I2S0NlMzQyS2NMVEE?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBQTDdUTjJQRWRNZlQzWU54UGE1cTRqSEEzVU84cjBzbURTSk45VFFiWU9OXzg2bmpGXzc1MXJQSDl3Q3RsaG1GdkdrdGFLaUYz0gFWQVVfeXFMTmpHVzNsLWFGZENPVWdpdnZZTndLRExhUk9tQ2hBLWMxM3d0RUZGQzB5RFFDWlZzZ3FKMTF2VzB1V0tUY2hPcTJKT3I2S0NlMzQyS2NMVEE?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "美國防部準印太官員支持我軍費增至GDP的10％ 顧立雄：會逐步增加",
-          "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxOLWJoVHlkbEZ2Ul9WQWY2Uks3cU1yVXRVVHprWG8xRU05MC1JOXZXemdEZmI4eXUxMExYSVNRM081QXF0SXFzQkdQZThGT1ZlVS03bHRrd2tXcVhSTk52V0t2SFA2OHkzNkNjeXZoWm1uYXU1RG1BZ0hwNDN1MzVrcWlST01UaUlLbGxELXV1WkRUd1BCLWhzTGw4ZG9RcmJwZWJtXzRJMmd1VzEwakhfXzF2OVhoTGtDQWVjdTJkLWd0RVE4MDRIdUdLU0d5eXVfLW90NFAweU5HbUFKZXY4RHBZUTRfMlJNd1RuN25zdDJ3WDR5Um1HQzVRMDhsbldYMlQ3WUwwSTI4UF9jellkUHg3TG90SmhhekZEQk9aSVZSRnpfbEFxa0VvYTlyWWY4NU9uWTZ6NUhIUjNnUlhSbnNWOUVMdTg3LXNYNWJ5ejBQZk9kVTNWdDRJcWRacWVQa3FOQjRlSW1fQXhQUHYyVFlZVV84V3FQd1VnODNCa05GSFFCaWlZRQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxOLWJoVHlkbEZ2Ul9WQWY2Uks3cU1yVXRVVHprWG8xRU05MC1JOXZXemdEZmI4eXUxMExYSVNRM081QXF0SXFzQkdQZThGT1ZlVS03bHRrd2tXcVhSTk52V0t2SFA2OHkzNkNjeXZoWm1uYXU1RG1BZ0hwNDN1MzVrcWlST01UaUlLbGxELXV1WkRUd1BCLWhzTGw4ZG9RcmJwZWJtXzRJMmd1VzEwakhfXzF2OVhoTGtDQWVjdTJkLWd0RVE4MDRIdUdLU0d5eXVfLW90NFAweU5HbUFKZXY4RHBZUTRfMlJNd1RuN25zdDJ3WDR5Um1HQzVRMDhsbldYMlQ3WUwwSTI4UF9jellkUHg3TG90SmhhekZEQk9aSVZSRnpfbEFxa0VvYTlyWWY4NU9uWTZ6NUhIUjNnUlhSbnNWOUVMdTg3LXNYNWJ5ejBQZk9kVTNWdDRJcWRacWVQa3FOQjRlSW1fQXhQUHYyVFlZVV84V3FQd1VnODNCa05GSFFCaWlZRQ?oc=5",
+          "text": "蛤？問中選會花蓮災情「你們有沒有到現場」 麥玉珍嘆：現在霧煞煞",
+          "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxPS0VCSFdEbDNPT19LRkZqSFVmUTR6RThmbWtWZm5naGM2Vkw5c2FPeWllOGx0dUR1MWdCUFd3WGFIVEJDTGxPc3FuQUZRODB5dWJsY2t4VDhfdHNiNlQ2MHVOZDl3Q2YtcHBXS1lSXzcxT04yWHJFSVFqSVIzUHZEclBDM204dTNFUDJOaHFZeXZscGdqVGFTNVpaeHJkOVpOdGVZeWN5bjZTbzMzRXJTYWdVelQ2S3YxY3ZITkFxcnlQdWhFTi1md252bUZ2dlpYc1dLU0RQNUdYQjZMczhTd1Bsb3ZqV1ZwYkxNaWNLNl9VWHJzUUZIUmU3U1htNWl0ZTdtUzM1emYzRldsYld5ZDlING1HWENIaHg5ODk4LVgxRjJzeFI2dUhsdkVfSHJUYUtHOGdxVERaVFZJMjlQdFFjbDJyQUMzUWVEajhoVU1zUmFPdkhSdk16aURRV2U2YjM1eE1sZGNsS3JCV3NpZE80VjNEdjgyU0Rnc3lUd2xGMGpvaVVzd3FaOThCSy1T?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMikANBVV95cUxPS0VCSFdEbDNPT19LRkZqSFVmUTR6RThmbWtWZm5naGM2Vkw5c2FPeWllOGx0dUR1MWdCUFd3WGFIVEJDTGxPc3FuQUZRODB5dWJsY2t4VDhfdHNiNlQ2MHVOZDl3Q2YtcHBXS1lSXzcxT04yWHJFSVFqSVIzUHZEclBDM204dTNFUDJOaHFZeXZscGdqVGFTNVpaeHJkOVpOdGVZeWN5bjZTbzMzRXJTYWdVelQ2S3YxY3ZITkFxcnlQdWhFTi1md252bUZ2dlpYc1dLU0RQNUdYQjZMczhTd1Bsb3ZqV1ZwYkxNaWNLNl9VWHJzUUZIUmU3U1htNWl0ZTdtUzM1emYzRldsYld5ZDlING1HWENIaHg5ODk4LVgxRjJzeFI2dUhsdkVfSHJUYUtHOGdxVERaVFZJMjlQdFFjbDJyQUMzUWVEajhoVU1zUmFPdkhSdk16aURRV2U2YjM1eE1sZGNsS3JCV3NpZE80VjNEdjgyU0Rnc3lUd2xGMGpvaVVzd3FaOThCSy1T?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "加薩戰爭兩週年！以民眾悼死傷者 60%美國人不挺軍事入侵",
-          "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxPSUcta0dYTl83SjV5eTEyNkE0cDdndXFXLTFYZmhwMnE5YmNVZjl2NGFZTUZnNkNJRFBXR3duQVQyMkpQU21sRmNTa1ZmME5URGY0TzUtSTFMUHNURlN4TGJPWGhBNW0zcmJpekRZR2hnalplREpuVkxudHdDWkxXRnJXWkNFRmJEOGFmWUZvb2VaRl9Nelo3blBsQ3BNZmxBTTNUV2JIeFo0VXdqUTdJeGlhUGtCVlQxc3BMX2NjRS1WVnU2dmRjTXItMExOM19TQWU2eEJ0ZXlXMm1OMWxrOVNXTW43MC1TdDJ5RTRSOWt2M3BFX3BIWl9lOVo4MDNDS0NLMm5PcVZ2Sm9ScVhYdTZuSWRIaVM3UWZGOENqS0tOMjhEcjJ2SkxUemNvSlk4ZmZNd2VHQmpuYVp3c2xTeG5ENVJPLU81WHBPQW1hUks4Zi1mNnR5bUxtWFFVaWNwUkN2RFIxc1JYcW9ZSUE?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxPSUcta0dYTl83SjV5eTEyNkE0cDdndXFXLTFYZmhwMnE5YmNVZjl2NGFZTUZnNkNJRFBXR3duQVQyMkpQU21sRmNTa1ZmME5URGY0TzUtSTFMUHNURlN4TGJPWGhBNW0zcmJpekRZR2hnalplREpuVkxudHdDWkxXRnJXWkNFRmJEOGFmWUZvb2VaRl9Nelo3blBsQ3BNZmxBTTNUV2JIeFo0VXdqUTdJeGlhUGtCVlQxc3BMX2NjRS1WVnU2dmRjTXItMExOM19TQWU2eEJ0ZXlXMm1OMWxrOVNXTW43MC1TdDJ5RTRSOWt2M3BFX3BIWl9lOVo4MDNDS0NLMm5PcVZ2Sm9ScVhYdTZuSWRIaVM3UWZGOENqS0tOMjhEcjJ2SkxUemNvSlk4ZmZNd2VHQmpuYVp3c2xTeG5ENVJPLU81WHBPQW1hUks4Zi1mNnR5bUxtWFFVaWNwUkN2RFIxc1JYcW9ZSUE?oc=5",
+          "text": "小泉進次郎二度問鼎自民黨總裁失利 父親純一郎這麼說",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE43QlRHTlFUN2UwR0dKVlc5SXZGTENycHJpMVlwNDZyLUg3VnQ5NnpzMW9mS2JLRjRWbXZzR3UzWHZIcmZfc0htOVo5eWdETkJC?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE43QlRHTlFUN2UwR0dKVlc5SXZGTENycHJpMVlwNDZyLUg3VnQ5NnpzMW9mS2JLRjRWbXZzR3UzWHZIcmZfc0htOVo5eWdETkJC?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "川普、卡尼2度會晤！提及「加拿大成美國第51州」2人尬笑",
-          "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxQcDlSZlhOV3M1ZlctRVQyUlFSeXV5RWVyNjB5aVNpWlViVkV5eS03UG9uVGRzYms4UzUxUWtfZTJMM0dkRDB6dWRRNTNfcDB4Smk3SmpzQU1sOE04QVZ0b0NBeU5wNGZHa21LMXhka0czZ053Z3E1c0JhS2U1aTFjY2lCdU9hR0w1bXhBZ09GY1B2YklPc3NvVVRJcGp4S1ZiMkh0d0JJRmkxREE2djlwRXVFa3VrUTdFekY0WElFQXhxRlVkSExYQ2ZzeEpsTjQyUEVjdWhpTlQ2cXRPeDJzR0stU3lZYzlWMFBkTkt4SnJPQUdVbmRQLXY4LWJ0cjVYVm9ObFc3NmpOOXZuSFc1LURVR0NJODBXdndVbzl5UGwwVEppX2s5bVp3Vm1YLUkwVENxQ3NIUDJUeXM5T191eFJIUlI3NGhkYTRfQ0JR?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxQcDlSZlhOV3M1ZlctRVQyUlFSeXV5RWVyNjB5aVNpWlViVkV5eS03UG9uVGRzYms4UzUxUWtfZTJMM0dkRDB6dWRRNTNfcDB4Smk3SmpzQU1sOE04QVZ0b0NBeU5wNGZHa21LMXhka0czZ053Z3E1c0JhS2U1aTFjY2lCdU9hR0w1bXhBZ09GY1B2YklPc3NvVVRJcGp4S1ZiMkh0d0JJRmkxREE2djlwRXVFa3VrUTdFekY0WElFQXhxRlVkSExYQ2ZzeEpsTjQyUEVjdWhpTlQ2cXRPeDJzR0stU3lZYzlWMFBkTkt4SnJPQUdVbmRQLXY4LWJ0cjVYVm9ObFc3NmpOOXZuSFc1LURVR0NJODBXdndVbzl5UGwwVEppX2s5bVp3Vm1YLUkwVENxQ3NIUDJUeXM5T191eFJIUlI3NGhkYTRfQ0JR?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "高市早苗敲定日本自民黨人事新團隊正式上路",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54N3ZnQTFkX1BoNGlkZ2Z4S0JIOERYR0lzX05EQWNWQVJKY1R2UlRUVF9kMWpzMFJrdnFXRGREeGMxblp2UE9pZlhFOFBQT2s2SHQzdDdHdVpQZ3l1TElV?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54N3ZnQTFkX1BoNGlkZ2Z4S0JIOERYR0lzX05EQWNWQVJKY1R2UlRUVF9kMWpzMFJrdnFXRGREeGMxblp2UE9pZlhFOFBQT2s2SHQzdDdHdVpQZ3l1TElV?oc=5",
+          "text": "加薩悲歌！以哈戰爭爆發2周年 逾6萬兒童死亡或殘疾",
+          "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNX2VxMVg1c052OHAzS1hXR3FBWmw4dnc3d0hoZThLX1UyUDFwb1FwNjBsd1JHTGFOSWtWZnhrdmpnWGlobXg0VmpodTlXSFdHSHUyQTRaMVFBRWpIVW5OLTBwRGxHbDFpZTBjU0RZeDQtVFVjQVVodzVsTHZjSGYyTXUzVHFPSHpZZ3dRMHBKNHBpS1RvdW1weXlLUmhLMWMwTTR1NW9ZT3ZLeVdfYUF2WE42WmZzZkNfaWZUYkRseGY3OVlKZ3JzdE5BWjV1S3ZTS2RtUnhnTWJTNHo1WlVnbk4wVjQtcUdlM05XaFZ0djFxWW44SWRmREdBMWNhTkpCNHJyNUVLdWxJaGZtMmExTTQ3eFdGZjNVbUVkc0NSU1N1R2FXc1NFYkdOYmQ0RGpPZUhpQnFhNEozdmpiUWlqRnRMcXIwTWUyTWk1eWVWTEVGWk5T?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNX2VxMVg1c052OHAzS1hXR3FBWmw4dnc3d0hoZThLX1UyUDFwb1FwNjBsd1JHTGFOSWtWZnhrdmpnWGlobXg0VmpodTlXSFdHSHUyQTRaMVFBRWpIVW5OLTBwRGxHbDFpZTBjU0RZeDQtVFVjQVVodzVsTHZjSGYyTXUzVHFPSHpZZ3dRMHBKNHBpS1RvdW1weXlLUmhLMWMwTTR1NW9ZT3ZLeVdfYUF2WE42WmZzZkNfaWZUYkRseGY3OVlKZ3JzdE5BWjV1S3ZTS2RtUnhnTWJTNHo1WlVnbk4wVjQtcUdlM05XaFZ0djFxWW44SWRmREdBMWNhTkpCNHJyNUVLdWxJaGZtMmExTTQ3eFdGZjNVbUVkc0NSU1N1R2FXc1NFYkdOYmQ0RGpPZUhpQnFhNEozdmpiUWlqRnRMcXIwTWUyTWk1eWVWTEVGWk5T?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -253,6 +245,14 @@
           "text": "白宮鑽法律漏洞稱聯邦政府停擺後無須補薪 川普：要看誰值得被照顧",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VV0E1SDNIT3FuWDI1czdhWTBYeUswQUJwMHVWWkR3QnhQandOLWZUb3JVRkw1TjdKMTRGQVRRWjBKQmhrUnZmSUV2ZXRTVmMw0gFWQVVfeXFMTlZMREw2MlB4N2dzOFlFanpnVk5uODBBNE1pQkZjaDM4TW1VZzdfRUhicTRVWmE1RWdXS3F2cDROZmhFd2xmMmRBMHotRGQwV0NkX3dYTEE?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VV0E1SDNIT3FuWDI1czdhWTBYeUswQUJwMHVWWkR3QnhQandOLWZUb3JVRkw1TjdKMTRGQVRRWjBKQmhrUnZmSUV2ZXRTVmMw0gFWQVVfeXFMTlZMREw2MlB4N2dzOFlFanpnVk5uODBBNE1pQkZjaDM4TW1VZzdfRUhicTRVWmE1RWdXS3F2cDROZmhFd2xmMmRBMHotRGQwV0NkX3dYTEE?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "川普、卡尼2度會晤！提及「加拿大成美國第51州」2人尬笑",
+          "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxQcDlSZlhOV3M1ZlctRVQyUlFSeXV5RWVyNjB5aVNpWlViVkV5eS03UG9uVGRzYms4UzUxUWtfZTJMM0dkRDB6dWRRNTNfcDB4Smk3SmpzQU1sOE04QVZ0b0NBeU5wNGZHa21LMXhka0czZ053Z3E1c0JhS2U1aTFjY2lCdU9hR0w1bXhBZ09GY1B2YklPc3NvVVRJcGp4S1ZiMkh0d0JJRmkxREE2djlwRXVFa3VrUTdFekY0WElFQXhxRlVkSExYQ2ZzeEpsTjQyUEVjdWhpTlQ2cXRPeDJzR0stU3lZYzlWMFBkTkt4SnJPQUdVbmRQLXY4LWJ0cjVYVm9ObFc3NmpOOXZuSFc1LURVR0NJODBXdndVbzl5UGwwVEppX2s5bVp3Vm1YLUkwVENxQ3NIUDJUeXM5T191eFJIUlI3NGhkYTRfQ0JR?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxQcDlSZlhOV3M1ZlctRVQyUlFSeXV5RWVyNjB5aVNpWlViVkV5eS03UG9uVGRzYms4UzUxUWtfZTJMM0dkRDB6dWRRNTNfcDB4Smk3SmpzQU1sOE04QVZ0b0NBeU5wNGZHa21LMXhka0czZ053Z3E1c0JhS2U1aTFjY2lCdU9hR0w1bXhBZ09GY1B2YklPc3NvVVRJcGp4S1ZiMkh0d0JJRmkxREE2djlwRXVFa3VrUTdFekY0WElFQXhxRlVkSExYQ2ZzeEpsTjQyUEVjdWhpTlQ2cXRPeDJzR0stU3lZYzlWMFBkTkt4SnJPQUdVbmRQLXY4LWJ0cjVYVm9ObFc3NmpOOXZuSFc1LURVR0NJODBXdndVbzl5UGwwVEppX2s5bVp3Vm1YLUkwVENxQ3NIUDJUeXM5T191eFJIUlI3NGhkYTRfQ0JR?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -273,6 +273,6 @@
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 50,
+  "cost": 28,
   "status": 0
 }
