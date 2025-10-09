@@ -146,17 +146,17 @@
       "link_type": "app",
       "data": [
         {
-          "text": "花蓮12天湧35.7萬名志工 賴總統讚台灣精神：沒有台灣就沒有中華民國",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBqYWF2c25PeTVNQ202MU00ZlhsaFRiVW9IZE1ydHJBVS1vR3J2bWVtZlRILVlodzMtN3RZQVNobVRidjBnS3VlaEN1ci0yWDdf0gFWQVVfeXFMTVBCbko4SWFrR0oyMU1Edko1OXJsTDloZl90cTNLa1p4dlpNUy1GX3JsSTBVdGRBY0JJVUxIaGRqWFc4VHpCV2NJaVM3QzlEWVZNWHBnN1E?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBqYWF2c25PeTVNQ202MU00ZlhsaFRiVW9IZE1ydHJBVS1vR3J2bWVtZlRILVlodzMtN3RZQVNobVRidjBnS3VlaEN1ci0yWDdf0gFWQVVfeXFMTVBCbko4SWFrR0oyMU1Edko1OXJsTDloZl90cTNLa1p4dlpNUy1GX3JsSTBVdGRBY0JJVUxIaGRqWFc4VHpCV2NJaVM3QzlEWVZNWHBnN1E?oc=5",
+          "text": "國慶晚會開幕！賴總統、韓國瑜、盧秀燕一起大進場 3人開口唱國歌",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAzSnhSa19kUmpLaFUyTEtONHpkNUFERTdsdUx4WGtSTU9TNmRfekNLNm9iMlVZN2dFNjY4b0lLOFdYaDZ5Rl9za1kzRDVRQ2dn0gFWQVVfeXFMTUFjMFM1ZENlQnEtaG1iRnRqVnBWR0lHUlZiTHpoZ2lINDIyVDJiSjlrZzRlbVA5QU5nLTlGbFRMSERBcVJNcjROajI5X0pBa20tNkNwTUE?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAzSnhSa19kUmpLaFUyTEtONHpkNUFERTdsdUx4WGtSTU9TNmRfekNLNm9iMlVZN2dFNjY4b0lLOFdYaDZ5Rl9za1kzRDVRQ2dn0gFWQVVfeXFMTUFjMFM1ZENlQnEtaG1iRnRqVnBWR0lHUlZiTHpoZ2lINDIyVDJiSjlrZzRlbVA5QU5nLTlGbFRMSERBcVJNcjROajI5X0pBa20tNkNwTUE?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "經長：輝達還是最喜歡T17、T18 民生社區松南營區是選項之一",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9mOFdLQkxSOEFMVmRwbG9ObFpueWl1N3dpdklIenppUG5rckZ3RVRYWDIwSHd2MHZTNG1pZlFwWnNTSVhZQWxfRTZIUW44WXVIZkh3OWpXNmItTGo3dEE?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9mOFdLQkxSOEFMVmRwbG9ObFpueWl1N3dpdklIenppUG5rckZ3RVRYWDIwSHd2MHZTNG1pZlFwWnNTSVhZQWxfRTZIUW44WXVIZkh3OWpXNmItTGo3dEE?oc=5",
+          "text": "新壽盼中央協助輝達落腳北士科李四川不解",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56RW5rYlBXVldKZHZFMXNfaHAzbUZ5NHZYcmpQcUNCTmRQRHZvRE9HU2ZVa2s5eGI3RkFxSmtBSE5ybFYtT2hYeGRma0tvRGxMeW5abUlNQlZSZEhnZ3c?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56RW5rYlBXVldKZHZFMXNfaHAzbUZ5NHZYcmpQcUNCTmRQRHZvRE9HU2ZVa2s5eGI3RkFxSmtBSE5ybFYtT2hYeGRma0tvRGxMeW5abUlNQlZSZEhnZ3c?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -178,33 +178,17 @@
           "package": ""
         },
         {
-          "text": "第二波東北季風襲來！雙十連假後天氣驟變 北台濕涼模式開啟",
-          "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQY3N3aXZGOEFWY0ptRFRTMlA4Y194X3RzSWxINUNMMERmVGZ0TUJpX2RHZkk1ZEFiU0htWHpWVTlSc3NNRDNqMFFVMjRQVUlCSnpNYzE5WUxZZTgxOTBqQTdUTWVmTElWTGNRS1drMmNRTnJQX1hvb29LWFdpcE54VWtUZy0zYzc5cnhXX25pcmxiTjNXeDN2bjRwdktNR0tGWTBQV1ZUdkZhX2J6ZUpCamNEd0t5anhVNDJrbko3Y2dWakMtLWVYSVU2Rld6UVlyRlJPejNJRGpOa2E5X1g3a3c4N2xHT3h6VHZLa2FqSk9kbnk1U095M0NqSmlRSnhhX3NIZWxTNlFCTTFqTnNsUjJNWGtjNkdjVWZkS0pJeVp1TWQ2eEpxY1lEUGd2dDRPWHBPdmJVLXk2ckloaEk3TWQxakp2QXVYQkpXbVgwa3E1cl9iSXdjU2xJeUl0Q0VYLVNrMVVTS0lCcXo3Z0NZZkl6bWc0RTRaVV9MTXc4clE5QkdoNk1pQ1pWOEFyUQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQY3N3aXZGOEFWY0ptRFRTMlA4Y194X3RzSWxINUNMMERmVGZ0TUJpX2RHZkk1ZEFiU0htWHpWVTlSc3NNRDNqMFFVMjRQVUlCSnpNYzE5WUxZZTgxOTBqQTdUTWVmTElWTGNRS1drMmNRTnJQX1hvb29LWFdpcE54VWtUZy0zYzc5cnhXX25pcmxiTjNXeDN2bjRwdktNR0tGWTBQV1ZUdkZhX2J6ZUpCamNEd0t5anhVNDJrbko3Y2dWakMtLWVYSVU2Rld6UVlyRlJPejNJRGpOa2E5X1g3a3c4N2xHT3h6VHZLa2FqSk9kbnk1U095M0NqSmlRSnhhX3NIZWxTNlFCTTFqTnNsUjJNWGtjNkdjVWZkS0pJeVp1TWQ2eEpxY1lEUGd2dDRPWHBPdmJVLXk2ckloaEk3TWQxakp2QXVYQkpXbVgwa3E1cl9iSXdjU2xJeUl0Q0VYLVNrMVVTS0lCcXo3Z0NZZkl6bWc0RTRaVV9MTXc4clE5QkdoNk1pQ1pWOEFyUQ?oc=5",
+          "text": "猛的要來了！秋意漸濃專家估氣溫驟降此時現- 生活",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5ZUNVUkpHRXVaaUlkT2lZRmI2TlJ3R0NvczR2d1QxTGFsUkFUZlNkb3FzTFdEX09FTzVZLWNacjZxajdIRWJYVkJGb0otSEE4MmRVUVNyMG5Eb25KN1g4?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5ZUNVUkpHRXVaaUlkT2lZRmI2TlJ3R0NvczR2d1QxTGFsUkFUZlNkb3FzTFdEX09FTzVZLWNacjZxajdIRWJYVkJGb0otSEE4MmRVUVNyMG5Eb25KN1g4?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "五六日咖啡買一送一！國慶7-11拿鐵10元多一杯　超商寄杯買20送20",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE11U2Rma0g4amhZZ0JLSzU3WDFiR093aXZwajFwVzhuQ2xZcHhaTGZNZXFST1dBaEhjV2Ntbk9acVdiSHZ2VDFoT1BvbzTSAVJBVV95cUxNa2J3ZF91b1NfckxqSUdLZkNtcmVwbEpuaWtLRGp0NW5kSVBtR0VWWUpqWnM4ZmFZSVRIUEtadjI5VUh6b2FzMFZSSHlZOU1uU2VR?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE11U2Rma0g4amhZZ0JLSzU3WDFiR093aXZwajFwVzhuQ2xZcHhaTGZNZXFST1dBaEhjV2Ntbk9acVdiSHZ2VDFoT1BvbzTSAVJBVV95cUxNa2J3ZF91b1NfckxqSUdLZkNtcmVwbEpuaWtLRGp0NW5kSVBtR0VWWUpqWnM4ZmFZSVRIUEtadjI5VUh6b2FzMFZSSHlZOU1uU2VR?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "突發文問對手「境外勢力網軍」誰搞的？ 郝龍斌：比1450還厲害",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84YU9haEd0TVRnNnBKWFl5Nm1DQ3B3OUZ1WjhYNExENm9raFhUS1lXSGVGRTdmRG5MUHJmRXZwZUR4MnhzaVJRU1Z4TWhnM2MtRkNPNjNTdjFEX0lrQllQcGRtc3BTcnVaNWfSAW9BVV95cUxOOVBqS1NYMG5sZHpEaWFsUUhNck5hTDdEWjhaMHpybW44bzc5eXhNNllrTmFXcllfNWZwb204dS1KQXAwUFRUM0hHVXo3bzhuV0Q4ZmVVSDdQSmdZT0NJTzE0T0IwR0kzdGt3VWE0ZzQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84YU9haEd0TVRnNnBKWFl5Nm1DQ3B3OUZ1WjhYNExENm9raFhUS1lXSGVGRTdmRG5MUHJmRXZwZUR4MnhzaVJRU1Z4TWhnM2MtRkNPNjNTdjFEX0lrQllQcGRtc3BTcnVaNWfSAW9BVV95cUxOOVBqS1NYMG5sZHpEaWFsUUhNck5hTDdEWjhaMHpybW44bzc5eXhNNllrTmFXcllfNWZwb204dS1KQXAwUFRUM0hHVXo3bzhuV0Q4ZmVVSDdQSmdZT0NJTzE0T0IwR0kzdGt3VWE0ZzQ?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "快訊／白帽特務伯「幹走整箱」佳德鳳梨酥！主動投案了",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1oYTk2cTdVSzdYZWI0M25sQVVXcEl2bWlGZ0xwRDJxSUpCRlRuOG94T0VWRUdjbF9OSTd2N0Zyc1paaWZxcVE3dXhZcHFYWkVnQ3h0TWFKYm5BOGVRenfSAWhBVV95cUxNcWdVNnU4aXJhTTh0alZHQ3dOb2RtWjlhazB2WTFVNk0xelp5RngtSE1HNkRNS2RLQkt4RnRibWdhRUsyYXg5Y21paEpUek1ENFJqSUIxNW1SbkJrU0RxRDc3ZE01elktSA?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1oYTk2cTdVSzdYZWI0M25sQVVXcEl2bWlGZ0xwRDJxSUpCRlRuOG94T0VWRUdjbF9OSTd2N0Zyc1paaWZxcVE3dXhZcHFYWkVnQ3h0TWFKYm5BOGVRenfSAWhBVV95cUxNcWdVNnU4aXJhTTh0alZHQ3dOb2RtWjlhazB2WTFVNk0xelp5RngtSE1HNkRNS2RLQkt4RnRibWdhRUsyYXg5Y21paEpUek1ENFJqSUIxNW1SbkJrU0RxRDc3ZE01elktSA?oc=5",
+          "text": "林口幼兒園爆虐童案！呂姓創辦人竟高調留言開戰：有沒有可能是我們被勒索呢？",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MN0VQSHZ6bkFGUTZsc0V3LWNuUU05RFVqRlRBMW9iRzNrS0xFeklUd0owUHNjZ1M5VzVZM0hyU2IyN0FSU0pqVFEtQ3RDNm5oVGc2WFR1d201Zw?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MN0VQSHZ6bkFGUTZsc0V3LWNuUU05RFVqRlRBMW9iRzNrS0xFeklUd0owUHNjZ1M5VzVZM0hyU2IyN0FSU0pqVFEtQ3RDNm5oVGc2WFR1d201Zw?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -221,6 +205,22 @@
           "text": "國慶連假首日國3南投段可能塞到午夜 高公局曝地雷路段",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1oS1RjelRTUlpZMUpITlIyRFE5empxdE1zaF85eEtTUFFmSUlOQ2RLUXRaUXdWYjJJelZ5cU03MXhQUURQOGVDYWkxZjlMV0ZuUkllbWh0TzJXdElhMlFfWGJXRFfSAWpBVV95cUxNYUlJZV9LQ2hkdXlSSmE1aWhyUlZiSnFNVEZGeklQOG9fYU5lR2FFd2JlN29pcHV2YnFUQXZzdkFWM3RFU0w0OWhGTElITnBobkZ3dUUzVGN5OW14Y2JQU0NzRnROOFJ4Z3lB?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1oS1RjelRTUlpZMUpITlIyRFE5empxdE1zaF85eEtTUFFmSUlOQ2RLUXRaUXdWYjJJelZ5cU03MXhQUURQOGVDYWkxZjlMV0ZuUkllbWh0TzJXdElhMlFfWGJXRFfSAWpBVV95cUxNYUlJZV9LQ2hkdXlSSmE1aWhyUlZiSnFNVEZGeklQOG9fYU5lR2FFd2JlN29pcHV2YnFUQXZzdkFWM3RFU0w0OWhGTElITnBobkZ3dUUzVGN5OW14Y2JQU0NzRnROOFJ4Z3lB?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "「啊」一聲被沖到230m外！砂石場闆娘一度求救　遭埋3m深亡",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBacmpMZ1k1T0hXV05uUDhqUk5LejIzQVg3dEdEVTNFOTFqbVpUZERnMVRIUlEyTjhuWlQ1R3RYZnBhNE1WeFJaVTFhRHM0Z293VmMxQ1FNUG14aTlUQVHSAWhBVV95cUxOVEpnZ2xqNmhzamRGeWVBVnNUQ2xmT3JRR3Uwd2RSM0Vha1Q1T3VkV3VpdnZNVWxHdDNkNTlGeWU3OFJDQ2pvNUJwNmFlZzQ3UV9KTmJrV2tfTmpLYlRlRHNaQkw1aG1kRw?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBacmpMZ1k1T0hXV05uUDhqUk5LejIzQVg3dEdEVTNFOTFqbVpUZERnMVRIUlEyTjhuWlQ1R3RYZnBhNE1WeFJaVTFhRHM0Z293VmMxQ1FNUG14aTlUQVHSAWhBVV95cUxOVEpnZ2xqNmhzamRGeWVBVnNUQ2xmT3JRR3Uwd2RSM0Vha1Q1T3VkV3VpdnZNVWxHdDNkNTlGeWU3OFJDQ2pvNUJwNmFlZzQ3UV9KTmJrV2tfTmpLYlRlRHNaQkw1aG1kRw?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "張啟楷質詢提鏟子超人跳針「救災讓專業來」　彭啓明罕見拍桌動怒片曝",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4S2U4T05LV0htUWhMMmVoVFZaNmtBQ0lUUnVwdXltcE5iVTJVd1FjTF81eHIwYWpaSGRKSUJjcjFZWnMtWG44UkdhSktzOXJCSXI3QndndDDSAV9BVV95cUxQNVQ2S2ZLM3NRMW5CMUFxcGZjbUotdDN1Q2lNYzF3V0Nha043Y3VybWw1c3M4VjJsamJrMlV4R3RTODlkNUwzZ3o1MUFDTy1Yei15aWVTZVNRd2w0dU5ITQ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4S2U4T05LV0htUWhMMmVoVFZaNmtBQ0lUUnVwdXltcE5iVTJVd1FjTF81eHIwYWpaSGRKSUJjcjFZWnMtWG44UkdhSktzOXJCSXI3QndndDDSAV9BVV95cUxQNVQ2S2ZLM3NRMW5CMUFxcGZjbUotdDN1Q2lNYzF3V0Nha043Y3VybWw1c3M4VjJsamJrMlV4R3RTODlkNUwzZ3o1MUFDTy1Yei15aWVTZVNRd2w0dU5ITQ?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -258,9 +258,9 @@
           "package": ""
         },
         {
-          "text": "「美元信任危機」來了！金價破四千美元 美元暴跌11%",
-          "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPNEwta0tmRWRJdzZvc3dJdm1ZM09La0xpakFNQ2VEalV6ZGVuVTlzM0dKRFVlQ3pQUFRlaUsxSUtaTXRfa1JtblVGTE92NnR4aFd1VjJYSVkwYk1oc1ljQ3htNk9VMG1NbUFhbUc3eU82TkZLT2dLLXViYXltZU5IMkswSkYtUkRRTEJ4b3VQdmtHZzJNWGxPQTJPNllaWDU1WFUzMnV4QmpRc29ERm5lbkRNUjVvY2ttTFRPMjFKUGhPZzhxb3lsU3pnYjhib1UwaW1Ob2YxSEF6b29IMTVscGMxT1ZrYmpNNU40cjN3TEtCODNwQldJU3p2MDlTWU04R05mT0FyZkF3WGxYVnJoUmplQ2NJa0syMTlsRWptR2NmTGhhU0FqQ3lqOEtLUTZMWnNma21FUUJXM1dzOGc?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPNEwta0tmRWRJdzZvc3dJdm1ZM09La0xpakFNQ2VEalV6ZGVuVTlzM0dKRFVlQ3pQUFRlaUsxSUtaTXRfa1JtblVGTE92NnR4aFd1VjJYSVkwYk1oc1ljQ3htNk9VMG1NbUFhbUc3eU82TkZLT2dLLXViYXltZU5IMkswSkYtUkRRTEJ4b3VQdmtHZzJNWGxPQTJPNllaWDU1WFUzMnV4QmpRc29ERm5lbkRNUjVvY2ttTFRPMjFKUGhPZzhxb3lsU3pnYjhib1UwaW1Ob2YxSEF6b29IMTVscGMxT1ZrYmpNNU40cjN3TEtCODNwQldJU3p2MDlTWU04R05mT0FyZkF3WGxYVnJoUmplQ2NJa0syMTlsRWptR2NmTGhhU0FqQ3lqOEtLUTZMWnNma21FUUJXM1dzOGc?oc=5",
+          "text": "盤後籌碼／外資買超44億！這檔賣近2萬張 股價還一度漲停",
+          "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxNeVg1dkgycnd4OVBvODhDS2FmYktDX0RTNWl4djExS1FVNy1KVTEwMkdvdFNrZEdobGRCTzVMNWdqQlp4dHdOOWR0YVZoelYwLTV4T1JWa0syQ3hFdk5oSW1uNDVqSzlwa2E1Ujh1dXFNVmJrTU1oNlBYbzdzTzQ1WGtKdXUyNHhFOFhWb0wzMlVwMko4dGwyby1YN05Cb0dZeWNUdEkxUVFJMnRiV1FXTkhvVVlsNHpMYzBiN2g3U0dmSk45V0szM0M3Y2pUOWRkQVFUVUVCbndTX2VRM2x5VWhFWGxMM3pqVGpFZ2R1ajFwOGZaS1F0dzc3VnNCZ3FoNllEdHY5dllmTllxOU9naWlKTmh2cGcybjYzVldkTXZidFZxaWJzdWxsclhqVzJzUFJ4QXdNQUdwbm8wS3hyWG1qZ0w5WlBVaFd0clJnSFVZQ1RqZEtBaQ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxNeVg1dkgycnd4OVBvODhDS2FmYktDX0RTNWl4djExS1FVNy1KVTEwMkdvdFNrZEdobGRCTzVMNWdqQlp4dHdOOWR0YVZoelYwLTV4T1JWa0syQ3hFdk5oSW1uNDVqSzlwa2E1Ujh1dXFNVmJrTU1oNlBYbzdzTzQ1WGtKdXUyNHhFOFhWb0wzMlVwMko4dGwyby1YN05Cb0dZeWNUdEkxUVFJMnRiV1FXTkhvVVlsNHpMYzBiN2g3U0dmSk45V0szM0M3Y2pUOWRkQVFUVUVCbndTX2VRM2x5VWhFWGxMM3pqVGpFZ2R1ajFwOGZaS1F0dzc3VnNCZ3FoNllEdHY5dllmTllxOU9naWlKTmh2cGcybjYzVldkTXZidFZxaWJzdWxsclhqVzJzUFJ4QXdNQUdwbm8wS3hyWG1qZ0w5WlBVaFd0clJnSFVZQ1RqZEtBaQ?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -273,6 +273,6 @@
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 44,
+  "cost": 50,
   "status": 0
 }
