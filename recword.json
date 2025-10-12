@@ -146,14 +146,6 @@
       "link_type": "app",
       "data": [
         {
-          "text": "把握好天氣！　雨區擴大時間曝",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9CY2JiT05EWDkwVU96bzVsS1M1OUVMdS1Xb3ZPbnFYNUNfUFBiTVE2Tm9TRnVWeGU5YTJBejdaY2JnVVozTzVlRmVkbHl4ajBiZHZ0aWZPeEt5alNhN2fSAWhBVV95cUxQU1g3aHZFWGR5My1GaG0xb0VzMFZRbFJwSzRWWURibmNWcnlDX3k3emFfa1FXSUhkekNXbXk1dXdEdU1TZGhSVW1nbnlEQXVzT0NqYnJxOFV6aDhzZjE0NFpybWtuZjNSUA?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9CY2JiT05EWDkwVU96bzVsS1M1OUVMdS1Xb3ZPbnFYNUNfUFBiTVE2Tm9TRnVWeGU5YTJBejdaY2JnVVozTzVlRmVkbHl4ajBiZHZ0aWZPeEt5alNhN2fSAWhBVV95cUxQU1g3aHZFWGR5My1GaG0xb0VzMFZRbFJwSzRWWURibmNWcnlDX3k3emFfa1FXSUhkekNXbXk1dXdEdU1TZGhSVW1nbnlEQXVzT0NqYnJxOFV6aDhzZjE0NFpybWtuZjNSUA?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
           "text": "南投國慶煙火挨批史上最爛　縣長許淑華回應了",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE03NXRweWtWYS16LUN5TjFFZE50RFlOU1MzQm1TV3FTRl9GSkNfOG1DdHk1Zm1abWpTb1V5UjI4OVRrN0IxVUsxSm1rblUtX2VBbFpyUUd2akJuNVFzQ1HSAWhBVV95cUxOZTJYMG1CZGlMY2hNU1cwY1NLVHdWcHVMVTQwYXNtV0FSdV91UndFZDRabEcteEl6TGkyWjNkV1RFb2hYN3BsLVkwb2dlX1RrdGZiX3ItX29FSDFXN21XaGROSDRvb2MzQg?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE03NXRweWtWYS16LUN5TjFFZE50RFlOU1MzQm1TV3FTRl9GSkNfOG1DdHk1Zm1abWpTb1V5UjI4OVRrN0IxVUsxSm1rblUtX2VBbFpyUUd2akJuNVFzQ1HSAWhBVV95cUxOZTJYMG1CZGlMY2hNU1cwY1NLVHdWcHVMVTQwYXNtV0FSdV91UndFZDRabEcteEl6TGkyWjNkV1RFb2hYN3BsLVkwb2dlX1RrdGZiX3ItX29FSDFXN21XaGROSDRvb2MzQg?oc=5",
@@ -162,25 +154,33 @@
           "package": ""
         },
         {
-          "text": "輝達總部重大進展！ 李四川宣布：明起啟動與新壽共同合意終止契約",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE82cHRMMEVEOTIxbThGRjlGUUVZSTRoM09qR1piSEdIM0FVNUM4Zkx6Nm5NOW9PdkZSN3B3M2w0QmV6YVdRMHFncFQ0cnZDZDJNcmdZ0gFYQVVfeXFMUEhza3pxekprLTlmR3A1aHlTWEtRekRKa25mSkFOU2RlOERNcG5MdEpwTXFOMU03VFNWdVNhcXVwa0V6M3RvRHRqMEE4UDJrMy1ZakdObUtiRg?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE82cHRMMEVEOTIxbThGRjlGUUVZSTRoM09qR1piSEdIM0FVNUM4Zkx6Nm5NOW9PdkZSN3B3M2w0QmV6YVdRMHFncFQ0cnZDZDJNcmdZ0gFYQVVfeXFMUEhza3pxekprLTlmR3A1aHlTWEtRekRKa25mSkFOU2RlOERNcG5MdEpwTXFOMU03VFNWdVNhcXVwa0V6M3RvRHRqMEE4UDJrMy1ZakdObUtiRg?oc=5",
+          "text": "北士科T17、T18留輝達 北市府將發文新壽合意解約",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ubl9DOXYxaEJCZEpHWHBfOWJfS0sybm5CMjVlVnZUVFFNc19oVk44RlItRTVpcVpfQnlPRWJSck90dEQwLWpoRkg3OXpmbmFVZ182QjNOSGh4endtdFdJ0gFkQVVfeXFMUHItd0FyQ25LMmM4UXhLd2hiVU56cnkxRTBwWHZESGliNm52TGhaZmlYRzNpSlRQaE5QWVRvNXVrNFFDUmlINU94MWQ4YUQ1MF9jX0pEQzVDOWNRM2txVWFDb3JTWA?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ubl9DOXYxaEJCZEpHWHBfOWJfS0sybm5CMjVlVnZUVFFNc19oVk44RlItRTVpcVpfQnlPRWJSck90dEQwLWpoRkg3OXpmbmFVZ182QjNOSGh4endtdFdJ0gFkQVVfeXFMUHItd0FyQ25LMmM4UXhLd2hiVU56cnkxRTBwWHZESGliNm52TGhaZmlYRzNpSlRQaE5QWVRvNXVrNFFDUmlINU94MWQ4YUQ1MF9jX0pEQzVDOWNRM2txVWFDb3JTWA?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "境外勢力介選？ AI合成與郝龍斌熱吻假畫面瘋傳柳采葳：明報案- 政治",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TbUlsRGpHVEktOUVDSFYzZUlKc3VGWkxVWG5wU2xVa1BaWXVjdXVjM1lvU1JvNjdGc1FSeE5rLWZRVV9HcGVBS0ZfQVNJUTU2ZnNhaTZpNl9ucmdZZDdxck1DRC11RjE1d2c?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TbUlsRGpHVEktOUVDSFYzZUlKc3VGWkxVWG5wU2xVa1BaWXVjdXVjM1lvU1JvNjdGc1FSeE5rLWZRVV9HcGVBS0ZfQVNJUTU2ZnNhaTZpNl9ucmdZZDdxck1DRC11RjE1d2c?oc=5",
+          "text": "首波東北季風恐與熱帶系統交鋒 是否產生共伴效應吳德榮這麼說",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB1VG9PTnA4YXNvdU1vUm5hMXpGSXN2YUg0LW9xaVJFdU9oX1dvOTJZaHBBV05lSi1uXzVYc0tNMlVCNTBFTEFrY0UtSXdrZFli0gFWQVVfeXFMUHg1TmhqWWdTN0otOWR0N29EU2hsVWM3NXNaMGdRMUJORGxlU3lfVGlDSm5QVUo4SFZOSHZ3NUdfRENHZmFINHFvRTZGOFdJS2JqcXF2S2c?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB1VG9PTnA4YXNvdU1vUm5hMXpGSXN2YUg0LW9xaVJFdU9oX1dvOTJZaHBBV05lSi1uXzVYc0tNMlVCNTBFTEFrY0UtSXdrZFli0gFWQVVfeXFMUHg1TmhqWWdTN0otOWR0N29EU2hsVWM3NXNaMGdRMUJORGxlU3lfVGlDSm5QVUo4SFZOSHZ3NUdfRENHZmFINHFvRTZGOFdJS2JqcXF2S2c?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "中國限制稀土出口 川普宣布11月起加徵100%關稅",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBlYWtMaVJsd0JMdlNEVVBaenVwQm1LeTE1T3Y3aTZhVnBGQzhYcUNWRTZOOEJDQ1dTekdFRFZTWEhMVjhscGxtMV9heHo0aWE3N2xwemFfaEo5RWxQeFNN?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBlYWtMaVJsd0JMdlNEVVBaenVwQm1LeTE1T3Y3aTZhVnBGQzhYcUNWRTZOOEJDQ1dTekdFRFZTWEhMVjhscGxtMV9heHo0aWE3N2xwemFfaEo5RWxQeFNN?oc=5",
+          "text": "指大量大陸頻道介入國民黨主席選舉 趙少康：我沒點名鄭麗文",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XVlcyVmFWTFNWNjI5ZHB4Nk9Jcjg0VGZwTTd2S1ViYk1DVDQtSGdfTE5jLUxld2tzbjJyYk1sR3l0c25IRVhrSUd6VlFhWUgyVjY40gFYQVVfeXFMTWJXTmFJc21fOFN6VFpRWkN2YlAzSEJWdUtmbUpMWkk2SkF6bnJ1amsxZlVUTm9kejBDVE9rOERadkVqQjI4VGx3V2FuTG1QRU9veEZUQXB2Tw?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XVlcyVmFWTFNWNjI5ZHB4Nk9Jcjg0VGZwTTd2S1ViYk1DVDQtSGdfTE5jLUxld2tzbjJyYk1sR3l0c25IRVhrSUd6VlFhWUgyVjY40gFYQVVfeXFMTWJXTmFJc21fOFN6VFpRWkN2YlAzSEJWdUtmbUpMWkk2SkF6bnJ1amsxZlVUTm9kejBDVE9rOERadkVqQjI4VGx3V2FuTG1QRU9veEZUQXB2Tw?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "中國稀土貿易管制升級的影響分析：美國AI挑戰加劇",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE85ZHFINDdjQ0VzRlZoNlBlZ3BMSkF0NkJpeVcyOWVrZzdUbjNja3pfVHZyVmM2Rmx3Zk56WjJPRl82bnZmYjh2VGxzUS1WY2s?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE85ZHFINDdjQ0VzRlZoNlBlZ3BMSkF0NkJpeVcyOWVrZzdUbjNja3pfVHZyVmM2Rmx3Zk56WjJPRl82bnZmYjh2VGxzUS1WY2s?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -234,17 +234,9 @@
           "package": ""
         },
         {
-          "text": "被誇到飄飄然？諾貝爾和平獎得主「將榮耀献给川普」！白宮一秒轉發：和平總統",
-          "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxNd2psMlVGT2xIOXhSU3dUbWRaT0VqalNZU1RSZlZWT3BxT2k4UkZmaDdrZnN0RzdqTk9vMC1QZnBtWTVVd0s2UzJhSjVYZ2hOQkJNSkFoNE1JSGdXUk9NaUJPYWtveGl6WkpSc3RYalR4UVlCaHgwaDZNY3E5U1FISWxRVTVYbUFySThoekIyQXJPOXkwcklBMjQtMEhiSllTNlRYajNtcFFaRDBJUjBWVDBhalJwU0F4U2NkMVZxTHMzTVBKd2ZLYVc1aHc1dG51ZXVBLTlXOE81UUhYV29PcHFaX2tLRzV1aW9Bd2Y0UW1TS3F1ajgyN3VTVFdGdzRTZWZOZnBqVEJSMlp6dDFUSmRsaDd4aWxaZnpZOUg5RTdKWEktUnRJeU5nWGV1dk1rRFBwaC1ocm5hVXg2V3p5UjUzR05ic1lWUUltQVFVTFVta2xZRkFabjM0SWM4Yi1mcGlfUWFrT245eUtiZXFjS3ZWazRjdFdPS3N5OWhYVjkxOTJRcjBkNFYwTXBSTG95?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMikANBVV95cUxNd2psMlVGT2xIOXhSU3dUbWRaT0VqalNZU1RSZlZWT3BxT2k4UkZmaDdrZnN0RzdqTk9vMC1QZnBtWTVVd0s2UzJhSjVYZ2hOQkJNSkFoNE1JSGdXUk9NaUJPYWtveGl6WkpSc3RYalR4UVlCaHgwaDZNY3E5U1FISWxRVTVYbUFySThoekIyQXJPOXkwcklBMjQtMEhiSllTNlRYajNtcFFaRDBJUjBWVDBhalJwU0F4U2NkMVZxTHMzTVBKd2ZLYVc1aHc1dG51ZXVBLTlXOE81UUhYV29PcHFaX2tLRzV1aW9Bd2Y0UW1TS3F1ajgyN3VTVFdGdzRTZWZOZnBqVEJSMlp6dDFUSmRsaDd4aWxaZnpZOUg5RTdKWEktUnRJeU5nWGV1dk1rRFBwaC1ocm5hVXg2V3p5UjUzR05ic1lWUUltQVFVTFVta2xZRkFabjM0SWM4Yi1mcGlfUWFrT245eUtiZXFjS3ZWazRjdFdPS3N5OWhYVjkxOTJRcjBkNFYwTXBSTG95?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "中國商場大螢幕突播放「于朦朧生前片段」！抗議中共「畫面沉重5字」內幕曝",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KOEZjaWZxYXBVRFRKS0Q0REhnUmZuZktZSjJKdl9fNTUwM2NaWlV4aG9EdXNBM3Bxa0VaZWlQMXNSVzhzN3RNZE9paWtHcWJ0RGJrQ045RFRhYzNXelJ3Yg?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KOEZjaWZxYXBVRFRKS0Q0REhnUmZuZktZSjJKdl9fNTUwM2NaWlV4aG9EdXNBM3Bxa0VaZWlQMXNSVzhzN3RNZE9paWtHcWJ0RGJrQ045RFRhYzNXelJ3Yg?oc=5",
+          "text": "于朦朧驗屍報告出爐！身體內外傷超震驚 離奇死因網當偵探抓疑點",
+          "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxPQ0xMaS1HODhVTTg2Y2s5dzhUWEQ5V2lQckFMRzNiX1VtS3RoSmo4cl9NZGxIN0s2WTI4dHJrS2V0RU92S1ZGLTZDbFV0aXJhMnc0MW0zU2J5aURRVkhSbXVtbG1RNExXeUxSUU96bHlqX3NWTHJ3a2xPUzF4TkFJZ25XSlprTDNNdEFZaXJjTng5VS15WUREd3hYNEgzMUdqRlc1azF1dlFXd2M1NW5KN0NqNjNJeVRReWs1REVaTk1iN0RsQ3FGeV9EUlk3WHhuTFkyc185U0dzZ1pvckc2SHFhSVMtNnFiRkRNQlNGSlJVcW9ndWdpWkM3MGRmc1Q2TGEzVXNkeXYtM2QzeG1jYnY0NFFlUWZnN2ZrdTdKdkl3QUFiUVVfYjNTc0ZBbVdLWUJfZ1FOR2Z5Y1lsLVp1NXRtcHFSQ0Q1S1VPTW8zbW1WUEdhc1FHcWM0TUo2QUlyZUF2V1JyX0FBOUJ5OFVOV1JGYnJTR2dZRTRobFBhLTlhWFhDbFNDQnBiLVV5a1Y0dWMtbHc1U1dOb2EwNTVvWGNWZF9Ydw?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxPQ0xMaS1HODhVTTg2Y2s5dzhUWEQ5V2lQckFMRzNiX1VtS3RoSmo4cl9NZGxIN0s2WTI4dHJrS2V0RU92S1ZGLTZDbFV0aXJhMnc0MW0zU2J5aURRVkhSbXVtbG1RNExXeUxSUU96bHlqX3NWTHJ3a2xPUzF4TkFJZ25XSlprTDNNdEFZaXJjTng5VS15WUREd3hYNEgzMUdqRlc1azF1dlFXd2M1NW5KN0NqNjNJeVRReWs1REVaTk1iN0RsQ3FGeV9EUlk3WHhuTFkyc185U0dzZ1pvckc2SHFhSVMtNnFiRkRNQlNGSlJVcW9ndWdpWkM3MGRmc1Q2TGEzVXNkeXYtM2QzeG1jYnY0NFFlUWZnN2ZrdTdKdkl3QUFiUVVfYjNTc0ZBbVdLWUJfZ1FOR2Z5Y1lsLVp1NXRtcHFSQ0Q1S1VPTW8zbW1WUEdhc1FHcWM0TUo2QUlyZUF2V1JyX0FBOUJ5OFVOV1JGYnJTR2dZRTRobFBhLTlhWFhDbFNDQnBiLVV5a1Y0dWMtbHc1U1dOb2EwNTVvWGNWZF9Ydw?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -258,9 +250,17 @@
           "package": ""
         },
         {
-          "text": "幣圈血崩 加密幣爆發大清算",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQa29yRm5ELTdnWVdDSTVKVGxNaFVKTHd6cnVEM0M3ZDhSS2l4SHZraHEyLU5TcDJhcXdpVXNIdFNnenNTR1NteWw4MldyQ0VNWk95MFY0WUhMWDVTd21qdWEtU2xSdlRKemQ2dHg2eW9wVXExZXRlaWxHVExveHUwX1MwYTNBNGRNd2JGcXJ5eklJTE9OWGJzRnR3c3B4UGN6WVN5R1g1YUFoZDVEY1dNN3haMldpaWZIYlFYd2ZMSWFrQkg0UGhaY0N1WjM0RWxqR2hiREVseWo5emxMUGFaZnZTOThGMXlMNGlLTA?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQa29yRm5ELTdnWVdDSTVKVGxNaFVKTHd6cnVEM0M3ZDhSS2l4SHZraHEyLU5TcDJhcXdpVXNIdFNnenNTR1NteWw4MldyQ0VNWk95MFY0WUhMWDVTd21qdWEtU2xSdlRKemQ2dHg2eW9wVXExZXRlaWxHVExveHUwX1MwYTNBNGRNd2JGcXJ5eklJTE9OWGJzRnR3c3B4UGN6WVN5R1g1YUFoZDVEY1dNN3haMldpaWZIYlFYd2ZMSWFrQkg0UGhaY0N1WjM0RWxqR2hiREVseWo5emxMUGFaZnZTOThGMXlMNGlLTA?oc=5",
+          "text": "諾貝爾和平獎爆洩密疑雲！得主公布前賭盤賠率異常飆漲",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1nV1ZRaFpTVjFoSk1WUS14SndjazUyWXZWbENRc0RQSXpFRlBrX0xLZVJtVnNKSktDWlhja2k3VWpIdnZDdlQ5cnhZZ3RTVENuYnBlU1dTZFlnZEpZVU1EeGMwcnB1Z9IBa0FVX3lxTFBrUmtsNUV2OC1zNS1hcjR6c3NsSFE3cC1jbTJNMUVRVmh0VG91OEJLMG41U1JjcnVDRnZybjBjMmZsbm0taFo2RUJBVS1RODVLTXdkb2ZTU0k4ckR6Z1BTQ3k4UXJJWnpsdnRV?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1nV1ZRaFpTVjFoSk1WUS14SndjazUyWXZWbENRc0RQSXpFRlBrX0xLZVJtVnNKSktDWlhja2k3VWpIdnZDdlQ5cnhZZ3RTVENuYnBlU1dTZFlnZEpZVU1EeGMwcnB1Z9IBa0FVX3lxTFBrUmtsNUV2OC1zNS1hcjR6c3NsSFE3cC1jbTJNMUVRVmh0VG91OEJLMG41U1JjcnVDRnZybjBjMmZsbm0taFo2RUJBVS1RODVLTXdkb2ZTU0k4ckR6Z1BTQ3k4UXJJWnpsdnRV?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "周一台股恐崩逾1600點？　富台指、台積電ADR暴跌預警",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hTGl6ak1JSUNwX2hmQUNIMnhFbjlwTGFwVlM1NDZ2RGRtMVc0Si00Nll4SVhhV1ltWmgxYXkyVXlJRVZ6ZmRpSUVUdTZoSUF0enfSAW5BVV95cUxQRS1Ebkd4RVNoeXlwNlFiY3lXS25sN0V5YlZxSjM4Zm90QjFORmhrb0t6cTV4NnJCYTktSGoyQ29xOGVORHBNazFteWQ5UkNqUXZTS2NvRVdEcmIwTmh6ejZrR3ZzVURVc0hIZTdmdw?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hTGl6ak1JSUNwX2hmQUNIMnhFbjlwTGFwVlM1NDZ2RGRtMVc0Si00Nll4SVhhV1ltWmgxYXkyVXlJRVZ6ZmRpSUVUdTZoSUF0enfSAW5BVV95cUxQRS1Ebkd4RVNoeXlwNlFiY3lXS25sN0V5YlZxSjM4Zm90QjFORmhrb0t6cTV4NnJCYTktSGoyQ29xOGVORHBNazFteWQ5UkNqUXZTS2NvRVdEcmIwTmh6ejZrR3ZzVURVc0hIZTdmdw?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -273,6 +273,6 @@
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 16,
+  "cost": 48,
   "status": 0
 }
