@@ -47,17 +47,9 @@
           "package": ""
         },
         {
-          "text": "最新！哈瑪斯釋放首批7名人質",
+          "text": "綁架逾700天 哈瑪斯釋放首批7名人質",
           "url": "https://tw.news.yahoo.com/%E5%93%88%E7%91%AA%E6%96%AF%E4%BB%8A%E5%8D%88%E9%87%8B%E6%94%BE20%E5%90%8D%E4%BB%A5%E8%89%B2%E5%88%97%E4%BA%BA%E8%B3%AA-%E5%85%AC%E5%B8%83%E7%94%9F%E9%82%84%E8%80%85%E5%90%8D%E5%96%AE-045604652.html",
           "h5_url": "https://tw.news.yahoo.com/%E5%93%88%E7%91%AA%E6%96%AF%E4%BB%8A%E5%8D%88%E9%87%8B%E6%94%BE20%E5%90%8D%E4%BB%A5%E8%89%B2%E5%88%97%E4%BA%BA%E8%B3%AA-%E5%85%AC%E5%B8%83%E7%94%9F%E9%82%84%E8%80%85%E5%90%8D%E5%96%AE-045604652.html",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_yahoo",
-          "package": ""
-        },
-        {
-          "text": "台股跌破27000點 台積電跌25元",
-          "url": "https://tw.news.yahoo.com/live/%E5%8F%B0%E8%82%A1%E6%97%A9%E7%9B%A4%E6%8C%AB%E9%80%BE800%E9%BB%9E%E5%BE%8C%E6%94%B6%E6%96%82-%E6%94%B6%E8%B7%8C37850%E9%BB%9E-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E8%B7%8C25%E5%85%83-000033636.html",
-          "h5_url": "https://tw.news.yahoo.com/live/%E5%8F%B0%E8%82%A1%E6%97%A9%E7%9B%A4%E6%8C%AB%E9%80%BE800%E9%BB%9E%E5%BE%8C%E6%94%B6%E6%96%82-%E6%94%B6%E8%B7%8C37850%E9%BB%9E-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E8%B7%8C25%E5%85%83-000033636.html",
           "appIconUrl": "",
           "sourceUniqueId": "content_yahoo",
           "package": ""
@@ -74,6 +66,14 @@
           "text": "空服員抱病執勤返台逝 勞檢處調查",
           "url": "https://tw.news.yahoo.com/%E7%A9%BA%E6%9C%8D%E5%93%A1%E6%8A%B1%E7%97%85%E5%9F%B7%E5%8B%A4%E8%BF%94%E5%8F%B0%E7%8C%9D%E9%80%9D-%E9%95%B7%E6%A6%AE%E8%88%AA%E7%A9%BA%EF%BC%9A%E4%BA%8B%E4%BB%B6%E8%AA%BF%E6%9F%A5%E9%87%90%E6%B8%85%E4%B8%AD-022247574.html",
           "h5_url": "https://tw.news.yahoo.com/%E7%A9%BA%E6%9C%8D%E5%93%A1%E6%8A%B1%E7%97%85%E5%9F%B7%E5%8B%A4%E8%BF%94%E5%8F%B0%E7%8C%9D%E9%80%9D-%E9%95%B7%E6%A6%AE%E8%88%AA%E7%A9%BA%EF%BC%9A%E4%BA%8B%E4%BB%B6%E8%AA%BF%E6%9F%A5%E9%87%90%E6%B8%85%E4%B8%AD-022247574.html",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_yahoo",
+          "package": ""
+        },
+        {
+          "text": "台股跌破27000點 台積電跌25元",
+          "url": "https://tw.news.yahoo.com/live/%E5%8F%B0%E8%82%A1%E6%97%A9%E7%9B%A4%E6%8C%AB%E9%80%BE800%E9%BB%9E%E5%BE%8C%E6%94%B6%E6%96%82-%E6%94%B6%E8%B7%8C37850%E9%BB%9E-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E8%B7%8C25%E5%85%83-000033636.html",
+          "h5_url": "https://tw.news.yahoo.com/live/%E5%8F%B0%E8%82%A1%E6%97%A9%E7%9B%A4%E6%8C%AB%E9%80%BE800%E9%BB%9E%E5%BE%8C%E6%94%B6%E6%96%82-%E6%94%B6%E8%B7%8C37850%E9%BB%9E-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E8%B7%8C25%E5%85%83-000033636.html",
           "appIconUrl": "",
           "sourceUniqueId": "content_yahoo",
           "package": ""
@@ -146,41 +146,25 @@
       "link_type": "app",
       "data": [
         {
-          "text": "秒變「賴醫師」！賴清德從政至今救9人　飛到國外醫師魂也爆發",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9JUXRiSXh1T0czX0M2Qkd6MnhSZW1VbU9Mc2FrV0UwNzdyV0hIenRpNnp0a3dHdkJodDF5NHJrT1ctcy1XR2Z4RjNWOUNXNjE5OGxtU3l6RFpjRDhSMVHSAWhBVV95cUxQR3BCbnFwcDFRRnREcWN0MFpuYzB6RFJHVGZGZmNUQ2V1YTBKRTZpMmpfenFzUTRlWmhvR1NCYmUtaWdQMmV6OGx6anhzcHNLVzdBRkNRdGg4b2JWV0pzbl9mMGUybGJ5Vg?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9JUXRiSXh1T0czX0M2Qkd6MnhSZW1VbU9Mc2FrV0UwNzdyV0hIenRpNnp0a3dHdkJodDF5NHJrT1ctcy1XR2Z4RjNWOUNXNjE5OGxtU3l6RFpjRDhSMVHSAWhBVV95cUxQR3BCbnFwcDFRRnREcWN0MFpuYzB6RFJHVGZGZmNUQ2V1YTBKRTZpMmpfenFzUTRlWmhvR1NCYmUtaWdQMmV6OGx6anhzcHNLVzdBRkNRdGg4b2JWV0pzbl9mMGUybGJ5Vg?oc=5",
+          "text": "空服員抱病上班返台猝逝長榮航空：調查釐清",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1WZUxTVi1ZcWtHRlp5QXFiVVNBSHNmajcwUlA5MHh4QW9LcHY4Z0ZENDNjQ2xiQ0t5NHNNVXlJSkRuWkx5TkdtVmtSdTBJblkyX0FoQ3BGbk45V1NnZWdn?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1WZUxTVi1ZcWtHRlp5QXFiVVNBSHNmajcwUlA5MHh4QW9LcHY4Z0ZENDNjQ2xiQ0t5NHNNVXlJSkRuWkx5TkdtVmtSdTBJblkyX0FoQ3BGbk45V1NnZWdn?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "人質將獲釋和平峰會前以色列宣告戰勝",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2c0p3aV9WWjQzSUNxZHFDZkFWcTlPR3VpcXJoU2tHMjZfTHk5SzFPN2dQNjFoVk0wUDFwQndiZVluVkNscmVfNXhMS0FYR3IwTzNKcU9qQjllY3dXSTA4?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2c0p3aV9WWjQzSUNxZHFDZkFWcTlPR3VpcXJoU2tHMjZfTHk5SzFPN2dQNjFoVk0wUDFwQndiZVluVkNscmVfNXhMS0FYR3IwTzNKcU9qQjllY3dXSTA4?oc=5",
+          "text": "紅十字會曝以色列人質狀況嚴重！以軍擬1小時快閃救人 哈瑪斯下封口令",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBIRFJtTXZzajVQck9IR2pkRUV2YjdqaENfRzdaUFNzaXptYUt1MTlrVERwRnBDZ21RcGI2Y0ktNG9LSGREQS02TVRpUi1KWVZh0gFWQVVfeXFMTUhEYjc5T3JVZjl6Uk5DQ3BRR2pTbTJfVVdnUURvUHdXV2N4OWFVVWExYzZwWDJWS2JwTzJDeEJuVjhNOFlHRnZuUlh6Q2NGVHpURFpmTUE?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBIRFJtTXZzajVQck9IR2pkRUV2YjdqaENfRzdaUFNzaXptYUt1MTlrVERwRnBDZ21RcGI2Y0ktNG9LSGREQS02TVRpUi1KWVZh0gFWQVVfeXFMTUhEYjc5T3JVZjl6Uk5DQ3BRR2pTbTJfVVdnUURvUHdXV2N4OWFVVWExYzZwWDJWS2JwTzJDeEJuVjhNOFlHRnZuUlh6Q2NGVHpURFpmTUE?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "空服員抱病上班返台就醫卻離世 長榮航空：已啟動調查",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9fcVlydUs2Z0VpbUVDX3hqLUFDYlppbi1HSXV2VXlGaWxKQ1ZXb0FiYjVWODlSamhpRVZwenJQeHR5OHZOaUpHTW9qQ1hla3dlYWNj0gFYQVVfeXFMTlRFa2hRSloyeTFVNjExeGlvTExFWC1MbFQ1dGo3RkNhOHMxcElRVDZEaEZHLWpDSEV5eUd5aVhwVUtZZkRDeEVJRzdHTGx3X2VCUGp5NG1VQg?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9fcVlydUs2Z0VpbUVDX3hqLUFDYlppbi1HSXV2VXlGaWxKQ1ZXb0FiYjVWODlSamhpRVZwenJQeHR5OHZOaUpHTW9qQ1hla3dlYWNj0gFYQVVfeXFMTlRFa2hRSloyeTFVNjExeGlvTExFWC1MbFQ1dGo3RkNhOHMxcElRVDZEaEZHLWpDSEV5eUd5aVhwVUtZZkRDeEVJRzdHTGx3X2VCUGp5NG1VQg?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "趙少康控中共介入國民黨主席選舉　羅友志喊「好了啦！」反指：您擁2媒體",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GdnFyRXhacTJyVHF2NkdCekN3X1E4QzBxUzduVHk2Q3pDUWgwOXRTN1VtUzQ3aVdWazJ6WXNGWTUwUVAwTTMxMjdscXJDWU9JN3JUQTBjbnZ0SknSAWBBVV95cUxNendpMmJubXU4XzNjZzFDWXdHS2lyUm9wc1lydnZRRHRrSHdSVl9XaFBMZ2I0QVR3SzRRX1drSWlsMzIzOUNVNnVfRmZobG41VzF1Y20ya3lhNTgxbU9UY0M?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GdnFyRXhacTJyVHF2NkdCekN3X1E4QzBxUzduVHk2Q3pDUWgwOXRTN1VtUzQ3aVdWazJ6WXNGWTUwUVAwTTMxMjdscXJDWU9JN3JUQTBjbnZ0SknSAWBBVV95cUxNendpMmJubXU4XzNjZzFDWXdHS2lyUm9wc1lydnZRRHRrSHdSVl9XaFBMZ2I0QVR3SzRRX1drSWlsMzIzOUNVNnVfRmZobG41VzF1Y20ya3lhNTgxbU9UY0M?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "不只烏山頭！光電板也蓋滿鳳山水庫陳菁徽一到現場嚇壞- 政治",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TOFFSdThuRGtkYlJlckMzSGRUTDk2cnFYZlhlWXBySi1GaFQ4QUR2VUU3OWJ3LURFbC1ucmlUS0tzNmpqbkd6X01fbDd0TjkxckhSczhGZktkZTg4OWRNVDNwS0dscjNPc08tZUd3?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TOFFSdThuRGtkYlJlckMzSGRUTDk2cnFYZlhlWXBySi1GaFQ4QUR2VUU3OWJ3LURFbC1ucmlUS0tzNmpqbkd6X01fbDd0TjkxckhSczhGZktkZTg4OWRNVDNwS0dscjNPc08tZUd3?oc=5",
+          "text": "烏山頭水庫光電板傳用藥水清洗　謝龍介將處理：我當台南市長必查",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9hVUEySnd5V255NU9xUGNZbjRmTHhiUFQxMWh4V2pWQi0zWUhsX0dwLWtYM2g2dHRrVnlvU29CUzFNOTUwUVk4djdVZXNXdkpqQkxDaWw5SGh3bmFyd0HSAWhBVV95cUxONUphcHVYcUc2NkpIZDlBc1pyZVA3elVKazdJSHcwUHhhbldBQ1l6cXVLQ194b1ZMQm1GMVBqWllIRW5kMjVnRzV6c2hxekNkem82X016cUpUbkplRkVidy1IUXBwMk1ZQQ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9hVUEySnd5V255NU9xUGNZbjRmTHhiUFQxMWh4V2pWQi0zWUhsX0dwLWtYM2g2dHRrVnlvU29CUzFNOTUwUVk4djdVZXNXdkpqQkxDaWw5SGh3bmFyd0HSAWhBVV95cUxONUphcHVYcUc2NkpIZDlBc1pyZVA3elVKazdJSHcwUHhhbldBQ1l6cXVLQ194b1ZMQm1GMVBqWllIRW5kMjVnRzV6c2hxekNkem82X016cUpUbkplRkVidy1IUXBwMk1ZQQ?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -194,6 +178,30 @@
           "package": ""
         },
         {
+          "text": "天氣／首波降溫將報到！東北季風這天來「北部估跌10度」，又有熱帶擾動發展？10日報搶先看",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRTYxTUlXajJ0RF9kNjkwM1Y4VGZyN3VOdTg4YnVmdVk3akFPT2ROelphVUZpU2hocGdlZl9DTTBpWEY1TEtVdWZDMHFNYWNxTFZZcm8yaUlHVFhxeGlxcVgwNjF5VWY0eG5uUHpyRTJkWmNENXFLS1lOY0x5cDhKUg?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRTYxTUlXajJ0RF9kNjkwM1Y4VGZyN3VOdTg4YnVmdVk3akFPT2ROelphVUZpU2hocGdlZl9DTTBpWEY1TEtVdWZDMHFNYWNxTFZZcm8yaUlHVFhxeGlxcVgwNjF5VWY0eG5uUHpyRTJkWmNENXFLS1lOY0x5cDhKUg?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "高鐵「寧靜車廂」之亂 衛福部也參戰！發函交通部更有彈性",
+          "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNczIxbTlyd2RlTGQ4Vkw5SDRMWFFybmNfMDd6SzFVNHRESnozYVIwblZkcXVzQk9MV3BFak5CWGZuaVgwWnZUdklnVUhiSWlsT19OREhrNU9HcE4yVUgzdTIwS1ZnMFhnRWlNM2ZCcDZoQkFHVXZWN3NiMm5ON050WGFaZmVOTmRSR1NUbXBsamRSeTJnVDYxU0dIeHhxVnZ1U0pFV2dxQWVaMVgyRFB2OXktdG9VX3pDeTMtWnBjcEVoSFEwNkp3UHJzWWdYcVl4LU43RjFlbEZ6aGxQOGY0eVRpcVpQLXA2cTZMRUVFTlhTUUNSaDVsV1hpQmR4Z1A4WDRELWFWTWZsSFVLeG1INE9vdHUyVWcxcUc4b29sSzA3czM3dTFZY3ZYeXh3Y0dtZV95U0o4a0hGTlVEZWNvendsLWVtWFhtSzkxMVdCUUIxTi1kQUZrRkdFdlR5bGI2WkItVXhFNjM0VVlV?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNczIxbTlyd2RlTGQ4Vkw5SDRMWFFybmNfMDd6SzFVNHRESnozYVIwblZkcXVzQk9MV3BFak5CWGZuaVgwWnZUdklnVUhiSWlsT19OREhrNU9HcE4yVUgzdTIwS1ZnMFhnRWlNM2ZCcDZoQkFHVXZWN3NiMm5ON050WGFaZmVOTmRSR1NUbXBsamRSeTJnVDYxU0dIeHhxVnZ1U0pFV2dxQWVaMVgyRFB2OXktdG9VX3pDeTMtWnBjcEVoSFEwNkp3UHJzWWdYcVl4LU43RjFlbEZ6aGxQOGY0eVRpcVpQLXA2cTZMRUVFTlhTUUNSaDVsV1hpQmR4Z1A4WDRELWFWTWZsSFVLeG1INE9vdHUyVWcxcUc4b29sSzA3czM3dTFZY3ZYeXh3Y0dtZV95U0o4a0hGTlVEZWNvendsLWVtWFhtSzkxMVdCUUIxTi1kQUZrRkdFdlR5bGI2WkItVXhFNjM0VVlV?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "有人認了？郝龍斌控境外網攻擊.. 游淑慧：證實AI造假介選",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1HZXB1b29fV3l1bVdmTWIyTkZhNGU2YThidGROZjZrT3dHRlJoSjZ1YlNjcUdPOFdpTjJJRUNRbFRFSlBYbjhrUU9IWmoxZEszWkdN0gFYQVVfeXFMTnQ5TTJ1OUtZaVYtVHJ3ajJFQ2dEdDlMVUQ2cEFIVmhMQTFxbXR5Q0cxNUJBQ1M0NVhaZlY4LVdSMGZtMVVtNFcwMXJhcVdfcjdJd1J1cUhxaA?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1HZXB1b29fV3l1bVdmTWIyTkZhNGU2YThidGROZjZrT3dHRlJoSjZ1YlNjcUdPOFdpTjJJRUNRbFRFSlBYbjhrUU9IWmoxZEszWkdN0gFYQVVfeXFMTnQ5TTJ1OUtZaVYtVHJ3ajJFQ2dEdDlMVUQ2cEFIVmhMQTFxbXR5Q0cxNUJBQ1M0NVhaZlY4LVdSMGZtMVVtNFcwMXJhcVdfcjdJd1J1cUhxaA?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
           "text": "國造潛艦海鯤號已完成3次浮航 國防部：距潛航還差2系統",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5NRk85NWx4RVQ0Y0JuZWhibWlpcklfQjdSZjhUSFVRT3JzUllud01Rc25sdkNoelpqWFVCQkVWTmRVNi16ZnYybVVTRlU5THFYbWFHU2tkOG9FVWhBZktNatIBZkFVX3lxTE56X2FZc3YxMEd0MzZPZDVDNEZhY2hNR3Mtb19KNEJycm5hdldYdmtNTk5JSkdBMlhWNk5XV2JMZ0lOSkE4aTh4TWxpdmVtTXMwSlNLQmoyUHZidkV3cG9CV3VzSWhEdw?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5NRk85NWx4RVQ0Y0JuZWhibWlpcklfQjdSZjhUSFVRT3JzUllud01Rc25sdkNoelpqWFVCQkVWTmRVNi16ZnYybVVTRlU5THFYbWFHU2tkOG9FVWhBZktNatIBZkFVX3lxTE56X2FZc3YxMEd0MzZPZDVDNEZhY2hNR3Mtb19KNEJycm5hdldYdmtNTk5JSkdBMlhWNk5XV2JMZ0lOSkE4aTh4TWxpdmVtTXMwSlNLQmoyUHZidkV3cG9CV3VzSWhEdw?oc=5",
@@ -202,25 +210,17 @@
           "package": ""
         },
         {
-          "text": "不再提抗中？黃暐瀚解析賴清德國慶談話：從親美抗中保台轉為親美保台",
-          "url": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxNVy1GUWwxaWJudkx1VklWZGtzc1ZWUUxhdTVreDdKU1FVemczeFNueHZ6UjlCRFNQejVPa2s0bkU3NVczRndDYlFvamV4eWxMUVd4NzQwREM1QWtCRG5vdGZUX0JuZTRfRVE4eUc1WXFoWjRwR1pNS2JqMVJneXVSNF9IVldma3hPdHYtY3VPalAzd0VDbVNsNm91NHJLb3A5WEtITDBaVGRjdUJwTVROSS1oU1BJVFpLQUJBZTVfejhRNFJyOVEtS1Z5aDNKME93dGxXSmtUZ2ZpbDlQdTRidlBOLTRZUGgtWURvRW9Ta1gtN3FwTEYzMzVtaG1GOVlTdU5Cd3Z3b0daZHBCNDdpZ0tUZTN1RzA1dXdGV2c4TkEwTWRhSWtwNnhkTjN5Vll6cGlFdEdSWHpoUGQtbUVvVjl1RTA4ZzRHWnEwNW9IZVlMQkRZZUhoMVc1eWptUW53VGpfZGVBaXZTREJuZlowbnVSUE5tc1BVMEhXai1DaWpmTk5QVnJmaC1JakNsNDJFd1BfYTFqWUhHdzNpZ2d1MlZ6X3VvWDY4dGlRQllfeXJ6NWw4bExyZlYtRXRtaFVTUUp6YUVXeXoyNHNLTFdUVWprZw?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxNVy1GUWwxaWJudkx1VklWZGtzc1ZWUUxhdTVreDdKU1FVemczeFNueHZ6UjlCRFNQejVPa2s0bkU3NVczRndDYlFvamV4eWxMUVd4NzQwREM1QWtCRG5vdGZUX0JuZTRfRVE4eUc1WXFoWjRwR1pNS2JqMVJneXVSNF9IVldma3hPdHYtY3VPalAzd0VDbVNsNm91NHJLb3A5WEtITDBaVGRjdUJwTVROSS1oU1BJVFpLQUJBZTVfejhRNFJyOVEtS1Z5aDNKME93dGxXSmtUZ2ZpbDlQdTRidlBOLTRZUGgtWURvRW9Ta1gtN3FwTEYzMzVtaG1GOVlTdU5Cd3Z3b0daZHBCNDdpZ0tUZTN1RzA1dXdGV2c4TkEwTWRhSWtwNnhkTjN5Vll6cGlFdEdSWHpoUGQtbUVvVjl1RTA4ZzRHWnEwNW9IZVlMQkRZZUhoMVc1eWptUW53VGpfZGVBaXZTREJuZlowbnVSUE5tc1BVMEhXai1DaWpmTk5QVnJmaC1JakNsNDJFd1BfYTFqWUhHdzNpZ2d1MlZ6X3VvWDY4dGlRQllfeXJ6NWw4bExyZlYtRXRtaFVTUUp6YUVXeXoyNHNLTFdUVWprZw?oc=5",
+          "text": "王世堅神曲〈沒出息〉兩岸爆紅網灌爆臉書：期待跟高嘉瑜組團- 政治",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kSkhrb2JqV0VXVEdNN0hYX2pyUjIxcXhIWEhQRXYxYTF6cHFkQkY2YmwzWkZZb2hiTG1acGxpSTdrQzBsS29PRzNKcnd6MFBNTG9DaHh5ZlMtWDR3Yjd4V3FiTU1lNGVtN2ZaM2F3?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kSkhrb2JqV0VXVEdNN0hYX2pyUjIxcXhIWEhQRXYxYTF6cHFkQkY2YmwzWkZZb2hiTG1acGxpSTdrQzBsS29PRzNKcnd6MFBNTG9DaHh5ZlMtWDR3Yjd4V3FiTU1lNGVtN2ZaM2F3?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "鳳林鎮長簽切結書無須國軍援助 花蓮名廚：把志工跟災民都當白痴？",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xVHZZck1jTE1kTTUyZFZhVWZPckJBXzVkTzFlODdBMlcyVEVFa2ZkS3NwNmRoY3U1MVZRNGJBZzZIalNmYlh6UzlIcVZCUlNmWWR2UU9fZFdBRE1xc0ZoMTFndk9SQ3B2ZUHSAW9BVV95cUxNb1M0YWduMmp5Z3NsZTVIUHZpRVQ0eUo3cGNIenljZmo1bEtSalhTSFNNeTBQSExRR081SXRHcDB6YjNXUEwzM0NzT2VtWjlvOUJjbnZzYWw3emEwbGZzbzN5WGtTclU2ZEZOdkxwX3c?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xVHZZck1jTE1kTTUyZFZhVWZPckJBXzVkTzFlODdBMlcyVEVFa2ZkS3NwNmRoY3U1MVZRNGJBZzZIalNmYlh6UzlIcVZCUlNmWWR2UU9fZFdBRE1xc0ZoMTFndk9SQ3B2ZUHSAW9BVV95cUxNb1M0YWduMmp5Z3NsZTVIUHZpRVQ0eUo3cGNIenljZmo1bEtSalhTSFNNeTBQSExRR081SXRHcDB6YjNXUEwzM0NzT2VtWjlvOUJjbnZzYWw3emEwbGZzbzN5WGtTclU2ZEZOdkxwX3c?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "軍公教退撫基金第9次精算報告數據曝光 3年負債增約20％",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RRzhTZllzUkIxckc0Y1o5R0hEVjFLRDV3WTZHbWQtNU1Iby1UTEF5a2FMYlRya3JJbUZ3MmgwcFNqdGJFal9hTVExRGR5SGJjTS1wNVM0ZmJPZllzTElKaHR4YVVyb29WVmfSAW9BVV95cUxQTVA2cFFqU0MzekxobE1peTZIbEJzSTVmbkwtQmIwMU5LeF94RElXVWxQV1ZPVjJab3pYcFBMWG4xaVlfVjV2Qk1wZzliTGdGTU1IS0ZUck9MUTI3b0ZoMWMtd2Y0VUpyaGZzUGRiNmc?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RRzhTZllzUkIxckc0Y1o5R0hEVjFLRDV3WTZHbWQtNU1Iby1UTEF5a2FMYlRya3JJbUZ3MmgwcFNqdGJFal9hTVExRGR5SGJjTS1wNVM0ZmJPZllzTElKaHR4YVVyb29WVmfSAW9BVV95cUxQTVA2cFFqU0MzekxobE1peTZIbEJzSTVmbkwtQmIwMU5LeF94RElXVWxQV1ZPVjJab3pYcFBMWG4xaVlfVjV2Qk1wZzliTGdGTU1IS0ZUck9MUTI3b0ZoMWMtd2Y0VUpyaGZzUGRiNmc?oc=5",
+          "text": "狂嗆劉世芳裝瞎　傅崐萁：天天栽贓花縣府！撤離災民由鄉鎮市公所負責",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBlbFVFY1drOFVfdU9ETWtMN0pmWVRveGVWalFrcWw1b01HUDhCZHRHc3oyMVNDcmRPLUdUSF83UGVFd2lmM1Nsam5naGRZaUNQeVIxaDBPOTB4Z2FaOEHSAWhBVV95cUxOelAyTXJzS2ZBR3VTdzJDbE9ud2tyRjhWUGhRTEdwLVBTVlM5bEpveUV3eXp5c2VjYmU3SFkweWFsQWZYdkFRWGRrZVRSRlp4dEF2VnhtVGZhMU9mbjI2TDE3NjlRcTVPbg?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBlbFVFY1drOFVfdU9ETWtMN0pmWVRveGVWalFrcWw1b01HUDhCZHRHc3oyMVNDcmRPLUdUSF83UGVFd2lmM1Nsam5naGRZaUNQeVIxaDBPOTB4Z2FaOEHSAWhBVV95cUxOelAyTXJzS2ZBR3VTdzJDbE9ud2tyRjhWUGhRTEdwLVBTVlM5bEpveUV3eXp5c2VjYmU3SFkweWFsQWZYdkFRWGRrZVRSRlp4dEF2VnhtVGZhMU9mbjI2TDE3NjlRcTVPbg?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -250,9 +250,9 @@
           "package": ""
         },
         {
-          "text": "後石破茂誰接首相變數大日3在野黨聯手可改朝換代- 國際",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1yMUhiQ0hIOUZQUnVKQmVYSXBLVzJnTkFjc3RFSUVPc1dnelJFelk3THNXWDhYWnZadTQtNGk5Q05ndnJ5dW9hWDVmbVEtVFp3Ni1rNGg3QXBDZXdKQnpMa2FVRmtXS0EzUng4WURR?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1yMUhiQ0hIOUZQUnVKQmVYSXBLVzJnTkFjc3RFSUVPc1dnelJFelk3THNXWDhYWnZadTQtNGk5Q05ndnJ5dW9hWDVmbVEtVFp3Ni1rNGg3QXBDZXdKQnpMa2FVRmtXS0EzUng4WURR?oc=5",
+          "text": "高市早苗問鼎首相生變？陳鳳馨點出經濟觀察指標：財政赤字擴大恐引疑慮",
+          "url": "https://news.google.com/rss/articles/CBMiygNBVV95cUxPNzJqdmZIV211MDlsU0JFN19mNzdmQm1mRnRTcDE4blhCSVdLZXNRZU5QcUNCM0NlRE5hTlF2RnBES1RWOE9NbzAyTnh6Zk04STZHM3hZdFEzQ0t0bV8xVUZKUGYyR2dQZHdVSC1BenhWWmh4ejM2eTgtMkZ2aktaWlpFQUZPYTRRRVpwc2p6b01YV3JITmxGT1VVa054dDJnY21xTEpfdFJhUEtQSG9CdFNOOW9SM2RyYVA0cVhxc19INWdrVHdLYXlZT2NJY1NQTktSb0pHTDF4TjRLLW8wdW5rQkUwb1BYNnRfQmY4VUk2WDlKLWVZVnFFcVFtNktyenhrQmFySlkxVjRSZjk4OEZCT3pqdF9zUjhfYUpKLWEzZGpmUk9IX1Nfaks4WlppQVlFY1czLWZ1QURuN1JDeXdYRnhmNjBMMnhwMXZfSnlVRURCQmZCOFJoLUd6RG9WbWpRRzZRMGJQYXlycnZ4S2JDWldmT1RPWGtTTzZWVm1RTEZEbEg2NHlOZHJ3V3JjTU9wZEtzR3JTNVo3bVBEZHFmenkyZHhKVHpVWEJiRGxiempIdE4xZzBjR2dJaENnOWZlTWtVeHlqZw?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiygNBVV95cUxPNzJqdmZIV211MDlsU0JFN19mNzdmQm1mRnRTcDE4blhCSVdLZXNRZU5QcUNCM0NlRE5hTlF2RnBES1RWOE9NbzAyTnh6Zk04STZHM3hZdFEzQ0t0bV8xVUZKUGYyR2dQZHdVSC1BenhWWmh4ejM2eTgtMkZ2aktaWlpFQUZPYTRRRVpwc2p6b01YV3JITmxGT1VVa054dDJnY21xTEpfdFJhUEtQSG9CdFNOOW9SM2RyYVA0cVhxc19INWdrVHdLYXlZT2NJY1NQTktSb0pHTDF4TjRLLW8wdW5rQkUwb1BYNnRfQmY4VUk2WDlKLWVZVnFFcVFtNktyenhrQmFySlkxVjRSZjk4OEZCT3pqdF9zUjhfYUpKLWEzZGpmUk9IX1Nfaks4WlppQVlFY1czLWZ1QURuN1JDeXdYRnhmNjBMMnhwMXZfSnlVRURCQmZCOFJoLUd6RG9WbWpRRzZRMGJQYXlycnZ4S2JDWldmT1RPWGtTTzZWVm1RTEZEbEg2NHlOZHJ3V3JjTU9wZEtzR3JTNVo3bVBEZHFmenkyZHhKVHpVWEJiRGxiempIdE4xZzBjR2dJaENnOWZlTWtVeHlqZw?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -273,6 +273,6 @@
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 12,
+  "cost": 29,
   "status": 0
 }
