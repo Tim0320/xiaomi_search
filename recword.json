@@ -15,14 +15,6 @@
       "link_type": "app",
       "data": [
         {
-          "text": "Blackpink 高雄",
-          "url": "https://tw.search.yahoo.com/search?p=Blackpink+%E9%AB%98%E9%9B%84&amp;fr=ush-bt1",
-          "h5_url": "https://tw.search.yahoo.com/search?p=Blackpink+%E9%AB%98%E9%9B%84&amp;fr=ush-bt1",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_yahoo",
-          "package": ""
-        },
-        {
           "text": "Yahoo財經大人物",
           "url": "https://tw.news.yahoo.com/topic/CEO-interview",
           "h5_url": "https://tw.news.yahoo.com/topic/CEO-interview",
@@ -133,6 +125,14 @@
           "appIconUrl": "",
           "sourceUniqueId": "content_yahoo",
           "package": ""
+        },
+        {
+          "text": "鄭麗文昔重話轟柯文哲 黃國昌：早就翻頁",
+          "url": "https://tw.news.yahoo.com/%E8%97%8D%E7%99%BD%E8%83%BD%E5%90%88-%E9%84%AD%E9%BA%97%E6%96%87%E6%98%94%E8%BD%9F%E6%9F%AF-%E6%AF%94%E5%9E%83%E5%9C%BE%E9%82%84%E4%B8%8D%E5%A6%82-%E9%BB%83%E5%9C%8B%E6%98%8C-%E6%97%A9%E5%B0%B1%E7%BF%BB%E9%A0%81-051214489.html",
+          "h5_url": "https://tw.news.yahoo.com/%E8%97%8D%E7%99%BD%E8%83%BD%E5%90%88-%E9%84%AD%E9%BA%97%E6%96%87%E6%98%94%E8%BD%9F%E6%9F%AF-%E6%AF%94%E5%9E%83%E5%9C%BE%E9%82%84%E4%B8%8D%E5%A6%82-%E9%BB%83%E5%9C%8B%E6%98%8C-%E6%97%A9%E5%B0%B1%E7%BF%BB%E9%A0%81-051214489.html",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_yahoo",
+          "package": ""
         }
       ],
       "selectedStatus": false,
@@ -154,14 +154,6 @@
           "package": ""
         },
         {
-          "text": "北東豪雨連下一周　風神颱風共伴效應「明後天最劇烈」",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5hVXd6eFFERFQyQURON3MxMjhnVjl6WTZ1cTBNWU9zOGtkZFdDYW9abWxNemxpYkxDYkhEZ3JoV3JpRkViR0RfVUg0YUFlNTNVTXRYRzVjV2tZa0pJbUHSAWhBVV95cUxPT0toQ2ZTaEthYUg4ZXRnV1d1Mmo4d01UTEM4azlKZnJLeFRmVGw4Z09pU1IwUzZPUERuUklTbHFPS2I4VkxfMjRXSEZiS1pGSHQ1cnRXLXYyWEJ6bHMzc2hHR0J5TnZReA?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5hVXd6eFFERFQyQURON3MxMjhnVjl6WTZ1cTBNWU9zOGtkZFdDYW9abWxNemxpYkxDYkhEZ3JoV3JpRkViR0RfVUg0YUFlNTNVTXRYRzVjV2tZa0pJbUHSAWhBVV95cUxPT0toQ2ZTaEthYUg4ZXRnV1d1Mmo4d01UTEM4azlKZnJLeFRmVGw4Z09pU1IwUzZPUERuUklTbHFPS2I4VkxfMjRXSEZiS1pGSHQ1cnRXLXYyWEJ6bHMzc2hHR0J5TnZReA?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
           "text": "李四川：新壽若不提合意解約條件 24日啟動輝達總部備案",
           "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQUWsyT0VCWGx2VlRfeC1zOE44YUdmaWxIR3E4MkNFdWNKS2dhSUNYX01sWTRnWm8yUnMwSlkzOEpHWVRWVllsRUFCZzBrX0loVU5ZNFhtZUhmMXh2eFFGZzFUMkZaVEZFOTZUaFlSSkFudjZBOVVWTHZGQWdEazZha3RXcHVCUk8yWmk0SGc5VU5kbERVcjFIeEtJUU5uOVpDOWIxNE1VcnFpeF9HS3FzMjhYbDRJY0dodHJ6YllmM0YtVE80MzRZTzM2WnRHdG1Eb3o3WVhPN1BGSWN4bGgycHBmYVhZSWxxUEdPcTRvc2EzUzBQV2lLek1Ic29CNXVTX05ZWERDcldGRUNid3luWGpZS0tNNlNTZTU4bWJOWkRRR0ktbXpNZXRTZVhYdW9zYkhvUW1raU9RaTZxNmJRclNyTHdzOVVOeVFaUjBPM1p3ZVREQnRfc1VZemRDMmxJcXBZZG5qU3R2NG4tOWdCbHNRejc1Vkk?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQUWsyT0VCWGx2VlRfeC1zOE44YUdmaWxIR3E4MkNFdWNKS2dhSUNYX01sWTRnWm8yUnMwSlkzOEpHWVRWVllsRUFCZzBrX0loVU5ZNFhtZUhmMXh2eFFGZzFUMkZaVEZFOTZUaFlSSkFudjZBOVVWTHZGQWdEazZha3RXcHVCUk8yWmk0SGc5VU5kbERVcjFIeEtJUU5uOVpDOWIxNE1VcnFpeF9HS3FzMjhYbDRJY0dodHJ6YllmM0YtVE80MzRZTzM2WnRHdG1Eb3o3WVhPN1BGSWN4bGgycHBmYVhZSWxxUEdPcTRvc2EzUzBQV2lLek1Ic29CNXVTX05ZWERDcldGRUNid3luWGpZS0tNNlNTZTU4bWJOWkRRR0ktbXpNZXRTZVhYdW9zYkhvUW1raU9RaTZxNmJRclNyTHdzOVVOeVFaUjBPM1p3ZVREQnRfc1VZemRDMmxJcXBZZG5qU3R2NG4tOWdCbHNRejc1Vkk?oc=5",
@@ -170,33 +162,49 @@
           "package": ""
         },
         {
-          "text": "更新／羅浮宮9件拿破崙與皇后珠寶失竊 蒙面竊賊團7分鐘得手",
-          "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNdm9fZzdXYlVfNFRtWHV5YWE4WTVvc1JTS0habV9HcFVyVnUzbzZ4VldMOEVxenRsczhrcG1UWUN2bUtya2s1RmJncDVGTmpjRUdaT0dsd1hLbWpiMS0xMDA5Z1Z1dXgzQkVxb3phbFZXeVdaNlRkSEZoMlJhbk9ORUVtY1FCd2lXOHVDQ25HbHF1dldqOEpwdHBZZXZCMjl0Q1ZOMm90MUl5amVPQmdhUjlyVW83WUx3MUFHTnRLQ0FxOU5rWEJBbHBSbURuRzdwaVdxX1VwYkRMLWw1dU91RHM5d1lGUDhXcTlXcXFDcUVQakhNeEhUd0hnS2tMS2hvZXU2aXpDV0llWmdIWnFKODVDYTR6SVNhWldGT1ZlT1FwRl9OU1F1NlJWY0tnTElSQnc2a2gzWmdqVldPd19RXzhSZzd0YjR2dUY5Nll6THpBQUlYeGZySEZDMmsxLUFDVk1wLS1mbE5BMURndGs4dkpMVWhacWkzOWxaV2ZMSXZHQQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNdm9fZzdXYlVfNFRtWHV5YWE4WTVvc1JTS0habV9HcFVyVnUzbzZ4VldMOEVxenRsczhrcG1UWUN2bUtya2s1RmJncDVGTmpjRUdaT0dsd1hLbWpiMS0xMDA5Z1Z1dXgzQkVxb3phbFZXeVdaNlRkSEZoMlJhbk9ORUVtY1FCd2lXOHVDQ25HbHF1dldqOEpwdHBZZXZCMjl0Q1ZOMm90MUl5amVPQmdhUjlyVW83WUx3MUFHTnRLQ0FxOU5rWEJBbHBSbURuRzdwaVdxX1VwYkRMLWw1dU91RHM5d1lGUDhXcTlXcXFDcUVQakhNeEhUd0hnS2tMS2hvZXU2aXpDV0llWmdIWnFKODVDYTR6SVNhWldGT1ZlT1FwRl9OU1F1NlJWY0tnTElSQnc2a2gzWmdqVldPd19RXzhSZzd0YjR2dUY5Nll6THpBQUlYeGZySEZDMmsxLUFDVk1wLS1mbE5BMURndGs4dkpMVWhacWkzOWxaV2ZMSXZHQQ?oc=5",
+          "text": "「日系帥男粉」朝聖BP高雄演唱會竟是梁文傑！私下反差逼瘋網：居然",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ac0JCM2d2VlJfcEhydzVEU0VTNVQ2SEs1TkVTZDRtaVhqYzNLNGI4dVlPT3puN19GbWFFa1pIRWpxOXl1cU5uOU1EWW1VZjdPVlJCQ0R4NUt2OUJQd0JDSQ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ac0JCM2d2VlJfcEhydzVEU0VTNVQ2SEs1TkVTZDRtaVhqYzNLNGI4dVlPT3puN19GbWFFa1pIRWpxOXl1cU5uOU1EWW1VZjdPVlJCQ0R4NUt2OUJQd0JDSQ?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "太魯閣為300公尺堰塞湖封3000公尺園區掀爭議 登山部落客批昏庸蠻橫",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5SdUZSeEJQTG5xZTZyN2xFYnBUazdKLWx4VkVhZnBOR0lvV0FhZ3NROFcydEJES2dXUnlSWTZ4ckZDcWYycEVWRC1aREhLZ1dCbUZB0gFYQVVfeXFMTU91b0R4MERGTl9qUkJnSFlhcWd2ZE9IY0VIOGZiSGoxb3UwR3NSc1hLUzczaVFUWFZ1ZkpNRXJ6VGFVc2FEajVneVY0UzZFV0prb1doQkdKNA?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5SdUZSeEJQTG5xZTZyN2xFYnBUazdKLWx4VkVhZnBOR0lvV0FhZ3NROFcydEJES2dXUnlSWTZ4ckZDcWYycEVWRC1aREhLZ1dCbUZB0gFYQVVfeXFMTU91b0R4MERGTl9qUkJnSFlhcWd2ZE9IY0VIOGZiSGoxb3UwR3NSc1hLUzczaVFUWFZ1ZkpNRXJ6VGFVc2FEajVneVY0UzZFV0prb1doQkdKNA?oc=5",
+          "text": "羅浮宮發生搶案急封鎖閉館 傳三名蒙面搶匪劫走9件珠寶",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRb3l3Q0dnWU9OQzF3ZlZwRUNBSEJPVzJ0WEFXWmNzR0dSbkNkaXNsOXNRcTUtNGpuSzVsbTFEUE9hYjFhdGtqT29CRDMtbGxx0gFWQVVfeXFMTm1sWHhxRG1NSnlHZURTN2MyNnk2VGt0dzhNTnRCX1VzQlNtVnBIQU5Zd1F3Q2JkekIxTjZkMXZLYWtZdFVCeUs4MFRFUll6RXRoRi1Hbnc?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRb3l3Q0dnWU9OQzF3ZlZwRUNBSEJPVzJ0WEFXWmNzR0dSbkNkaXNsOXNRcTUtNGpuSzVsbTFEUE9hYjFhdGtqT29CRDMtbGxx0gFWQVVfeXFMTm1sWHhxRG1NSnlHZURTN2MyNnk2VGt0dzhNTnRCX1VzQlNtVnBIQU5Zd1F3Q2JkekIxTjZkMXZLYWtZdFVCeUs4MFRFUll6RXRoRi1Hbnc?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "特稿／BLACKPINK重返高雄！2年氣氛大反轉　從混亂戰場變奇蹟現場",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5hc1JDbHlnU1hrLXhvd0RaYVRUbF9nUmxBYW1MdktyY0ZLN2lZQ2RpTUJXWTV4T0dtT1FCc1lnb1JkbUI1VHo2bzR3bkjSAVJBVV95cUxQX3VXTHBxTXZPU1ZGWW9ENkk3aGFHSlhsNkxDckhId2JMTGpxWHdZWUZITUVWYVp2QmRkQ0dueXBzb1BSQVRiaWt2VGVpbldqQTln?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5hc1JDbHlnU1hrLXhvd0RaYVRUbF9nUmxBYW1MdktyY0ZLN2lZQ2RpTUJXWTV4T0dtT1FCc1lnb1JkbUI1VHo2bzR3bkjSAVJBVV95cUxQX3VXTHBxTXZPU1ZGWW9ENkk3aGFHSlhsNkxDckhId2JMTGpxWHdZWUZITUVWYVp2QmRkQ0dueXBzb1BSQVRiaWt2VGVpbldqQTln?oc=5",
+          "text": "燕子口堰塞湖維持紅色警戒！壩頂緩慢出水　下游居民速返家取物",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBQY3NWUFdUd3RVaktjakl3cHZxeTlKTlV2WHk4TnhpQk9zSFVnNWtSWmgzMW1aTXMwUV9FTkJlZVlxYWswUU9NQWR6VHROODZyMWF2TklTbWh3ZHRWVWfSAWhBVV95cUxOUzd3emxFa2ZJRk5iWEtsZ0JMZHc2LTRQckFCWk1vQ1FwRGJ5NHdFTElnbS1KU2RoNFBLUFVWY3E2N2k4SGlpQWlteXE4ZnBDQVlWSUo5bmtrZldKWU53MUNJajJEdGotYw?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBQY3NWUFdUd3RVaktjakl3cHZxeTlKTlV2WHk4TnhpQk9zSFVnNWtSWmgzMW1aTXMwUV9FTkJlZVlxYWswUU9NQWR6VHROODZyMWF2TklTbWh3ZHRWVWfSAWhBVV95cUxOUzd3emxFa2ZJRk5iWEtsZ0JMZHc2LTRQckFCWk1vQ1FwRGJ5NHdFTElnbS1KU2RoNFBLUFVWY3E2N2k4SGlpQWlteXE4ZnBDQVlWSUo5bmtrZldKWU53MUNJajJEdGotYw?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "趙少康怒斥以後綠說中共介選藍沒話講 網發現「她」聽到後臉超臭！",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RdFVJVW9MU2hwcWVwSmFnMWlJZDg5MHZfQ2l4WmNXVjZYX0xKZGJScU1JV0tEb0MzVWNqOHJ5MG1WWVBzT05JS0JLTHVMcV83LWFibS13MTlpYUVSbEdSQmkwclhTUGY4SXfSAW9BVV95cUxQaFJpNWppamF3Y2F2U3h6S1lyVV9vQkFKZnNHT0hPYWc4ZHJPTXFVN1RGR3Q1emtsY0xZWU1LeUdBNC1KTGc1dElnazk4b3dIc1Bxd04yZHU2SDlVRElOT1k5RXhKc190S280elZzQzg?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RdFVJVW9MU2hwcWVwSmFnMWlJZDg5MHZfQ2l4WmNXVjZYX0xKZGJScU1JV0tEb0MzVWNqOHJ5MG1WWVBzT05JS0JLTHVMcV83LWFibS13MTlpYUVSbEdSQmkwclhTUGY4SXfSAW9BVV95cUxQaFJpNWppamF3Y2F2U3h6S1lyVV9vQkFKZnNHT0hPYWc4ZHJPTXFVN1RGR3Q1emtsY0xZWU1LeUdBNC1KTGc1dElnazk4b3dIc1Bxd04yZHU2SDlVRElOT1k5RXhKc190S280elZzQzg?oc=5",
+          "text": "風神颱風共伴效應6縣市豪、大雨特報 颱風論壇：下午北、東雨更大",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4V3Y3ejVFbDRRMk1zemRpMnhKNS00RFlEZG1yb2dsMzNkbmR4Mm1EYlBlZXRwUXJ3dDUtaWt1YkRCQ0h2VHV3SXA1Vzc1elBiM0poNFE1ak5CVXd6ZGNOR0x4cWnSAWpBVV95cUxOVkZmenR3WnYtbkhlVmdDVkI4M095d045Y3l2Mm1OeGNqVUd3TWtmcllmSXhlNzYzdW05WVY5Rmt4Skd3M01FMFk3NGV3UHEtZHpNUWhxTFZMeGNUem1BTThEbTl6THNTb2JB?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4V3Y3ejVFbDRRMk1zemRpMnhKNS00RFlEZG1yb2dsMzNkbmR4Mm1EYlBlZXRwUXJ3dDUtaWt1YkRCQ0h2VHV3SXA1Vzc1elBiM0poNFE1ak5CVXd6ZGNOR0x4cWnSAWpBVV95cUxOVkZmenR3WnYtbkhlVmdDVkI4M095d045Y3l2Mm1OeGNqVUd3TWtmcllmSXhlNzYzdW05WVY5Rmt4Skd3M01FMFk3NGV3UHEtZHpNUWhxTFZMeGNUem1BTThEbTl6THNTb2JB?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "鄭麗文當選國民黨主席遭指北京介選 府：盼各黨領袖以國家利益優先",
+          "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxOeHE2YVRMVkJxSmdOM2s5bk5BWjFIeVNJcGhObmdadG92VWtWUllkZ2h0M3FOekNXTFRqY1NqUkJyTUtzdkRpYVVrVlk5eldTeWFQRjh6UF9iNDA5WWE5cTRFd0k4dzJNVUdqQjRTeW9Ccmc5bG5oUFBOVTJ4bzdVVnlaalJDOTdNNzh3eHE3d3lNUXJzZmZhaExma1pMZ1liLUpyWjVWS3hPb3hsendmWWE1TVUyWkRBM012SGFkUEtsaVhsOXFEMHFDTWVEZF9FTW9nOC1LYkRaNWZnS1JuWWJhbjg0U0VLV19JcnRPbDAtMXB3TG1TNHg0RDFDTlVPOHltSTczd1pWSlZiaTZMQXFHWVprc0M5WVNQRVhpRkNLWFdsSnNwbHV0MF9GWWlzSHY5M3NWbHR6WWU2aS0yb0VFTXg5NkJRcjdSVF9NdFY0MmZrb3RIWGl2c2k1WHhyWkdzRzBpSjZadDh4VS1Vc0NNWWhVeXBUa2pkUGZNU3NxUnVjS3dFOW5vSFNKS3l3U0FNYk4zTnZuS2hwRk5kd3NLU1dwQk1EWEJXbTh6MVoyZHg2V1MtWXpNeTI?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMivANBVV95cUxOeHE2YVRMVkJxSmdOM2s5bk5BWjFIeVNJcGhObmdadG92VWtWUllkZ2h0M3FOekNXTFRqY1NqUkJyTUtzdkRpYVVrVlk5eldTeWFQRjh6UF9iNDA5WWE5cTRFd0k4dzJNVUdqQjRTeW9Ccmc5bG5oUFBOVTJ4bzdVVnlaalJDOTdNNzh3eHE3d3lNUXJzZmZhaExma1pMZ1liLUpyWjVWS3hPb3hsendmWWE1TVUyWkRBM012SGFkUEtsaVhsOXFEMHFDTWVEZF9FTW9nOC1LYkRaNWZnS1JuWWJhbjg0U0VLV19JcnRPbDAtMXB3TG1TNHg0RDFDTlVPOHltSTczd1pWSlZiaTZMQXFHWVprc0M5WVNQRVhpRkNLWFdsSnNwbHV0MF9GWWlzSHY5M3NWbHR6WWU2aS0yb0VFTXg5NkJRcjdSVF9NdFY0MmZrb3RIWGl2c2k1WHhyWkdzRzBpSjZadDh4VS1Vc0NNWWhVeXBUa2pkUGZNU3NxUnVjS3dFOW5vSFNKS3l3U0FNYk4zTnZuS2hwRk5kd3NLU1dwQk1EWEJXbTh6MVoyZHg2V1MtWXpNeTI?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "名家分享～邱萬興》鄭麗文不是新潮流的人馬",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1DRWdWLU5CanRLdVBoSV85YzRyUG5pX1A0OTFhLWRyZC1ZX0p4Y240T05tZUxrTUdvbHZ2bzdvWFVFakZCdGpYaVpaY29oMU1FRFVuSVR1WlZpbS1EaldZbjNR0gFnQVVfeXFMTzNkUjhQTGlGNDZlU3BLaVh5V1dVbDIzN3o1MkJpOFhlTDdEdG5IRTBHblN1TzJ0MG1sR0VoWEIwOWRINnl1elhEa0IxblB0SmdLUEZHejgteHF0a1lFX1lBbEx0YXBzbw?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1DRWdWLU5CanRLdVBoSV85YzRyUG5pX1A0OTFhLWRyZC1ZX0p4Y240T05tZUxrTUdvbHZ2bzdvWFVFakZCdGpYaVpaY29oMU1FRFVuSVR1WlZpbS1EaldZbjNR0gFnQVVfeXFMTzNkUjhQTGlGNDZlU3BLaVh5V1dVbDIzN3o1MkJpOFhlTDdEdG5IRTBHblN1TzJ0MG1sR0VoWEIwOWRINnl1elhEa0IxblB0SmdLUEZHejgteHF0a1lFX1lBbEx0YXBzbw?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -210,9 +218,17 @@
           "package": ""
         },
         {
-          "text": "林右昌2026北市對決蔣萬安？高嘉瑜曝1大隱憂：綠營最強人選是他 | 張庭維",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAyWGp1dEJoTnpYT1B1ZlJaWUtGVW5ILS0zaGVwRkdDRGcyb09ISGZGSzdwRlV4dk5abU53Tl9WdUVZckR2bUwzdGJmU1o2Zw?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAyWGp1dEJoTnpYT1B1ZlJaWUtGVW5ILS0zaGVwRkdDRGcyb09ISGZGSzdwRlV4dk5abU53Tl9WdUVZckR2bUwzdGJmU1o2Zw?oc=5",
+          "text": "林右昌若出戰2026台北市長會贏？高嘉瑜揭關鍵隱憂- 政治",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8ycldwR3htcE9KMDNJbzFlZmZxWlRERl9GZk1RTnlsV2Q1VldJanN3Q0xHLWJDV3kwWU5DME5rcWljNXRraXYtcGZUbmQ1RS1vNXdCQXUzd0JvVkdDN3ZrdWJEUDEyZ3dBcmc4YVR3?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8ycldwR3htcE9KMDNJbzFlZmZxWlRERl9GZk1RTnlsV2Q1VldJanN3Q0xHLWJDV3kwWU5DME5rcWljNXRraXYtcGZUbmQ1RS1vNXdCQXUzd0JvVkdDN3ZrdWJEUDEyZ3dBcmc4YVR3?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "反特朗普集會席捲美國，「不要國王」示威吸引大批民群",
+          "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQcjBrUmVsTGpKdDVRUmd4N2ZLa09wLUJ5dmRTSVJMeWxCLWZ1RzJFdWpkejdLZ3g4N1E0bEJ3VVZ6S1FSREpzaTZBNzZCOUFLbWVzNlZac0xrMDFFaGxBSTQ5NXpZOWE0T2FEaEdKOVJjT0R1WFBPdmJOZnhNUUZiMWJ5MWltY1dGWG1wMmJ5WGhBWHU4QmJwSC1xa0ZEZ0oxRENBcmt2a2V0Wk04Tk1qdE9KcDIwSkp1VXdOdlhHQlRfRHNZM3E0S3c4M3B2YTJvbUlBYXVvX2oxQUtfWHNSQTdrek81aTdjYjBleFlrLXloOWhJLVVKTWpmdklsV3N6R2dhRGthWG5MS2NPRXdwMVdHSVNpeXpJRGZfSlc4N2VuZXZRM0ZBa3JKSUpVazlUbXBmMmQzUDZMSnZhYUgyY2hmMFZwZGJRTkU5NUNyWU1RMjlzX0dCbkVGM0RnUQ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQcjBrUmVsTGpKdDVRUmd4N2ZLa09wLUJ5dmRTSVJMeWxCLWZ1RzJFdWpkejdLZ3g4N1E0bEJ3VVZ6S1FSREpzaTZBNzZCOUFLbWVzNlZac0xrMDFFaGxBSTQ5NXpZOWE0T2FEaEdKOVJjT0R1WFBPdmJOZnhNUUZiMWJ5MWltY1dGWG1wMmJ5WGhBWHU4QmJwSC1xa0ZEZ0oxRENBcmt2a2V0Wk04Tk1qdE9KcDIwSkp1VXdOdlhHQlRfRHNZM3E0S3c4M3B2YTJvbUlBYXVvX2oxQUtfWHNSQTdrek81aTdjYjBleFlrLXloOWhJLVVKTWpmdklsV3N6R2dhRGthWG5MS2NPRXdwMVdHSVNpeXpJRGZfSlc4N2VuZXZRM0ZBa3JKSUpVazlUbXBmMmQzUDZMSnZhYUgyY2hmMFZwZGJRTkU5NUNyWU1RMjlzX0dCbkVGM0RnUQ?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -242,25 +258,9 @@
           "package": ""
         },
         {
-          "text": "日媒：維新會與自民黨合作不入閣「自維政權」大致底定",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1MakJvSlZqWm1Fdk5lcm5rYkRvRkxjNUFxT09xREJ1dkJtZ29RVDRqYzgzS3E1aHNnRGJzOG1iSGIyOW4yMzhwWk50cVBzT2xrOW1YMkNGRE5FdF8weWxV?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1MakJvSlZqWm1Fdk5lcm5rYkRvRkxjNUFxT09xREJ1dkJtZ29RVDRqYzgzS3E1aHNnRGJzOG1iSGIyOW4yMzhwWk50cVBzT2xrOW1YMkNGRE5FdF8weWxV?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
           "text": "金價暴衝不只靠全球央行買盤 揭密背後「動能交易者」",
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Nd3JOZVUzcG1UN0NVZGlibkw0ZVNWenhJTE04bVpMMDJUREtrbThSYVdlUGlPZW40RnVmemJFelAxNHpfME5aRmIyc2R6di1YVi1fODBzWQ?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Nd3JOZVUzcG1UN0NVZGlibkw0ZVNWenhJTE04bVpMMDJUREtrbThSYVdlUGlPZW40RnVmemJFelAxNHpfME5aRmIyc2R6di1YVi1fODBzWQ?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "DDR4結構性缺貨 華邦電明年營收戰千億元 規劃新一輪擴產",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBxaDFoWjBxNEFIbmJFa0dvdUg0d1oxbFU5ZS1EUmtDZVRRUzdzQlpTWTRUSmxKX0V3UjRzdXlpQzlNQUgtanl0TE1ZXzg0NjA?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBxaDFoWjBxNEFIbmJFa0dvdUg0d1oxbFU5ZS1EUmtDZVRRUzdzQlpTWTRUSmxKX0V3UjRzdXlpQzlNQUgtanl0TE1ZXzg0NjA?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -273,6 +273,6 @@
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 11,
+  "cost": 13,
   "status": 0
 }
