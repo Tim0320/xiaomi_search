@@ -15,6 +15,14 @@
       "link_type": "app",
       "data": [
         {
+          "text": "鄭麗文當選國民黨主席",
+          "url": "https://tw.news.yahoo.com/topic/kmt-election",
+          "h5_url": "https://tw.news.yahoo.com/topic/kmt-election",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_yahoo",
+          "package": ""
+        },
+        {
           "text": "Yahoo財經大人物",
           "url": "https://tw.news.yahoo.com/topic/CEO-interview",
           "h5_url": "https://tw.news.yahoo.com/topic/CEO-interview",
@@ -125,14 +133,6 @@
           "appIconUrl": "",
           "sourceUniqueId": "content_yahoo",
           "package": ""
-        },
-        {
-          "text": "回習賀電 鄭麗文：堅持九二共識、反台獨",
-          "url": "https://tw.news.yahoo.com/%E9%84%AD%E9%BA%97%E6%96%87-%E5%A0%85%E6%8C%81%E4%B9%9D%E4%BA%8C%E5%85%B1%E8%AD%98-%E5%8F%8D%E5%8F%B0%E7%8D%A8-201000027.html",
-          "h5_url": "https://tw.news.yahoo.com/%E9%84%AD%E9%BA%97%E6%96%87-%E5%A0%85%E6%8C%81%E4%B9%9D%E4%BA%8C%E5%85%B1%E8%AD%98-%E5%8F%8D%E5%8F%B0%E7%8D%A8-201000027.html",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_yahoo",
-          "package": ""
         }
       ],
       "selectedStatus": false,
@@ -162,14 +162,6 @@
           "package": ""
         },
         {
-          "text": "快訊／阿聯酋航空貨機「香港機場衝出跑道墜海」！　至少2死",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtbjVYMEQ4cmxoaXFrVnFxYjQ5SDExa05RVG1XbldUdV9Xd2ZobEpkRUlOV0ZIdS0xR2lIZjNGbTRjMkFGM0o2OEpmOWg5eW1WSkNxY1Q2TGxTWWM4S3fSAWhBVV95cUxPaFl0Zm9DVW5ZQ3Bld0p5TTJSWEN2S1d4bUNYajlnQno5NzluTFBJbmY0NG5tQVM2bHgtOXptUDgwV09YWXFSWURJTUFkZEVQSlg4VklhcEQ1a3l0OHpWVm5BN1BmM1JsZw?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtbjVYMEQ4cmxoaXFrVnFxYjQ5SDExa05RVG1XbldUdV9Xd2ZobEpkRUlOV0ZIdS0xR2lIZjNGbTRjMkFGM0o2OEpmOWg5eW1WSkNxY1Q2TGxTWWM4S3fSAWhBVV95cUxPaFl0Zm9DVW5ZQ3Bld0p5TTJSWEN2S1d4bUNYajlnQno5NzluTFBJbmY0NG5tQVM2bHgtOXptUDgwV09YWXFSWURJTUFkZEVQSlg4VklhcEQ1a3l0OHpWVm5BN1BmM1JsZw?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
           "text": "上校局長涉竊密2／局長下令編預算「有機會騙就要騙」　下屬怕出事自保手段曝光",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9saFBFU00xaWEtcFFUTzFIT05GdGxmVHNiaVlLWldXS1Jlb0Nlb3NQUklyZEowdkNROHhNQWhXVURMMzBvTGd4TnU5Mm85Tnl4Z1h3U0E0YllSOUHSAWBBVV95cUxPcVBvdndVa09CNDFWMFFrLU5rdmJQTHRYZkt1V0NyYmF4WklaM3hUa2M1allzeVRnbWcxVENXUlFvTHhaVnJMbUVfbHR6Ri1XRlAyc1R3OFY3QnMzZzZBSm8?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9saFBFU00xaWEtcFFUTzFIT05GdGxmVHNiaVlLWldXS1Jlb0Nlb3NQUklyZEowdkNROHhNQWhXVURMMzBvTGd4TnU5Mm85Tnl4Z1h3U0E0YllSOUHSAWBBVV95cUxPcVBvdndVa09CNDFWMFFrLU5rdmJQTHRYZkt1V0NyYmF4WklaM3hUa2M1allzeVRnbWcxVENXUlFvTHhaVnJMbUVfbHR6Ri1XRlAyc1R3OFY3QnMzZzZBSm8?oc=5",
@@ -178,9 +170,17 @@
           "package": ""
         },
         {
-          "text": "太魯閣為300公尺堰塞湖封3000公尺園區掀爭議 登山部落客批昏庸蠻橫",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5SdUZSeEJQTG5xZTZyN2xFYnBUazdKLWx4VkVhZnBOR0lvV0FhZ3NROFcydEJES2dXUnlSWTZ4ckZDcWYycEVWRC1aREhLZ1dCbUZB0gFYQVVfeXFMTU91b0R4MERGTl9qUkJnSFlhcWd2ZE9IY0VIOGZiSGoxb3UwR3NSc1hLUzczaVFUWFZ1ZkpNRXJ6VGFVc2FEajVneVY0UzZFV0prb1doQkdKNA?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5SdUZSeEJQTG5xZTZyN2xFYnBUazdKLWx4VkVhZnBOR0lvV0FhZ3NROFcydEJES2dXUnlSWTZ4ckZDcWYycEVWRC1aREhLZ1dCbUZB0gFYQVVfeXFMTU91b0R4MERGTl9qUkJnSFlhcWd2ZE9IY0VIOGZiSGoxb3UwR3NSc1hLUzczaVFUWFZ1ZkpNRXJ6VGFVc2FEajVneVY0UzZFV0prb1doQkdKNA?oc=5",
+          "text": "燕子口堰塞湖「早有2次前例」　1地標淹入湖中看不到了",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5pSVNhZVJPRVZiWWs4b0lodlVvRTNDNlhSTVhELWZWdTBTbFMtMVA4ckFIZ0gybTQzdjAyTXhmX25BbVBzMzAyc0MzWlg2alJ5OEg0RXk1RU9EVm4xTFHSAWhBVV95cUxQb3RDZGQ3LUhFcy1tRFlleDkxSzB0eFM3Mldnclk3aFprVm5qSlROaThxU0wxQmlSSDNJaWgzdDRVNnpGQlB2cFk2a0N5Y19IZ01nbWROWVZzN2JfSWVHVmpjRld0dmlpSA?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5pSVNhZVJPRVZiWWs4b0lodlVvRTNDNlhSTVhELWZWdTBTbFMtMVA4ckFIZ0gybTQzdjAyTXhmX25BbVBzMzAyc0MzWlg2alJ5OEg0RXk1RU9EVm4xTFHSAWhBVV95cUxQb3RDZGQ3LUhFcy1tRFlleDkxSzB0eFM3Mldnclk3aFprVm5qSlROaThxU0wxQmlSSDNJaWgzdDRVNnpGQlB2cFk2a0N5Y19IZ01nbWROWVZzN2JfSWVHVmpjRld0dmlpSA?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "新北深夜暴雨突襲多處淹水　中和人傻眼曝「水灌家中」慘況",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9uU1dmdmlXQmdLVVBFaVRSQXB6eFZtekxEaWFadS1OT2E4UGJiaTdBbm9FZG1lN2g2T3cxa2FqOEtBZDVXSTR6NENCTHVkeE9jQXpmT3VnU19yT0hNLVHSAWhBVV95cUxNY3ZLcktTX2k0eW90RGNCVnBJN082QkZlSy1JWUkxV21vbHRuUmxacHBiMmhZZmU0MjYtNmpPeURxRTJLQWFRV3FQWEJmV2h4cE5pZmlBVGxqZ3o0S2tudjVqZGQ0TnNxRQ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9uU1dmdmlXQmdLVVBFaVRSQXB6eFZtekxEaWFadS1OT2E4UGJiaTdBbm9FZG1lN2g2T3cxa2FqOEtBZDVXSTR6NENCTHVkeE9jQXpmT3VnU19yT0hNLVHSAWhBVV95cUxNY3ZLcktTX2k0eW90RGNCVnBJN082QkZlSy1JWUkxV21vbHRuUmxacHBiMmhZZmU0MjYtNmpPeURxRTJLQWFRV3FQWEJmV2h4cE5pZmlBVGxqZ3o0S2tudjVqZGQ0TnNxRQ?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -194,22 +194,6 @@
           "package": ""
         },
         {
-          "text": "不甩新壽！證實輝達進駐有Plan C「未曝光基地」 李四川：容我保密",
-          "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPRG5tR2VFVWNMeU04OHIwcF9Hd2F2cF9WVXI2OHhrWFNBQzJHNk9jSVpxcXhNTlF0Y01pTnIyc1hlRVdlSDZPNnVhU2syZkJyOTZ6YTB1WlpORXJGSFNzSmVDc1lOSkVfZlY4TUNfY05wSDVLamt2Y0xFbG51TWVlNDhOXzdaclNvZmQ3V0ozWUJrb0pDdEg2RVZjN0ZnWXVQQUJpSTBOaHlfOVJfcDlyLVZ4aFBvLVpqbWdHdThPaW1rZmdpVE5lVG1pT3V5TUdtSk9iMlNjRy1uUHY2UUJDXzM4NGxPRVNjaXVJLUhHMGFZTUdxRk5uZzg5OWVCU0R2OUpBeXd3VGo3b2JDT016WHdqR2l3NUhSam9QWWZUSGV6QzJMcklaRF9acWZiTkV0R0pnZVp2a083TWFHWnp2eGZLaw?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPRG5tR2VFVWNMeU04OHIwcF9Hd2F2cF9WVXI2OHhrWFNBQzJHNk9jSVpxcXhNTlF0Y01pTnIyc1hlRVdlSDZPNnVhU2syZkJyOTZ6YTB1WlpORXJGSFNzSmVDc1lOSkVfZlY4TUNfY05wSDVLamt2Y0xFbG51TWVlNDhOXzdaclNvZmQ3V0ozWUJrb0pDdEg2RVZjN0ZnWXVQQUJpSTBOaHlfOVJfcDlyLVZ4aFBvLVpqbWdHdThPaW1rZmdpVE5lVG1pT3V5TUdtSk9iMlNjRy1uUHY2UUJDXzM4NGxPRVNjaXVJLUhHMGFZTUdxRk5uZzg5OWVCU0R2OUpBeXd3VGo3b2JDT016WHdqR2l3NUhSam9QWWZUSGV6QzJMcklaRF9acWZiTkV0R0pnZVp2a083TWFHWnp2eGZLaw?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "深夜大雨炸新北 中和民宅慘淹水",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBmaU9SaGg5dU9xTWFUeDVFTVphaHZjTzIzdGo2SmRweVhnOU9XNTFaNzY0Q0pFSHQ5RnlKUm9EakpXVGxrUm8tMlZHQ0dGYllqQ0J0ZzZ0ekNNQnNLcHlFY1gySTHSAWpBVV95cUxPbUxMT2JTN1pBWUZ5c3g0SmlZeEpvVWUwVWlaZlpGQlJvbE5STHRrM1dyQ29Pby1BdU1fWnQtZjdiaG5jWXpLM0lvWmUxQzh0Q0hLZ0ZtNUtXcjZIcm9nQXE1V1FGQUs3TkZB?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBmaU9SaGg5dU9xTWFUeDVFTVphaHZjTzIzdGo2SmRweVhnOU9XNTFaNzY0Q0pFSHQ5RnlKUm9EakpXVGxrUm8tMlZHQ0dGYllqQ0J0ZzZ0ekNNQnNLcHlFY1gySTHSAWpBVV95cUxPbUxMT2JTN1pBWUZ5c3g0SmlZeEpvVWUwVWlaZlpGQlJvbE5STHRrM1dyQ29Pby1BdU1fWnQtZjdiaG5jWXpLM0lvWmUxQzh0Q0hLZ0ZtNUtXcjZIcm9nQXE1V1FGQUs3TkZB?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
           "text": "只差50人！宜蘭縣明年底縣議員選舉 蘇澳恐減1席、礁溪將增1席",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43N2U5NkZOSzVmbTJ5SUpmdkpoU0xRZlMtQS1CWm5ZQTBNeVV4ZEVTVEU5Tld6WmFhODdvT1BENWg2ek9ITXdLSndTcWNoTEFScmpwR2dvZ3ZSWUg1MjFzZVd3UHZ4SFpkV1HSAW9BVV95cUxNOUJUMU5Jd1hnWlc5a3RGNXBpSTM1SzhDa3FacVItUU5aVkFQX1IzbEVYem9uWWxBYURySnpweFZmWG5Eb1Y3UjdnSnJKdzJBdlYtV3pkQ2tnbG95bmVfNGtETnB0OElPTEpBaUUtMVE?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43N2U5NkZOSzVmbTJ5SUpmdkpoU0xRZlMtQS1CWm5ZQTBNeVV4ZEVTVEU5Tld6WmFhODdvT1BENWg2ek9ITXdLSndTcWNoTEFScmpwR2dvZ3ZSWUg1MjFzZVd3UHZ4SFpkV1HSAW9BVV95cUxNOUJUMU5Jd1hnWlc5a3RGNXBpSTM1SzhDa3FacVItUU5aVkFQX1IzbEVYem9uWWxBYURySnpweFZmWG5Eb1Y3UjdnSnJKdzJBdlYtV3pkQ2tnbG95bmVfNGtETnB0OElPTEpBaUUtMVE?oc=5",
@@ -218,25 +202,41 @@
           "package": ""
         },
         {
-          "text": "王鴻薇慘了？助理張凱維疑兜售跟監照　馬郁雯再曝光「關鍵對話紀錄」",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mbG10dzc2VzFWYUFuWUo2NTItMFRueFV3U1NRYmVTTUpGS095aFlOcDA4b01TLVo5TVl5SER0NkQ4c1RMZi1LNzhTQnN5amo2M3N3cWhORXjSAV9BVV95cUxNbVluWGJ0dkNMUnJjTndZenFaZXhHUmpEVWVEZTNWZXNKaHRBNW1Od19EWlpaeHdLSHJDdjJQSVRFQ3l2bDVIZDZBanhQajdkT0NwUWJ4TGxfWnVWWEVIdw?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mbG10dzc2VzFWYUFuWUo2NTItMFRueFV3U1NRYmVTTUpGS095aFlOcDA4b01TLVo5TVl5SER0NkQ4c1RMZi1LNzhTQnN5amo2M3N3cWhORXjSAV9BVV95cUxNbVluWGJ0dkNMUnJjTndZenFaZXhHUmpEVWVEZTNWZXNKaHRBNW1Od19EWlpaeHdLSHJDdjJQSVRFQ3l2bDVIZDZBanhQajdkT0NwUWJ4TGxfWnVWWEVIdw?oc=5",
+          "text": "嗆賴清德「搞台灣四分五裂」 黃國昌爆與柯文哲密會談聯合政府",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCZDFuVU9wbUpaOEE2Tnp0VktydnctekNfcGctak8xUkhLU2J2WHkxUTg3QzVaVkVGQ2ladjdZTVRWTTFVQjZaeC1ranV0VWFMZ19adUdpU1cxZw?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCZDFuVU9wbUpaOEE2Tnp0VktydnctekNfcGctak8xUkhLU2J2WHkxUTg3QzVaVkVGQ2ladjdZTVRWTTFVQjZaeC1ranV0VWFMZ19adUdpU1cxZw?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "香港夫妻墜樓「2屍3命」　曾來台灣墮胎遭拒",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1pQ0MxYmpTd1pnLThGTjl5ZFR4U3ktblI2MnRUR0tEaWlJWWRjLThkU1Voei1sT0xFaTZXbzJQa3FUa0Zpekcxb2JWTVJDQ0t0NENUR0VqMmp3Z3dsYXfSAWhBVV95cUxOa1Q2ZkVDcWdjakRNclpZTW05OFd3c1lpMTBGWW5HQnQ5SjN5S3JDNWdaX0lDS2hZX0hlSy00TVg5Q2N4bkRwZlBPTEdnMnNRM0daXzJ1VUFFSC02d3FzN2VMODBXVU1IRw?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1pQ0MxYmpTd1pnLThGTjl5ZFR4U3ktblI2MnRUR0tEaWlJWWRjLThkU1Voei1sT0xFaTZXbzJQa3FUa0Zpekcxb2JWTVJDQ0t0NENUR0VqMmp3Z3dsYXfSAWhBVV95cUxOa1Q2ZkVDcWdjakRNclpZTW05OFd3c1lpMTBGWW5HQnQ5SjN5S3JDNWdaX0lDS2hZX0hlSy00TVg5Q2N4bkRwZlBPTEdnMnNRM0daXzJ1VUFFSC02d3FzN2VMODBXVU1IRw?oc=5",
+          "text": "不甩新壽了？傳輝達同意「改用北士科T12」 取代T17、T18",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5vdTZOazI2ckNzb19sbkVrR0xYQ3VmU0tXTVU0ZUFyOG1RMDVMOHlmNXlrSU80bDBURmU3eFV0eHFRaHNvbDdsYXhQRQ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5vdTZOazI2ckNzb19sbkVrR0xYQ3VmU0tXTVU0ZUFyOG1RMDVMOHlmNXlrSU80bDBURmU3eFV0eHFRaHNvbDdsYXhQRQ?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "日本自維結盟在野黨政權輪替「玉木首相」夢碎",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE44U050X25kakJzSFZkQzRqWDM4d3pCdGRJaVZZWFM4dDRrdTlGSlp0ZzVuc3I3MkZjR2VLVGFOSUNUeDlsd3kteUY4cW1ld2kwWnp4b3lFMGFqbDBkbkcw?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE44U050X25kakJzSFZkQzRqWDM4d3pCdGRJaVZZWFM4dDRrdTlGSlp0ZzVuc3I3MkZjR2VLVGFOSUNUeDlsd3kteUY4cW1ld2kwWnp4b3lFMGFqbDBkbkcw?oc=5",
+          "text": "BLACKPINK搭機離台「Lisa獨留高雄」　LV三公子被捕獲愛相隨來台",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1zZGtFZEdITm1yb0h6Z1hyelJXRTNBbHAyOWpSRWg5SUFtWkJMS2RrTWl6Z0hQRExOZEk1RFczU1hoLVI2cmRSaTMxRFc1d9IBX0FVX3lxTE5nWDVlTE02Nzh4TldkT29DWmFtWXkwSEdKR1RTTS1aSmJ4clVKdlF3M25qX0R4cWtQamNwQUVySzE0NGxXNXl4Qm9HV2ZGQlVOOFhldEtxY2VlbktXSldr?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1zZGtFZEdITm1yb0h6Z1hyelJXRTNBbHAyOWpSRWg5SUFtWkJMS2RrTWl6Z0hQRExOZEk1RFczU1hoLVI2cmRSaTMxRFc1d9IBX0FVX3lxTE5nWDVlTE02Nzh4TldkT29DWmFtWXkwSEdKR1RTTS1aSmJ4clVKdlF3M25qX0R4cWtQamNwQUVySzE0NGxXNXl4Qm9HV2ZGQlVOOFhldEtxY2VlbktXSldr?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "阿聯酋貨機衝出香港機場跑道墜海2人喪命",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfQm0zUld3UHdyZV9oSHZOSlhjM1p1S2h0LUlsRWZFOWFYN0tlV0VHV0RtQ2V0ckdpQWh3dnpJdFA5SFJJaXNId19zTDI3NHpwcXptOGZEQ09LdEJGU2xR?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfQm0zUld3UHdyZV9oSHZOSlhjM1p1S2h0LUlsRWZFOWFYN0tlV0VHV0RtQ2V0ckdpQWh3dnpJdFA5SFJJaXNId19zTDI3NHpwcXptOGZEQ09LdEJGU2xR?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "中共「十五五規劃」：習近平「全面主掌中國經濟後第一個五年發展藍圖」的四個看點",
+          "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxQZDNpQlR3NUt2X2MySktJZE1oUlNWNTV3RFJ6bVI1TmhNVHhzRzhYbU1IU0pfcFFnQVdFNFBsSmdUbjRULVlEMUxMdGVLV2I5dlJ4ZE55cjhGbXN2WTlTb2ZwMHd0b29ySXpSVVV3cEQ5bHRydks1a2hGNlhEeTMyN3hkRjVZYzlENEV3ZW9BMlM2dDh1c0YyMHhUOVBPSlQwQ3BLNFo3T2hnZ0F4a1pHbmViT0R0WWpDU3hSTm45N0Y0RlZFYXZKaGtSU1M2ZjRGN1Zkb0hJbUpDTGNKNm40OGt6eFp4Q21MYVVWTWZGWWpkT1U5dnZQcWM0M2d1cFcyOEtieno5LU5vV005cERxdF81N0pnLTF3bnNSUXZ5bmp1WUFjXzFUQ29aeE85WXBVN3ZNS0tiLXkxNzc1WHNvc0UwMlM4alR6LUtCUkdsd25RdmpHNDFQTEJYWW1nd0MyTWJEbmFBMlJaalcweXZlZVZMN3FHZFlTQmxfd2FrajVsaFJteFg4T0lnT0xTZnotZG9hdTI1TElOTHFv?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMinANBVV95cUxQZDNpQlR3NUt2X2MySktJZE1oUlNWNTV3RFJ6bVI1TmhNVHhzRzhYbU1IU0pfcFFnQVdFNFBsSmdUbjRULVlEMUxMdGVLV2I5dlJ4ZE55cjhGbXN2WTlTb2ZwMHd0b29ySXpSVVV3cEQ5bHRydks1a2hGNlhEeTMyN3hkRjVZYzlENEV3ZW9BMlM2dDh1c0YyMHhUOVBPSlQwQ3BLNFo3T2hnZ0F4a1pHbmViT0R0WWpDU3hSTm45N0Y0RlZFYXZKaGtSU1M2ZjRGN1Zkb0hJbUpDTGNKNm40OGt6eFp4Q21MYVVWTWZGWWpkT1U5dnZQcWM0M2d1cFcyOEtieno5LU5vV005cERxdF81N0pnLTF3bnNSUXZ5bmp1WUFjXzFUQ29aeE85WXBVN3ZNS0tiLXkxNzc1WHNvc0UwMlM4alR6LUtCUkdsd25RdmpHNDFQTEJYWW1nd0MyTWJEbmFBMlJaalcweXZlZVZMN3FHZFlTQmxfd2FrajVsaFJteFg4T0lnT0xTZnotZG9hdTI1TElOTHFv?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -250,9 +250,9 @@
           "package": ""
         },
         {
-          "text": "川普成「傳聲筒」！普丁開條件換和平 烏克蘭痛批「等同自殺」",
-          "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxOS21hNkdwVmtRSDhhR3dKcTBKa1YzY2lPdE1OdXBCZWpYbzZsLWoxRG5iaTN2TUhieU9CelhHbDNrRTRQbjV1TUx6VzkyaWNaREJ4WGota3dFSEhzbnV6VFlNbVZfU09PU3ZJc0xMdkhGbUZqQ2o2OHZ0c1didnRQSXJRSzhNNEF0ZVZ0NU9TcEpzWUhLLVlxbmlCTFBtSXhwaDg1VVNkbE1KN1BlQjUydHpmc2pSSkdoZld2N2tlVF93ZHlYcHNLZTZsOTJERTVncmhNSnZIMURLTy1jNTJsTE1UTFp0MUVFY3RETVkzSkMyanFkOFI3Z0VvTHh4X0l6MjhNcE9xcl9Ic1pVOG1MeHhGM3h0MHBJbzlrek45el9mc184aDBTZFIzRk50c05KMkVwNFMzaTd0aXMyMlhLSDRyZHhkYXpaVFBST292cW1DWmQ5TEdSNFdMZ2ttWm52bDF6eHpjdjMxQThl?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxOS21hNkdwVmtRSDhhR3dKcTBKa1YzY2lPdE1OdXBCZWpYbzZsLWoxRG5iaTN2TUhieU9CelhHbDNrRTRQbjV1TUx6VzkyaWNaREJ4WGota3dFSEhzbnV6VFlNbVZfU09PU3ZJc0xMdkhGbUZqQ2o2OHZ0c1didnRQSXJRSzhNNEF0ZVZ0NU9TcEpzWUhLLVlxbmlCTFBtSXhwaDg1VVNkbE1KN1BlQjUydHpmc2pSSkdoZld2N2tlVF93ZHlYcHNLZTZsOTJERTVncmhNSnZIMURLTy1jNTJsTE1UTFp0MUVFY3RETVkzSkMyanFkOFI3Z0VvTHh4X0l6MjhNcE9xcl9Ic1pVOG1MeHhGM3h0MHBJbzlrek45el9mc184aDBTZFIzRk50c05KMkVwNFMzaTd0aXMyMlhLSDRyZHhkYXpaVFBST292cW1DWmQ5TEdSNFdMZ2ttWm52bDF6eHpjdjMxQThl?oc=5",
+          "text": "香港夫妻墜樓「2屍3命」　曾來台灣墮胎遭拒",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1pQ0MxYmpTd1pnLThGTjl5ZFR4U3ktblI2MnRUR0tEaWlJWWRjLThkU1Voei1sT0xFaTZXbzJQa3FUa0Zpekcxb2JWTVJDQ0t0NENUR0VqMmp3Z3dsYXfSAWhBVV95cUxOa1Q2ZkVDcWdjakRNclpZTW05OFd3c1lpMTBGWW5HQnQ5SjN5S3JDNWdaX0lDS2hZX0hlSy00TVg5Q2N4bkRwZlBPTEdnMnNRM0daXzJ1VUFFSC02d3FzN2VMODBXVU1IRw?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1pQ0MxYmpTd1pnLThGTjl5ZFR4U3ktblI2MnRUR0tEaWlJWWRjLThkU1Voei1sT0xFaTZXbzJQa3FUa0Zpekcxb2JWTVJDQ0t0NENUR0VqMmp3Z3dsYXfSAWhBVV95cUxOa1Q2ZkVDcWdjakRNclpZTW05OFd3c1lpMTBGWW5HQnQ5SjN5S3JDNWdaX0lDS2hZX0hlSy00TVg5Q2N4bkRwZlBPTEdnMnNRM0daXzJ1VUFFSC02d3FzN2VMODBXVU1IRw?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -273,6 +273,6 @@
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 40,
+  "cost": 44,
   "status": 0
 }
