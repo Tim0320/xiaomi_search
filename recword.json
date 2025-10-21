@@ -146,14 +146,6 @@
       "link_type": "app",
       "data": [
         {
-          "text": "馬太鞍溪下游出現新堰塞湖 估24小時內溢流、啟動強制撤離",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1uNklFNGsxcUthSzVTNHFCeml1ZzY1a3ZZVkM5S2swM2JIY2hKR2pWWkR6N0ttZ3M3Y01DeFdJRjRmT2tuN21KbDUxSFJFcUE?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1uNklFNGsxcUthSzVTNHFCeml1ZzY1a3ZZVkM5S2swM2JIY2hKR2pWWkR6N0ttZ3M3Y01DeFdJRjRmT2tuN21KbDUxSFJFcUE?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
           "text": "獨家》輝達總部大轉折！新壽將朝把T17與T18歸還北市府努力 | 陳怡慈",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5yUG1RMTNERE5ZQ0g4dHJMbFpvdVRCb3ZaZUJWQmwxZVJMUjhaaGxnU2gxTjNMU1l4Y2U1emwyTnFnZnFfcnJYdVZqY1ZQQQ?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5yUG1RMTNERE5ZQ0g4dHJMbFpvdVRCb3ZaZUJWQmwxZVJMUjhaaGxnU2gxTjNMU1l4Y2U1emwyTnFnZnFfcnJYdVZqY1ZQQQ?oc=5",
@@ -162,9 +154,25 @@
           "package": ""
         },
         {
-          "text": "氣象署最新「24小時雨量預測」4縣市山區達停班停課標準",
-          "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxPTXhDSzF5eTZMQ0hEang2cDRTV0lyR2N2VGFYNHFiYUdJSm1XZGxzOWtGS2IyYURZN3ltdUJLaXp2T184N2QyNUpQQTNkd0VBQjJkQWh3R1FJSVBzd3J6X1ZSOWxxVktSamNZdG50TUhpREhEU3g4dkpxbUpqdFEyVEVuUHdtX0lEX0RLY29vMVdWQVZGbmlRV19OYjRHRUx2a2tRakdtN1RpS0paTzEwd3dkcEFnVEsxcVZNMERBemhoNkUxT3RGaW9KeHNwX3NqSk8wZmxSUDg5ekZNMXZSUXJlbUpXaHFTWGVTQ3BKcGhxdndrWmF1eUR6Ri1HaUlTNnQ4ZkhyOVZyUWJnZHlWSWVpN3RyalpDdDBjcTR0Rno5TUQwcHMtODF4LUt1UnB3ZDc5WFFGME9rcmNObHRSS19CQkRHdTBvaDJ3cjNWaUM3d1pqdkJTRjVtRjVsVEE0Zkl0ODFBbEhsbEdSYTZWZjVSSFRaZFU?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxPTXhDSzF5eTZMQ0hEang2cDRTV0lyR2N2VGFYNHFiYUdJSm1XZGxzOWtGS2IyYURZN3ltdUJLaXp2T184N2QyNUpQQTNkd0VBQjJkQWh3R1FJSVBzd3J6X1ZSOWxxVktSamNZdG50TUhpREhEU3g4dkpxbUpqdFEyVEVuUHdtX0lEX0RLY29vMVdWQVZGbmlRV19OYjRHRUx2a2tRakdtN1RpS0paTzEwd3dkcEFnVEsxcVZNMERBemhoNkUxT3RGaW9KeHNwX3NqSk8wZmxSUDg5ekZNMXZSUXJlbUpXaHFTWGVTQ3BKcGhxdndrWmF1eUR6Ri1HaUlTNnQ4ZkhyOVZyUWJnZHlWSWVpN3RyalpDdDBjcTR0Rno5TUQwcHMtODF4LUt1UnB3ZDc5WFFGME9rcmNObHRSS19CQkRHdTBvaDJ3cjNWaUM3d1pqdkJTRjVtRjVsVEE0Zkl0ODFBbEhsbEdSYTZWZjVSSFRaZFU?oc=5",
+          "text": "馬太鞍溪下游出現新堰塞湖 估24小時內溢流、啟動強制撤離",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1uNklFNGsxcUthSzVTNHFCeml1ZzY1a3ZZVkM5S2swM2JIY2hKR2pWWkR6N0ttZ3M3Y01DeFdJRjRmT2tuN21KbDUxSFJFcUE?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1uNklFNGsxcUthSzVTNHFCeml1ZzY1a3ZZVkM5S2swM2JIY2hKR2pWWkR6N0ttZ3M3Y01DeFdJRjRmT2tuN21KbDUxSFJFcUE?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "川普指中無意犯台！中：解決台灣問題是中國人的事",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBodnhVOVZTZ3BaclNLWEd2QTBJdWNtZVVNNFl1aW9pbFptZXFRWlVrWjkwd1dHZlB5LXg1WV95U21GbjZkYXRTMGJ0a0Zfd9IBX0FVX3lxTE5uaURTam5nSkNiV3B0aXMyRWhSRXY1S1RZU1d4ZXM4SGpoZU1iVFF1bHRlbFVCdVpsdzdvWVdsVFBmMUpsT1c2U0VhYTIzejBRSEpTTk5CTkRjQXZiWkJr?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBodnhVOVZTZ3BaclNLWEd2QTBJdWNtZVVNNFl1aW9pbFptZXFRWlVrWjkwd1dHZlB5LXg1WV95U21GbjZkYXRTMGJ0a0Zfd9IBX0FVX3lxTE5uaURTam5nSkNiV3B0aXMyRWhSRXY1S1RZU1d4ZXM4SGpoZU1iVFF1bHRlbFVCdVpsdzdvWVdsVFBmMUpsT1c2U0VhYTIzejBRSEpTTk5CTkRjQXZiWkJr?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "明天也放假？北部雨彈狂轟 10/22停班停課一次看！",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zQW1Yc3BDTGExMEQwYmZHRVV5bjZlWURvRUk2eHlCY0NzOXVqZFlQRVdXTS04Mjh3NWxkWGJPb3pES1NaYm9uNndLa3NuMk92Ykx4U3luaFNwMmo4UVVZZGJkTmTSAWpBVV95cUxQZnJmMmtYdFNBcmdlaFRmeWQ5eVQ3cTZBb1E0V3RUOUVUMzRuQnZmQWJhSjd6V214eEpBekZwQndzMXgyOHpsLXlRRG1NSExuR3RhT3M4UnpLZXV1OG9LdEVHdlVNNmw2bnRn?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zQW1Yc3BDTGExMEQwYmZHRVV5bjZlWURvRUk2eHlCY0NzOXVqZFlQRVdXTS04Mjh3NWxkWGJPb3pES1NaYm9uNndLa3NuMk92Ykx4U3luaFNwMmo4UVVZZGJkTmTSAWpBVV95cUxQZnJmMmtYdFNBcmdlaFRmeWQ5eVQ3cTZBb1E0V3RUOUVUMzRuQnZmQWJhSjd6V214eEpBekZwQndzMXgyOHpsLXlRRG1NSExuR3RhT3M4UnpLZXV1OG9LdEVHdlVNNmw2bnRn?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -178,17 +186,17 @@
           "package": ""
         },
         {
-          "text": "謝步智觀點》用「戰斧」把澤連斯基騙進白宮修理川普只要假和平不要國際正義",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5UW1SQlBjQnJkLVgwd0h5d2hpdjVwVGFtS0VsZHZJUnNIQ2ZfWlRwYXlRRHNfVk1vQlFGY05EZUdOY2RKZURCeWlSNjk4bnJMUkxZTnpnVjlSVVU?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5UW1SQlBjQnJkLVgwd0h5d2hpdjVwVGFtS0VsZHZJUnNIQ2ZfWlRwYXlRRHNfVk1vQlFGY05EZUdOY2RKZURCeWlSNjk4bnJMUkxZTnpnVjlSVVU?oc=5",
+          "text": "你收到了嗎？北台國家警報連發「10級強風」6米巨浪告警：請遠離",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE82bm9fYTl2VDBHd0EzNE04VFd2NXpTNjhQcXp4YmRRT09kSjZ2TUxlRmVyZ3hET2tIWVpNTWx1U3VaNE9ibHJGeHZScmtxamVnMTd4NExpTlA4aEFELWfSAWhBVV95cUxNVWo5NVQxRWdHcnhBT0FqdG9LTVVzQm02YThvcmpkZjhFRjE1NjdYMVNXc3lLeUVfR3JGWmdzdHVpcTBlVDFKV0Fwc1VCQm5FRWNWMVl4NzFfUlJZUXhncG9JUVRVSml0VA?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE82bm9fYTl2VDBHd0EzNE04VFd2NXpTNjhQcXp4YmRRT09kSjZ2TUxlRmVyZ3hET2tIWVpNTWx1U3VaNE9ibHJGeHZScmtxamVnMTd4NExpTlA4aEFELWfSAWhBVV95cUxNVWo5NVQxRWdHcnhBT0FqdG9LTVVzQm02YThvcmpkZjhFRjE1NjdYMVNXc3lLeUVfR3JGWmdzdHVpcTBlVDFKV0Fwc1VCQm5FRWNWMVl4NzFfUlJZUXhncG9JUVRVSml0VA?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "東北季風挾11級強陣風　氣象署：10級以上就相當危險",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzYk1jUkd1YXEzaGQ4eTlielVzVXBpeVJzTi1Jb0Nab2J3anZnX2djdVhDMkxjSE9Namd5UkdROVBZc21KV05keHMwb0gtTHpJNXF1c3NveTh1UzljOWfSAWhBVV95cUxPZTdFdjQwcXBZM2lOZm1Db3pabTcybW1tUkc1VXphZFBkeHhRRjNiZTlqVUlEcVlRRmw1RnE3anhXcE1tN1BGRGdyV0JzaGJDMTVsb1VsQ1FqaFdPMEhhUV9xRmw2Mk1kUg?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzYk1jUkd1YXEzaGQ4eTlielVzVXBpeVJzTi1Jb0Nab2J3anZnX2djdVhDMkxjSE9Namd5UkdROVBZc21KV05keHMwb0gtTHpJNXF1c3NveTh1UzljOWfSAWhBVV95cUxPZTdFdjQwcXBZM2lOZm1Db3pabTcybW1tUkc1VXphZFBkeHhRRjNiZTlqVUlEcVlRRmw1RnE3anhXcE1tN1BGRGdyV0JzaGJDMTVsb1VsQ1FqaFdPMEhhUV9xRmw2Mk1kUg?oc=5",
+          "text": "氣象署最新「24小時雨量預測」4縣市山區達停班停課標準",
+          "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxPTXhDSzF5eTZMQ0hEang2cDRTV0lyR2N2VGFYNHFiYUdJSm1XZGxzOWtGS2IyYURZN3ltdUJLaXp2T184N2QyNUpQQTNkd0VBQjJkQWh3R1FJSVBzd3J6X1ZSOWxxVktSamNZdG50TUhpREhEU3g4dkpxbUpqdFEyVEVuUHdtX0lEX0RLY29vMVdWQVZGbmlRV19OYjRHRUx2a2tRakdtN1RpS0paTzEwd3dkcEFnVEsxcVZNMERBemhoNkUxT3RGaW9KeHNwX3NqSk8wZmxSUDg5ekZNMXZSUXJlbUpXaHFTWGVTQ3BKcGhxdndrWmF1eUR6Ri1HaUlTNnQ4ZkhyOVZyUWJnZHlWSWVpN3RyalpDdDBjcTR0Rno5TUQwcHMtODF4LUt1UnB3ZDc5WFFGME9rcmNObHRSS19CQkRHdTBvaDJ3cjNWaUM3d1pqdkJTRjVtRjVsVEE0Zkl0ODFBbEhsbEdSYTZWZjVSSFRaZFU?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxPTXhDSzF5eTZMQ0hEang2cDRTV0lyR2N2VGFYNHFiYUdJSm1XZGxzOWtGS2IyYURZN3ltdUJLaXp2T184N2QyNUpQQTNkd0VBQjJkQWh3R1FJSVBzd3J6X1ZSOWxxVktSamNZdG50TUhpREhEU3g4dkpxbUpqdFEyVEVuUHdtX0lEX0RLY29vMVdWQVZGbmlRV19OYjRHRUx2a2tRakdtN1RpS0paTzEwd3dkcEFnVEsxcVZNMERBemhoNkUxT3RGaW9KeHNwX3NqSk8wZmxSUDg5ekZNMXZSUXJlbUpXaHFTWGVTQ3BKcGhxdndrWmF1eUR6Ri1HaUlTNnQ4ZkhyOVZyUWJnZHlWSWVpN3RyalpDdDBjcTR0Rno5TUQwcHMtODF4LUt1UnB3ZDc5WFFGME9rcmNObHRSS19CQkRHdTBvaDJ3cjNWaUM3d1pqdkJTRjVtRjVsVEE0Zkl0ODFBbEhsbEdSYTZWZjVSSFRaZFU?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -218,14 +226,6 @@
           "package": ""
         },
         {
-          "text": "馬太鞍溪又有新堰塞湖形成 估24小時內溢流 光復鄉大馬村撤離",
-          "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxPMmRDNHlDTkxWbV9fUUhWalBXdTIydjJ3R1VuLWp2eXkzWUlZRFlhTVdnMUxMeEhFRmJvazY2VHVjTm4wd0hlLXlRbW83eXFlR1VCODhudGZLeWZpMm80VnU3NXlWOWZSSmE4UndseF9pZkVpY29CQ05icDBEWEZoM3RyTGp4cElUQXhaYUlEM0h0aWJzWnloaXZPaTE0R2JvZmNMdjBySUs0Vk9ra0tYaEt1djhvY3M4UEduS3ZaQ29odFJ5ZzI3VGhFem9aTE9TWVQ4ano5eF9ZRkRQNUJYZnNHX1FuWG8xVGFRTU84YjdmT3FGQTFaZ0p4U0Rub2Y4MXVJTWpUTERFaHFwS2NzU2VOUjFFd2Ezakh4QVFkUDRicHZOa1BEeE1MRGNRdmJYSnZnTlFDaXZXLUQxcjFIR3FlZmZRVHFabUZwajhGbTFpZ1J4R1V3WFBOOU1oRzhFdk10R0wwR2JHZmJoNUtjUVJJUmNLcnFwYmZBc2lyMThJUzJVUDdVNVVuOTA1aTlF?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMikANBVV95cUxPMmRDNHlDTkxWbV9fUUhWalBXdTIydjJ3R1VuLWp2eXkzWUlZRFlhTVdnMUxMeEhFRmJvazY2VHVjTm4wd0hlLXlRbW83eXFlR1VCODhudGZLeWZpMm80VnU3NXlWOWZSSmE4UndseF9pZkVpY29CQ05icDBEWEZoM3RyTGp4cElUQXhaYUlEM0h0aWJzWnloaXZPaTE0R2JvZmNMdjBySUs0Vk9ra0tYaEt1djhvY3M4UEduS3ZaQ29odFJ5ZzI3VGhFem9aTE9TWVQ4ano5eF9ZRkRQNUJYZnNHX1FuWG8xVGFRTU84YjdmT3FGQTFaZ0p4U0Rub2Y4MXVJTWpUTERFaHFwS2NzU2VOUjFFd2Ezakh4QVFkUDRicHZOa1BEeE1MRGNRdmJYSnZnTlFDaXZXLUQxcjFIR3FlZmZRVHFabUZwajhGbTFpZ1J4R1V3WFBOOU1oRzhFdk10R0wwR2JHZmJoNUtjUVJJUmNLcnFwYmZBc2lyMThJUzJVUDdVNVVuOTA1aTlF?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
           "text": "柬寺廟再發現3南韓人遺體！ 「太子集團」疑在首爾設據點",
           "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQTldsMFY2aW5yRHhiR0FwSlFadE03M2pWN3BtaUNIcWpoNW1BNm16OHIyRW5fNTNodkFkbkxMZ21LakY5TXNhSGg5TFRHZzRYa0R2TW0yR3ZaR1N1ZkQyS0dDa294dDJ3YWpDQXBMSG1VOVdYQm9HNU1sdUVad1dQZTlZNTZERHNpU3RrNnV3SGVxcmJHVmVNcjB0WUFlVmlQdmprYWV6Vld6NXJGRGVTN1hwSGVaZEJZcXpVMUJMTDJMSmNzY2l6Nmk5eWV5Y2IzaHdFS2RUZ0pfUVpWRGRwVWpZUUZKczJCczMzODVBb0Mzd2VVWnR6cUhGczFtMDNnOWpoQkxuOUJZZmpWT3JrNmtsd1FETThyZVNvRk9TdXZZbGs2Ylp3eTNsdGlvQ3ljRlVTa2loWTVWNTZxVkVhN2VnbHVTalluN0J1azIwb2RNNEdDWE5UTWlCaC00ZTg?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQTldsMFY2aW5yRHhiR0FwSlFadE03M2pWN3BtaUNIcWpoNW1BNm16OHIyRW5fNTNodkFkbkxMZ21LakY5TXNhSGg5TFRHZzRYa0R2TW0yR3ZaR1N1ZkQyS0dDa294dDJ3YWpDQXBMSG1VOVdYQm9HNU1sdUVad1dQZTlZNTZERHNpU3RrNnV3SGVxcmJHVmVNcjB0WUFlVmlQdmprYWV6Vld6NXJGRGVTN1hwSGVaZEJZcXpVMUJMTDJMSmNzY2l6Nmk5eWV5Y2IzaHdFS2RUZ0pfUVpWRGRwVWpZUUZKczJCczMzODVBb0Mzd2VVWnR6cUhGczFtMDNnOWpoQkxuOUJZZmpWT3JrNmtsd1FETThyZVNvRk9TdXZZbGs2Ylp3eTNsdGlvQ3ljRlVTa2loWTVWNTZxVkVhN2VnbHVTalluN0J1azIwb2RNNEdDWE5UTWlCaC00ZTg?oc=5",
@@ -234,9 +234,9 @@
           "package": ""
         },
         {
-          "text": "川普列美中談判四大議題，台灣是其一",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50VjN5eGN5Q0ltVzdTT2R0Rm5heG9GaXJlSl9LbGxwc3JtUk42OGNqSDVGVEFwb3IwQmk3aEtaWVE3WEtLdmlaOFZsRmRNZTRHc2d3Rl8yN0RpSnJUZTBCOUR2c1c?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50VjN5eGN5Q0ltVzdTT2R0Rm5heG9GaXJlSl9LbGxwc3JtUk42OGNqSDVGVEFwb3IwQmk3aEtaWVE3WEtLdmlaOFZsRmRNZTRHc2d3Rl8yN0RpSnJUZTBCOUR2c1c?oc=5",
+          "text": "川普飆罵 逼澤倫斯基割地停戰",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ERDVDODZXUEt5c0FHQmhOMkQzM28wb2ljendnMHpzYjktZTUtY0JtME9wSWFNNG5fMzlRNWRlLWM3ci1pcHNJc2k3NWg3QVZwUUdn0gFYQVVfeXFMT2Z3X19HUDdVYzc0RUIxeTRoNmxlVWd4TVd2QW9UZnVuR19KZTk0V2Z2QkxIZW9VMDVEX3Z1MzlRTkI4RC1yNERoX00wMHNtN0xDTmZUNlVHUg?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ERDVDODZXUEt5c0FHQmhOMkQzM28wb2ljendnMHpzYjktZTUtY0JtME9wSWFNNG5fMzlRNWRlLWM3ci1pcHNJc2k3NWg3QVZwUUdn0gFYQVVfeXFMT2Z3X19HUDdVYzc0RUIxeTRoNmxlVWd4TVd2QW9UZnVuR19KZTk0V2Z2QkxIZW9VMDVEX3Z1MzlRTkI4RC1yNERoX00wMHNtN0xDTmZUNlVHUg?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -273,6 +273,6 @@
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 23,
+  "cost": 10,
   "status": 0
 }
