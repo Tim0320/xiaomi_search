@@ -15,6 +15,14 @@
       "link_type": "app",
       "data": [
         {
+          "text": "非洲豬瘟必知Q&A",
+          "url": "https://tw.news.yahoo.com/%E9%9D%9E%E6%B4%B2%E8%B1%AC%E7%98%9F%E5%8F%B0%E4%B8%AD%E9%80%9A%E5%A0%B1%E6%A1%88%E4%BE%8B%EF%BC%81%E9%9D%9E%E6%B4%B2%E8%B1%AC%E7%98%9F%E6%9C%83%E5%82%B3%E6%9F%93%E4%BA%BA%E5%97%8E%EF%BC%9F%E9%98%B2%E7%AF%84%E9%9D%9E%E6%B4%B2%E8%B1%AC%E7%98%9F%E8%A9%B2%E6%80%8E%E9%BA%BC%E5%81%9A%EF%BC%9F-074107000.html",
+          "h5_url": "https://tw.news.yahoo.com/%E9%9D%9E%E6%B4%B2%E8%B1%AC%E7%98%9F%E5%8F%B0%E4%B8%AD%E9%80%9A%E5%A0%B1%E6%A1%88%E4%BE%8B%EF%BC%81%E9%9D%9E%E6%B4%B2%E8%B1%AC%E7%98%9F%E6%9C%83%E5%82%B3%E6%9F%93%E4%BA%BA%E5%97%8E%EF%BC%9F%E9%98%B2%E7%AF%84%E9%9D%9E%E6%B4%B2%E8%B1%AC%E7%98%9F%E8%A9%B2%E6%80%8E%E9%BA%BC%E5%81%9A%EF%BC%9F-074107000.html",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_yahoo",
+          "package": ""
+        },
+        {
           "text": "鄭麗文當選國民黨主席",
           "url": "https://tw.news.yahoo.com/topic/kmt-election",
           "h5_url": "https://tw.news.yahoo.com/topic/kmt-election",
@@ -34,6 +42,22 @@
           "text": "Yahoo Tech",
           "url": "https://tw.news.yahoo.com/yahoo_tech_tw_942--%E6%89%80%E6%9C%89%E9%A1%9E%E5%88%A5/archive",
           "h5_url": "https://tw.news.yahoo.com/yahoo_tech_tw_942--%E6%89%80%E6%9C%89%E9%A1%9E%E5%88%A5/archive",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_yahoo",
+          "package": ""
+        },
+        {
+          "text": "直播／疑爆非洲豬瘟 中市府說明",
+          "url": "https://tw.news.yahoo.com/%E9%9D%9E%E6%B4%B2%E8%B1%AC%E7%98%9F%E7%96%91%E7%8F%BE%E8%B9%A4%E5%8F%B0%E4%B8%AD%E9%A4%8A%E8%B1%AC%E5%A0%B4-%E7%9B%A7%E7%A7%80%E7%87%95%EF%BC%9A%E6%94%9C%E6%89%8B%E4%B8%AD%E5%A4%AE%E9%81%BF%E5%85%8D%E6%93%B4%E5%A4%A7-041557416.html",
+          "h5_url": "https://tw.news.yahoo.com/%E9%9D%9E%E6%B4%B2%E8%B1%AC%E7%98%9F%E7%96%91%E7%8F%BE%E8%B9%A4%E5%8F%B0%E4%B8%AD%E9%A4%8A%E8%B1%AC%E5%A0%B4-%E7%9B%A7%E7%A7%80%E7%87%95%EF%BC%9A%E6%94%9C%E6%89%8B%E4%B8%AD%E5%A4%AE%E9%81%BF%E5%85%8D%E6%93%B4%E5%A4%A7-041557416.html",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_yahoo",
+          "package": ""
+        },
+        {
+          "text": "龔明鑫：美關稅有機會降 不疊加",
+          "url": "https://tw.news.yahoo.com/%E7%A8%B1%E5%8F%B0%E7%BE%8E%E8%AB%87%E5%88%A4%E6%9C%89%E5%85%B1%E8%AD%98-%E9%BE%94%E6%98%8E%E9%91%AB-%E9%97%9C%E7%A8%8520-%E6%9C%89%E6%A9%9F%E6%9C%83%E8%AA%BF%E9%99%8D-%E4%B8%8D%E7%96%8A%E5%8A%A0-050021773.html",
+          "h5_url": "https://tw.news.yahoo.com/%E7%A8%B1%E5%8F%B0%E7%BE%8E%E8%AB%87%E5%88%A4%E6%9C%89%E5%85%B1%E8%AD%98-%E9%BE%94%E6%98%8E%E9%91%AB-%E9%97%9C%E7%A8%8520-%E6%9C%89%E6%A9%9F%E6%9C%83%E8%AA%BF%E9%99%8D-%E4%B8%8D%E7%96%8A%E5%8A%A0-050021773.html",
           "appIconUrl": "",
           "sourceUniqueId": "content_yahoo",
           "package": ""
@@ -103,33 +127,9 @@
           "package": ""
         },
         {
-          "text": "網憂豬價飆漲新高 農業部回應",
-          "url": "https://tw.news.yahoo.com/%E5%85%A8%E5%9C%8B%E8%B1%AC%E9%9A%BB%E7%A6%81%E9%81%8B%E7%A6%81%E5%AE%B05%E5%A4%A9-%E7%B6%B2%E6%86%82%E3%80%8C%E8%B1%AC%E5%83%B9%E5%8F%88%E8%A6%81%E5%89%B5%E6%96%B0%E9%AB%98%E3%80%8D%E8%BE%B2%E6%A5%AD%E9%83%A8%E5%9B%9E%E6%87%89%E4%BA%86-035112809.html",
-          "h5_url": "https://tw.news.yahoo.com/%E5%85%A8%E5%9C%8B%E8%B1%AC%E9%9A%BB%E7%A6%81%E9%81%8B%E7%A6%81%E5%AE%B05%E5%A4%A9-%E7%B6%B2%E6%86%82%E3%80%8C%E8%B1%AC%E5%83%B9%E5%8F%88%E8%A6%81%E5%89%B5%E6%96%B0%E9%AB%98%E3%80%8D%E8%BE%B2%E6%A5%AD%E9%83%A8%E5%9B%9E%E6%87%89%E4%BA%86-035112809.html",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_yahoo",
-          "package": ""
-        },
-        {
-          "text": "雨下\b不停 今台灣大賽G4延期",
-          "url": "https://tw.sports.yahoo.com/news/%E4%B8%AD%E8%81%B7%E5%8F%B0%E7%81%A3%E5%A4%A7%E8%B3%BD%E3%80%8Bg4%E7%A2%BA%E5%AE%9A%E5%BB%B6%E8%B3%BD-%E5%BB%B6%E8%87%B310%E6%9C%8823%E6%97%A5%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4-135323336.html",
-          "h5_url": "https://tw.sports.yahoo.com/news/%E4%B8%AD%E8%81%B7%E5%8F%B0%E7%81%A3%E5%A4%A7%E8%B3%BD%E3%80%8Bg4%E7%A2%BA%E5%AE%9A%E5%BB%B6%E8%B3%BD-%E5%BB%B6%E8%87%B310%E6%9C%8823%E6%97%A5%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4-135323336.html",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_yahoo",
-          "package": ""
-        },
-        {
           "text": "體位區分標準擬加嚴 預計明年4月上路",
           "url": "https://tw.news.yahoo.com/%E9%A1%A7%E7%AB%8B%E9%9B%84-%E9%AB%94%E4%BD%8D%E6%A8%99%E6%BA%96-%E6%98%8E%E5%B9%B44%E6%9C%88%E5%8A%A0%E5%9A%B4-201000518.html",
           "h5_url": "https://tw.news.yahoo.com/%E9%A1%A7%E7%AB%8B%E9%9B%84-%E9%AB%94%E4%BD%8D%E6%A8%99%E6%BA%96-%E6%98%8E%E5%B9%B44%E6%9C%88%E5%8A%A0%E5%9A%B4-201000518.html",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_yahoo",
-          "package": ""
-        },
-        {
-          "text": "坤達在機場為何沒上銬？檢察官：上車才實施拘提",
-          "url": "https://tw.news.yahoo.com/%E5%9D%A4%E9%81%94%E8%A2%AB%E8%B3%AA%E7%96%91%E4%B8%8B%E6%A9%9F%E7%82%BA%E4%BD%95%E6%B2%92%E8%A2%AB%E4%B8%8A%E9%8A%AC-%E6%AA%A2%E5%AF%9F%E5%AE%98-%E5%9B%A0%E5%85%AC%E5%85%B1%E5%A0%B4%E5%90%88-%E9%82%84%E6%B2%92%E6%9C%89%E5%AF%A6%E6%96%BD%E6%8B%98%E6%8F%90-000100650.html",
-          "h5_url": "https://tw.news.yahoo.com/%E5%9D%A4%E9%81%94%E8%A2%AB%E8%B3%AA%E7%96%91%E4%B8%8B%E6%A9%9F%E7%82%BA%E4%BD%95%E6%B2%92%E8%A2%AB%E4%B8%8A%E9%8A%AC-%E6%AA%A2%E5%AF%9F%E5%AE%98-%E5%9B%A0%E5%85%AC%E5%85%B1%E5%A0%B4%E5%90%88-%E9%82%84%E6%B2%92%E6%9C%89%E5%AF%A6%E6%96%BD%E6%8B%98%E6%8F%90-000100650.html",
           "appIconUrl": "",
           "sourceUniqueId": "content_yahoo",
           "package": ""
@@ -146,25 +146,25 @@
       "link_type": "app",
       "data": [
         {
-          "text": "影／台中養豬場驗出疑似非洲豬瘟今日12時起全國豬隻禁運禁宰",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBxZEtjTjBBekpHaUpPd1UtWU5XbEdINFBXUlRKX2lMcG51b0J6d0hmYnBxZGxzZF84S1phVFNvRjFKSnptNnFvYlZXTlRnSkg4a2c3Z2pGeHpwZG40R3c4?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBxZEtjTjBBekpHaUpPd1UtWU5XbEdINFBXUlRKX2lMcG51b0J6d0hmYnBxZGxzZF84S1phVFNvRjFKSnptNnFvYlZXTlRnSkg4a2c3Z2pGeHpwZG40R3c4?oc=5",
+          "text": "劉世芳：112年役男免役率16%可能涉造假 體檢擬勾稽就醫紀錄",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VU1dPTG5VSmE1UHJ4eHl2ckh3WjhfMXljZTFKTEVhTXFWbmdIR0lyVFQyWGprdkVucUF5NFhBb0pUSXBOWmowdy1xOGV2UGVCNnVCVTZzVWpEX2czcDBJ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VU1dPTG5VSmE1UHJ4eHl2ckh3WjhfMXljZTFKTEVhTXFWbmdIR0lyVFQyWGprdkVucUF5NFhBb0pUSXBOWmowdy1xOGV2UGVCNnVCVTZzVWpEX2czcDBJ?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "坤達涉閃兵役案返台遭拘提 認造假高血壓報告移送新北檢複訊",
-          "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxOQ05HSTU1MGxoSmlQZTNmSXZ1d3MtcHdQVjRLUUo4U3FTd04yc3dxMWlwSlpDZFFkOWdKSGsxbHJCQVVDTFMzWWlDSE14Z25hQU45bGRlN1E1YVlwRDR4R3p2QWY1cElXdkN4SDhZaTFzZV9xVDdZdjVwSmpxMy1QM3c4dUhZUTdDclRSQnR2eEcteWszbzgya1BnUVdpcjdtQVRFQkJHT05PNTVQMTFLZDQwcWtLZUNIazEyOHhlSmZFd1V6YWJyaHI5alJCRGpXVW5JeDRQOHFPNFV3SXZLQWxMS3RZM3pPUVR6d2ltcHg1X0xaSFhfREo5Njc4cjF2ckxsY3o4VHhlSURtUW1jMEFIU0R4djRkVzlKaTVEaHZ1d0F4ZnU3a2Vzb3FldGM0eTh3SDF5bmtQQnp0ZGdGamQ2anpfemticzBaQXhXRXVsUDZlZWZJUHNyNmdKZHlFZVJlZXVnYWJUaW8xSW9oNlFPaUszb0I5RXg0c2NxQnZDSkhRMlBnTjNPV1pXYWVMblV0TjlhMWE?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMimANBVV95cUxOQ05HSTU1MGxoSmlQZTNmSXZ1d3MtcHdQVjRLUUo4U3FTd04yc3dxMWlwSlpDZFFkOWdKSGsxbHJCQVVDTFMzWWlDSE14Z25hQU45bGRlN1E1YVlwRDR4R3p2QWY1cElXdkN4SDhZaTFzZV9xVDdZdjVwSmpxMy1QM3c4dUhZUTdDclRSQnR2eEcteWszbzgya1BnUVdpcjdtQVRFQkJHT05PNTVQMTFLZDQwcWtLZUNIazEyOHhlSmZFd1V6YWJyaHI5alJCRGpXVW5JeDRQOHFPNFV3SXZLQWxMS3RZM3pPUVR6d2ltcHg1X0xaSFhfREo5Njc4cjF2ckxsY3o4VHhlSURtUW1jMEFIU0R4djRkVzlKaTVEaHZ1d0F4ZnU3a2Vzb3FldGM0eTh3SDF5bmtQQnp0ZGdGamQ2anpfemticzBaQXhXRXVsUDZlZWZJUHNyNmdKZHlFZVJlZXVnYWJUaW8xSW9oNlFPaUszb0I5RXg0c2NxQnZDSkhRMlBnTjNPV1pXYWVMblV0TjlhMWE?oc=5",
+          "text": "非洲豬瘟疑入侵台灣 農業部：台中通報出現案例 檢驗出陽性反應",
+          "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxNazRCQmlaNkpPTzRmSWVwMDVuYUV6S2dvNG45anVEM3JVSGZMcDlyT1YzR18tSS1rLVJ2OFgzV2wzZnVDbDc2ZWI2YWtFVmJGQ1dNLUFiYnNRTHB2NUJBNVhXUGU2ZEZWcUptaW9lZDdxNHN6eTZWQTlhc0syT1lJaDlwczZFRGpFWHB5RzdhR2tocncwd1RINGpEX29WdXRVY2M3TGRFMHpha0ZBNnhIUmhfQUdZaUJvd3RoWkRka2d2SmxWVmdBRXhEVDVJNVhCaWU4NTREN2REOEZ0Q29JdzVYZEEtcXczZU9UT2lVaDN1RnRILWNjbU5VNTdDdXlxRVFXd2RBS0hSeGZtVDdjT05CY3RZN1NBakNqRlIyeEp4SDVhMUx2MFJxY1M0QkVRRkdPaE1mRzF3M1UyX05pU3Q5dmgwZ1dabFVacFJkb2NKRUVlT1NMTmdmdnpYaF81RVJhMmkzQXdLX1JjODFBbDk4Z2RFOU1DVDhMUXNxNVZzYUF2NFUwemVGcnF5Q2k1LS1ScDNleGxLem1oTk1WU1U5ZkNQdw?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxNazRCQmlaNkpPTzRmSWVwMDVuYUV6S2dvNG45anVEM3JVSGZMcDlyT1YzR18tSS1rLVJ2OFgzV2wzZnVDbDc2ZWI2YWtFVmJGQ1dNLUFiYnNRTHB2NUJBNVhXUGU2ZEZWcUptaW9lZDdxNHN6eTZWQTlhc0syT1lJaDlwczZFRGpFWHB5RzdhR2tocncwd1RINGpEX29WdXRVY2M3TGRFMHpha0ZBNnhIUmhfQUdZaUJvd3RoWkRka2d2SmxWVmdBRXhEVDVJNVhCaWU4NTREN2REOEZ0Q29JdzVYZEEtcXczZU9UT2lVaDN1RnRILWNjbU5VNTdDdXlxRVFXd2RBS0hSeGZtVDdjT05CY3RZN1NBakNqRlIyeEp4SDVhMUx2MFJxY1M0QkVRRkdPaE1mRzF3M1UyX05pU3Q5dmgwZ1dabFVacFJkb2NKRUVlT1NMTmdmdnpYaF81RVJhMmkzQXdLX1JjODFBbDk4Z2RFOU1DVDhMUXNxNVZzYUF2NFUwemVGcnF5Q2k1LS1ScDNleGxLem1oTk1WU1U5ZkNQdw?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "快訊／5縣市山區明上午仍達停班課標準　最新雨量預測曝",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4wVXMzdWJXS05JSjBSUDJKXzd3ZGdUNUlHRUlLMFowQ3lWR1RnUENma3BrbDAzWjRCeVhPTTVpUms3RTlIOVExVHVpVDBVdW1vckRiUGV1VFZ4dVJuMFHSAWhBVV95cUxPQk9WWEEtRTB5M3dXRWlUZ3lmVjNJbVhpMFg4WV9ISmxDR1prQUNYbDRNTk5iejctT3ZEUWIzeEY1a3FoYWI5cjlqb2gzWm1DUnlmR25NZlFTaHFCNDY0NUtlZXphbzU0bQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4wVXMzdWJXS05JSjBSUDJKXzd3ZGdUNUlHRUlLMFowQ3lWR1RnUENma3BrbDAzWjRCeVhPTTVpUms3RTlIOVExVHVpVDBVdW1vckRiUGV1VFZ4dVJuMFHSAWhBVV95cUxPQk9WWEEtRTB5M3dXRWlUZ3lmVjNJbVhpMFg4WV9ISmxDR1prQUNYbDRNTk5iejctT3ZEUWIzeEY1a3FoYWI5cjlqb2gzWm1DUnlmR25NZlFTaHFCNDY0NUtlZXphbzU0bQ?oc=5",
+          "text": "東北風很強！3地區「紫紅一片」豪雨再2天　台灣旁現輸水怪",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fUGVyR0h1TTRtVmFtZ2szbnpXd05VOC1UWktjekRVMDRvb2Q1d3gzRmNFT3p2YXg2MDZhVDhfWEFZMTNFS2RnTThFM3lGQU8tUTFtN3FDWGhoVVVPdFHSAWhBVV95cUxOZzVpOVVKVlFIUHJDbHpIT0NJNjJjWW5aV3c4V3RuTjRCeUpyUUloQTk3U3NuU0lySVZrZjBZRUhtNGRMWmV3Z0wtZTlnb2JZUGkzRkhfM0trT29Yc25hSUpxbFJsR1AwLQ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fUGVyR0h1TTRtVmFtZ2szbnpXd05VOC1UWktjekRVMDRvb2Q1d3gzRmNFT3p2YXg2MDZhVDhfWEFZMTNFS2RnTThFM3lGQU8tUTFtN3FDWGhoVVVPdFHSAWhBVV95cUxOZzVpOVVKVlFIUHJDbHpIT0NJNjJjWW5aV3c4V3RuTjRCeUpyUUloQTk3U3NuU0lySVZrZjBZRUhtNGRMWmV3Z0wtZTlnb2JZUGkzRkhfM0trT29Yc25hSUpxbFJsR1AwLQ?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -178,14 +178,6 @@
           "package": ""
         },
         {
-          "text": "快新聞／豪雨致災！北市文山區景華街土石流 居民暗夜急撤離",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE91UFdaWDJkWW1SamJzMFM1Ri1rNE1ndHhVdHVGY1d2YXpYRVpfV2t6bVpvdlQ3T0pfbHZleWZ5Q25zeUNOTEtJMTlINDhxVk5vaUJNVzVTVFRDNDdXOG9JZQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE91UFdaWDJkWW1SamJzMFM1Ri1rNE1ndHhVdHVGY1d2YXpYRVpfV2t6bVpvdlQ3T0pfbHZleWZ5Q25zeUNOTEtJMTlINDhxVk5vaUJNVzVTVFRDNDdXOG9JZQ?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
           "text": "羅浮宮週一持續閉館中！ 「破窗」現場反成遊客打卡熱點",
           "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQZDI3RGVKRjgzWGVxekFYQjZlYVRKa1NtQm1NYWNWdmFWbmdVV0x2MlUwSTFOdENRcjRuak5NQzBxMEJEVTVMblVOYTJpOVBPaHBmWlI2dUIyclFaRGVuTlNCRXNiSmhkRDZWMERWaDEzb01HeTZSVUc3ZF95SWFxcXZRR3ZPenJMOUZ4Q0VzWG85SEt5WDVhY3VnVEtick9vWWdrZUlYanREeE81OWRLc3RYajJfUi1yZ3A3emMwMnU5Y2Z3MXB4b0J4OThQeXJUSnY1SGhvVUxhYnJRZU1NaHVmLW5oeXRyN25BTHVzUHF5MFFtZVhXWXNpNUYzRWlEZXE5MTFQem5nNVkzT2xHYW00MWVqV3EyZ0Q5eW9xVXpPekFSVDNHRFVhXy00eS1jUEIzRUpTcEtvaGRzQ2x4SmFMeUNUY0pULTlrYUZyazJPdUE?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQZDI3RGVKRjgzWGVxekFYQjZlYVRKa1NtQm1NYWNWdmFWbmdVV0x2MlUwSTFOdENRcjRuak5NQzBxMEJEVTVMblVOYTJpOVBPaHBmWlI2dUIyclFaRGVuTlNCRXNiSmhkRDZWMERWaDEzb01HeTZSVUc3ZF95SWFxcXZRR3ZPenJMOUZ4Q0VzWG85SEt5WDVhY3VnVEtick9vWWdrZUlYanREeE81OWRLc3RYajJfUi1yZ3A3emMwMnU5Y2Z3MXB4b0J4OThQeXJUSnY1SGhvVUxhYnJRZU1NaHVmLW5oeXRyN25BTHVzUHF5MFFtZVhXWXNpNUYzRWlEZXE5MTFQem5nNVkzT2xHYW00MWVqV3EyZ0Q5eW9xVXpPekFSVDNHRFVhXy00eS1jUEIzRUpTcEtvaGRzQ2x4SmFMeUNUY0pULTlrYUZyazJPdUE?oc=5",
@@ -194,17 +186,17 @@
           "package": ""
         },
         {
-          "text": "馬太鞍溪新堰塞湖溢流 公路局：便道路面積土待清理 目標中午搶通",
-          "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxQUm9EektydUFZbGJOTE53RzJqTWlBaXMwdjNLdEpnUXMySl82N1R0cE8xUEh5clNnekFxVUg0eW5HSE9IR3JCNWEtYjdpNU95ekJ6cFlaX3h2SV9qNGJ3ODV6U2lWYkpocS0zMVo5TnAyWUVaNkNsZUhLTGtacE90YTlrelpnWk5wZjVuemJoY0hyWVBJYlZBcGx5VzE1TXUtMHB4UWdWbHYyU1Q1Q1NoWVhvcGRGTEM3LXA5aVAwdFMwUm9NZXg1Z0E3cmdWaDI0T3hYaFVpbVlqU2FDNGJOUzdLcEg2dXBvQmM0YjJwakdpVngtZmFIMGlrNXZxUG15REtJR2t3ejJZdHJYWU56cUhCMFRRYm1WVk96OWVkc1QxdVBBNXNFdFZ0dHdPZ1ZWVTBkMXJMNjZpNFNrMDE5VHFUeWhENV9qVjhjbnNKVGcwM2duQ3pTME5qQWpQZXFfRzVHNHNETkg0SWpSMFl3bHhEU3dNQ2NqSHJydE12UGNjRU9oRmZvUVNGMXFfcUQ1ODg2Ql9ET09JZGE0TEpTZGVwbXJFMlNNZmt5Mk81VndaUQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxQUm9EektydUFZbGJOTE53RzJqTWlBaXMwdjNLdEpnUXMySl82N1R0cE8xUEh5clNnekFxVUg0eW5HSE9IR3JCNWEtYjdpNU95ekJ6cFlaX3h2SV9qNGJ3ODV6U2lWYkpocS0zMVo5TnAyWUVaNkNsZUhLTGtacE90YTlrelpnWk5wZjVuemJoY0hyWVBJYlZBcGx5VzE1TXUtMHB4UWdWbHYyU1Q1Q1NoWVhvcGRGTEM3LXA5aVAwdFMwUm9NZXg1Z0E3cmdWaDI0T3hYaFVpbVlqU2FDNGJOUzdLcEg2dXBvQmM0YjJwakdpVngtZmFIMGlrNXZxUG15REtJR2t3ejJZdHJYWU56cUhCMFRRYm1WVk96OWVkc1QxdVBBNXNFdFZ0dHdPZ1ZWVTBkMXJMNjZpNFNrMDE5VHFUeWhENV9qVjhjbnNKVGcwM2duQ3pTME5qQWpQZXFfRzVHNHNETkg0SWpSMFl3bHhEU3dNQ2NqSHJydE12UGNjRU9oRmZvUVNGMXFfcUQ1ODg2Ql9ET09JZGE0TEpTZGVwbXJFMlNNZmt5Mk81VndaUQ?oc=5",
+          "text": "馬太鞍溪下游出現新堰塞湖 估24小時內溢流、啟動強制撤離",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1uNklFNGsxcUthSzVTNHFCeml1ZzY1a3ZZVkM5S2swM2JIY2hKR2pWWkR6N0ttZ3M3Y01DeFdJRjRmT2tuN21KbDUxSFJFcUE?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1uNklFNGsxcUthSzVTNHFCeml1ZzY1a3ZZVkM5S2swM2JIY2hKR2pWWkR6N0ttZ3M3Y01DeFdJRjRmT2tuN21KbDUxSFJFcUE?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "輝達落腳 估價師猜李四川口袋名單是這塊地：比T17、T18好",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1NRVFxNEF1T0dxbE9SNVR0dXlzazdNN0hqUFZGZGdJOWRhc0tvTm1rVnNuekxYOVJQT05SZ1dGRmRqWExiOWhtS0dCNGQ0SWFJdENz0gFYQVVfeXFMTjVDdDh0Yy16bUJSTVFQZE9nWVdiUURaUkwtU3lLVHB1aW94aTNXRHBwaFJTNXh2ZDdIaGhHSnJXQjA5RDZ0cjE5SnFpZ0o0ZWVUZWk0aVdwcg?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1NRVFxNEF1T0dxbE9SNVR0dXlzazdNN0hqUFZGZGdJOWRhc0tvTm1rVnNuekxYOVJQT05SZ1dGRmRqWExiOWhtS0dCNGQ0SWFJdENz0gFYQVVfeXFMTjVDdDh0Yy16bUJSTVFQZE9nWVdiUURaUkwtU3lLVHB1aW94aTNXRHBwaFJTNXh2ZDdIaGhHSnJXQjA5RDZ0cjE5SnFpZ0o0ZWVUZWk0aVdwcg?oc=5",
+          "text": "新壽掰掰？傳北市府「祕密基地」備案曝光 輝達已放棄T17、T18",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFByc0piazdpN2g4M28yU1Rfa2pwTmFzOXhKeklsSzR2TXBrR3VJUEJjaElQMWtLdF9mZm5xS0kyZG96R29NbDcyaGIza212R1NPdVRR0gFYQVVfeXFMTTNFTWd1cWRVQVdOUENFYklXUEpPM0VMaEc2eGU1MFpiSFZwTk9tSEhjUXdtRUY3aHZEZktxdEpFYVk2dTRBdUxSanVvRjJSd1FvdlBydklOQw?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFByc0piazdpN2g4M28yU1Rfa2pwTmFzOXhKeklsSzR2TXBrR3VJUEJjaElQMWtLdF9mZm5xS0kyZG96R29NbDcyaGIza212R1NPdVRR0gFYQVVfeXFMTTNFTWd1cWRVQVdOUENFYklXUEpPM0VMaEc2eGU1MFpiSFZwTk9tSEhjUXdtRUY3aHZEZktxdEpFYVk2dTRBdUxSanVvRjJSd1FvdlBydklOQw?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -213,6 +205,14 @@
           "text": "台北市今雨量達停班課標準「蔣萬安卻靜悄悄」　臉書仍被灌爆",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9mRGg1Z0JwUWVxYnFSdm5fVGI5Vl9ITXVkU042anM4VWFKdVVlMHltQWx1RlNMYmpDR21GR2RMQlp5NXJ3OFE2dDdyNnhMX05HcnlXVVVWZW5MUVF3S3fSAWhBVV95cUxNQ2x3aG5RdC14VEZ3dkpaU0dwME51TXpUZEJqOGVFQU42YzMxd2RGTy0zVFZ6dmIyYUFwRk0wX2RUTDgzcnJNaW56em5Eb0Z5YlloQkZIME9tU0djT1RPRUFNS0pGS0xQbQ?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9mRGg1Z0JwUWVxYnFSdm5fVGI5Vl9ITXVkU042anM4VWFKdVVlMHltQWx1RlNMYmpDR21GR2RMQlp5NXJ3OFE2dDdyNnhMX05HcnlXVVVWZW5MUVF3S3fSAWhBVV95cUxNQ2x3aG5RdC14VEZ3dkpaU0dwME51TXpUZEJqOGVFQU42YzMxd2RGTy0zVFZ6dmIyYUFwRk0wX2RUTDgzcnJNaW56em5Eb0Z5YlloQkZIME9tU0djT1RPRUFNS0pGS0xQbQ?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "「綠友友肥得流油，治國人才卻掛零」！藍委揭蔡賴執政真相",
+          "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxONTM4T2tZa1hram1mTFFYeWhjMkx0NHAzOGRmend2UG12MWx4SUtKWmtKazNBOWkyMkpwZHI5ZDJld3NrWXJ0eC1QdnBNNGlaeFBPUkcxVU5aVXlkOTNadE1pbTlpY0ZGWF80UG5nS3FJOUVmX0dZdjczc2pETDZOakk2UTFMRFBpOFZWZVFtd2NpYzRlLWJpMTJWMUd1N2NYaDVRYzdGbUpZLXByM0x1MkY1Njc2WWZ1Z3Fuakt1ZkJXUDNQS29PRDZyTE51NHhhWktwc1JFbURMb0tKWXNaODZ2ZUFZTlB4YXFMMzQ1M01sQk5qRlR5bVVYZy1sbmVacl9uczBTY1lSLU44WWx2WXdMX0NoZW9peUxrcjdWdG45OGp6d3dNcW01NFNQNGJfbHFLQlgzX0JScGRyQzhpS3NiYUF1RlA1SE9xOVVleEU4ek5UMkdTbU16ZVlmZl81M1poSjBtaTFNdkt4d3F2a1k3MEtlNjdrZUVpNnZsMnRLZDg1RjdYa0dsT0ZiNjM3NEZmaVB2aTgxckpfclhLXzFXSUNmRWRtdjdEOFFzdnZZclRnSTdaekI5VDB0djhvLW10ODVWM0NGLWRK?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMizANBVV95cUxONTM4T2tZa1hram1mTFFYeWhjMkx0NHAzOGRmend2UG12MWx4SUtKWmtKazNBOWkyMkpwZHI5ZDJld3NrWXJ0eC1QdnBNNGlaeFBPUkcxVU5aVXlkOTNadE1pbTlpY0ZGWF80UG5nS3FJOUVmX0dZdjczc2pETDZOakk2UTFMRFBpOFZWZVFtd2NpYzRlLWJpMTJWMUd1N2NYaDVRYzdGbUpZLXByM0x1MkY1Njc2WWZ1Z3Fuakt1ZkJXUDNQS29PRDZyTE51NHhhWktwc1JFbURMb0tKWXNaODZ2ZUFZTlB4YXFMMzQ1M01sQk5qRlR5bVVYZy1sbmVacl9uczBTY1lSLU44WWx2WXdMX0NoZW9peUxrcjdWdG45OGp6d3dNcW01NFNQNGJfbHFLQlgzX0JScGRyQzhpS3NiYUF1RlA1SE9xOVVleEU4ek5UMkdTbU16ZVlmZl81M1poSjBtaTFNdkt4d3F2a1k3MEtlNjdrZUVpNnZsMnRLZDg1RjdYa0dsT0ZiNjM3NEZmaVB2aTgxckpfclhLXzFXSUNmRWRtdjdEOFFzdnZZclRnSTdaekI5VDB0djhvLW10ODVWM0NGLWRK?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -234,9 +234,9 @@
           "package": ""
         },
         {
-          "text": "川習會不排除破局？川普曝「1情況」可能取消會談- 國際",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2c0szTDF4TFBXZDJNa0I3NmZQY1otSzZxWmoyeURxWml3dXZYSVBwQWZUNE0xU0dtenktd1JYblFKT1hPMnhOLVJwR1NhejF3b1Z4OXZmWTlGS2ttZnhj?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2c0szTDF4TFBXZDJNa0I3NmZQY1otSzZxWmoyeURxWml3dXZYSVBwQWZUNE0xU0dtenktd1JYblFKT1hPMnhOLVJwR1NhejF3b1Z4OXZmWTlGS2ttZnhj?oc=5",
+          "text": "川普列美中談判四大議題，台灣是其一",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50VjN5eGN5Q0ltVzdTT2R0Rm5heG9GaXJlSl9LbGxwc3JtUk42OGNqSDVGVEFwb3IwQmk3aEtaWVE3WEtLdmlaOFZsRmRNZTRHc2d3Rl8yN0RpSnJUZTBCOUR2c1c?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50VjN5eGN5Q0ltVzdTT2R0Rm5heG9GaXJlSl9LbGxwc3JtUk42OGNqSDVGVEFwb3IwQmk3aEtaWVE3WEtLdmlaOFZsRmRNZTRHc2d3Rl8yN0RpSnJUZTBCOUR2c1c?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -250,17 +250,17 @@
           "package": ""
         },
         {
-          "text": "吃鍋也能踩到殺豬盤？中國詐團「免費吃火鍋」誘騙老人投資 600人受騙損失1.8億",
-          "url": "https://news.google.com/rss/articles/CBMiugNBVV95cUxPaFhES2ZiQ3Y5VV80RXpBYXpSN0tuVThtTmlPVFQ5cXZYLVNKZ0pUSWxJT09hY1hBbm9PRHBCaklmNXY3bXliREI1XzF3SFZzYXRSajNadHRjSVZ2UGVuMkJzbDMyM3lXQV8xN0FBVGtIaTdqNnBmTnV0TWNsZHdGRUVLWnJBRVFMR1R0YXQ2TXhvMk9xUlkyX1lwRmUtbG5kaU9aaUlpd0VFVTRiZS12YXVHMXo2MGpuQVFCOG5rTzAxTjdmYWFzYlFIOU9LVnRNaDAtRGg0a1F6eDRwS0lSVjZERExhTGtZSWc3NGpfdTJDTk1Dc1F2d2hDTUlHNFBIYjVxd1Z0VWQ5amtYRkx1UDVoek0zaGMxUldBaTJrcWdJREI3M2hDOEZmeVRaYkZiMzVLMXFhTlllNjVLOEdOM3NEWENLR1hBb3hyNmFBRGFCcUt5ZmczMzlpMmFvZlA0SUZGYk41NVFYWTdHVWQ4OXdWaUNETXVGVm5hTlRNRks3YkJFSVpyNFhSNzlCR0UzX3I3WWpEeV9BdjFpOEF0aEw3LWRGMzF3Nk5wLVFXdTcxdWdPdGJZYlpn?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiugNBVV95cUxPaFhES2ZiQ3Y5VV80RXpBYXpSN0tuVThtTmlPVFQ5cXZYLVNKZ0pUSWxJT09hY1hBbm9PRHBCaklmNXY3bXliREI1XzF3SFZzYXRSajNadHRjSVZ2UGVuMkJzbDMyM3lXQV8xN0FBVGtIaTdqNnBmTnV0TWNsZHdGRUVLWnJBRVFMR1R0YXQ2TXhvMk9xUlkyX1lwRmUtbG5kaU9aaUlpd0VFVTRiZS12YXVHMXo2MGpuQVFCOG5rTzAxTjdmYWFzYlFIOU9LVnRNaDAtRGg0a1F6eDRwS0lSVjZERExhTGtZSWc3NGpfdTJDTk1Dc1F2d2hDTUlHNFBIYjVxd1Z0VWQ5amtYRkx1UDVoek0zaGMxUldBaTJrcWdJREI3M2hDOEZmeVRaYkZiMzVLMXFhTlllNjVLOEdOM3NEWENLR1hBb3hyNmFBRGFCcUt5ZmczMzlpMmFvZlA0SUZGYk41NVFYWTdHVWQ4OXdWaUNETXVGVm5hTlRNRks3YkJFSVpyNFhSNzlCR0UzX3I3WWpEeV9BdjFpOEF0aEw3LWRGMzF3Nk5wLVFXdTcxdWdPdGJZYlpn?oc=5",
+          "text": "醫護看X光全嚇傻！印度男胃痛就醫 體內驚見手錶、螺絲亂如「開五金行」",
+          "url": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxQd0k3cm4zS01Tc1lYN3Utb2JtUmF0U1R5WkZVU2p0c2lZTlJfTTZEVkRMX1d4MTV0QWFGbHdLZW9aX0psNXo0NnM1TThkZmhOQTdGTzhKSU40QWRGSF9YVnAwcmdvUEk1cGRaT0NqRjhCaVlBVmw5WmozUXBlZnZPTEJpZEcxZnZaZkt3dGYyOFVhTmtnbU5TaGpWS1dFSVlqM09VTXNUREpuU3BvZWxEQ1JOQWFKdmtTYkhBZDRqZGRBWTNfWllwaU1hNFJYRGg2SVdTYy1DMnpEVE9BX3RZVl90UllqdTExdWdtS0hwWVh2WUFfUkl3SmNzZHZfSlBLMGhKMkttbmE0SDlYMUZaNzZwbzJnaUNhR3hhMm91T1lUUzZYcVhTSkRuUm13aEpYanA4YS1XTXExelhEWWl4Sk83UDJZZ0VLcjhJbjZibUZ2eDluU0tSaFlueDJwbi05Z0ZVS0c0UW9rUFFhYWYwRjZkUmxGdEFiajQwQ2Rwdkk2SWMtTEY3ZU1QQkRGYU5NTk9DdU1LUmx3UG9RLTVCNDNUblYxcjZ2UXc?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxQd0k3cm4zS01Tc1lYN3Utb2JtUmF0U1R5WkZVU2p0c2lZTlJfTTZEVkRMX1d4MTV0QWFGbHdLZW9aX0psNXo0NnM1TThkZmhOQTdGTzhKSU40QWRGSF9YVnAwcmdvUEk1cGRaT0NqRjhCaVlBVmw5WmozUXBlZnZPTEJpZEcxZnZaZkt3dGYyOFVhTmtnbU5TaGpWS1dFSVlqM09VTXNUREpuU3BvZWxEQ1JOQWFKdmtTYkhBZDRqZGRBWTNfWllwaU1hNFJYRGg2SVdTYy1DMnpEVE9BX3RZVl90UllqdTExdWdtS0hwWVh2WUFfUkl3SmNzZHZfSlBLMGhKMkttbmE0SDlYMUZaNzZwbzJnaUNhR3hhMm91T1lUUzZYcVhTSkRuUm13aEpYanA4YS1XTXExelhEWWl4Sk83UDJZZ0VLcjhJbjZibUZ2eDluU0tSaFlueDJwbi05Z0ZVS0c0UW9rUFFhYWYwRjZkUmxGdEFiajQwQ2Rwdkk2SWMtTEY3ZU1QQkRGYU5NTk9DdU1LUmx3UG9RLTVCNDNUblYxcjZ2UXc?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "【Yahoo早盤】台積電熄火 台股震盪逾百點！分析師陳石輝：消化賣壓後再攻新高",
-          "url": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxPdWstVVE1Zlo0OVJObWxyY18wOTR6Y0tYaEpTcGxsS0ZoRE1EdExPbGpVOE05eVFSeTdwUHJ0TV9XQmI4Zy1JWXpZS0NZNXdmLTE5ck5wMXhsRDNRRTl1V1VDM0VPRFE4NUdYMlllVWZWOXFja3lDVUhFNk55ZmtHTkc3dTlIeUp3bkVpVXRUM1YtTjhMM2FoYjlFUmZ1UXp3U1NVMDhMT2pySFk3cXpBQUJHLUVWZjRkZ2RmcjRBQ21Yb1IwTUUyVkJRNlVta29QeTJsZUVYVkRnNmdtZktsOVlvd3B4RFNqSm1BQk55MG54SlhGR2xvNjJIdlVZcHFscG1EeHhacnhaTF9fa0REczVTM3JsSm8xTzFZbEEwZjE2ajkzZWdsLTJEaVpnTzE3SlF3LUNrVlF2d25obHpZdlFMcnB0UXA5RDZ1U1BZVzVyRl9scDRDcVRqYWMyalNoc2I5NEJOQXFuc3hWckZRd2tQa200TnpKQ3QyYmxsZUNMNjdPZXZaVkVwX2FhV2JQSVJSZGRLUkd0ejU4S3YweExPY0VMNWxsUEw1Q0NXNVYwbWVVc1BfZXJPcjZMa3ZtYzZubTlKanowYUxuY2JtNkRSVHpSd2VTVWIzdC11MVA0M2ZTUWFWMUlKeGNQNWM?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxPdWstVVE1Zlo0OVJObWxyY18wOTR6Y0tYaEpTcGxsS0ZoRE1EdExPbGpVOE05eVFSeTdwUHJ0TV9XQmI4Zy1JWXpZS0NZNXdmLTE5ck5wMXhsRDNRRTl1V1VDM0VPRFE4NUdYMlllVWZWOXFja3lDVUhFNk55ZmtHTkc3dTlIeUp3bkVpVXRUM1YtTjhMM2FoYjlFUmZ1UXp3U1NVMDhMT2pySFk3cXpBQUJHLUVWZjRkZ2RmcjRBQ21Yb1IwTUUyVkJRNlVta29QeTJsZUVYVkRnNmdtZktsOVlvd3B4RFNqSm1BQk55MG54SlhGR2xvNjJIdlVZcHFscG1EeHhacnhaTF9fa0REczVTM3JsSm8xTzFZbEEwZjE2ajkzZWdsLTJEaVpnTzE3SlF3LUNrVlF2d25obHpZdlFMcnB0UXA5RDZ1U1BZVzVyRl9scDRDcVRqYWMyalNoc2I5NEJOQXFuc3hWckZRd2tQa200TnpKQ3QyYmxsZUNMNjdPZXZaVkVwX2FhV2JQSVJSZGRLUkd0ejU4S3YweExPY0VMNWxsUEw1Q0NXNVYwbWVVc1BfZXJPcjZMa3ZtYzZubTlKanowYUxuY2JtNkRSVHpSd2VTVWIzdC11MVA0M2ZTUWFWMUlKeGNQNWM?oc=5",
+          "text": "《台北股市》不畏台積電、台達電下挫 雙鴻躍千元 3大高價股創高",
+          "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxNSjQtcHZDcnhZdFlLQVlaYUVrekJiakdZMkhHOWtaRExHRHhad1JPZ0RkSDQ2TGJGVFE0anZWOGxWcE5VbGpIeEY5RFZSTGlHVTBxclhzcXdNNTc3SlJvZWpnLWVUay1yZmJaQkJ2TDZMZDdwMGhTSV9sZXRlQXNTMFlYZXJhYkJ4cUlvbFNSRkdUNU1CcFBHVzg3SjRFZWJCUUN2c2lrb3RINWxzLVl2TEtvZVkwdGVuNEtNZjZ0TmJIWVN0dUdEdFJSaXd4ckduYWZIbjZTSFlDXy1nTzdaeHNKTFlpN2RJN2hla25GQUNPcVd6QnFHQVhPaEh2cmRMQ05nMklSbHF4cTFGQ1ZWQkVDQjdwT3hCNy1sTlBaVEdMSjg4SFY1Q0FiS2J3STJrWmt2NDNPOXhFOHN6eHh4VmFORkdBTXVZa3ZrMjUwOWRkYnpsamVid0xVajR6dnBzXzlURFdSbktGdmdXT3FwelNBNlBPaEVFS0ZYbnVtRUhuRFRsVTBRQjNERmxCQQ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxNSjQtcHZDcnhZdFlLQVlaYUVrekJiakdZMkhHOWtaRExHRHhad1JPZ0RkSDQ2TGJGVFE0anZWOGxWcE5VbGpIeEY5RFZSTGlHVTBxclhzcXdNNTc3SlJvZWpnLWVUay1yZmJaQkJ2TDZMZDdwMGhTSV9sZXRlQXNTMFlYZXJhYkJ4cUlvbFNSRkdUNU1CcFBHVzg3SjRFZWJCUUN2c2lrb3RINWxzLVl2TEtvZVkwdGVuNEtNZjZ0TmJIWVN0dUdEdFJSaXd4ckduYWZIbjZTSFlDXy1nTzdaeHNKTFlpN2RJN2hla25GQUNPcVd6QnFHQVhPaEh2cmRMQ05nMklSbHF4cTFGQ1ZWQkVDQjdwT3hCNy1sTlBaVEdMSjg4SFY1Q0FiS2J3STJrWmt2NDNPOXhFOHN6eHh4VmFORkdBTXVZa3ZrMjUwOWRkYnpsamVid0xVajR6dnBzXzlURFdSbktGdmdXT3FwelNBNlBPaEVFS0ZYbnVtRUhuRFRsVTBRQjNERmxCQQ?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -273,6 +273,6 @@
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 18,
+  "cost": 12,
   "status": 0
 }
