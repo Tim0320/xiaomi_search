@@ -55,6 +55,14 @@
           "package": ""
         },
         {
+          "text": "不賣！央行持有黃金獲利10倍",
+          "url": "https://tw.news.yahoo.com/%E5%A4%AE%E8%A1%8C%E6%8C%81%E9%87%91%E7%8D%B2%E5%88%A910%E5%80%8D-%E6%A5%8A%E9%87%91%E9%BE%8D%E5%96%8A%E4%B8%8D%E8%B3%A3-%E5%A4%96%E5%8C%AF%E5%AD%98%E5%BA%95%E5%A4%A0%E5%86%8D%E8%B2%B7-075800244.html",
+          "h5_url": "https://tw.news.yahoo.com/%E5%A4%AE%E8%A1%8C%E6%8C%81%E9%87%91%E7%8D%B2%E5%88%A910%E5%80%8D-%E6%A5%8A%E9%87%91%E9%BE%8D%E5%96%8A%E4%B8%8D%E8%B3%A3-%E5%A4%96%E5%8C%AF%E5%AD%98%E5%BA%95%E5%A4%A0%E5%86%8D%E8%B2%B7-075800244.html",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_yahoo",
+          "package": ""
+        },
+        {
           "text": "中信金重訊 傳向三商壽「求親」",
           "url": "https://tw.stock.yahoo.com/news/%E4%B8%AD%E4%BF%A1%E9%87%91%E9%87%8D%E8%A8%8A%E6%9C%89%E9%87%8D%E5%A4%A7%E8%BD%89%E6%8A%95%E8%B3%87-%E5%A4%96%E7%95%8C%E9%BB%9E%E5%90%8D%E8%BF%8E%E5%A8%B6%E4%B8%89%E5%95%86%E5%A3%BD%E6%9C%89%E8%AD%9C%E4%BA%86%EF%BC%9F-111758128.html",
           "h5_url": "https://tw.stock.yahoo.com/news/%E4%B8%AD%E4%BF%A1%E9%87%91%E9%87%8D%E8%A8%8A%E6%9C%89%E9%87%8D%E5%A4%A7%E8%BD%89%E6%8A%95%E8%B3%87-%E5%A4%96%E7%95%8C%E9%BB%9E%E5%90%8D%E8%BF%8E%E5%A8%B6%E4%B8%89%E5%95%86%E5%A3%BD%E6%9C%89%E8%AD%9C%E4%BA%86%EF%BC%9F-111758128.html",
@@ -90,14 +98,6 @@
           "text": "紙鈔將改版 立委籲不放政治人物",
           "url": "https://tw.news.yahoo.com/%E7%B4%99%E9%88%94%E6%94%B9%E7%89%88%E4%BC%B0%E6%AF%8F%E5%BC%B5%E6%88%90%E6%9C%AC5%E5%85%83-%E7%AB%8B%E5%A7%94%E7%9B%BC%E4%B8%BB%E9%A1%8C%E4%B8%8D%E6%94%BE%E6%94%BF%E6%B2%BB%E4%BA%BA%E7%89%A9-080010500.html",
           "h5_url": "https://tw.news.yahoo.com/%E7%B4%99%E9%88%94%E6%94%B9%E7%89%88%E4%BC%B0%E6%AF%8F%E5%BC%B5%E6%88%90%E6%9C%AC5%E5%85%83-%E7%AB%8B%E5%A7%94%E7%9B%BC%E4%B8%BB%E9%A1%8C%E4%B8%8D%E6%94%BE%E6%94%BF%E6%B2%BB%E4%BA%BA%E7%89%A9-080010500.html",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_yahoo",
-          "package": ""
-        },
-        {
-          "text": "極淺層地震！4級震度嚇壞中部人",
-          "url": "https://tw.news.yahoo.com/%E5%9C%B0%E9%9C%87%EF%BC%812028%E5%8D%97%E6%8A%95%E8%A6%8F%E6%A8%A148%E5%9C%B0%E9%9C%87-%E6%9C%80%E5%A4%A7%E9%9C%87%E5%BA%A6%E5%BD%B0%E5%8C%964%E7%B4%9A-14%E7%B8%A3%E5%B8%82%E6%9C%89%E6%84%9F-123601735.html",
-          "h5_url": "https://tw.news.yahoo.com/%E5%9C%B0%E9%9C%87%EF%BC%812028%E5%8D%97%E6%8A%95%E8%A6%8F%E6%A8%A148%E5%9C%B0%E9%9C%87-%E6%9C%80%E5%A4%A7%E9%9C%87%E5%BA%A6%E5%BD%B0%E5%8C%964%E7%B4%9A-14%E7%B8%A3%E5%B8%82%E6%9C%89%E6%84%9F-123601735.html",
           "appIconUrl": "",
           "sourceUniqueId": "content_yahoo",
           "package": ""
@@ -146,41 +146,41 @@
       "link_type": "app",
       "data": [
         {
-          "text": "普發一萬現金來了 總統令公布韌性特別預算",
-          "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOMWh2X1QzQ2dtQ3FiM1k0Q0c1bF9WazR1VTFjN2tSRDI0YjJ2ZmlmZC1uRGJWVW1OSzlPSUNRUnZ0YTJ2VzlrMXFEUllZcGs3eHZWM1VuMENhVVM5dWdUWG1WOWVCcnJUNVloM3V6ME1XaXg4U2FUdFpKWUozanY3M1V6amhLMWg0YmF4bEtlV0RyY3pGYzhBZzdFTWRfNHFER0VVMVRkZ0p0Y3BfdS10VkJSQXF4QTI3VVlNM3BvYUhCMUlDSGJRUFBSOVpmX2htOV8wdmRsTUhCWDBVNWhTNU4wTFA3dG5LZ1JNRUhJSDFfNFRvMTJ2Rl9zbGtlOF9YWUc4X0lCUExEM0loVG9McnlPUHlEejNlUjRrNGFFSVNKXzJwNk1XeHZZUEw1Ym5sV2habzZFeWQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOMWh2X1QzQ2dtQ3FiM1k0Q0c1bF9WazR1VTFjN2tSRDI0YjJ2ZmlmZC1uRGJWVW1OSzlPSUNRUnZ0YTJ2VzlrMXFEUllZcGs3eHZWM1VuMENhVVM5dWdUWG1WOWVCcnJUNVloM3V6ME1XaXg4U2FUdFpKWUozanY3M1V6amhLMWg0YmF4bEtlV0RyY3pGYzhBZzdFTWRfNHFER0VVMVRkZ0p0Y3BfdS10VkJSQXF4QTI3VVlNM3BvYUhCMUlDSGJRUFBSOVpmX2htOV8wdmRsTUhCWDBVNWhTNU4wTFA3dG5LZ1JNRUhJSDFfNFRvMTJ2Rl9zbGtlOF9YWUc4X0lCUExEM0loVG9McnlPUHlEejNlUjRrNGFFSVNKXzJwNk1XeHZZUEw1Ym5sV2habzZFeWQ?oc=5",
+          "text": "普發現金1萬來了總統公布韌性特別預算",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VY1RMTUJIYUFzbTdjNFNrSEdtN2h2VEdZeW1UN3ZJVE1MaXlKNV9VQTV2UFFXY3dCc0lFSXRrdlFqTDlpT2xDazlqclN6cE9SZlVOZUxtUXpLS0VONVJr?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VY1RMTUJIYUFzbTdjNFNrSEdtN2h2VEdZeW1UN3ZJVE1MaXlKNV9VQTV2UFFXY3dCc0lFSXRrdlFqTDlpT2xDazlqclN6cE9SZlVOZUxtUXpLS0VONVJr?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "農業部：台中非洲豬瘟病毒初步分析與越南相似度高",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE43akJ6bGxnNzUzNVVqallaQzE4RUVXbk8xVmxHdFdrb0JsQl9BX09wVXBmVVExaVB2cDdUbU0ydjZDc3FpcWcxU0F4TTc3MFlPT2JWYUxlaHpuaEtlNU1z?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE43akJ6bGxnNzUzNVVqallaQzE4RUVXbk8xVmxHdFdrb0JsQl9BX09wVXBmVVExaVB2cDdUbU0ydjZDc3FpcWcxU0F4TTc3MFlPT2JWYUxlaHpuaEtlNU1z?oc=5",
+          "text": "整理包／沒養豬也可能被罰！回顧非洲豬瘟破防時間軸 看廚餘爭議、餐飲衝擊、防疫規定",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1mTEllR1ZRVWRhNFBKbkJRTElka0ZmcEZNTmVWTGt6RGcydlEwU0Vsd2hMcTJYcG5FLTc5QmRDazhOazZJLU5rTkZPRVNlMmdiMGdv?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1mTEllR1ZRVWRhNFBKbkJRTElka0ZmcEZNTmVWTGt6RGcydlEwU0Vsd2hMcTJYcG5FLTc5QmRDazhOazZJLU5rTkZPRVNlMmdiMGdv?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "「台灣旁邊低壓」成颱機率曝　6縣市豪大雨特報",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9oTFhUNmxSWktqY2NzUHlydVdiS1RTM2VRenI2UW44Ymk4amxYc01IdkpQVU5QNjBvTFRIS2hEQWFJX0VnYkpSU1VVekg0OHJuZ3NfTUlzaGkxQ1M4M1HSAWhBVV95cUxOZ0dnVkV5Yl90b2xKUUw4aFlvVzlsWEJRWm9DLS12NTdLOVAxbmdmb0U4UjBYaUdZWi1CVTh2dFY1bmhzWUlyQUJjbGZEWjNnaGtzZjNQYVZtZkI3VjVJYnhGbVNTcXRLUQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9oTFhUNmxSWktqY2NzUHlydVdiS1RTM2VRenI2UW44Ymk4amxYc01IdkpQVU5QNjBvTFRIS2hEQWFJX0VnYkpSU1VVekg0OHJuZ3NfTUlzaGkxQ1M4M1HSAWhBVV95cUxOZ0dnVkV5Yl90b2xKUUw4aFlvVzlsWEJRWm9DLS12NTdLOVAxbmdmb0U4UjBYaUdZWi1CVTh2dFY1bmhzWUlyQUJjbGZEWjNnaGtzZjNQYVZtZkI3VjVJYnhGbVNTcXRLUQ?oc=5",
+          "text": "新壽分手費40億？游淑慧曝光「送神難」3年土地成本：壓力換北市府扛了 | 李瑋萱",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8tWjR3VWg4dGJfUU4yeWphcE1DUm5obmd1LUVRVmhhUGpadnoyOTRMZHVvQkJJWUh3WnNiRWlZSHVYU210aTJibC1VdzBzQQ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8tWjR3VWg4dGJfUU4yeWphcE1DUm5obmd1LUVRVmhhUGpadnoyOTRMZHVvQkJJWUh3WnNiRWlZSHVYU210aTJibC1VdzBzQQ?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "新壽放棄北士科！北市府曝：輝達今早先內部討論",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92a3RpanlaU3MwZkI2OHM0bWVHZUZDMy1nWlRSeWdub21vYlRDOTZ4c0VfbFotamRoLXczemw4SDVBaTh2WHlVMUowOFVYRGRraHRRUHRzSWtKcHZpQ2800gFkQVVfeXFMTkdNT2o5cGJfamtkWkY2X213V21OQnhpaVJWRUVBdmNWZ1BQd2N6RmdpcjhxVjZQb1ZmbXR5dm1HV0FNbG1WUG9wTWtyNWkwRE5mdWYxTGRHVW10allaT2owV2xEdQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92a3RpanlaU3MwZkI2OHM0bWVHZUZDMy1nWlRSeWdub21vYlRDOTZ4c0VfbFotamRoLXczemw4SDVBaTh2WHlVMUowOFVYRGRraHRRUHRzSWtKcHZpQ2800gFkQVVfeXFMTkdNT2o5cGJfamtkWkY2X213V21OQnhpaVJWRUVBdmNWZ1BQd2N6RmdpcjhxVjZQb1ZmbXR5dm1HV0FNbG1WUG9wTWtyNWkwRE5mdWYxTGRHVW10allaT2owV2xEdQ?oc=5",
+          "text": "光復連假天氣一次看！今6縣市豪、大雨特報 周六降雨趨緩",
+          "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPTHZiYzdLYjN6Q3J3NDQxdTlIYkxmZ2t3Zi1Mcl82OC1Yb1ZuaS1ES3NwVjlIS3ZYUTNvbnpaSUl5b29oaVFmclZpX3NqLS1tTEpWMzFsbGYycVI1RFFCcjRHQWFQaENnZXVSSVB0Sks0d0FJZzBRUXpWV2w5VHJXQVhYSGh1enFzSVdOUU5NbjN5b1pqNUM0LUtRUTV6cTZWUmdHMDc5eEIxUkdrZWNlT2ZNTl8tN1JHUzBUaktYaXhlSHg4SmVka2ZIRndpNUpNbWNFSElyY3NnVkVrMEl4cExGZng5N282aHFKeWpCX1Y3bl84N1ZJcG5fbHA5bU9GSU9sX3JNSlhDaFI5Ym1yLXRFbEVKc1BJWFYzRWZ0aENHcmUzbUoxYTg4aDFVSmxPQzZDN3NlaXJKQWU3cnJId1gyS1VnMmstcFFmUndVRXZIMjYycUtEMDZRVW5GX3hiQ2VrZUhoTXVZelJfdWpReFloZktkS1RXMWRERjM1MzNIQQ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPTHZiYzdLYjN6Q3J3NDQxdTlIYkxmZ2t3Zi1Mcl82OC1Yb1ZuaS1ES3NwVjlIS3ZYUTNvbnpaSUl5b29oaVFmclZpX3NqLS1tTEpWMzFsbGYycVI1RFFCcjRHQWFQaENnZXVSSVB0Sks0d0FJZzBRUXpWV2w5VHJXQVhYSGh1enFzSVdOUU5NbjN5b1pqNUM0LUtRUTV6cTZWUmdHMDc5eEIxUkdrZWNlT2ZNTl8tN1JHUzBUaktYaXhlSHg4SmVka2ZIRndpNUpNbWNFSElyY3NnVkVrMEl4cExGZng5N282aHFKeWpCX1Y3bl84N1ZJcG5fbHA5bU9GSU9sX3JNSlhDaFI5Ym1yLXRFbEVKc1BJWFYzRWZ0aENHcmUzbUoxYTg4aDFVSmxPQzZDN3NlaXJKQWU3cnJId1gyS1VnMmstcFFmUndVRXZIMjYycUtEMDZRVW5GX3hiQ2VrZUhoTXVZelJfdWpReFloZktkS1RXMWRERjM1MzNIQQ?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "花蓮洪災滿月 600到8千人撤離決策幕後曝光",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0eWNHLVdxUURHVFNvLVY3Q2FYT1hITVM2V1owZVFLakhhSEtzdDFCS0dmekFlNWF1Y0V2dVJhSDdOdzlGaEdWVjZ3U1NtNmxuNC1n0gFYQVVfeXFMT2Uzb2luRmQwejFLQ3lYN0NZTnc5SW1VYjhpZjdhbDQwOXFiTU1MUHRqd1RFMmhmbjdqc043V0duNk80djg1T3lCS2NkRlBJX1l5dWx3X0luRQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0eWNHLVdxUURHVFNvLVY3Q2FYT1hITVM2V1owZVFLakhhSEtzdDFCS0dmekFlNWF1Y0V2dVJhSDdOdzlGaEdWVjZ3U1NtNmxuNC1n0gFYQVVfeXFMT2Uzb2luRmQwejFLQ3lYN0NZTnc5SW1VYjhpZjdhbDQwOXFiTU1MUHRqd1RFMmhmbjdqc043V0duNk80djg1T3lCS2NkRlBJX1l5dWx3X0luRQ?oc=5",
+          "text": "桃園客運司機「不信投18元」他乖乖下車　同學幫嗆被暴揍！始末曝光",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE10bW1TNVVfTmRxVHZkbFoyOWM4T3VRY2gtc0NwQkhnNjlrTDh5NjBUZ0JqcEN3SmRoYmNuVFdnY1BiaUZrb0phUnl0M0RpWnlDT0o5V3NHcHVGb01CdXfSAWhBVV95cUxPN2h4VC1OaEt0NFVqcnF0a0JuUWQzMDFqNXpkRVJvdUhfQVhhTGdJa3JQMUEwMFJwVHVHeE1XTGVmMDl5d1FVNG1acGxzNDBSRkJ6Wjg2UlE2am1GRHN3OXNaMVlqUTU5TA?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE10bW1TNVVfTmRxVHZkbFoyOWM4T3VRY2gtc0NwQkhnNjlrTDh5NjBUZ0JqcEN3SmRoYmNuVFdnY1BiaUZrb0phUnl0M0RpWnlDT0o5V3NHcHVGb01CdXfSAWhBVV95cUxPN2h4VC1OaEt0NFVqcnF0a0JuUWQzMDFqNXpkRVJvdUhfQVhhTGdJa3JQMUEwMFJwVHVHeE1XTGVmMDl5d1FVNG1acGxzNDBSRkJ6Wjg2UlE2am1GRHN3OXNaMVlqUTU5TA?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -202,6 +202,14 @@
           "package": ""
         },
         {
+          "text": "挺「以中國人自豪」論述？最新民調超驚人",
+          "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPTGJwdUFnWGdBVW5CaVlRcG9yV1Qyc3FaUGo1R3pVNWVXazRJLWktSVlQVUpBWG5BelItRGVrc2NQLU9NXzc4dFFwUmlpUE03ZU90SVA2MVRaVC15TTFJWGtyMnFNV0FHNGJrWkc0Q3lzbzFvSFR5dnRvbEo2c1hUUDkyc1pBQjY4Q2drRkQxX29IbG44MTRWOTMxczJINUVXd1AtalJNWHV1ZFJ0SU0teDdXb0d5VGI4UEZqSGY3eVNDUE1JSVJvT3RYMHE5bEdlUkNTN2YzUFozYTFSMklkQ1dIWlN4a18wOUpqN2RKU3Q0STd4RHM0SEtsV3JJeTdUYkFLSXJjRlBhc3Zhd2lpRlFlU2RoaXc?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPTGJwdUFnWGdBVW5CaVlRcG9yV1Qyc3FaUGo1R3pVNWVXazRJLWktSVlQVUpBWG5BelItRGVrc2NQLU9NXzc4dFFwUmlpUE03ZU90SVA2MVRaVC15TTFJWGtyMnFNV0FHNGJrWkc0Q3lzbzFvSFR5dnRvbEo2c1hUUDkyc1pBQjY4Q2drRkQxX29IbG44MTRWOTMxczJINUVXd1AtalJNWHV1ZFJ0SU0teDdXb0d5VGI4UEZqSGY3eVNDUE1JSVJvT3RYMHE5bEdlUkNTN2YzUFozYTFSMklkQ1dIWlN4a18wOUpqN2RKU3Q0STd4RHM0SEtsV3JJeTdUYkFLSXJjRlBhc3Zhd2lpRlFlU2RoaXc?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
           "text": "離奇！台南90歲阿嬤失蹤 遭兒棄屍近大埔阿婆灣山區",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE15d3duX0RYU3ZvR25zRVZOUTRyYmxxWWlOZFYwbWwwWVB2OEgxc2V6bHlUM1R1NElWUnM3TDdpand3N3BwalctY2swUTJVa3hScWpGUjFWaHlJb3lsVkFEX2lrQTh4TFNt0gFuQVVfeXFMTTJnUVVmQTlZUEtzRnRyRURMNXdhV3U4UHVlWUNHMHBYbGVrUlNJeDVQSzBqUWQ2UTZfblFuYmJhLXB5Mk1rbTdTSHl3UzFEaks4cXdQMkVLdGNhWDJ4MzZPTVpPYjdpUXJLb09oMnc?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE15d3duX0RYU3ZvR25zRVZOUTRyYmxxWWlOZFYwbWwwWVB2OEgxc2V6bHlUM1R1NElWUnM3TDdpand3N3BwalctY2swUTJVa3hScWpGUjFWaHlJb3lsVkFEX2lrQTh4TFNt0gFuQVVfeXFMTTJnUVVmQTlZUEtzRnRyRURMNXdhV3U4UHVlWUNHMHBYbGVrUlNJeDVQSzBqUWQ2UTZfblFuYmJhLXB5Mk1rbTdTSHl3UzFEaks4cXdQMkVLdGNhWDJ4MzZPTVpPYjdpUXJLb09oMnc?oc=5",
@@ -218,22 +226,6 @@
           "package": ""
         },
         {
-          "text": "賴清德民調回升至40%！黃暐瀚解讀「鱷魚嘴收攏」：不滿仍高於滿意 黃金交叉還得努力",
-          "url": "https://news.google.com/rss/articles/CBMikwRBVV95cUxNOFVFMEkyOV95UGNNZHc1UDgwNks2d1lnS2pjSkxfVVFIMWtkc29KazJvQmJZMWF3OHhQdGR0OG1rcFhmeDhEc1NsdkFSZlBKaGNleEdubUZtZ3FiR1hvcUlScy1iNXlIaDduMkxpcnlzRUNxLTJKOUdWeUhsNlN6Y2QwUzlNMGtYUGIwSEdSZlJpRW9nUDFPckFTUHRJVjBXLXBWXzF4YXczck92NENLZHZyZzJKYzdwdFJZc0xpZzZ2TnREX004eWVPblFJSGdqUWE2VGVtSldKSUZnenBjLW9KYTZJc3lZOUdsZjFiMXJGUlBYT0MzUUp4ckVxZzRQdTc5RS0zY0llV1FnUDJGeXlyUHRjNFNUb2xIRXdqZTI0ZW9WT3NGWGU0TXBGNjIwdkVYQ291V1lFYS1IYzN6TzNjdk11cEljT05mcGxwbzZqbkpHYldiZ3BGWGJWQUlEbXdGTkhtTnBBVlUxZzZFWUpmVHR6X19NdzJUVTNMWGVydEZZQXFwemNod3F2bTlvdXJ4S3BoX2I1V2NPOERySnlybjF0WERoTWJUa085WUJhS25OOERMc1I5T2ZXcElCU21wbzQ4WThYUEI5LTE2dWlCU3BidlRkRW5XdU9qcm1HV2lLUW5QX2tfY0VETmVhZG5RdTB1OWxIZmNTRzFuSXc3RHB1WFRpdWEtQ3F1R1hsSVk?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMikwRBVV95cUxNOFVFMEkyOV95UGNNZHc1UDgwNks2d1lnS2pjSkxfVVFIMWtkc29KazJvQmJZMWF3OHhQdGR0OG1rcFhmeDhEc1NsdkFSZlBKaGNleEdubUZtZ3FiR1hvcUlScy1iNXlIaDduMkxpcnlzRUNxLTJKOUdWeUhsNlN6Y2QwUzlNMGtYUGIwSEdSZlJpRW9nUDFPckFTUHRJVjBXLXBWXzF4YXczck92NENLZHZyZzJKYzdwdFJZc0xpZzZ2TnREX004eWVPblFJSGdqUWE2VGVtSldKSUZnenBjLW9KYTZJc3lZOUdsZjFiMXJGUlBYT0MzUUp4ckVxZzRQdTc5RS0zY0llV1FnUDJGeXlyUHRjNFNUb2xIRXdqZTI0ZW9WT3NGWGU0TXBGNjIwdkVYQ291V1lFYS1IYzN6TzNjdk11cEljT05mcGxwbzZqbkpHYldiZ3BGWGJWQUlEbXdGTkhtTnBBVlUxZzZFWUpmVHR6X19NdzJUVTNMWGVydEZZQXFwemNod3F2bTlvdXJ4S3BoX2I1V2NPOERySnlybjF0WERoTWJUa085WUJhS25OOERMc1I5T2ZXcElCU21wbzQ4WThYUEI5LTE2dWlCU3BidlRkRW5XdU9qcm1HV2lLUW5QX2tfY0VETmVhZG5RdTB1OWxIZmNTRzFuSXc3RHB1WFRpdWEtQ3F1R1hsSVk?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "決斷與前進的內閣：高市早苗「人事刷新」的政治佈局",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QeHp5X1E0TXlmdElZOEp6U2dZS1J5QS1mUnZnVWlMclBzSGZ0UU5vTEcxRllyX3hqNDM5WkFLZUs0Zk5DdGFLcjEyZVYweTB3NWdxSUZhQWZxZlozMldPOUxZS2ptZ9IBa0FVX3lxTE5QMG5SOVZkWU5hWXNkeF9Ra0hhRjNVbDY3REpOTmctSVZoZ0Vrb0cwQ0h3S2FweGlKcjRfS2dMVFpDS1d0TGViSXNrUzFWbHJXZ3lQeTBrZWJqMDRtWTROR25pMlVPN1dYYW9Z?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QeHp5X1E0TXlmdElZOEp6U2dZS1J5QS1mUnZnVWlMclBzSGZ0UU5vTEcxRllyX3hqNDM5WkFLZUs0Zk5DdGFLcjEyZVYweTB3NWdxSUZhQWZxZlozMldPOUxZS2ptZ9IBa0FVX3lxTE5QMG5SOVZkWU5hWXNkeF9Ra0hhRjNVbDY3REpOTmctSVZoZ0Vrb0cwQ0h3S2FweGlKcjRfS2dMVFpDS1d0TGViSXNrUzFWbHJXZ3lQeTBrZWJqMDRtWTROR25pMlVPN1dYYW9Z?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
           "text": "四中全會引發的兩大疑問：接班人問題和貪腐高官暴增",
           "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxPdmZvQnZ1TjI1UjJsajNMeks4bXBuZFAza215emNvZnk2dGlFN1pRTC1YVV9XMFljdnc2UkxQeDE3T1llM3JITXctMWYwTDFWMUdYYzZCM2lyb3RXZmNWd2ZXZE9KNDNUM2FLRmZiU3l4TTVwWlgyWmJjQlE2NkhSck1mMGtjR2JLNWtrN0N4b1ppeHNDaE5mQkNxQVhEX2gtZVZPeVdLRHBiY2M3emtBVUZWLUxMeW5pNmJJU0RLSjRGNDhUamowMl9KeU1BNmdLVWlpaEphV29QbGFEcHFEMzd4bV9WajlTZTlUUkN3TEhzaXduV0xzLTREaWJhcmlsd1R5bzVPQ1lleFlnYzdzMnJudC1NcVhJOWowUzc3ZGgzTHQxYndIc1QtQzZWMkZLVk9zbXJjZlBtaTdEbHExdTdBMVB6R1JyU1JCTGlTV3VYSGoyQUxRUm04Y0lpV0FyMHNadHkxUW12aElKeEpvQW1KZVQ?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxPdmZvQnZ1TjI1UjJsajNMeks4bXBuZFAza215emNvZnk2dGlFN1pRTC1YVV9XMFljdnc2UkxQeDE3T1llM3JITXctMWYwTDFWMUdYYzZCM2lyb3RXZmNWd2ZXZE9KNDNUM2FLRmZiU3l4TTVwWlgyWmJjQlE2NkhSck1mMGtjR2JLNWtrN0N4b1ppeHNDaE5mQkNxQVhEX2gtZVZPeVdLRHBiY2M3emtBVUZWLUxMeW5pNmJJU0RLSjRGNDhUamowMl9KeU1BNmdLVWlpaEphV29QbGFEcHFEMzd4bV9WajlTZTlUUkN3TEhzaXduV0xzLTREaWJhcmlsd1R5bzVPQ1lleFlnYzdzMnJudC1NcVhJOWowUzc3ZGgzTHQxYndIc1QtQzZWMkZLVk9zbXJjZlBtaTdEbHExdTdBMVB6R1JyU1JCTGlTV3VYSGoyQUxRUm04Y0lpV0FyMHNadHkxUW12aElKeEpvQW1KZVQ?oc=5",
@@ -242,9 +234,9 @@
           "package": ""
         },
         {
-          "text": "全球最大源頭中西方重要聯結「中國籍芬太尼毒王-王哥」古巴落網",
-          "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxPYnZiZHJjMi1uQ1NmOTNMV25jQ0VzN1U3OUFCN2FJOXNYcXh4eV9GNmJkV2ozTzd2Wnh6NE0wbTcxclpfUkxRNHY5T2FrbnhERkE1LW82YktVdmRja0RUZ3EtUDZrSHB3NEdleWdhbndFTmUtUFoya29aTldkeGtKVDFsajdEUzJ3NVZmQnJNYUNHdDlXUGxuSFllMVBUcFRLMkcwVTQ2MnpORlZkSVpfU3FWQkh5SGZCMDhmUWZHVHpCLUdFMlNZZFhoWlk1MUFNSFZLbGt6SXBaQ0hyT0JCbGw0V0J1eEw5OWl4cmtCdmwtWlFvV3M5djBpM2FXMjFneUNsVVo2blk0N3dGSkRTZTllR25wT01DTG5fSXBHaTVuajZzRWZfckdIRTIyMXFyc1lKY0dhbHY1cFFRMVV3bnpTM0trR2lXQmphanhxakdMTS14b2pRQlhPQU9MejhRZW9kMEdlNTFHaWhVUmtvTFg4Um5tVjdhNkxMLU9SOTVmVUo2SDlSZlBfTVdTWVhqalFMY3FnQVJpQzg?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxPYnZiZHJjMi1uQ1NmOTNMV25jQ0VzN1U3OUFCN2FJOXNYcXh4eV9GNmJkV2ozTzd2Wnh6NE0wbTcxclpfUkxRNHY5T2FrbnhERkE1LW82YktVdmRja0RUZ3EtUDZrSHB3NEdleWdhbndFTmUtUFoya29aTldkeGtKVDFsajdEUzJ3NVZmQnJNYUNHdDlXUGxuSFllMVBUcFRLMkcwVTQ2MnpORlZkSVpfU3FWQkh5SGZCMDhmUWZHVHpCLUdFMlNZZFhoWlk1MUFNSFZLbGt6SXBaQ0hyT0JCbGw0V0J1eEw5OWl4cmtCdmwtWlFvV3M5djBpM2FXMjFneUNsVVo2blk0N3dGSkRTZTllR25wT01DTG5fSXBHaTVuajZzRWZfckdIRTIyMXFyc1lKY0dhbHY1cFFRMVV3bnpTM0trR2lXQmphanhxakdMTS14b2pRQlhPQU9MejhRZW9kMEdlNTFHaWhVUmtvTFg4Um5tVjdhNkxMLU9SOTVmVUo2SDlSZlBfTVdTWVhqalFMY3FnQVJpQzg?oc=5",
+          "text": "高市早苗上台後的日本股債匯",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZHdTaFAzSWhlbExESC0wMUs0OXMxR205MzB0MUlvMjhucEhFd0o5YW1ZVWNmc0FmbUdyWThhUmZITjNldzAxaTlPU3FNMDNMUmdSUVB3Y1dXaXNYSm8tbUE2TTFlZTRvNGlRX05uMW5SSmt2SUtJVEttaDRoVkNENFdNMHFqOXB3NzJ3?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZHdTaFAzSWhlbExESC0wMUs0OXMxR205MzB0MUlvMjhucEhFd0o5YW1ZVWNmc0FmbUdyWThhUmZITjNldzAxaTlPU3FNMDNMUmdSUVB3Y1dXaXNYSm8tbUE2TTFlZTRvNGlRX05uMW5SSmt2SUtJVEttaDRoVkNENFdNMHFqOXB3NzJ3?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -253,6 +245,14 @@
           "text": "F奶女星當官了！《男女糾察隊》前班底曝新工作",
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQnBubllCSWFEX1dlaUtBMFJzRGtYODNEbE1Kdk9FZV9ETGNDY2NGY2JIRjJqYlVabktGSldmUFR1NlkyRHQyM3JkODFESFhacVdOWWpoYlRDeExPMlh1U3pmbzZsSnI2VENuMk1MTkw2NDNPOFVIZVJjNi1Ga1d0VVVDOUtlckU?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQnBubllCSWFEX1dlaUtBMFJzRGtYODNEbE1Kdk9FZV9ETGNDY2NGY2JIRjJqYlVabktGSldmUFR1NlkyRHQyM3JkODFESFhacVdOWWpoYlRDeExPMlh1U3pmbzZsSnI2VENuMk1MTkw2NDNPOFVIZVJjNi1Ga1d0VVVDOUtlckU?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "全球最大源頭中西方重要聯結「中國籍芬太尼毒王-王哥」古巴落網",
+          "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxPYnZiZHJjMi1uQ1NmOTNMV25jQ0VzN1U3OUFCN2FJOXNYcXh4eV9GNmJkV2ozTzd2Wnh6NE0wbTcxclpfUkxRNHY5T2FrbnhERkE1LW82YktVdmRja0RUZ3EtUDZrSHB3NEdleWdhbndFTmUtUFoya29aTldkeGtKVDFsajdEUzJ3NVZmQnJNYUNHdDlXUGxuSFllMVBUcFRLMkcwVTQ2MnpORlZkSVpfU3FWQkh5SGZCMDhmUWZHVHpCLUdFMlNZZFhoWlk1MUFNSFZLbGt6SXBaQ0hyT0JCbGw0V0J1eEw5OWl4cmtCdmwtWlFvV3M5djBpM2FXMjFneUNsVVo2blk0N3dGSkRTZTllR25wT01DTG5fSXBHaTVuajZzRWZfckdIRTIyMXFyc1lKY0dhbHY1cFFRMVV3bnpTM0trR2lXQmphanhxakdMTS14b2pRQlhPQU9MejhRZW9kMEdlNTFHaWhVUmtvTFg4Um5tVjdhNkxMLU9SOTVmVUo2SDlSZlBfTVdTWVhqalFMY3FnQVJpQzg?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxPYnZiZHJjMi1uQ1NmOTNMV25jQ0VzN1U3OUFCN2FJOXNYcXh4eV9GNmJkV2ozTzd2Wnh6NE0wbTcxclpfUkxRNHY5T2FrbnhERkE1LW82YktVdmRja0RUZ3EtUDZrSHB3NEdleWdhbndFTmUtUFoya29aTldkeGtKVDFsajdEUzJ3NVZmQnJNYUNHdDlXUGxuSFllMVBUcFRLMkcwVTQ2MnpORlZkSVpfU3FWQkh5SGZCMDhmUWZHVHpCLUdFMlNZZFhoWlk1MUFNSFZLbGt6SXBaQ0hyT0JCbGw0V0J1eEw5OWl4cmtCdmwtWlFvV3M5djBpM2FXMjFneUNsVVo2blk0N3dGSkRTZTllR25wT01DTG5fSXBHaTVuajZzRWZfckdIRTIyMXFyc1lKY0dhbHY1cFFRMVV3bnpTM0trR2lXQmphanhxakdMTS14b2pRQlhPQU9MejhRZW9kMEdlNTFHaWhVUmtvTFg4Um5tVjdhNkxMLU9SOTVmVUo2SDlSZlBfTVdTWVhqalFMY3FnQVJpQzg?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -273,6 +273,6 @@
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 33,
+  "cost": 32,
   "status": 0
 }
