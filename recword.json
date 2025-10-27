@@ -146,6 +146,14 @@
       "link_type": "app",
       "data": [
         {
+          "text": "一周天氣一次看！今4縣市大雨特報 北台灣感受溼涼",
+          "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQZzBXNEd6WjA0S1ViYjFjd1VncFRoOE9WbFRwRTc4WW8yaGdTQktUTGJMbXlQQVRNT3hVUVhIR0E1U19GTEpIOU40Uy1ZS3BzMGFmemhLUUZJNlRfQld1V1JpQllLUjJnampOTTU5YVBzMWtra3ZteFVTVlBpc1Y5cUdrZkZjVjR2ODduZDlQQUdJa2lVRWM4ek12ZWMzQWdvcl90QXBFX3BGVUI0MC1BMzBEV1BEaUJ4TlpqNjBkRXpsa2s4S2Z6dkVsaDZwNzlwSjZLRzdGdWU3NWhsWDhsZlBZZjFPbzBtdC1ZU2hKUlRrWFpRQ1RmcnRaSjRxcDdRd1hFZUZIOThtWUtRM1UwZmE3RHBBRFd5OFhXODNoeWF3ZlRHNUZERVFLRmxfTnBDZUV5MENFVF9lRmNqN092dk14ZnJrdHZXa1pfRk1XWjNTWk9mVGlocm1MWnE4QQ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQZzBXNEd6WjA0S1ViYjFjd1VncFRoOE9WbFRwRTc4WW8yaGdTQktUTGJMbXlQQVRNT3hVUVhIR0E1U19GTEpIOU40Uy1ZS3BzMGFmemhLUUZJNlRfQld1V1JpQllLUjJnampOTTU5YVBzMWtra3ZteFVTVlBpc1Y5cUdrZkZjVjR2ODduZDlQQUdJa2lVRWM4ek12ZWMzQWdvcl90QXBFX3BGVUI0MC1BMzBEV1BEaUJ4TlpqNjBkRXpsa2s4S2Z6dkVsaDZwNzlwSjZLRzdGdWU3NWhsWDhsZlBZZjFPbzBtdC1ZU2hKUlRrWFpRQ1RmcnRaSjRxcDdRd1hFZUZIOThtWUtRM1UwZmE3RHBBRFd5OFhXODNoeWF3ZlRHNUZERVFLRmxfTnBDZUV5MENFVF9lRmNqN092dk14ZnJrdHZXa1pfRk1XWjNTWk9mVGlocm1MWnE4QQ?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
           "text": "非洲豬瘟台中案場疫調疑點多廚餘處理通報不符規定",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1rR1U4Ulo1M0pVbXlrd3MxVFFYd0ZsWDdSb01SaDI5Ri1vVzZpaU50WW5Qc2VTODd4N1hjb2ZmbF83Um1GTTRnQkNnc3VPRlh6eGRpN1JmQ2Y5dk9FdTQw?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1rR1U4Ulo1M0pVbXlrd3MxVFFYd0ZsWDdSb01SaDI5Ri1vVzZpaU50WW5Qc2VTODd4N1hjb2ZmbF83Um1GTTRnQkNnc3VPRlh6eGRpN1JmQ2Y5dk9FdTQw?oc=5",
@@ -154,9 +162,9 @@
           "package": ""
         },
         {
-          "text": "一周天氣一次看！今4縣市大雨特報 北台灣感受溼涼",
-          "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQZzBXNEd6WjA0S1ViYjFjd1VncFRoOE9WbFRwRTc4WW8yaGdTQktUTGJMbXlQQVRNT3hVUVhIR0E1U19GTEpIOU40Uy1ZS3BzMGFmemhLUUZJNlRfQld1V1JpQllLUjJnampOTTU5YVBzMWtra3ZteFVTVlBpc1Y5cUdrZkZjVjR2ODduZDlQQUdJa2lVRWM4ek12ZWMzQWdvcl90QXBFX3BGVUI0MC1BMzBEV1BEaUJ4TlpqNjBkRXpsa2s4S2Z6dkVsaDZwNzlwSjZLRzdGdWU3NWhsWDhsZlBZZjFPbzBtdC1ZU2hKUlRrWFpRQ1RmcnRaSjRxcDdRd1hFZUZIOThtWUtRM1UwZmE3RHBBRFd5OFhXODNoeWF3ZlRHNUZERVFLRmxfTnBDZUV5MENFVF9lRmNqN092dk14ZnJrdHZXa1pfRk1XWjNTWk9mVGlocm1MWnE4QQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQZzBXNEd6WjA0S1ViYjFjd1VncFRoOE9WbFRwRTc4WW8yaGdTQktUTGJMbXlQQVRNT3hVUVhIR0E1U19GTEpIOU40Uy1ZS3BzMGFmemhLUUZJNlRfQld1V1JpQllLUjJnampOTTU5YVBzMWtra3ZteFVTVlBpc1Y5cUdrZkZjVjR2ODduZDlQQUdJa2lVRWM4ek12ZWMzQWdvcl90QXBFX3BGVUI0MC1BMzBEV1BEaUJ4TlpqNjBkRXpsa2s4S2Z6dkVsaDZwNzlwSjZLRzdGdWU3NWhsWDhsZlBZZjFPbzBtdC1ZU2hKUlRrWFpRQ1RmcnRaSjRxcDdRd1hFZUZIOThtWUtRM1UwZmE3RHBBRFd5OFhXODNoeWF3ZlRHNUZERVFLRmxfTnBDZUV5MENFVF9lRmNqN092dk14ZnJrdHZXa1pfRk1XWjNTWk9mVGlocm1MWnE4QQ?oc=5",
+          "text": "中美貿易戰降溫！美財長：中國延後稀土管制、美不再課100%關稅",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBOcFBVZ3RMOFNnLWE5enRxVFpnMEFpWXZIaFdfTFR4SnRINDJQQW9iYVN4VlVPY0lDalVKOUViTEFGMmFYdDhMbDdEUmpMVk1IWXdCWVd1VUkxcXdrSlHSAWhBVV95cUxQbzlYSGlqNGpDd1g4VTJYdWJXLXEzQll3VFhUOFFaWnV1V3cxblRQRUEyTlVzQWZjVkxzdlFVQUZlTGZOZ19RQTRDZzBkM3VTMlZ0eHhmWjlLcWhFdDZJcnlGSWExbVV2VQ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBOcFBVZ3RMOFNnLWE5enRxVFpnMEFpWXZIaFdfTFR4SnRINDJQQW9iYVN4VlVPY0lDalVKOUViTEFGMmFYdDhMbDdEUmpMVk1IWXdCWVd1VUkxcXdrSlHSAWhBVV95cUxQbzlYSGlqNGpDd1g4VTJYdWJXLXEzQll3VFhUOFFaWnV1V3cxblRQRUEyTlVzQWZjVkxzdlFVQUZlTGZOZ19RQTRDZzBkM3VTMlZ0eHhmWjlLcWhFdDZJcnlGSWExbVV2VQ?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -178,14 +186,6 @@
           "package": ""
         },
         {
-          "text": "中美吉隆坡經貿協商 中方代表李成鋼發聲：形成初步共識",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5WcWlYYmNGM2k0TndPdVgtVkVNTk15ZUo4dTlYQTlad05GNFNSTEFtWDdJZlJwU2lzZ1ZwbmJPZEdDMTJWWkQxWnlpc2U0VEJ50gFWQVVfeXFMTXJkbzVGUDNtb28wdG1QVC1ucWctaC1hR0JtVlRpV3dVWU1jWDFSQXNxYnFCcU8tNG1lcHVGVW54aGdDUUQtLTZUMXJxVk9NQmpmZVA5ZXc?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5WcWlYYmNGM2k0TndPdVgtVkVNTk15ZUo4dTlYQTlad05GNFNSTEFtWDdJZlJwU2lzZ1ZwbmJPZEdDMTJWWkQxWnlpc2U0VEJ50gFWQVVfeXFMTXJkbzVGUDNtb28wdG1QVC1ucWctaC1hR0JtVlRpV3dVWU1jWDFSQXNxYnFCcU8tNG1lcHVGVW54aGdDUUQtLTZUMXJxVk9NQmpmZVA5ZXc?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
           "text": "遊京都注意！嵐山竹林小徑附近驚見熊出沒- 國際",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB4TmhwWGp6U0JjTjVDbHE2YndjMXJMUlFPQzFrdDBwalNWTTNkXzR4RHJQdno2eHEwT1d2R0VNdENpdkY1eG1NblAxV2I4QXZPcmZnQ1BSOG9vY2NCTjhpRFJlR2FRYTVzU1FkV1Z3?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB4TmhwWGp6U0JjTjVDbHE2YndjMXJMUlFPQzFrdDBwalNWTTNkXzR4RHJQdno2eHEwT1d2R0VNdENpdkY1eG1NblAxV2I4QXZPcmZnQ1BSOG9vY2NCTjhpRFJlR2FRYTVzU1FkV1Z3?oc=5",
@@ -202,17 +202,17 @@
           "package": ""
         },
         {
-          "text": "挺鄭麗文！ 花蓮辦造勢 傅崐萁：我們一定團結",
-          "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOazZtaDBNTHQ4TlBIYmdJYTJIYm5oNWV3dzJybGR2STNyOHB4M3JERzNDVk9sNmdYQ0w0T1hXSnQtVk5mWlVHVHhySzN1aGJkdjRZZkJTZ0NhTG0zWlpOWmxrSHZQdWJsRWJtdnczOTFtaVhIZDBGLUV5WWN6bndCa3FGV0lqbEM2aWFEUjZvWW1vNzJqV3hIQ0FVT2dvVGw0SUFYdkp5eVRUaWtTZXc3XzNXb2FURlpJUmhOTTZMSjVZV0l0dGhyY3Qwc0lHSW1tc1IyUE1VUXc2MzFmNGZQejJGSTNIaFdpZnlnOUtqcHhrUTQtMmlRVnZxVDBDTnJySTJJdnZRVXl5TVM2a2lwM3JGMGZQMHI0aUIxWklsNFc1c2VZ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOazZtaDBNTHQ4TlBIYmdJYTJIYm5oNWV3dzJybGR2STNyOHB4M3JERzNDVk9sNmdYQ0w0T1hXSnQtVk5mWlVHVHhySzN1aGJkdjRZZkJTZ0NhTG0zWlpOWmxrSHZQdWJsRWJtdnczOTFtaVhIZDBGLUV5WWN6bndCa3FGV0lqbEM2aWFEUjZvWW1vNzJqV3hIQ0FVT2dvVGw0SUFYdkp5eVRUaWtTZXc3XzNXb2FURlpJUmhOTTZMSjVZV0l0dGhyY3Qwc0lHSW1tc1IyUE1VUXc2MzFmNGZQejJGSTNIaFdpZnlnOUtqcHhrUTQtMmlRVnZxVDBDTnJySTJJdnZRVXl5TVM2a2lwM3JGMGZQMHI0aUIxWklsNFc1c2VZ?oc=5",
+          "text": "光復災區未恢復 傅崐萁批中央甩鍋縣府、鄭麗文斥賴清德政治算計",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xczNLaFd2S2xFNDdIdlVCXzhRNTBBUnROZDVDejlCdFUzMHRmWldjYWtTQVBiTmVObXJjVUtmRkN5SjdWWnBvdnhWdjBrYlk4Mm5ITENBQ1I0VnFTbW1CdEpLc2U4X1RQekHSAW9BVV95cUxONkw4RlpBLV9VTFJlTjZPYTdvbVVGQTlhOXJfSFJYQnhyMERlR0lGSGVwMjlWd2QxSmR0UUpVUjE1cE5yMk11blc3UDE0QTBnLTVJZktkNnZQNGJWdS1DVFNMTjFSRG94bjFYQXAtcGM?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xczNLaFd2S2xFNDdIdlVCXzhRNTBBUnROZDVDejlCdFUzMHRmWldjYWtTQVBiTmVObXJjVUtmRkN5SjdWWnBvdnhWdjBrYlk4Mm5ITENBQ1I0VnFTbW1CdEpLc2U4X1RQekHSAW9BVV95cUxONkw4RlpBLV9VTFJlTjZPYTdvbVVGQTlhOXJfSFJYQnhyMERlR0lGSGVwMjlWd2QxSmR0UUpVUjE1cE5yMk11blc3UDE0QTBnLTVJZktkNnZQNGJWdS1DVFNMTjFSRG94bjFYQXAtcGM?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "兒科總醫師留不住！北榮院長證實「4人全出走」：都選擇開業",
-          "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNa1BDSW5OUHhNNkUwM21uajBxYkJrbVRPYWNWaUVoVUdUbDRPMFhrY2YxV2p1cmM0ak5ZaFVvdlhYYmFjSEp6a2E0UGhROGpHRXltWnJjQWlJT2dwS1A4b3hNRkFCRUF1VmpvcXdNZm9BQmVwSVVBOUxGRExSR1pzUE9rSVdLb2x1MEtSa09CcmQxUldCQ3VJanltTEIwNmZKMzRzQlB1RWRtUUFhUVVvdVByZW1HWHo1OVdlUTFZZFRieWZGT05UaXNCdFdZNzhobXpsbmExT1dpMmVoMDZWMENqNW5TVnJLTk5KYWhCM1BIeVMxOVpHajcxTTlwbWxZdFhNNHZMRGJzQXV3aER2Mm1uZEtVbXhsR3k5bXB0UnNjN0h1YmoyT0ZYMDJzZ2haN08zZkIxMFo1bk82YkZPVnhveW5DODY2SmRQU0lXOW9KdllaV05QZVhfdmRVMll5UEc2MjlqUlE1US1q?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNa1BDSW5OUHhNNkUwM21uajBxYkJrbVRPYWNWaUVoVUdUbDRPMFhrY2YxV2p1cmM0ak5ZaFVvdlhYYmFjSEp6a2E0UGhROGpHRXltWnJjQWlJT2dwS1A4b3hNRkFCRUF1VmpvcXdNZm9BQmVwSVVBOUxGRExSR1pzUE9rSVdLb2x1MEtSa09CcmQxUldCQ3VJanltTEIwNmZKMzRzQlB1RWRtUUFhUVVvdVByZW1HWHo1OVdlUTFZZFRieWZGT05UaXNCdFdZNzhobXpsbmExT1dpMmVoMDZWMENqNW5TVnJLTk5KYWhCM1BIeVMxOVpHajcxTTlwbWxZdFhNNHZMRGJzQXV3aER2Mm1uZEtVbXhsR3k5bXB0UnNjN0h1YmoyT0ZYMDJzZ2haN08zZkIxMFo1bk82YkZPVnhveW5DODY2SmRQU0lXOW9KdllaV05QZVhfdmRVMll5UEc2MjlqUlE1US1q?oc=5",
+          "text": "林口到新莊省20分鐘！國1五股交流道增設北出匝道 今午4時通車",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE50UVFUWHdXWEVzN3NjYktvczdRdmVJX3I2QW1sb0ZEeU13TU5SUk5yTERfZ0R5R3NleThSSnd6bU4zZE1JVjlyV0dFQllIbDhI0gFWQVVfeXFMUHpCclFNZHdKWjlxQmtYVTFwcDRhX21MTGpyRzM2YXEyaWtwUWhZWW1hOEhLakZDSHV2Vm9FZDhGcEttcU10QVE3MDdGaFJIOWtvWklCTUE?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE50UVFUWHdXWEVzN3NjYktvczdRdmVJX3I2QW1sb0ZEeU13TU5SUk5yTERfZ0R5R3NleThSSnd6bU4zZE1JVjlyV0dFQllIbDhI0gFWQVVfeXFMUHpCclFNZHdKWjlxQmtYVTFwcDRhX21MTGpyRzM2YXEyaWtwUWhZWW1hOEhLakZDSHV2Vm9FZDhGcEttcU10QVE3MDdGaFJIOWtvWklCTUE?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -221,6 +221,14 @@
           "text": "台灣光復80周年敏感時刻 央視：多架共機赴台島周邊模擬對抗訓練",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kX1dheDBDa2I3dFE3Yk9zd1pYODhSLUM2elZmTVVXbFBuUV8xRWpwVTRUSGt1cGswZUsyQTFfQm5FWUZjRy1aeTJHelVKdWxBYmg00gFYQVVfeXFMT3FlaWtJNlBhbFJMUnREajZCWnZPa2lOTEt5bkVoMXNHejV3UnJURkhPcTl1SnpWRFMtbUY2QmNDM0kzZEJoTTFTT3VDWnhHXzBHTmNGMmxzLQ?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kX1dheDBDa2I3dFE3Yk9zd1pYODhSLUM2elZmTVVXbFBuUV8xRWpwVTRUSGt1cGswZUsyQTFfQm5FWUZjRy1aeTJHelVKdWxBYmg00gFYQVVfeXFMT3FlaWtJNlBhbFJMUnREajZCWnZPa2lOTEt5bkVoMXNHejV3UnJURkhPcTl1SnpWRFMtbUY2QmNDM0kzZEJoTTFTT3VDWnhHXzBHTmNGMmxzLQ?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "東京旅遊注意！川普訪日「27日起3天交通管制」路線曝",
+          "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPTkFBcDlubTVIOEZZM1lEWW9ONW0tV0JHZC1Hc1l3Rjh3S1M4RVZVRUlyS0NFWEdXY2owdTFBMUZmeHkxU01fUWVvdV9ELXR5dzF3bjk4NFZ0UEUzQklURHpuSm45NUx4aTVOc3JXYXduaW9BU0lVWFFka3hCWmN5YkFVejRCSkFJTFdUOUYxRFJUSTlSWGdXaFFsdjhmX2xobVlHSUxLbmdPTEdSam1FM1BaclBOLVdjYVJWd2hLZHhNU0dkeVNRdVJscDFmaEF3aVpvb1d2TEpjVFd5UUpqX1JybThLeFlJSHlmdXU5d2FxdUNjSUk4YUFzdm5FYUtQSnBaVkY2MFBiTWR1aWpBQmhjakh5aUljR3d2NUpjOXZvQWdJQXBydS01V25IamZaekhudVB4V1Nxc2E5b3cwQ1U2VHRpVmtnWW9j?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPTkFBcDlubTVIOEZZM1lEWW9ONW0tV0JHZC1Hc1l3Rjh3S1M4RVZVRUlyS0NFWEdXY2owdTFBMUZmeHkxU01fUWVvdV9ELXR5dzF3bjk4NFZ0UEUzQklURHpuSm45NUx4aTVOc3JXYXduaW9BU0lVWFFka3hCWmN5YkFVejRCSkFJTFdUOUYxRFJUSTlSWGdXaFFsdjhmX2xobVlHSUxLbmdPTEdSam1FM1BaclBOLVdjYVJWd2hLZHhNU0dkeVNRdVJscDFmaEF3aVpvb1d2TEpjVFd5UUpqX1JybThLeFlJSHlmdXU5d2FxdUNjSUk4YUFzdm5FYUtQSnBaVkY2MFBiTWR1aWpBQmhjakh5aUljR3d2NUpjOXZvQWdJQXBydS01V25IamZaekhudVB4V1Nxc2E5b3cwQ1U2VHRpVmtnWW9j?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -250,17 +258,9 @@
           "package": ""
         },
         {
-          "text": "美國海軍累了嗎？ 尼米茲號航艦連2架軍機失事墜入南海",
-          "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNSzF0bW9RWmFZcTR1XzE3ZlU1Yl9CUEhFcjRmaGNxdFN6c2RSMmJFbml3R2lESlY1UTc4elo3d0l3SkhNSS1ReWtxUVR3VXpiNlRPXzFCRVVVczdiaFdWUm9TWjB1TXpJUmtOWkQwVWxWTkhOVlpmZTY4NGx2Z3lsVTJFMm11ZFZJVDJIcGY2MS1TYkp3Ujhhc251R2ROV1Z5ZWlYYnRGWUpReGxKYjhoLWprZURDRTJCR1lmYkJTUlBBTXBOU25iR3FhZFpBNVBnM1BDQ1o3S1ZSLW9McGg5WV8yWjJRVU5taWVKZm5Jb2NXZ3NPV3k0MmVEQUZXY2lBZU4yQnlMQUttbG05a29fRU50Y1d5NkJDVzh5ekZFcDBMZTlYS2wzY3RjSmpacUZnTTZ4OHh6bXR5VDJ4VThKYVpSR0Vtd1FaQ01rRUZnamEzQ09HNjkwNUFVSEV1Znd5SGFfaUt2S2JKQQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNSzF0bW9RWmFZcTR1XzE3ZlU1Yl9CUEhFcjRmaGNxdFN6c2RSMmJFbml3R2lESlY1UTc4elo3d0l3SkhNSS1ReWtxUVR3VXpiNlRPXzFCRVVVczdiaFdWUm9TWjB1TXpJUmtOWkQwVWxWTkhOVlpmZTY4NGx2Z3lsVTJFMm11ZFZJVDJIcGY2MS1TYkp3Ujhhc251R2ROV1Z5ZWlYYnRGWUpReGxKYjhoLWprZURDRTJCR1lmYkJTUlBBTXBOU25iR3FhZFpBNVBnM1BDQ1o3S1ZSLW9McGg5WV8yWjJRVU5taWVKZm5Jb2NXZ3NPV3k0MmVEQUZXY2lBZU4yQnlMQUttbG05a29fRU50Y1d5NkJDVzh5ekZFcDBMZTlYS2wzY3RjSmpacUZnTTZ4OHh6bXR5VDJ4VThKYVpSR0Vtd1FaQ01rRUZnamEzQ09HNjkwNUFVSEV1Znd5SGFfaUt2S2JKQQ?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "記憶體股回神！力積電爆12萬量漲近9%　旺宏、南亞科亮燈",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TNGNjWW9EcHRZbGNFaVVyeDVLTm1YdTlXeUV4NnpQTDB2WHJOWXNtN05IbFc3eDF5ZU5Xd0xYWXVMLVFIamJCbGlMUmNFQkd4UGfSAW5BVV95cUxPZWo5OGd5TktCdmtfeVV2b1lxRXIzYWhTOHlXeWczenNuekJpai0tQ29CZ1hnbUdaMzVBUHhYYlItd29XS1FwdUMyaHBoQmh2SVE0UWFTZi1WMzdqUG8zT1FxanpTTGFhd3MxaEVfQQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TNGNjWW9EcHRZbGNFaVVyeDVLTm1YdTlXeUV4NnpQTDB2WHJOWXNtN05IbFc3eDF5ZU5Xd0xYWXVMLVFIamJCbGlMUmNFQkd4UGfSAW5BVV95cUxPZWo5OGd5TktCdmtfeVV2b1lxRXIzYWhTOHlXeWczenNuekJpai0tQ29CZ1hnbUdaMzVBUHhYYlItd29XS1FwdUMyaHBoQmh2SVE0UWFTZi1WMzdqUG8zT1FxanpTTGFhd3MxaEVfQQ?oc=5",
+          "text": "10／27盤前｜輝達GTC大會亮點、與會台廠一次看4家登鑽石級贊助商沒有台積電- 證券",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jM2tNaE1MajdpWkNtWFYza3Z2M3VtSWQ2RTVVb2hSUndZbElZcmZhVkJBNklKeHpEOHltWEY5d2puMENwQ3pSbGRpUTNIaW1CaHRxdkc1Zzd3RkNHa3BZ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jM2tNaE1MajdpWkNtWFYza3Z2M3VtSWQ2RTVVb2hSUndZbElZcmZhVkJBNklKeHpEOHltWEY5d2puMENwQ3pSbGRpUTNIaW1CaHRxdkc1Zzd3RkNHa3BZ?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -273,6 +273,6 @@
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 14,
+  "cost": 35,
   "status": 0
 }
