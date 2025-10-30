@@ -146,14 +146,6 @@
       "link_type": "app",
       "data": [
         {
-          "text": "中美元首會晤結束：特朗普稱「明年訪華」未提台灣，稀土、關稅、大豆等主要成果",
-          "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxNbHJuQ0xRdmZZVHZHejlIbHVkTWRpWk4tTWJpalZJS0tkcXFhSjdxVnVfdW5KQzA3VHdiQWROcERGYnlQeTl1b1VaY0tMQWhDZlJlSGl5THZCbzg0bW9vWDRhVmllZm4zWlJYaFhJUFcxMUZvQUhVR2FmangtTUU4LU9nOEhSUTJxQ09iNlFiLXlGVkUzeVU3LVI1RGdERThvWmppbFNQdUlxNElWcXlqcHpBX1RWbTBFU0wzY0tpaHVhQnVEczZ5V0g0cnhDVEs1Y3lidTNxMWtfc3JseWNkUTA4M1EwcXAyMGgxWTdJTWNUQ01uaTk5bmF5Y2Q4RDEtNmF0Vm14VXR0Q1lhUjlUbmc1dFBpa0lJaWpmVWtNc3U2U1VGYm5sTG44LXRKbmdWdFlxS0JuZ3RzWjliZjFtb2NrRWVCQkVnNkVod2hjY0dMQWh1Q2EwWURxRTI?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxNbHJuQ0xRdmZZVHZHejlIbHVkTWRpWk4tTWJpalZJS0tkcXFhSjdxVnVfdW5KQzA3VHdiQWROcERGYnlQeTl1b1VaY0tMQWhDZlJlSGl5THZCbzg0bW9vWDRhVmllZm4zWlJYaFhJUFcxMUZvQUhVR2FmangtTUU4LU9nOEhSUTJxQ09iNlFiLXlGVkUzeVU3LVI1RGdERThvWmppbFNQdUlxNElWcXlqcHpBX1RWbTBFU0wzY0tpaHVhQnVEczZ5V0g0cnhDVEs1Y3lidTNxMWtfc3JseWNkUTA4M1EwcXAyMGgxWTdJTWNUQ01uaTk5bmF5Y2Q4RDEtNmF0Vm14VXR0Q1lhUjlUbmc1dFBpa0lJaWpmVWtNc3U2U1VGYm5sTG44LXRKbmdWdFlxS0JuZ3RzWjliZjFtb2NrRWVCQkVnNkVod2hjY0dMQWh1Q2EwWURxRTI?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
           "text": "趕走義煮團 花蓮縣府短時間內砸近億買便當 更扯的是這事……",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XQWpTejVQS0xYQ3Ayb3YySGdSRHN2VE9GR1lkZ3Nwbm1nd0JVa1J0UDBjbUVmckFCUm1pNmpoYTYySDFNZVhTNW9EZnBXZnJLdkVYYS1mZHNQMjZMZ1pGQWlTM1h1M0VGLVHSAW9BVV95cUxNSDBnZTFxRTN4LVJXWUpkSl9yaTVFRW5WUGNKZDBCR3RGVHAxMndoVm8wZnRRS1hiY2ZIeWlMMWlqMTNMbWo1d3dIRFVyRHc1dzdTQzZaNW02TlR1U2wzWGZmNGFiS1EwZ3UzWWVmc2s?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XQWpTejVQS0xYQ3Ayb3YySGdSRHN2VE9GR1lkZ3Nwbm1nd0JVa1J0UDBjbUVmckFCUm1pNmpoYTYySDFNZVhTNW9EZnBXZnJLdkVYYS1mZHNQMjZMZ1pGQWlTM1h1M0VGLVHSAW9BVV95cUxNSDBnZTFxRTN4LVJXWUpkSl9yaTVFRW5WUGNKZDBCR3RGVHAxMndoVm8wZnRRS1hiY2ZIeWlMMWlqMTNMbWo1d3dIRFVyRHc1dzdTQzZaNW02TlR1U2wzWGZmNGFiS1EwZ3UzWWVmc2s?oc=5",
@@ -165,6 +157,14 @@
           "text": "北士科T17、T18合意解約新壽首提「分手費」40億元 北市府下周續協商",
           "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxQZGQ0aE55Q0NycmxQSUl6aXpZcW1UcjZXTThsenA5MGJLblZCY0JfeDJSTERNQ0hacU5MancyUEYtWThBcjFXaFd5d2ZFM0o1VHZkSG9vMkxyY1lHTDVqcDlCWU1kWGplY0dMZlZGY1JTYjBMdGZaXzY4bmxfbHM3YnpORzlnMHBTRDJZcnRjaUFXYWo2MVZfS3FpbFFhd0pyaHBzc2Zwb1B2WlJuYkNKUWtXeXk1bVQ2eXBZemp6RmRIS3ZnLVhtNWs4Q0J1UlpOQnNqNFFaeFRPMkwweTI5UlpIMUZmcEY0aWFMRTZoS1NLM2lDVVo0aDNnSzB2Xy02aXBKdDd4aER6Nkl0S01malFuYjJvbTJxcUVaZHppMkxzMVI2V0VNakpUcjI1X0NEdEFiVEdKbEdlaHl2NFM4TEkzdHFYWDZRdmlVV3ZDNzdNTjBPWVYyWUVEX3pmWjVJdkxuaDFLTnJMelRFSWZTcnBNa3lpRWg1Mkc2ZGl3UVB2aHB0akNkanFWaGRWQTN3ZDdSMUlKODA5VUhBdHRBY1lzWQ?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxQZGQ0aE55Q0NycmxQSUl6aXpZcW1UcjZXTThsenA5MGJLblZCY0JfeDJSTERNQ0hacU5MancyUEYtWThBcjFXaFd5d2ZFM0o1VHZkSG9vMkxyY1lHTDVqcDlCWU1kWGplY0dMZlZGY1JTYjBMdGZaXzY4bmxfbHM3YnpORzlnMHBTRDJZcnRjaUFXYWo2MVZfS3FpbFFhd0pyaHBzc2Zwb1B2WlJuYkNKUWtXeXk1bVQ2eXBZemp6RmRIS3ZnLVhtNWs4Q0J1UlpOQnNqNFFaeFRPMkwweTI5UlpIMUZmcEY0aWFMRTZoS1NLM2lDVVo0aDNnSzB2Xy02aXBKdDd4aER6Nkl0S01malFuYjJvbTJxcUVaZHppMkxzMVI2V0VNakpUcjI1X0NEdEFiVEdKbEdlaHl2NFM4TEkzdHFYWDZRdmlVV3ZDNzdNTjBPWVYyWUVEX3pmWjVJdkxuaDFLTnJMelRFSWZTcnBNa3lpRWg1Mkc2ZGl3UVB2aHB0akNkanFWaGRWQTN3ZDdSMUlKODA5VUhBdHRBY1lzWQ?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "川普表示下調對中國10%關稅",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbmFmZlpRYTFCUnd0LTh0bjFzM1NjamhIbmVQLUI1cm1EN3VqVTBxZXk0ek53UVJTNWxIbHZUMnpjRnRIWVBMbUo3UHlWMndzVC1HaHJCUzdyMUpldjIxTUtTUThVU1NoY0N5VW9EdFQ3SWpta3FpZGpjLXhabUdWT2VkS2pPR2F0bmdpLQ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbmFmZlpRYTFCUnd0LTh0bjFzM1NjamhIbmVQLUI1cm1EN3VqVTBxZXk0ek53UVJTNWxIbHZUMnpjRnRIWVBMbUo3UHlWMndzVC1HaHJCUzdyMUpldjIxTUtTUThVU1NoY0N5VW9EdFQ3SWpta3FpZGpjLXhabUdWT2VkS2pPR2F0bmdpLQ?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -210,9 +210,9 @@
           "package": ""
         },
         {
-          "text": "北台今晚降溫濕涼5天！下週二短暫回暖 又有東北季風",
-          "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQNE81TVZHQWdKbm0xX3ZMVUhydHE2T0w3dEVIU05tYmtodVN1SHNmbXlsWTlLRi1UQTcxdkFqQW1aOXVhYlFUSVNCU2Z3UjBBVHo2MGhsU05PcHY5cG5SWVhfYTVGbmlhVlRXVzBzUnlyVVgxNTlpd0puUU85TllFZkVPZE5pRUNOTlRrR1puYjh6X3Rva0ZCY21iTXc3dWJPSkpLS3dVVkNObG1oczJuMmdabzJJd1EyODFzMGdSNmxaQ1BWcENNa1N3UlZmaDU5TWtmMy1mY1N5aU9ZMzlWbkVpckNMdUVNWUFiYktsUmVaOVhPajBFdWJMSmZGUjB3UXY3WWpPSUtjVVFSOGNmaEt2a1hrTzlUZFl0SE55bW5LT3p1NDBBODJMMEdaeDQ2cnY1YUU5S0RIcDZhMGNLck9Kb3lIYW5tREJ5dFBKbkMwcTNTakVBNlAzYThqQ2c?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQNE81TVZHQWdKbm0xX3ZMVUhydHE2T0w3dEVIU05tYmtodVN1SHNmbXlsWTlLRi1UQTcxdkFqQW1aOXVhYlFUSVNCU2Z3UjBBVHo2MGhsU05PcHY5cG5SWVhfYTVGbmlhVlRXVzBzUnlyVVgxNTlpd0puUU85TllFZkVPZE5pRUNOTlRrR1puYjh6X3Rva0ZCY21iTXc3dWJPSkpLS3dVVkNObG1oczJuMmdabzJJd1EyODFzMGdSNmxaQ1BWcENNa1N3UlZmaDU5TWtmMy1mY1N5aU9ZMzlWbkVpckNMdUVNWUFiYktsUmVaOVhPajBFdWJMSmZGUjB3UXY3WWpPSUtjVVFSOGNmaEt2a1hrTzlUZFl0SE55bW5LT3p1NDBBODJMMEdaeDQ2cnY1YUU5S0RIcDZhMGNLck9Kb3lIYW5tREJ5dFBKbkMwcTNTakVBNlAzYThqQ2c?oc=5",
+          "text": "把握好天氣！明起東北季風再南下 北台低溫重回19度",
+          "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOY1JjSTJVY05TWlRjUTNzdjJMV3p2U1pobVkxR1FUM1BLTFF2aERSVTd2VnVBVDl5V0NZME5IN19Sa0g0QURCSDFxWWtUMHlPYjZzUGlKTE1TU0RndWd2X0lwR0M1UUVsU281aGtkM3JVNlAyS01rYUxIMUVoYVJEempXOXpJcUR1T0s4MGpVT1puYUF2NW9hanZuNEtZNVRobnhJZW9mQzlNRDFUdHAzQzYzUHh0RnNSZm9hZTVkaW5OLWFpb2lUZHctazFIdWtVUDgzQkpmQ1VablBKY0lJWFVqOFpFUnV5eEZPV2pMMHFCV0EyblVJLUJOUTcySUxnYTZmSGVOQ0lPd0ZNdDlCd0gzRWVNU0VBQWI5cU5MWkhneWtjUW1YLWtCa05mZm8yZkJkUzVrekhxT21rUUtnUk9EdXV0ZGd3eWZmbmRPd254cVhS?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOY1JjSTJVY05TWlRjUTNzdjJMV3p2U1pobVkxR1FUM1BLTFF2aERSVTd2VnVBVDl5V0NZME5IN19Sa0g0QURCSDFxWWtUMHlPYjZzUGlKTE1TU0RndWd2X0lwR0M1UUVsU281aGtkM3JVNlAyS01rYUxIMUVoYVJEempXOXpJcUR1T0s4MGpVT1puYUF2NW9hanZuNEtZNVRobnhJZW9mQzlNRDFUdHAzQzYzUHh0RnNSZm9hZTVkaW5OLWFpb2lUZHctazFIdWtVUDgzQkpmQ1VablBKY0lJWFVqOFpFUnV5eEZPV2pMMHFCV0EyblVJLUJOUTcySUxnYTZmSGVOQ0lPd0ZNdDlCd0gzRWVNU0VBQWI5cU5MWkhneWtjUW1YLWtCa05mZm8yZkJkUzVrekhxT21rUUtnUk9EdXV0ZGd3eWZmbmRPd254cVhS?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -273,6 +273,6 @@
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 26,
+  "cost": 23,
   "status": 0
 }
