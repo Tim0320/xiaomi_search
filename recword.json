@@ -79,6 +79,14 @@
           "package": ""
         },
         {
+          "text": "北北基防大雨 熱帶低壓動態曝",
+          "url": "https://tw.news.yahoo.com/%E4%BB%8A%E6%B0%B4%E6%B0%A3%E5%81%8F%E5%A4%9A%E3%80%8C3%E7%B8%A3%E5%B8%82%E5%A4%A7%E9%9B%A8%E7%89%B9%E5%A0%B1%E3%80%8D%E7%86%B1%E5%B8%B6%E6%80%A7%E4%BD%8E%E6%B0%A3%E5%A3%93%E6%9C%80%E6%96%B0%E5%8B%95%E6%85%8B%E6%9B%9D-232625552.html",
+          "h5_url": "https://tw.news.yahoo.com/%E4%BB%8A%E6%B0%B4%E6%B0%A3%E5%81%8F%E5%A4%9A%E3%80%8C3%E7%B8%A3%E5%B8%82%E5%A4%A7%E9%9B%A8%E7%89%B9%E5%A0%B1%E3%80%8D%E7%86%B1%E5%B8%B6%E6%80%A7%E4%BD%8E%E6%B0%A3%E5%A3%93%E6%9C%80%E6%96%B0%E5%8B%95%E6%85%8B%E6%9B%9D-232625552.html",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_yahoo",
+          "package": ""
+        },
+        {
           "text": "是否協防台灣？川普：習近平知道答案",
           "url": "https://tw.news.yahoo.com/%E6%98%AF%E5%90%A6%E5%8D%94%E9%98%B2%E5%8F%B0%E7%81%A3-%E5%B7%9D%E6%99%AE-%E7%BF%92%E8%BF%91%E5%B9%B3%E7%9F%A5%E9%81%93%E7%8A%AF%E5%8F%B0%E5%BE%8C%E6%9E%9C-222259785.html",
           "h5_url": "https://tw.news.yahoo.com/%E6%98%AF%E5%90%A6%E5%8D%94%E9%98%B2%E5%8F%B0%E7%81%A3-%E5%B7%9D%E6%99%AE-%E7%BF%92%E8%BF%91%E5%B9%B3%E7%9F%A5%E9%81%93%E7%8A%AF%E5%8F%B0%E5%BE%8C%E6%9E%9C-222259785.html",
@@ -111,14 +119,6 @@
           "package": ""
         },
         {
-          "text": "下車查看⋯駕駛遭遊覽車追撞亡",
-          "url": "https://tw.news.yahoo.com/%E6%96%B0-%E5%9C%8B%E9%81%938%E8%BB%8A%E6%92%9E%E6%88%90-%E5%9C%98-40%E6%AD%B2%E5%A5%B3%E9%A7%95%E9%A7%9B-%E8%87%89%E9%83%A8%E9%87%8D%E5%89%B5%E6%89%AD%E6%9B%B2-122600982.html",
-          "h5_url": "https://tw.news.yahoo.com/%E6%96%B0-%E5%9C%8B%E9%81%938%E8%BB%8A%E6%92%9E%E6%88%90-%E5%9C%98-40%E6%AD%B2%E5%A5%B3%E9%A7%95%E9%A7%9B-%E8%87%89%E9%83%A8%E9%87%8D%E5%89%B5%E6%89%AD%E6%9B%B2-122600982.html",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_yahoo",
-          "package": ""
-        },
-        {
           "text": "女兒幕後推手 黃仁勳炸雞局藏巧思",
           "url": "https://tw.news.yahoo.com/%E9%BB%83%E4%BB%81%E5%8B%B3-%E7%82%B8%E9%9B%9E%E5%B1%80-%E5%B9%95%E5%BE%8C%E6%8E%A8%E6%89%8B%E6%98%AF%E5%A5%B9-%E4%BA%8B%E5%85%88%E7%AD%96%E7%95%AB1%E5%80%8B%E6%9C%88-%E9%81%B8%E5%BA%97%E6%9A%97%E8%97%8F%E5%B7%A7%E6%80%9D-073020025.html",
           "h5_url": "https://tw.news.yahoo.com/%E9%BB%83%E4%BB%81%E5%8B%B3-%E7%82%B8%E9%9B%9E%E5%B1%80-%E5%B9%95%E5%BE%8C%E6%8E%A8%E6%89%8B%E6%98%AF%E5%A5%B9-%E4%BA%8B%E5%85%88%E7%AD%96%E7%95%AB1%E5%80%8B%E6%9C%88-%E9%81%B8%E5%BA%97%E6%9A%97%E8%97%8F%E5%B7%A7%E6%80%9D-073020025.html",
@@ -146,9 +146,9 @@
       "link_type": "app",
       "data": [
         {
-          "text": "真相曝光！為何沒蒸煮廚餘釀豬瘟 廚餘蒸煮機4月份早就壞掉",
-          "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxOaVFKSWgtSUkwX2xCMTRiWWNRYnBBMFUwdnc2b1NKcEdvckxZUWxZYXlTOUxqQzZGOU04TFI3aWFQaUlWeUpIVFpicS1IRTI2Q083aGpqZFgtb0JaX3BVMEFES29jRGZSbTg0V3ptdVVEaWNqdk1NS2N3Y010UXlSZFdWaWN6MFJsQWIzUXh1eVJsQUd5dWowSWxwTTV6eDczRWtRUTZibzJGLVZzQkZlMnhkMHRVZS1fUVItTDhqemladGxmOVpveExNbXBkbm9uOWc0VThtSnNfNElVdkZVUk5GS0VsazRRSklNR01ibl83NGJvaGdNdzFkaFhXbGI5aTNoczJuWEM2Yy0yQUZLbVBUazBwelJoY1kxaGhNU2JBYzhtdndqNkhQZ0h0Vl9EQzhJc0I5d1o5SE1iNXFaNTAydUJHZ21ZWF9SWVBXNEFZNlBIVEFzSXlzS3hzclpfb21iOUFBdnYzMjhJNVl0M0FpMVgzMUVTTVZZTnNXbVlIRFU?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxOaVFKSWgtSUkwX2xCMTRiWWNRYnBBMFUwdnc2b1NKcEdvckxZUWxZYXlTOUxqQzZGOU04TFI3aWFQaUlWeUpIVFpicS1IRTI2Q083aGpqZFgtb0JaX3BVMEFES29jRGZSbTg0V3ptdVVEaWNqdk1NS2N3Y010UXlSZFdWaWN6MFJsQWIzUXh1eVJsQUd5dWowSWxwTTV6eDczRWtRUTZibzJGLVZzQkZlMnhkMHRVZS1fUVItTDhqemladGxmOVpveExNbXBkbm9uOWc0VThtSnNfNElVdkZVUk5GS0VsazRRSklNR01ibl83NGJvaGdNdzFkaFhXbGI5aTNoczJuWEM2Yy0yQUZLbVBUazBwelJoY1kxaGhNU2JBYzhtdndqNkhQZ0h0Vl9EQzhJc0I5d1o5SE1iNXFaNTAydUJHZ21ZWF9SWVBXNEFZNlBIVEFzSXlzS3hzclpfb21iOUFBdnYzMjhJNVl0M0FpMVgzMUVTTVZZTnNXbVlIRFU?oc=5",
+          "text": "台中非洲豬瘟案 豬農父子涉業務登載不實羈押禁見",
+          "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQR01qU0x2N2N2UVM0akxpdkhCTWIxVWRsNHRldFpDUHA0RDFjbHJoRHkzdHc4RDhzV1RkVThDYi1xdE1MMHlmdGZxS2ZRZTBBVGNOTGFuaF92MmZWdnFRZHlaMEFmdzNoblF2M3J6d3ZJa0UtWEIwV1E3SFROaFRvdjF6dml5NW1mc1lKTUt5SXdCNkhYY01nZ2RXbnBtLThISThGc1hmQ2pDR1VSQXJxRmpCTnhWOURORllfTVIyWXNtTUZ1bnRpMFFWeTZBYzY5SjBhVFpvb19JUG0yMjgwcjYzUndzQUt0SXJmUlQ2WmRzaEpjd1plYXU3MFFGWTBwbl9wTk1WNnNvaWpCeDFTNDMwTHFUQVFpd2QyZnNlQjVkSnZIck1ZeVlLTTdCWm1HZFVaUVNzcVVBQ2k1WGwyTkVXWVA4M3JJRnlYZnBlbzFaeGZUaF8xX01PWWU?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQR01qU0x2N2N2UVM0akxpdkhCTWIxVWRsNHRldFpDUHA0RDFjbHJoRHkzdHc4RDhzV1RkVThDYi1xdE1MMHlmdGZxS2ZRZTBBVGNOTGFuaF92MmZWdnFRZHlaMEFmdzNoblF2M3J6d3ZJa0UtWEIwV1E3SFROaFRvdjF6dml5NW1mc1lKTUt5SXdCNkhYY01nZ2RXbnBtLThISThGc1hmQ2pDR1VSQXJxRmpCTnhWOURORllfTVIyWXNtTUZ1bnRpMFFWeTZBYzY5SjBhVFpvb19JUG0yMjgwcjYzUndzQUt0SXJmUlQ2WmRzaEpjd1plYXU3MFFGWTBwbl9wTk1WNnNvaWpCeDFTNDMwTHFUQVFpd2QyZnNlQjVkSnZIck1ZeVlLTTdCWm1HZFVaUVNzcVVBQ2k1WGwyTkVXWVA4M3JJRnlYZnBlbzFaeGZUaF8xX01PWWU?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -202,17 +202,9 @@
           "package": ""
         },
         {
-          "text": "沈伯洋遭中共通緝！游智彬要他投案「新黨會幫你求情」 網群起怒轟！",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBRckVWYUFTM1daalQ0U21MYkxKNUdCanJfQTRrTlg2VzhVd3h5YVA1SkVtM2U5ZXNMRDRWeVB0SlR1MXd3NWd1MkVYNXV0ay1uU180eFliYlhyekg2VHd4ajkxd3hDc0QzX2fSAW9BVV95cUxNWXpOck1Td0JDUC1TUi10TW5hN0w1Um1rXzltUmZ0Y0ROM294Yl9kSzlJNmdsZjJLODlyR0tJUWJNbXV3ZHAxQUdWaXdfV2phWElxc2RVZTlQNk5BeU1rVVJPNUJ5YU9hZUxnVU1OS3M?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBRckVWYUFTM1daalQ0U21MYkxKNUdCanJfQTRrTlg2VzhVd3h5YVA1SkVtM2U5ZXNMRDRWeVB0SlR1MXd3NWd1MkVYNXV0ay1uU180eFliYlhyekg2VHd4ajkxd3hDc0QzX2fSAW9BVV95cUxNWXpOck1Td0JDUC1TUi10TW5hN0w1Um1rXzltUmZ0Y0ROM294Yl9kSzlJNmdsZjJLODlyR0tJUWJNbXV3ZHAxQUdWaXdfV2phWElxc2RVZTlQNk5BeU1rVVJPNUJ5YU9hZUxnVU1OS3M?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "內政部專案清查：50人台灣戶籍被廢、16名陸配自願放棄台灣身分",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8yZjZzN0NVaE1kU0ZSV3ZSLXZyeFBibTh0WEJ0d3kxZEhrdVNPU05HUy1iQTBDdjVlcC1ZYXFIczBXNXJRQmFDaUVZLUwzeUlyZFRFUWZ2b0c3LTUyZFHSAWhBVV95cUxPbEpNSHcwT1IxblhoXzJXajc2TW93dHBHZTNDMzJ2Q3dfeGpwbEVlbzVTSlNWS1lRb2FpLUs5TmNwekZWZWlHSWFoWmJ4U1RPQm54Zm4wWGRRMVdhcThLazlhWmlGanJ3WQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8yZjZzN0NVaE1kU0ZSV3ZSLXZyeFBibTh0WEJ0d3kxZEhrdVNPU05HUy1iQTBDdjVlcC1ZYXFIczBXNXJRQmFDaUVZLUwzeUlyZFRFUWZ2b0c3LTUyZFHSAWhBVV95cUxPbEpNSHcwT1IxblhoXzJXajc2TW93dHBHZTNDMzJ2Q3dfeGpwbEVlbzVTSlNWS1lRb2FpLUs5TmNwekZWZWlHSWFoWmJ4U1RPQm54Zm4wWGRRMVdhcThLazlhWmlGanJ3WQ?oc=5",
+          "text": "50人撤銷台灣戶籍！爆有「跆拳道銅牌」選手 驚人名單曝",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1TRjF3X0d4ek5lWjVQWFEzQ3QtTlJNcVM4UDR6blFZamhzUGQ3a0ctX3hTUk5EQnpNbWlacV9iRUNBTHIwdGtrVWN6VDBFZw?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1TRjF3X0d4ek5lWjVQWFEzQ3QtTlJNcVM4UDR6blFZamhzUGQ3a0ctX3hTUk5EQnpNbWlacV9iRUNBTHIwdGtrVWN6VDBFZw?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -226,9 +218,25 @@
           "package": ""
         },
         {
+          "text": "立委提議在台生產刺針飛彈 國防部承認碰軟釘子",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBjR01zLWpiaDhvMTlfVjNwanJTSk9OZ0xoUjZiME1qeUlHcGcxdG91QmIxNXliMUEwRElIel9qcTB1NV9qdE5LXzRDZ0RFWGpx0gFWQVVfeXFMUFlnZlEyUWJBZGd5TkI3UFExd0YwMHlCVXRBOFZIOGJUa0JyODRHcXZFeUJuS3ZZOHNYZ0ZEUUowV1F1amIxT3BxNVpoNDZqeDZFN0J3SFE?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBjR01zLWpiaDhvMTlfVjNwanJTSk9OZ0xoUjZiME1qeUlHcGcxdG91QmIxNXliMUEwRElIel9qcTB1NV9qdE5LXzRDZ0RFWGpx0gFWQVVfeXFMUFlnZlEyUWJBZGd5TkI3UFExd0YwMHlCVXRBOFZIOGJUa0JyODRHcXZFeUJuS3ZZOHNYZ0ZEUUowV1F1amIxT3BxNVpoNDZqeDZFN0J3SFE?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
           "text": "德外長稱「一中」由德方自行定義 中外長王毅通話要求反台獨",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE43VVFKRTV4eFZGa1N5dFpWUDhDendYc3VpRXQ0ZkQyOVNfZUJkcWkxTllCRGE2Y3ExUmtFX1ZhN3dHVFByem11SXJzSjFiTzdtV2gtVGc4TmV4bk9BX1pxb3o3cWhBZ9IBa0FVX3lxTE1Vb0pTMnFGYnRMZjZrenE1a0M4bHQyc2czamNkR3Zzc0JLSzZvT2Frbk5LUjFjREIzazliSGFaQkh2VDdJZm9KNFRXTzRPNlY1SFQ0MW1idlhna3BmZXhZOG5IclhVZUE0WjNV?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE43VVFKRTV4eFZGa1N5dFpWUDhDendYc3VpRXQ0ZkQyOVNfZUJkcWkxTllCRGE2Y3ExUmtFX1ZhN3dHVFByem11SXJzSjFiTzdtV2gtVGc4TmV4bk9BX1pxb3o3cWhBZ9IBa0FVX3lxTE1Vb0pTMnFGYnRMZjZrenE1a0M4bHQyc2czamNkR3Zzc0JLSzZvT2Frbk5LUjFjREIzazliSGFaQkh2VDdJZm9KNFRXTzRPNlY1SFQ0MW1idlhna3BmZXhZOG5IclhVZUE0WjNV?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "日本自駕遇到熊怎辦 NHK教撇步「不要按喇叭」",
+          "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPWWF2VEs5LWVnWlB4bW1uY3g2cEVFaUM5aDBsLXhIcWNlM3JKWjFiN09fSTEyX2lYbFVRbVNZcnFQT2lsSndXYzFQaENxT2d3RHlGaXBXUVdnNXJVdmd1ajZJanVBdHVUSU4wRFFHcjZUT3Ywa213MmMwbVdYWERMVDNWMWpBYkZhUzdEX20taGs3R3FDcHZQNjI5ZUpyVjBNZEhuN3lqa01RV3lKdmJXX1hBZHUzM3ZCZFBxNUE0RUVYMlJxdVRBUFJIQ1p4dEJaZlY4QzgxcUJXMldkS3lVWEx2RFZqbWxuZkUxOUlacmdWem05dVMxeXQ0NkdMYlhBQ2piTDl2NWlnUEhLNl8td01uTU96T2RUVmdWbDVnTDBVQWlIUXc?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPWWF2VEs5LWVnWlB4bW1uY3g2cEVFaUM5aDBsLXhIcWNlM3JKWjFiN09fSTEyX2lYbFVRbVNZcnFQT2lsSndXYzFQaENxT2d3RHlGaXBXUVdnNXJVdmd1ajZJanVBdHVUSU4wRFFHcjZUT3Ywa213MmMwbVdYWERMVDNWMWpBYkZhUzdEX20taGs3R3FDcHZQNjI5ZUpyVjBNZEhuN3lqa01RV3lKdmJXX1hBZHUzM3ZCZFBxNUE0RUVYMlJxdVRBUFJIQ1p4dEJaZlY4QzgxcUJXMldkS3lVWEx2RFZqbWxuZkUxOUlacmdWem05dVMxeXQ0NkdMYlhBQ2piTDl2NWlnUEhLNl8td01uTU96T2RUVmdWbDVnTDBVQWlIUXc?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -250,14 +258,6 @@
           "package": ""
         },
         {
-          "text": "阿富汗北部6.3強震 USGS發布橙色警報恐釀傷亡",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBLLXVOZFZVcFVrSFZGTUdja2k5QTRwY1J1cXpwNC03di1rUXBkM2lmM2Njamdzd0dnVzZ4NHlCNUFvTUd4ejVzRnVnQlN5bGNySHBXc2otNDV4MHFMOW1r?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBLLXVOZFZVcFVrSFZGTUdja2k5QTRwY1J1cXpwNC03di1rUXBkM2lmM2Njamdzd0dnVzZ4NHlCNUFvTUd4ejVzRnVnQlN5bGNySHBXc2otNDV4MHFMOW1r?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
           "text": "〈美股盤後〉亞馬遜創歷史新高 四大指數僅道瓊收黑",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1NcHlDYmdfbUpxaWppNVRXbG1UdjNYdWVRWUROUHRUVkZNUnU0TUl1VXVvdlVhQVFJSktDTnJTT01WcTFlOTlFYW5xdUNxS2s?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1NcHlDYmdfbUpxaWppNVRXbG1UdjNYdWVRWUROUHRUVkZNUnU0TUl1VXVvdlVhQVFJSktDTnJTT01WcTFlOTlFYW5xdUNxS2s?oc=5",
@@ -273,6 +273,6 @@
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 25,
+  "cost": 18,
   "status": 0
 }
