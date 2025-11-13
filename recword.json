@@ -146,17 +146,9 @@
       "link_type": "app",
       "data": [
         {
-          "text": "聯合報黑白集／右岸淹完左岸淹",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE50Qlo2Y05aWlBUZDNxU0lFejBzNWxqRnplRDRoRDRSYnJlWTI1MFBQdnpMdVhaR1F3a3VBV05SMUxDYldmWlBFTXR2QWhZTjVO0gFWQVVfeXFMTlZySkYxdE4tSXVIZWlrR1NKSmViQzlpSVUzYWdxaDcxYVJVcjFSYUVILXl2LWdoeHpNcXFoeS10aEdobzc2aDFocy1sZkcxeGFQOHFERGc?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE50Qlo2Y05aWlBUZDNxU0lFejBzNWxqRnplRDRoRDRSYnJlWTI1MFBQdnpMdVhaR1F3a3VBV05SMUxDYldmWlBFTXR2QWhZTjVO0gFWQVVfeXFMTlZySkYxdE4tSXVIZWlrR1NKSmViQzlpSVUzYWdxaDcxYVJVcjFSYUVILXl2LWdoeHpNcXFoeS10aEdobzc2aDFocy1sZkcxeGFQOHFERGc?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "美媒：關稅談判美要求台投資規模3500至5500億美元",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5keFhrTG9NdTh0a2JHTFM1aklYeFVxNzhIMW5qWXp6eWRzNEtNN1QxRGFObkNrMlFlTDkxeG9CTnp5VHYxMXZZTHM1TUgtUnpXZW94eWhSRzlWZDdrSFZn?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5keFhrTG9NdTh0a2JHTFM1aklYeFVxNzhIMW5qWXp6eWRzNEtNN1QxRGFObkNrMlFlTDkxeG9CTnp5VHYxMXZZTHM1TUgtUnpXZW94eWhSRzlWZDdrSFZn?oc=5",
+          "text": "洪水灌進明利村！批水利署抱佛腳擋水 村民：爭取國賠",
+          "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNWlVTMEE2LVktZzhudXZKNk9tQ1NYX2U1YVJOTUpOX0ppV05EYzVuNm9VaFctaURRc1g5eDd4dFBERC1GV2U0NEtzM3ktLWc1RHRMajBSMTZVbmFUX0dDcGFESWVpWURJMWQydEotUm5aZ1FwVVQycjF1d0lfLWZzeVkxMG1vU1htUHllTGFmTnRDb1ZzbUFWbVl3WGpzTXk4Z3pyenRPb003MGY4YUltUUttS2o5bkdEMVRDV2lIUld3cHMtS3Y1MVJpWDVtYmhWRi0wTnp6VlJXVVE0b0EzZElaNHdZUXU2aVAwTjQwbzAyNlJ0ZWhpbnlJcXVrNDNDMmo2ZGJBMjg4bEhDVDJORUFPVmUxSU5xM3FEX0M1RXNsWFVMS1hNY3FjMWVZdExDd1REeG1sZ1g0RW1qV0lqMDJpbnNwMldzX2JKVUJBQ2tCT2FRWmFOcVNNSDhKalU?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNWlVTMEE2LVktZzhudXZKNk9tQ1NYX2U1YVJOTUpOX0ppV05EYzVuNm9VaFctaURRc1g5eDd4dFBERC1GV2U0NEtzM3ktLWc1RHRMajBSMTZVbmFUX0dDcGFESWVpWURJMWQydEotUm5aZ1FwVVQycjF1d0lfLWZzeVkxMG1vU1htUHllTGFmTnRDb1ZzbUFWbVl3WGpzTXk4Z3pyenRPb003MGY4YUltUUttS2o5bkdEMVRDV2lIUld3cHMtS3Y1MVJpWDVtYmhWRi0wTnp6VlJXVVE0b0EzZElaNHdZUXU2aVAwTjQwbzAyNlJ0ZWhpbnlJcXVrNDNDMmo2ZGJBMjg4bEhDVDJORUFPVmUxSU5xM3FEX0M1RXNsWFVMS1hNY3FjMWVZdExDd1REeG1sZ1g0RW1qV0lqMDJpbnNwMldzX2JKVUJBQ2tCT2FRWmFOcVNNSDhKalU?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -170,9 +162,25 @@
           "package": ""
         },
         {
-          "text": "賭輸颱風假！ 台大生承諾兌現「但縮水」：真的沒錢了",
-          "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOS0RGaklDSEJZYThMVkxPdnhRVVBMQUhGREJjcDRxMmxLa3R3WGpRUW9KWlcxTVEtOEwyay1jOTAtRV8tcEZCajBYSE1lSjd3VUNVMlhBdkpaRGdXTURTLUlaM0gyOERScHpuUXZ0dEY5dWRSTXpBV05DZWx1dDZTMlVuRFJ6MjlYaHBqR2FRRkdsR1JXUWR5alhZWnl0a2tHRFZqTFltU3RaR29Xakg5Vk95WnlCS05BMF81aVI5NEVFazVEc2lGRm9mUUxiRTMzZWwyeTEtclNxa1FSQmdfQ0tTMERTd1BiM2VJVUllZWY2Zm0zN1VmVVJuc2xTNGV6ZnhoeFZlWnM4Zi1PaTFNY2h1VnVqRkRMNkRzUHpTbWJtYzhCLUVQT0w2em1ONnlCdjZzWUVraUNOa2tUVUZnckplVW5rN3kxVTNLWHBhTQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOS0RGaklDSEJZYThMVkxPdnhRVVBMQUhGREJjcDRxMmxLa3R3WGpRUW9KWlcxTVEtOEwyay1jOTAtRV8tcEZCajBYSE1lSjd3VUNVMlhBdkpaRGdXTURTLUlaM0gyOERScHpuUXZ0dEY5dWRSTXpBV05DZWx1dDZTMlVuRFJ6MjlYaHBqR2FRRkdsR1JXUWR5alhZWnl0a2tHRFZqTFltU3RaR29Xakg5Vk95WnlCS05BMF81aVI5NEVFazVEc2lGRm9mUUxiRTMzZWwyeTEtclNxa1FSQmdfQ0tTMERTd1BiM2VJVUllZWY2Zm0zN1VmVVJuc2xTNGV6ZnhoeFZlWnM4Zi1PaTFNY2h1VnVqRkRMNkRzUHpTbWJtYzhCLUVQT0w2em1ONnlCdjZzWUVraUNOa2tUVUZnckplVW5rN3kxVTNLWHBhTQ?oc=5",
+          "text": "美媒：關稅談判美要求台投資規模3500至5500億美元",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5keFhrTG9NdTh0a2JHTFM1aklYeFVxNzhIMW5qWXp6eWRzNEtNN1QxRGFObkNrMlFlTDkxeG9CTnp5VHYxMXZZTHM1TUgtUnpXZW94eWhSRzlWZDdrSFZn?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5keFhrTG9NdTh0a2JHTFM1aklYeFVxNzhIMW5qWXp6eWRzNEtNN1QxRGFObkNrMlFlTDkxeG9CTnp5VHYxMXZZTHM1TUgtUnpXZW94eWhSRzlWZDdrSFZn?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "藍要沈伯洋去中國澄清誤會！梁文傑妙回一句酸爆 館長慘中槍",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1raWRhbGRkeVFlRVZZcTQ1UVVXbnFDODBzWUN5WEhPc3BDaDc0NFFOS1o1d0tnV1IwVFM2T1NhMFcwb3NYVUE5SlMwdWNGYlNjNV9hQ2dYZHFadmZHX0xaVTBDaWtYN0Qtb1HSAW9BVV95cUxNVHNHVGpJZXVHdUJlbWtxMEtCZWI0R3dkUzNFZWZfVVpNX3UzeGFmVzdYRzQ3Z3ZHTzZIWEt6VU1Tb3dKaDJmOFFUN0c3YklHY2hGb2lZZUJ3SjZJdlU3eTJTWktrbW5wU2tHNHlTek0?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1raWRhbGRkeVFlRVZZcTQ1UVVXbnFDODBzWUN5WEhPc3BDaDc0NFFOS1o1d0tnV1IwVFM2T1NhMFcwb3NYVUE5SlMwdWNGYlNjNV9hQ2dYZHFadmZHX0xaVTBDaWtYN0Qtb1HSAW9BVV95cUxNVHNHVGpJZXVHdUJlbWtxMEtCZWI0R3dkUzNFZWZfVVpNX3UzeGFmVzdYRzQ3Z3ZHTzZIWEt6VU1Tb3dKaDJmOFFUN0c3YklHY2hGb2lZZUJ3SjZJdlU3eTJTWktrbW5wU2tHNHlTek0?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "預測颱風假翻車！大氣系學生買300份雞排「沒錢了」：珍奶僅100杯",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1DdEpIUGxmUVBjWjJBVjdsWGZ0Z0tJZE0wNWNHTGhZTGp0bFNaczZScmUtUUpiS0x1ZHp4VTg0Tldhak5WaU5DWTZUWkN0WjhmNVpNbllIWVF2Y05lYWfSAWhBVV95cUxOLWpGTFRZUldYMTR0d2ZCQm5OZFFpYWJSQlpLSUlYTW1PNjN6bkJzbldsMUhtd2l1Q1BnQnR0VExLd25sSUV0V0FHbG5McHlBMEh3RkcyYkM4OUw1SDNINTRYaUlpVmlqdg?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1DdEpIUGxmUVBjWjJBVjdsWGZ0Z0tJZE0wNWNHTGhZTGp0bFNaczZScmUtUUpiS0x1ZHp4VTg0Tldhak5WaU5DWTZUWkN0WjhmNVpNbllIWVF2Y05lYWfSAWhBVV95cUxOLWpGTFRZUldYMTR0d2ZCQm5OZFFpYWJSQlpLSUlYTW1PNjN6bkJzbldsMUhtd2l1Q1BnQnR0VExLd25sSUV0V0FHbG5McHlBMEh3RkcyYkM4OUw1SDNINTRYaUlpVmlqdg?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -186,25 +194,9 @@
           "package": ""
         },
         {
-          "text": "普發1萬入帳就被鎖！帳戶凍結變「警示戶」 大票苦主：有錢不能領",
-          "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQb012ME1NdjVQMFFhVVhBbXIzZlpXVE9DV3h3MkNTNWRVdENzTnNmVWtWbk5FQ1lUaTYzQTUtTVJsMG5DdzV1Sl9oYU50UUhPX1lBb1hIX1NneEVQcnJRd2NWNndrWktBc3pyXzNFNTFPRHhuVmNuRHMyY2s5OHNXMG05RGNpY1RJQlFyOVI5Y1M0ajVPX1dqbC1yNjZ1bUtKeGJTdW1HenZHSjAwZTFoRnFMWGJ0V1VVTWxGMHpnR2p3aG10RXBxVy1vb2Z1TTA1aG5qLUFBR2JRb1paLTZXT2VWMmZEb25YTVpJT21ySDVBUU1aUm5UVUtqbmJPSnlCMWhrVzBmN2VQcWZKeDBPSEUtX2RjSGVvNzY1OVpaWE5TeEV3aDlhUjRjTmZmT2xjQm1fZjFTUjJEZ05tUWYyR0xYU3Nqd2VHVndUczBQY3pHLTJpdTFILXJQUVZTcnNPbVJSZ2JQUW5HTkJqWXZ3N0hEdDA0RkV3NXZ1Q0I3b05QUDc0cWc?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQb012ME1NdjVQMFFhVVhBbXIzZlpXVE9DV3h3MkNTNWRVdENzTnNmVWtWbk5FQ1lUaTYzQTUtTVJsMG5DdzV1Sl9oYU50UUhPX1lBb1hIX1NneEVQcnJRd2NWNndrWktBc3pyXzNFNTFPRHhuVmNuRHMyY2s5OHNXMG05RGNpY1RJQlFyOVI5Y1M0ajVPX1dqbC1yNjZ1bUtKeGJTdW1HenZHSjAwZTFoRnFMWGJ0V1VVTWxGMHpnR2p3aG10RXBxVy1vb2Z1TTA1aG5qLUFBR2JRb1paLTZXT2VWMmZEb25YTVpJT21ySDVBUU1aUm5UVUtqbmJPSnlCMWhrVzBmN2VQcWZKeDBPSEUtX2RjSGVvNzY1OVpaWE5TeEV3aDlhUjRjTmZmT2xjQm1fZjFTUjJEZ05tUWYyR0xYU3Nqd2VHVndUczBQY3pHLTJpdTFILXJQUVZTcnNPbVJSZ2JQUW5HTkJqWXZ3N0hEdDA0RkV3NXZ1Q0I3b05QUDc0cWc?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
           "text": "沈伯洋懶人包：沈伯洋為何被通緝？賴清德、韓國瑜怎麼說？八炯、閩南狼也被通緝？【Yahoo議點通】",
           "url": "https://news.google.com/rss/articles/CBMi3gRBVV95cUxPS2MtckJ5d3l6OU9kSUtCMzJLRHpWUm5tQXIyX3oxZGJzdGMtenA5dURhd2RyVzZvN3JzS09KbDctUmlfUWFDTTR0djVweUVLeGJqajVxVFRZalpvMDVxSFlKWEJZVUpoaWhaXzdJbm9WQjNfbGlfYWxhUTBCNW5KaVpDSWEwNjQwYnY5WE8tcG5ONUw1X0NOYnZ3aGNGbTFIb21LX1BTUVZBamZPNENYY1duYnZ3RmZCOVZrNmo1V3hRZ3ptdnNxaGwzeFVaMUhtZGFIdU1zUDg1Rkd5YUVjXzNmRFhEamxXSnNGN0V5cnFyU2E3WHFXN19IVmVZblpXZE02NGFIWXcySi1CeERSRWRMekFWV1dmZFRXSTMtOU5aakVLQWV6S3dEOGRNeThvMHpkNWdXTjV0RnFnUkZjWVpfUGlqanY1aWpfcy1XUl9kV09EYnJfdlFvYjU0bmNyVWtiTlFuVklTbEFBcmVJQy1sc1Y4VktIS1lfTElXXzVUdVFLV1d0Yml2Q3RFLW9tWkJGLXJvQlpKVWQ0eW56ZUhtS2k3M1VkVnVhNENmZHRGZjhDdzhvbWpfN3NzaFdQVGpsV01TaGl2dFh0Qkc4cWRNU3hiQUFoN3FyRDFkWG9wMnNuS1F0anAzNTdOSVZKQXVOa3E4S2toTXhWSnpyWFJ6SnVrSDFydk5tZUJHOEk2dVpBMl9yU2N4VUEtaUdiQnV2MnRPbHRZZEZ6NU9wTTVYRXBBSFpzWjlkYXpqa3JzakxXMzZDNTQ1UnRQclk0RWFlejgtYUNvQ3c0Wmc?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMi3gRBVV95cUxPS2MtckJ5d3l6OU9kSUtCMzJLRHpWUm5tQXIyX3oxZGJzdGMtenA5dURhd2RyVzZvN3JzS09KbDctUmlfUWFDTTR0djVweUVLeGJqajVxVFRZalpvMDVxSFlKWEJZVUpoaWhaXzdJbm9WQjNfbGlfYWxhUTBCNW5KaVpDSWEwNjQwYnY5WE8tcG5ONUw1X0NOYnZ3aGNGbTFIb21LX1BTUVZBamZPNENYY1duYnZ3RmZCOVZrNmo1V3hRZ3ptdnNxaGwzeFVaMUhtZGFIdU1zUDg1Rkd5YUVjXzNmRFhEamxXSnNGN0V5cnFyU2E3WHFXN19IVmVZblpXZE02NGFIWXcySi1CeERSRWRMekFWV1dmZFRXSTMtOU5aakVLQWV6S3dEOGRNeThvMHpkNWdXTjV0RnFnUkZjWVpfUGlqanY1aWpfcy1XUl9kV09EYnJfdlFvYjU0bmNyVWtiTlFuVklTbEFBcmVJQy1sc1Y4VktIS1lfTElXXzVUdVFLV1d0Yml2Q3RFLW9tWkJGLXJvQlpKVWQ0eW56ZUhtS2k3M1VkVnVhNENmZHRGZjhDdzhvbWpfN3NzaFdQVGpsV01TaGl2dFh0Qkc4cWRNU3hiQUFoN3FyRDFkWG9wMnNuS1F0anAzNTdOSVZKQXVOa3E4S2toTXhWSnpyWFJ6SnVrSDFydk5tZUJHOEk2dVpBMl9yU2N4VUEtaUdiQnV2MnRPbHRZZEZ6NU9wTTVYRXBBSFpzWjlkYXpqa3JzakxXMzZDNTQ1UnRQclk0RWFlejgtYUNvQ3c0Wmc?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "食藥署長斷言芬普尼蛋是個案挨轟 改口：不排除有橫向和更多案例",
-          "url": "https://news.google.com/rss/articles/CBMisANBVV95cUxNNWFQdDZrbDhOX3AtY0oyQ0UyQU1aQ0ljbkg4YlMtS05zYkNBVTV4c056My03cjgtRE1Wd01BanZ3S0dDSFlzNTlhc1JfclZnV3REY2swLU5GajVGWXpDT2Q5VHI5LXUtcUpyVC1OWnJFeVoyZEhxNFc1QThQZm5vRXp1M25UaGpRNFdhZVdSUk5lbFZGTnRKWmZzeEVlbGFFZUtkN2RUUWVkWnUtVDhsbGNTZng4V0dvU2tMdnhualJoOWhVTUFaellRQy1XZWhtUFRkT2xwRnRvazJaR0k2b2lic3VDY2RNV1R1dzZzZ18tZDh1TEZ4bDFtd19VNXpEUWgzMGV4MmVha0VONXlRV2UzQ211bDFwclNXQ1VhWXdjUFlKNVh5WnVFN3daZ29SQ1hqMGdnWU9Vb1NxLVJHX0xUcWxiOFlHajRNTmdjSHZNMUdkMGhycVFNUl9pRkxKclZYTV9aN2pvcXBxM2swbDBqWEEtZUZMZjRyU3M1VUZSX2ZsN2taTnNJbkd4SWlVX0EyLXNUTVRDWmx3b3NnRDdwaUJ6U3V6RFdPZzNJazg?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMisANBVV95cUxNNWFQdDZrbDhOX3AtY0oyQ0UyQU1aQ0ljbkg4YlMtS05zYkNBVTV4c056My03cjgtRE1Wd01BanZ3S0dDSFlzNTlhc1JfclZnV3REY2swLU5GajVGWXpDT2Q5VHI5LXUtcUpyVC1OWnJFeVoyZEhxNFc1QThQZm5vRXp1M25UaGpRNFdhZVdSUk5lbFZGTnRKWmZzeEVlbGFFZUtkN2RUUWVkWnUtVDhsbGNTZng4V0dvU2tMdnhualJoOWhVTUFaellRQy1XZWhtUFRkT2xwRnRvazJaR0k2b2lic3VDY2RNV1R1dzZzZ18tZDh1TEZ4bDFtd19VNXpEUWgzMGV4MmVha0VONXlRV2UzQ211bDFwclNXQ1VhWXdjUFlKNVh5WnVFN3daZ29SQ1hqMGdnWU9Vb1NxLVJHX0xUcWxiOFlHajRNTmdjSHZNMUdkMGhycVFNUl9pRkxKclZYTV9aN2pvcXBxM2swbDBqWEEtZUZMZjRyU3M1VUZSX2ZsN2taTnNJbkd4SWlVX0EyLXNUTVRDWmx3b3NnRDdwaUJ6U3V6RFdPZzNJazg?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -226,6 +218,14 @@
           "package": ""
         },
         {
+          "text": "侯漢廷烏龍爆料「快樂宴」挨告郭智輝發聲回擊：應坦然面對責任| 政治",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VZFZCOWxxdW5lTzROcThwNHZLdkpUU3NnSXRqaVNOUjlUbWFJalhFUTFMUmNRRHJndzJVNDdCVXd2QjU0Y2tWYlZjYjVpMEhR?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VZFZCOWxxdW5lTzROcThwNHZLdkpUU3NnSXRqaVNOUjlUbWFJalhFUTFMUmNRRHJndzJVNDdCVXd2QjU0Y2tWYlZjYjVpMEhR?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
           "text": "川普簽署妥協撥款法案 終結美國史上最長43天政府停擺[影]",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCejdnMVFlVFgzSmk3VFhmOEtGTVBJWnZkejJfcUVEd3FQRnhTTHFsSzdHQmhMcWhlUmtWUlFVbG9pOTJhNkFnbUZFT19USGdNZWtqSHhOcVJZTk9aakVB?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCejdnMVFlVFgzSmk3VFhmOEtGTVBJWnZkejJfcUVEd3FQRnhTTHFsSzdHQmhMcWhlUmtWUlFVbG9pOTJhNkFnbUZFT19USGdNZWtqSHhOcVJZTk9aakVB?oc=5",
@@ -242,17 +242,17 @@
           "package": ""
         },
         {
-          "text": "札幌圓山動物園捕獲棕熊 現已「賜死」",
-          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQS3pqYTY2SDkxVEo0aHBfc0RTQzdvQmdnRHhNcTZXWXRwWUNMVWRiRnV0ZndHSk9uSDRhTGRJdnIwRjlxcXBpVkhLM1pWc2ZiY1NiWHQxbm02SF9wWlBFLUEyc3Z1VzZyak1EdWxtSTd0a3Eza0R3TWVNaTI0eE84aFFZbnp5c29hYUtiYVN6NGdpTVZJNWpBWkE1TmdaUkVFRzdQYnktc1NMWXB5ZlpQczhQQzdjdm9ZUkdhZHJENXBOR2pSRHFFeTVrcXFDSEJJdVhjc3JIam44aHktV2hzZTdhVlh3eTh0bWdiZzdEOWRkcFZ0UFFBdE1iSHAzNEsyS0MtV2xMNVJmZw?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQS3pqYTY2SDkxVEo0aHBfc0RTQzdvQmdnRHhNcTZXWXRwWUNMVWRiRnV0ZndHSk9uSDRhTGRJdnIwRjlxcXBpVkhLM1pWc2ZiY1NiWHQxbm02SF9wWlBFLUEyc3Z1VzZyak1EdWxtSTd0a3Eza0R3TWVNaTI0eE84aFFZbnp5c29hYUtiYVN6NGdpTVZJNWpBWkE1TmdaUkVFRzdQYnktc1NMWXB5ZlpQczhQQzdjdm9ZUkdhZHJENXBOR2pSRHFFeTVrcXFDSEJJdVhjc3JIam44aHktV2hzZTdhVlh3eTh0bWdiZzdEOWRkcFZ0UFFBdE1iSHAzNEsyS0MtV2xMNVJmZw?oc=5",
+          "text": "遊日注意！東京都流感升溫 16年來首次在11月發「流行警報」",
+          "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQVUdKUWxFT1VlWmhTQWJOT2U3dUI1U2h1TEh2OGt5Nk12VTVHM1BrbnVBYWN6LVI1SlNJaGsxMFN4ZW4ta3BmM3IyTGx3N091dzdaOFNuek1mYjlwMFVMTDkxajU5eHNpa0M2RFF5RGtWR1FCQ2h2NlZ1T1J3eEZnaVpVajRQWVRsOVJFeWRaTUVhaXhfT050UXVuUl91WnNnVS0zOTZvTTl4ZlpkUUdLeHlJbFBJWXhCTmlaWGxWV2RDamJuTWRPM1ZodDcxdFJvODZ1UGVnaW1XY0NlLUJ4emJNbWFFcFZoREVqNE0zZzR3aDlxOUh2UWoxRG1fTlBWVldxTU9PaDJTanhrT1JueHp5a3Y3TDFxOWFFY21FVFR2alpmcFlXREUyRG5ZNFl0VVllTHpFdkYwWlJzZmZYTUdRX1pRTHlOYmN3VW1RNk54VTEyVjhSV3BLYUtxc2haYmVaag?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQVUdKUWxFT1VlWmhTQWJOT2U3dUI1U2h1TEh2OGt5Nk12VTVHM1BrbnVBYWN6LVI1SlNJaGsxMFN4ZW4ta3BmM3IyTGx3N091dzdaOFNuek1mYjlwMFVMTDkxajU5eHNpa0M2RFF5RGtWR1FCQ2h2NlZ1T1J3eEZnaVpVajRQWVRsOVJFeWRaTUVhaXhfT050UXVuUl91WnNnVS0zOTZvTTl4ZlpkUUdLeHlJbFBJWXhCTmlaWGxWV2RDamJuTWRPM1ZodDcxdFJvODZ1UGVnaW1XY0NlLUJ4emJNbWFFcFZoREVqNE0zZzR3aDlxOUh2UWoxRG1fTlBWVldxTU9PaDJTanhrT1JueHp5a3Y3TDFxOWFFY21FVFR2alpmcFlXREUyRG5ZNFl0VVllTHpFdkYwWlJzZmZYTUdRX1pRTHlOYmN3VW1RNk54VTEyVjhSV3BLYUtxc2haYmVaag?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "快訊／日本流感大爆發！東京發布「流行警報」　比去年還早6周",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tMUdaUFpsdWVhNldJamdCLWRQRlpPeWhGdmtBM21WTzBKNHVlaGtSME1RVVJnTUlsRU91TWhYUEc1b0drc3Q1ajYyWmVtMXFOM0drM3R2UFI0bFdkbUHSAWhBVV95cUxPOXV5MEJiUXk4SUVTLVNLenA5SGJsdGJRNkpkLUlJU2h0dUM4ZU1mbGJtc2x2WmN5Um03NjlUODhDZEs3MC1EaDNxVGdYSlpIc1NOdm4waWtVVGpSOE9HVUYxc2FuckpYTA?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tMUdaUFpsdWVhNldJamdCLWRQRlpPeWhGdmtBM21WTzBKNHVlaGtSME1RVVJnTUlsRU91TWhYUEc1b0drc3Q1ajYyWmVtMXFOM0drM3R2UFI0bFdkbUHSAWhBVV95cUxPOXV5MEJiUXk4SUVTLVNLenA5SGJsdGJRNkpkLUlJU2h0dUM4ZU1mbGJtc2x2WmN5Um03NjlUODhDZEs3MC1EaDNxVGdYSlpIc1NOdm4waWtVVGpSOE9HVUYxc2FuckpYTA?oc=5",
+          "text": "日本熊害事件增 美國務院罕見發「野生動物」警示",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1mV1MyM1lYc2lzbWlGUWh0cjlCXzZpeTRBa2NFM3lReVFwc3MtaDVaaWFfbHdtNTBYUzBKLW5TVldPODVxQ2ZVWXJqVGp0QVFrakZYaGtDODJ0ZGNiUGhR?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1mV1MyM1lYc2lzbWlGUWh0cjlCXzZpeTRBa2NFM3lReVFwc3MtaDVaaWFfbHdtNTBYUzBKLW5TVldPODVxQ2ZVWXJqVGp0QVFrakZYaGtDODJ0ZGNiUGhR?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -273,6 +273,6 @@
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 23,
+  "cost": 34,
   "status": 0
 }
