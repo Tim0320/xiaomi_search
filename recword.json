@@ -146,9 +146,9 @@
       "link_type": "app",
       "data": [
         {
-          "text": "入秋最強冷空氣17日南下 吳德榮：北部下探13度",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9MVEx6Q3ZkRUFSdWNhTG5JaWUxTmJtR1l6all4ZFQzbWJ1a1YxelZQYzRKOHdYbnI5XzlNVVhYSGk5OWRwRG9PQWtVWTJqRWJrZjRSX3U3dU4xQ1ZseDNZ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9MVEx6Q3ZkRUFSdWNhTG5JaWUxTmJtR1l6all4ZFQzbWJ1a1YxelZQYzRKOHdYbnI5XzlNVVhYSGk5OWRwRG9PQWtVWTJqRWJrZjRSX3U3dU4xQ1ZseDNZ?oc=5",
+          "text": "中國外交副部長召見日本大使「台灣有事」抗議升級",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE52cklXSVc2RFJ0azhvakxrOFRqb1ZjbmFYNTM0Zll3aUMxdldFYk9EREV2YVpxTk02eVlPSER4bUxsSXRieTZGREl2c3FFMWdsQ2Q5aGl5T09pTmptTGc?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE52cklXSVc2RFJ0azhvakxrOFRqb1ZjbmFYNTM0Zll3aUMxdldFYk9EREV2YVpxTk02eVlPSER4bUxsSXRieTZGREl2c3FFMWdsQ2Q5aGl5T09pTmptTGc?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -170,33 +170,9 @@
           "package": ""
         },
         {
-          "text": "中國召見日本駐華大使就高市涉臺言論提出嚴正交涉",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObEMtbVNXdjBiVDlRS0lrSmhBMFloU2w2NndZbFRpbHRQMEtxME9RX3hfbk5ndG5abWw5eUd0UkVsYUlrbmtkU2pyN3Z1TmRwcWljOGxISlY3bWFFWXd3MEN6dHFkYnZNRklDTWhaNzNKX2pZZG9fZUVKYkdZMzJleDZPYm9JRW96Y2Zta2FPRnRuUEU?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObEMtbVNXdjBiVDlRS0lrSmhBMFloU2w2NndZbFRpbHRQMEtxME9RX3hfbk5ndG5abWw5eUd0UkVsYUlrbmtkU2pyN3Z1TmRwcWljOGxISlY3bWFFWXd3MEN6dHFkYnZNRklDTWhaNzNKX2pZZG9fZUVKYkdZMzJleDZPYm9JRW96Y2Zta2FPRnRuUEU?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "中國才發「全球紅色通緝」 沈伯洋現身德國國會：不退縮為自由發聲",
-          "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxOMWhYMlhZSmVjZkV3Y1lKZVc5bmZBb1NuclBKUGYyeHI2cEtKSFBlanBVX3laYzNpQ0dHZm1PcDJQbXh2YnhzN1hHc2gwaVBNUTBrbWY3N0NVaThQODdjRFFjeE9rTVFBOGFRd041a0JEWmZ0TWVHcEQ0REUzTXlwdlU1OUVmZFd2UTlBUzZSbWpYMWNubExVYmRjR1NmWjBYQVloOWM1cVRYU0pMMHViWGJhd2tsQmN5RXl2T2c4VWZOLXdHazU4bGYwa1o5Q0JnTGZCVGZpT2dhZkp0LXhwX1BRV0NaNno2czZIQWRwNVRNYTB2a2ZzR3FjQlZLc1A1RlJidFpfYm5zNW1pNFoySno0S3ItRXFGcnNWVW42VXh2cHVMT3JxajVnUzdjSnM5OTB6c3FlcG9ucEJpZHE3d25qbUpMUFJkV0JTOV9KN3puYldPcWdiQ0FsU01VT1VmSzd5cVMwRUNwaFktRDNsaEJRQk81Qm8zRXRNR3dDek82dXJfWVN5YVE1bjVOYmplcnVWUzk2UHFnX0U?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxOMWhYMlhZSmVjZkV3Y1lKZVc5bmZBb1NuclBKUGYyeHI2cEtKSFBlanBVX3laYzNpQ0dHZm1PcDJQbXh2YnhzN1hHc2gwaVBNUTBrbWY3N0NVaThQODdjRFFjeE9rTVFBOGFRd041a0JEWmZ0TWVHcEQ0REUzTXlwdlU1OUVmZFd2UTlBUzZSbWpYMWNubExVYmRjR1NmWjBYQVloOWM1cVRYU0pMMHViWGJhd2tsQmN5RXl2T2c4VWZOLXdHazU4bGYwa1o5Q0JnTGZCVGZpT2dhZkp0LXhwX1BRV0NaNno2czZIQWRwNVRNYTB2a2ZzR3FjQlZLc1A1RlJidFpfYm5zNW1pNFoySno0S3ItRXFGcnNWVW42VXh2cHVMT3JxajVnUzdjSnM5OTB6c3FlcG9ucEJpZHE3d25qbUpMUFJkV0JTOV9KN3puYldPcWdiQ0FsU01VT1VmSzd5cVMwRUNwaFktRDNsaEJRQk81Qm8zRXRNR3dDek82dXJfWVN5YVE1bjVOYmplcnVWUzk2UHFnX0U?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "「想幫也幫不了」 孤獨死不只台中 高雄阿伯遺體冰存25天無人領",
-          "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxOTkg4NzE5U1pXRnVLNlgxemhsWUtQYjQ2YktCTmlweVFFRGJvbUZYd3VYMUVQS0Y4cDVqc09ZZExkdmt2RGlQMU5YZGJCbE9ya3o0aTNja19Dc2EydUxNWTJRVHlrM0JIVUtzdGszd2Z1UEVFRDRxZVpvQjdBc0RHM1dSRkpLNnpLZWlFQXdZVVFpeDBEZFIzNFhqU0N2QW9HRnhBT0hDVFRzR1lENWJicmxWV2VzNE5nZDIzeTlxRktULWJueHhwT1o4aEhhVklyTTFRaUNmSFQ4aVRYenhLZEhPUGJJNGJFUjk0WE1udkRWVHVjMXp6NVI2U0taTWNnTmx5TDk2eVhhNnNKU3lZdW4tZV9NZzY2SmpJVjd5dmpUMVRPUzMyOUlwLVV3aHo3Qkd1bGhFOTk1TWVBRmNEeWxKWWVlRDBIWGJ6VHVrMkZrZklUM1RuRHFtSUtZSEl3Xzhyd0ltMFpqV1dIMTUxV3hUSnJ3WDY1Y0g1akR2bGQwZy1n?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMihANBVV95cUxOTkg4NzE5U1pXRnVLNlgxemhsWUtQYjQ2YktCTmlweVFFRGJvbUZYd3VYMUVQS0Y4cDVqc09ZZExkdmt2RGlQMU5YZGJCbE9ya3o0aTNja19Dc2EydUxNWTJRVHlrM0JIVUtzdGszd2Z1UEVFRDRxZVpvQjdBc0RHM1dSRkpLNnpLZWlFQXdZVVFpeDBEZFIzNFhqU0N2QW9HRnhBT0hDVFRzR1lENWJicmxWV2VzNE5nZDIzeTlxRktULWJueHhwT1o4aEhhVklyTTFRaUNmSFQ4aVRYenhLZEhPUGJJNGJFUjk0WE1udkRWVHVjMXp6NVI2U0taTWNnTmx5TDk2eVhhNnNKU3lZdW4tZV9NZzY2SmpJVjd5dmpUMVRPUzMyOUlwLVV3aHo3Qkd1bGhFOTk1TWVBRmNEeWxKWWVlRDBIWGJ6VHVrMkZrZklUM1RuRHFtSUtZSEl3Xzhyd0ltMFpqV1dIMTUxV3hUSnJ3WDY1Y0g1akR2bGQwZy1n?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "美國務院批准3.3億美元對台軍售案擬供戰機備件及維修零件",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50X0UtVzhYVkRFNU81YUZzaTQ1eWlwNHJkcFA3ZGg4dGVWbGhhbVphbV9sZUJwNVFNMzdYVFR2Q19kUy1GdmoxR2F3Z2VXV3ZLbF9JQWVuU1pkSnphYjNz?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50X0UtVzhYVkRFNU81YUZzaTQ1eWlwNHJkcFA3ZGg4dGVWbGhhbVphbV9sZUJwNVFNMzdYVFR2Q19kUy1GdmoxR2F3Z2VXV3ZLbF9JQWVuU1pkSnphYjNz?oc=5",
+          "text": "入秋最強冷空氣17日南下 吳德榮：北部下探13度",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9MVEx6Q3ZkRUFSdWNhTG5JaWUxTmJtR1l6all4ZFQzbWJ1a1YxelZQYzRKOHdYbnI5XzlNVVhYSGk5OWRwRG9PQWtVWTJqRWJrZjRSX3U3dU4xQ1ZseDNZ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9MVEx6Q3ZkRUFSdWNhTG5JaWUxTmJtR1l6all4ZFQzbWJ1a1YxelZQYzRKOHdYbnI5XzlNVVhYSGk5OWRwRG9PQWtVWTJqRWJrZjRSX3U3dU4xQ1ZseDNZ?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -205,6 +181,30 @@
           "text": "傳統市場怎防買到毒雞蛋？資深菜販教「1招」 用手機秒辨識",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9XdUd0cGlXTGRNU0JFcHdFZUxaOGtRY05SQzVUY1BWakNSRTMzRDRVb1ZtNEY0TmZnNjN5cXprcmZnZTJUTGpiNXBiNE8yWnJyUlpv0gFYQVVfeXFMUHdzYXJHUnhwQjRSS0pqSG56RnR3TVBYNGhadWhCRXRJUkowQmludUJhZmMyZE05T0tCdlpaSXE0TU9JcXVtb2NwZ1pWTVBadkZjMDh1LS1DWA?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9XdUd0cGlXTGRNU0JFcHdFZUxaOGtRY05SQzVUY1BWakNSRTMzRDRVb1ZtNEY0TmZnNjN5cXprcmZnZTJUTGpiNXBiNE8yWnJyUlpv0gFYQVVfeXFMUHdzYXJHUnhwQjRSS0pqSG56RnR3TVBYNGhadWhCRXRJUkowQmludUJhZmMyZE05T0tCdlpaSXE0TU9JcXVtb2NwZ1pWTVBadkZjMDh1LS1DWA?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "陳世凱提出演唱會部分票給國外旅客 GD粉絲怒轟：拜託部長不要亂搞",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9NYkhHX1hvVFBVQldMRUVIVVJHM2JET1BFN1JxRy0xakhtUTVNa3ZReWJhMzFSbGRHNWlQWmlWMDdmdDV6VWtDb2o1YzFRdmQ30gFWQVVfeXFMUGdVZk9sRS13UWZma3lvVndhOWZRSTdIR0ZINkVSbGRhUjVwNmk1NU9FcUU0QTJEUE5zUnJNM3FtTy1BblRwZWxQeXZxQUYxbnU3eUd0Z1E?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9NYkhHX1hvVFBVQldMRUVIVVJHM2JET1BFN1JxRy0xakhtUTVNa3ZReWJhMzFSbGRHNWlQWmlWMDdmdDV6VWtDb2o1YzFRdmQ30gFWQVVfeXFMUGdVZk9sRS13UWZma3lvVndhOWZRSTdIR0ZINkVSbGRhUjVwNmk1NU9FcUU0QTJEUE5zUnJNM3FtTy1BblRwZWxQeXZxQUYxbnU3eUd0Z1E?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "韓國瑜籲賴清德撤回陸「境外敵對勢力」沈伯洋批太誇張：台獨兩字是中國在定義",
+          "url": "https://news.google.com/rss/articles/CBMigwRBVV95cUxPbXdKcGlUdjduNkVIN00ya0tFSHFFVUU1VGFhLWtOMkdoeS05UnlDYWJzMm5GTmI0c3dQbGxSMXBvYjBfOGZmNmZBcVZyMFo1NEo3dWh1RUxrMnQ5ZmdGWFdZaWVtRTRRVlV4Vmx1cTBoeTM0OERRNWcyYkNRNWNUNG9xODZQeHVtbHM0enIwQUIxbjg3MmMwY1lrVG1maUFaN3M5TjgteXpsZXlOLWhFaEI0LXR1VW9GVGV5WXFsNGVlWFRWZTAyQjVkN2ZWOTJyN1VUVk44c3hZUHZNSml1MnhGZllrSkZTNUZvblpodGxsUXk2Y3JtYjN2ek9lUjNLbmNYVFB2OUlEZC1NSHZ1b2FXM1RsNmlxQU5WNGpFTkNuWEZlMGVKdXNyaUFlQ1JhMEM4WG9zR2lDZ3k4NnB5TTh2OXNYT1Z2cDdYWUNyWHZWWlRXVXhCd0g0cGJSRFdzWUUwZzlsZFM0MnpTT3dVeWM2THUxWVVDUFJleWdmVWFOd1BsZXNrVGRVQXlDZzdnYmlvaEZqcW8wRHhlN2M5Zy1heTRkNm5BcXIxdVZMT0hxakdRTDBXQmktelJjM3NaTmcxa3J6R2dJTVBleFFpSDJSdWp2dlhzV2xaT1d2a1ZaUTZpeVRJelVfcnNVX2Mwc0Npbl94OXhTWmRBNFFvT1dEZw?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMigwRBVV95cUxPbXdKcGlUdjduNkVIN00ya0tFSHFFVUU1VGFhLWtOMkdoeS05UnlDYWJzMm5GTmI0c3dQbGxSMXBvYjBfOGZmNmZBcVZyMFo1NEo3dWh1RUxrMnQ5ZmdGWFdZaWVtRTRRVlV4Vmx1cTBoeTM0OERRNWcyYkNRNWNUNG9xODZQeHVtbHM0enIwQUIxbjg3MmMwY1lrVG1maUFaN3M5TjgteXpsZXlOLWhFaEI0LXR1VW9GVGV5WXFsNGVlWFRWZTAyQjVkN2ZWOTJyN1VUVk44c3hZUHZNSml1MnhGZllrSkZTNUZvblpodGxsUXk2Y3JtYjN2ek9lUjNLbmNYVFB2OUlEZC1NSHZ1b2FXM1RsNmlxQU5WNGpFTkNuWEZlMGVKdXNyaUFlQ1JhMEM4WG9zR2lDZ3k4NnB5TTh2OXNYT1Z2cDdYWUNyWHZWWlRXVXhCd0g0cGJSRFdzWUUwZzlsZFM0MnpTT3dVeWM2THUxWVVDUFJleWdmVWFOd1BsZXNrVGRVQXlDZzdnYmlvaEZqcW8wRHhlN2M5Zy1heTRkNm5BcXIxdVZMT0hxakdRTDBXQmktelJjM3NaTmcxa3J6R2dJTVBleFFpSDJSdWp2dlhzV2xaT1d2a1ZaUTZpeVRJelVfcnNVX2Mwc0Npbl94OXhTWmRBNFFvT1dEZw?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "美國務院批准3.3億美元對台軍售案擬供戰機備件及維修零件",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50X0UtVzhYVkRFNU81YUZzaTQ1eWlwNHJkcFA3ZGg4dGVWbGhhbVphbV9sZUJwNVFNMzdYVFR2Q19kUy1GdmoxR2F3Z2VXV3ZLbF9JQWVuU1pkSnphYjNz?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50X0UtVzhYVkRFNU81YUZzaTQ1eWlwNHJkcFA3ZGg4dGVWbGhhbVphbV9sZUJwNVFNMzdYVFR2Q19kUy1GdmoxR2F3Z2VXV3ZLbF9JQWVuU1pkSnphYjNz?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -234,6 +234,14 @@
           "package": ""
         },
         {
+          "text": "命喪柬埔寨！泰女淪豬仔「業績沒達標」被逼做2000下深蹲亡",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9CMVlSb05OT1VhclkxdTZHSjhneEpVVjZ5VWlwX0dCcmo2R3ZYemRib3k5dnZSLXRTUVNiaW5lbmFUWjM0eUdsZEczckkzbkpIYXRoVlk3RFoxWVdjTWfSAWhBVV95cUxOTlNwTHpnTTRPT2NqWmdueTdCUjZzVUV3WUo2YUp3d2E3bkN6aWdxZTVJUllpM1RGdGloNVpIbFFsejFPQUkwcTJtclg5bVdYR1d3dS1yN3ZTSzdTRFRjRmo2MlQ4RklSOQ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9CMVlSb05OT1VhclkxdTZHSjhneEpVVjZ5VWlwX0dCcmo2R3ZYemRib3k5dnZSLXRTUVNiaW5lbmFUWjM0eUdsZEczckkzbkpIYXRoVlk3RFoxWVdjTWfSAWhBVV95cUxOTlNwTHpnTTRPT2NqWmdueTdCUjZzVUV3WUo2YUp3d2E3bkN6aWdxZTVJUllpM1RGdGloNVpIbFFsejFPQUkwcTJtclg5bVdYR1d3dS1yN3ZTSzdTRFRjRmo2MlQ4RklSOQ?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
           "text": "美宣布對反法西斯主義運動開刀 將4個歐洲團體列為恐怖組織",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkVEUxaE1iTDVfWVRNamg1UDRHc28wQkRhRzJ4Q2FVV0ROOUJjaFBQMjZBb2Mxb0w5ZDV6b20zYXk1bl9PYnh1UHowd1U0X0JyQnpVZzhibkNwREVwbW11YWp2dUdYd9IBa0FVX3lxTE9vVHNqSFRHYkV3RDJHTy1SYTA1Ym5NVEF0dTBZa2M3QnIxVGczck1oNFBwMVZTTzBKRXozOUhyZmRELTNYaGtwaVNxOExfakt1WEZSbEpiQVdXSjRlVEtqX0MyelJNSEZ5WWg4?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkVEUxaE1iTDVfWVRNamg1UDRHc28wQkRhRzJ4Q2FVV0ROOUJjaFBQMjZBb2Mxb0w5ZDV6b20zYXk1bl9PYnh1UHowd1U0X0JyQnpVZzhibkNwREVwbW11YWp2dUdYd9IBa0FVX3lxTE9vVHNqSFRHYkV3RDJHTy1SYTA1Ym5NVEF0dTBZa2M3QnIxVGczck1oNFBwMVZTTzBKRXozOUhyZmRELTNYaGtwaVNxOExfakt1WEZSbEpiQVdXSjRlVEtqX0MyelJNSEZ5WWg4?oc=5",
@@ -250,17 +258,9 @@
           "package": ""
         },
         {
-          "text": "命喪柬埔寨！泰女淪豬仔「業績沒達標」被逼做2000下深蹲亡",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9CMVlSb05OT1VhclkxdTZHSjhneEpVVjZ5VWlwX0dCcmo2R3ZYemRib3k5dnZSLXRTUVNiaW5lbmFUWjM0eUdsZEczckkzbkpIYXRoVlk3RFoxWVdjTWfSAWhBVV95cUxOTlNwTHpnTTRPT2NqWmdueTdCUjZzVUV3WUo2YUp3d2E3bkN6aWdxZTVJUllpM1RGdGloNVpIbFFsejFPQUkwcTJtclg5bVdYR1d3dS1yN3ZTSzdTRFRjRmo2MlQ4RklSOQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9CMVlSb05OT1VhclkxdTZHSjhneEpVVjZ5VWlwX0dCcmo2R3ZYemRib3k5dnZSLXRTUVNiaW5lbmFUWjM0eUdsZEczckkzbkpIYXRoVlk3RFoxWVdjTWfSAWhBVV95cUxOTlNwTHpnTTRPT2NqWmdueTdCUjZzVUV3WUo2YUp3d2E3bkN6aWdxZTVJUllpM1RGdGloNVpIbFFsejFPQUkwcTJtclg5bVdYR1d3dS1yN3ZTSzdTRFRjRmo2MlQ4RklSOQ?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "【Follow法人】外資重砍台積電、鴻海兩本柱 合計提款347億元",
-          "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPSm05WXUzZngwZE5DRmJNNmRJRUpRWlF6R3djUktkbEVZVnQyTFhyWFAybDQyU01FU3E5REhEdi1lVEFSVkoxb1IzR19nM2I0MmVZSHJoM3ZrMjI1cjZOU3BHMlNyTmlobWR4WlhvZGgydjVOdkk4eDRjTld4Q3daLXlmLWVuOXJORlZfcUZoUUl1b0ZwMDZyenRpMk85ajA1TTIwaXRJLTJqQ3poVHo3ZGNOMkZ6SHNfVWRGVlNLN3pGYVFpdnNHdElNalpoWlBFVUpYb3haQWlHUG5RblhOTG4tX1dNUHVRM2Q0ZXNoZWtPQjQ1NE04ZU5xUGNXZ0UzWmNFVGNPUnVXaG0tb2hqT2E3bkw1ZGdiYV9KVHZDMzZzMmxBV1Uwbl93YWJkQS1URUJjQ3JESGRDSVBHQldBVExOWFo0VEJvZVVrcjAtTVB4R2JieGNQaXNJOWcxQU1oc2VoczYxcXY5SWFYQ1paRG5hR1RpUXQxbEIwVQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPSm05WXUzZngwZE5DRmJNNmRJRUpRWlF6R3djUktkbEVZVnQyTFhyWFAybDQyU01FU3E5REhEdi1lVEFSVkoxb1IzR19nM2I0MmVZSHJoM3ZrMjI1cjZOU3BHMlNyTmlobWR4WlhvZGgydjVOdkk4eDRjTld4Q3daLXlmLWVuOXJORlZfcUZoUUl1b0ZwMDZyenRpMk85ajA1TTIwaXRJLTJqQ3poVHo3ZGNOMkZ6SHNfVWRGVlNLN3pGYVFpdnNHdElNalpoWlBFVUpYb3haQWlHUG5RblhOTG4tX1dNUHVRM2Q0ZXNoZWtPQjQ1NE04ZU5xUGNXZ0UzWmNFVGNPUnVXaG0tb2hqT2E3bkw1ZGdiYV9KVHZDMzZzMmxBV1Uwbl93YWJkQS1URUJjQ3JESGRDSVBHQldBVExOWFo0VEJvZVVrcjAtTVB4R2JieGNQaXNJOWcxQU1oc2VoczYxcXY5SWFYQ1paRG5hR1RpUXQxbEIwVQ?oc=5",
+          "text": "法人大逃殺838億台股重挫506點周線連二黑/外資領息後狂殺台積電兩面手法壓價跡象濃/正崴三檔全面跳水集團市值噴掉45億｜Yahoo財經掃描",
+          "url": "https://news.google.com/rss/articles/CBMihAZBVV95cUxOakZBTkU5UWFQZEZGeWxfbnBrTmZlSDJYTWhMSThHOU1VcWdWTks4Zi1SV1ZQemJRdEZMcFpyLTY2Wk4wRmFsQUsxXy1GTnNrd3BzOVYtVW1NQ3kxcURhM1JEdlBwRC1QQkh2VXdVeUIxY2tkMUxGOTVGSzViTEFVV0VkR09IRUxEbEplV1ZJbjEtWG5xYm1DbUJnaFpoUDV5SFFoZ3FNTjZQNjNBZjA3Z2tEdUpyX1R1V05aNUxORVhaR3dvYlM3WW1IRGJCY2Q3c2hZTmRGV2c2RDF3dEZzZEhLN3dVdFVrZVRBMktsRHZTa0x4a1pKQmp2RzhKN216OGUyeDFQSUxPd1daQWRPUVd6LVp3dkN5aWVnakdybkk4NUloOHZUVHYtRWNJb1VtY0h2QkVoZ2p6aWxtNFJJVm91WERQMWdqWmhyNHdEa016T3g4ekdkbnNYMmFqTlFKSFpBeWdYUzRncVZhTDkwUl9HMmFkRHA2TEx2Yk9sY1l2UUJkQnhGSEQwYnByejYzbnkyTU50dkFKRzc4OTl1OHJlbTYyZ2QzUVUtcnp5eG9hVXVDcUdWN2Y5WHd2eDNueU5NeDM5anVCa2U3dm53QlVBWkRTUTl2c1QyVm04NjgwVjU0RFpJNjdnY2lwMlFTdlJodGYxaDdCVHVYZkd6QTJrcGlXZF9Sb1lQWmc4dVZHSTBSZnBvVnFGR3JXb2trbURyVDh6OFdsUzRzRUJmSWk5a180UjNFT0ZpQU0tYXZ3Z3RLMHVuVmI0eElnU1M2LUgyejdiS3Q1bVJvaEFJNzFxdnJJOUNpT0ZsbWR0YlNzamNSanhfZVFJYmdOOV95WUxJRUI4ZlFsLXMtYUdXWGxTbHpQY2NWSnZoQUh1SDFuc3Z1QkdGcEw2UjBsaTN6Sy1KdGZGOHhidWxfN3Q5c1FkVlBKcGNOY2tuUmwwS3IwUU1jc2ozRmFaVm8tV0Qyd2g3Q0FxWDRTNlAwTlppeWlCNnU0Q0hYamROVlRRX2ZtczI0?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMihAZBVV95cUxOakZBTkU5UWFQZEZGeWxfbnBrTmZlSDJYTWhMSThHOU1VcWdWTks4Zi1SV1ZQemJRdEZMcFpyLTY2Wk4wRmFsQUsxXy1GTnNrd3BzOVYtVW1NQ3kxcURhM1JEdlBwRC1QQkh2VXdVeUIxY2tkMUxGOTVGSzViTEFVV0VkR09IRUxEbEplV1ZJbjEtWG5xYm1DbUJnaFpoUDV5SFFoZ3FNTjZQNjNBZjA3Z2tEdUpyX1R1V05aNUxORVhaR3dvYlM3WW1IRGJCY2Q3c2hZTmRGV2c2RDF3dEZzZEhLN3dVdFVrZVRBMktsRHZTa0x4a1pKQmp2RzhKN216OGUyeDFQSUxPd1daQWRPUVd6LVp3dkN5aWVnakdybkk4NUloOHZUVHYtRWNJb1VtY0h2QkVoZ2p6aWxtNFJJVm91WERQMWdqWmhyNHdEa016T3g4ekdkbnNYMmFqTlFKSFpBeWdYUzRncVZhTDkwUl9HMmFkRHA2TEx2Yk9sY1l2UUJkQnhGSEQwYnByejYzbnkyTU50dkFKRzc4OTl1OHJlbTYyZ2QzUVUtcnp5eG9hVXVDcUdWN2Y5WHd2eDNueU5NeDM5anVCa2U3dm53QlVBWkRTUTl2c1QyVm04NjgwVjU0RFpJNjdnY2lwMlFTdlJodGYxaDdCVHVYZkd6QTJrcGlXZF9Sb1lQWmc4dVZHSTBSZnBvVnFGR3JXb2trbURyVDh6OFdsUzRzRUJmSWk5a180UjNFT0ZpQU0tYXZ3Z3RLMHVuVmI0eElnU1M2LUgyejdiS3Q1bVJvaEFJNzFxdnJJOUNpT0ZsbWR0YlNzamNSanhfZVFJYmdOOV95WUxJRUI4ZlFsLXMtYUdXWGxTbHpQY2NWSnZoQUh1SDFuc3Z1QkdGcEw2UjBsaTN6Sy1KdGZGOHhidWxfN3Q5c1FkVlBKcGNOY2tuUmwwS3IwUU1jc2ozRmFaVm8tV0Qyd2g3Q0FxWDRTNlAwTlppeWlCNnU0Q0hYamROVlRRX2ZtczI0?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -273,6 +273,6 @@
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 15,
+  "cost": 35,
   "status": 0
 }
