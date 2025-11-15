@@ -15,14 +15,6 @@
       "link_type": "app",
       "data": [
         {
-          "text": "Super Junior",
-          "url": "https://tw.search.yahoo.com/search?p=Super+Junior&amp;fr=ush-bt1",
-          "h5_url": "https://tw.search.yahoo.com/search?p=Super+Junior&amp;fr=ush-bt1",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_yahoo",
-          "package": ""
-        },
-        {
           "text": "Yahoo財經大人物",
           "url": "https://tw.news.yahoo.com/topic/CEO-interview",
           "h5_url": "https://tw.news.yahoo.com/topic/CEO-interview",
@@ -133,6 +125,14 @@
           "appIconUrl": "",
           "sourceUniqueId": "content_yahoo",
           "package": ""
+        },
+        {
+          "text": "表態「協助雙城論壇」陸委會：蔣市長去上海沒問題",
+          "url": "https://tw.news.yahoo.com/%E5%82%B3%E5%8D%A1%E9%9B%99%E5%9F%8E%E8%AB%96%E5%A3%87-%E9%99%B8%E5%A7%94%E6%9C%83-%E8%94%A3%E5%B8%82%E9%95%B7%E5%8E%BB%E6%B2%92%E5%95%8F%E9%A1%8C-040550521.html",
+          "h5_url": "https://tw.news.yahoo.com/%E5%82%B3%E5%8D%A1%E9%9B%99%E5%9F%8E%E8%AB%96%E5%A3%87-%E9%99%B8%E5%A7%94%E6%9C%83-%E8%94%A3%E5%B8%82%E9%95%B7%E5%8E%BB%E6%B2%92%E5%95%8F%E9%A1%8C-040550521.html",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_yahoo",
+          "package": ""
         }
       ],
       "selectedStatus": false,
@@ -202,17 +202,17 @@
           "package": ""
         },
         {
-          "text": "獨／傳脫黨參選高雄市長！林岱樺「1句表態」揭黨內現況",
-          "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPaFY3M3RuYzhCV1hUVnBpY094clZOa3h1N2RqRmFmTnpXVjFQdWR6OFUzU1RVYTBnM0dsR1ZBMldwdFdEV0JiWk1pYlBxNDJrMkRnZ2NhX25lalVCTEktZFIwa3lVQ2VSZFFNQ3RKbjFITF9wRTVwQTB2S1ZDWmpSNThwRlBSQnV2OVdJMEFrQUR4dURRVFVhYmhKT3ljY0llMjI0ZW1MbFhnM0lKUnF4RFl5Z1YwZm9vVVU2b2NtbG9yUWptRXU0dkdZNDZWa3hUaEljN1U2TjNVc2Nka1V4S1I1MElnenlqVE9kekFXYnVGS0ctc3l4M0kzTzBFSEVrcEJ5bU5iT2hJYjBUQkthem9WemNsdm1lVkdPTmFwM1o4QlEwSWJDUExuQm5LWFdxLTBIMzdLWEdobk9EOUl4SGZPUENTR1F1V0RyTlNlVTYwZ1FQMVE?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPaFY3M3RuYzhCV1hUVnBpY094clZOa3h1N2RqRmFmTnpXVjFQdWR6OFUzU1RVYTBnM0dsR1ZBMldwdFdEV0JiWk1pYlBxNDJrMkRnZ2NhX25lalVCTEktZFIwa3lVQ2VSZFFNQ3RKbjFITF9wRTVwQTB2S1ZDWmpSNThwRlBSQnV2OVdJMEFrQUR4dURRVFVhYmhKT3ljY0llMjI0ZW1MbFhnM0lKUnF4RFl5Z1YwZm9vVVU2b2NtbG9yUWptRXU0dkdZNDZWa3hUaEljN1U2TjNVc2Nka1V4S1I1MElnenlqVE9kekFXYnVGS0ctc3l4M0kzTzBFSEVrcEJ5bU5iT2hJYjBUQkthem9WemNsdm1lVkdPTmFwM1o4QlEwSWJDUExuQm5LWFdxLTBIMzdLWEdobk9EOUl4SGZPUENTR1F1V0RyTlNlVTYwZ1FQMVE?oc=5",
+          "text": "文雅畜牧場非法賣出4萬顆芬普尼雞蛋食藥署要求地方究責",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRU0ItdFhUYVdNMVpPeTZManJ2dnoyWE14dngxY2F5RlZOTHpWSkx6ZHVZLUUwUDFGLWVxMUdjcXd4NHI4NFU2Z2JEWmlDTTFJUDdXUFpoQ28way01TjR3?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRU0ItdFhUYVdNMVpPeTZManJ2dnoyWE14dngxY2F5RlZOTHpWSkx6ZHVZLUUwUDFGLWVxMUdjcXd4NHI4NFU2Z2JEWmlDTTFJUDdXUFpoQ28way01TjR3?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "文雅畜牧場非法賣出4萬顆芬普尼雞蛋食藥署要求地方究責",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRU0ItdFhUYVdNMVpPeTZManJ2dnoyWE14dngxY2F5RlZOTHpWSkx6ZHVZLUUwUDFGLWVxMUdjcXd4NHI4NFU2Z2JEWmlDTTFJUDdXUFpoQ28way01TjR3?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRU0ItdFhUYVdNMVpPeTZManJ2dnoyWE14dngxY2F5RlZOTHpWSkx6ZHVZLUUwUDFGLWVxMUdjcXd4NHI4NFU2Z2JEWmlDTTFJUDdXUFpoQ28way01TjR3?oc=5",
+          "text": "獨／傳脫黨參選高雄市長！林岱樺「1句表態」揭黨內現況",
+          "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPaFY3M3RuYzhCV1hUVnBpY094clZOa3h1N2RqRmFmTnpXVjFQdWR6OFUzU1RVYTBnM0dsR1ZBMldwdFdEV0JiWk1pYlBxNDJrMkRnZ2NhX25lalVCTEktZFIwa3lVQ2VSZFFNQ3RKbjFITF9wRTVwQTB2S1ZDWmpSNThwRlBSQnV2OVdJMEFrQUR4dURRVFVhYmhKT3ljY0llMjI0ZW1MbFhnM0lKUnF4RFl5Z1YwZm9vVVU2b2NtbG9yUWptRXU0dkdZNDZWa3hUaEljN1U2TjNVc2Nka1V4S1I1MElnenlqVE9kekFXYnVGS0ctc3l4M0kzTzBFSEVrcEJ5bU5iT2hJYjBUQkthem9WemNsdm1lVkdPTmFwM1o4QlEwSWJDUExuQm5LWFdxLTBIMzdLWEdobk9EOUl4SGZPUENTR1F1V0RyTlNlVTYwZ1FQMVE?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPaFY3M3RuYzhCV1hUVnBpY094clZOa3h1N2RqRmFmTnpXVjFQdWR6OFUzU1RVYTBnM0dsR1ZBMldwdFdEV0JiWk1pYlBxNDJrMkRnZ2NhX25lalVCTEktZFIwa3lVQ2VSZFFNQ3RKbjFITF9wRTVwQTB2S1ZDWmpSNThwRlBSQnV2OVdJMEFrQUR4dURRVFVhYmhKT3ljY0llMjI0ZW1MbFhnM0lKUnF4RFl5Z1YwZm9vVVU2b2NtbG9yUWptRXU0dkdZNDZWa3hUaEljN1U2TjNVc2Nka1V4S1I1MElnenlqVE9kekFXYnVGS0ctc3l4M0kzTzBFSEVrcEJ5bU5iT2hJYjBUQkthem9WemNsdm1lVkdPTmFwM1o4QlEwSWJDUExuQm5LWFdxLTBIMzdLWEdobk9EOUl4SGZPUENTR1F1V0RyTlNlVTYwZ1FQMVE?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -250,9 +250,9 @@
           "package": ""
         },
         {
-          "text": "塊陶啊！海豹慘遭虎鯨群追殺 爬上船「虎」口餘生累翻畫面曝",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FcTNFLU8yTzRQNG1KV3Aya1FERzhJWjRjOE1WVVg1SlFSdlAxNVN5cklySGZEanhlUGd4OGlsOGtGTzZ4MEU5ZUhRZ2dXcS1yakRrMm9tQjRJbS1mZWt2bmNCUjlHd9IBa0FVX3lxTE1KMVlzTTRabG9tM2dvNVhhWVlLeTVBQmk4bVJvQ0hjOXNtbG5mcWVndUhUYV9UcVJLZVlDYnNXS3BXc2cycHNLaVRWdjZabDJmSTlBSThpRDVjc1NWa3pST3NRZ2N3N2VncWxz?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FcTNFLU8yTzRQNG1KV3Aya1FERzhJWjRjOE1WVVg1SlFSdlAxNVN5cklySGZEanhlUGd4OGlsOGtGTzZ4MEU5ZUhRZ2dXcS1yakRrMm9tQjRJbS1mZWt2bmNCUjlHd9IBa0FVX3lxTE1KMVlzTTRabG9tM2dvNVhhWVlLeTVBQmk4bVJvQ0hjOXNtbG5mcWVndUhUYV9UcVJLZVlDYnNXS3BXc2cycHNLaVRWdjZabDJmSTlBSThpRDVjc1NWa3pST3NRZ2N3N2VncWxz?oc=5",
+          "text": "在烏克蘭投下震撼彈…澤倫斯基親信陷貪腐疑雲 幕後主使神祕背景曝光",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE52QlVmZVRtN3hIMzBScFE2ZDdZRHZzTGpMS19FS2t0VlJJVmItZ1FZYWhBLVlZSjBDb1I0aVBjaGdOckNWMkJ1V0xPaGRoQy1S0gFWQVVfeXFMTlBIV05vandMYnBzVlJtSy0teGJGZ0hoLTh1TV96WVJBTGhPRGNBbmhBZGRMWU5GSHdyZmVwMklBd0ZFdVZtblhieHp6WUhKUUQ0bmJ2akE?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE52QlVmZVRtN3hIMzBScFE2ZDdZRHZzTGpMS19FS2t0VlJJVmItZ1FZYWhBLVlZSjBDb1I0aVBjaGdOckNWMkJ1V0xPaGRoQy1S0gFWQVVfeXFMTlBIV05vandMYnBzVlJtSy0teGJGZ0hoLTh1TV96WVJBTGhPRGNBbmhBZGRMWU5GSHdyZmVwMklBd0ZFdVZtblhieHp6WUhKUUQ0bmJ2akE?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -273,6 +273,6 @@
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 38,
+  "cost": 16,
   "status": 0
 }
