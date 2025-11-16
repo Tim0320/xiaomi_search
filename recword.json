@@ -15,6 +15,14 @@
       "link_type": "app",
       "data": [
         {
+          "text": "Super Junior",
+          "url": "https://tw.search.yahoo.com/search?p=Super+Junior&amp;fr=ush-bt1",
+          "h5_url": "https://tw.search.yahoo.com/search?p=Super+Junior&amp;fr=ush-bt1",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_yahoo",
+          "package": ""
+        },
+        {
           "text": "穿著Prada的惡魔2",
           "url": "https://tw.search.yahoo.com/search?p=%E7%A9%BF%E8%91%97Prada%E7%9A%84%E6%83%A1%E9%AD%942&amp;fr=ush-bt1",
           "h5_url": "https://tw.search.yahoo.com/search?p=%E7%A9%BF%E8%91%97Prada%E7%9A%84%E6%83%A1%E9%AD%942&amp;fr=ush-bt1",
@@ -125,14 +133,6 @@
           "appIconUrl": "",
           "sourceUniqueId": "content_yahoo",
           "package": ""
-        },
-        {
-          "text": "證實下周與鄭麗文會面 黃國昌：全程公開",
-          "url": "https://tw.news.yahoo.com/%E9%84%AD%E9%BA%97%E6%96%87%E9%BB%83%E5%9C%8B%E6%98%8C%E9%A0%90%E8%A8%881119%E5%BE%8C%E8%A6%8B%E9%9D%A2-%E8%97%8D%E7%99%BD%E5%B9%95%E5%83%9A%E5%B7%B2%E5%95%86%E8%A8%8E%E7%B4%B0%E7%AF%80%E6%89%BE%E5%A0%B4%E5%9C%B0-052213335.html",
-          "h5_url": "https://tw.news.yahoo.com/%E9%84%AD%E9%BA%97%E6%96%87%E9%BB%83%E5%9C%8B%E6%98%8C%E9%A0%90%E8%A8%881119%E5%BE%8C%E8%A6%8B%E9%9D%A2-%E8%97%8D%E7%99%BD%E5%B9%95%E5%83%9A%E5%B7%B2%E5%95%86%E8%A8%8E%E7%B4%B0%E7%AF%80%E6%89%BE%E5%A0%B4%E5%9C%B0-052213335.html",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_yahoo",
-          "package": ""
         }
       ],
       "selectedStatus": false,
@@ -178,14 +178,6 @@
           "package": ""
         },
         {
-          "text": "詭！機車碰撞單車 34歲男自行就醫竟不治、86歲老翁昏迷送醫也亡",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aLXY4QTJjc1hGZ3BJT1ZtZDBKMms3a1hvbF9mdXdtdDZBMkVKamNmaGpEak1QcWNVeDBGLUhGWHMyMmlsdmV5OUIxbUpDVkZmdmNHcS1wU0hvOUdjZlZoLVFsQkxXT2M00gFuQVVfeXFMUFJWbnRTcjZmcFloaHdUajV5S29QYkpRWDhjMHlLc2V6ZmZtVkF0U2xQVWgwYVdxemMyeFZYWVJKZVlfaFVDdkViQjFIWmF3N0N2NVFoRWNXNnAxd1l4UHVKR3pPN3V2c3JFLXF2Y2c?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aLXY4QTJjc1hGZ3BJT1ZtZDBKMms3a1hvbF9mdXdtdDZBMkVKamNmaGpEak1QcWNVeDBGLUhGWHMyMmlsdmV5OUIxbUpDVkZmdmNHcS1wU0hvOUdjZlZoLVFsQkxXT2M00gFuQVVfeXFMUFJWbnRTcjZmcFloaHdUajV5S29QYkpRWDhjMHlLc2V6ZmZtVkF0U2xQVWgwYVdxemMyeFZYWVJKZVlfaFVDdkViQjFIWmF3N0N2NVFoRWNXNnAxd1l4UHVKR3pPN3V2c3JFLXF2Y2c?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
           "text": "義大利披薩店老闆辱罵台灣遊客 市長出面緩頰稱將見台灣代表溝通",
           "url": "https://news.google.com/rss/articles/CBMisANBVV95cUxNbTVDZHQ3SkI2SmZSMzl4NThmTUJ1ZzJsd0R1c3VDRjI1czlZalZsRHBjNzVqa1lQdzROVURnYWRWRmZjcEtRcHVmcmhiVXdrV2hDVk1GSnBXR3VnM1BKNHRldDFTYWd2S3NGeUVkYUQyeUxPNm9XSWsyZjdEX0Fxa1lVZ0dtNlJyRHFld1VpU2lnN2ZVelFiaExxazQ2WFcxM2ZZeUtZVjNLbTBnb3ZyU1pXNDFZbDNHY0JRaHpEeU56Y0tpQVRDbGE5R1VOandFdG8wYVBiNjZ2QWdSc1doTEt0TUpKc25mT0VQLTdwTl9lNnNQTVdzYklfdmNjWGhrUnZmOEVtYTNqdlZ5dmNRREpTZ3RGZ3NUNFRBTm1XX0Z5WEl1SHRXTVhRSGdxVGlBOEpIOUIyWDdzRlhGN2Z0M3podUpZTGFwcm1CY3NGaFlwaVJPRGtVM1JrUDNlQ0w3VWFhNlZGVEMyQ2diQUhCR21ac0JRankxZFRjNHg1anpXdnJYN19lMDJqNnBnRnpNNWpNUFJoaVpqMlVCa1JmN2hWbjY2VTJOR3dlb25PMFA?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMisANBVV95cUxNbTVDZHQ3SkI2SmZSMzl4NThmTUJ1ZzJsd0R1c3VDRjI1czlZalZsRHBjNzVqa1lQdzROVURnYWRWRmZjcEtRcHVmcmhiVXdrV2hDVk1GSnBXR3VnM1BKNHRldDFTYWd2S3NGeUVkYUQyeUxPNm9XSWsyZjdEX0Fxa1lVZ0dtNlJyRHFld1VpU2lnN2ZVelFiaExxazQ2WFcxM2ZZeUtZVjNLbTBnb3ZyU1pXNDFZbDNHY0JRaHpEeU56Y0tpQVRDbGE5R1VOandFdG8wYVBiNjZ2QWdSc1doTEt0TUpKc25mT0VQLTdwTl9lNnNQTVdzYklfdmNjWGhrUnZmOEVtYTNqdlZ5dmNRREpTZ3RGZ3NUNFRBTm1XX0Z5WEl1SHRXTVhRSGdxVGlBOEpIOUIyWDdzRlhGN2Z0M3podUpZTGFwcm1CY3NGaFlwaVJPRGtVM1JrUDNlQ0w3VWFhNlZGVEMyQ2diQUhCR21ac0JRankxZFRjNHg1anpXdnJYN19lMDJqNnBnRnpNNWpNUFJoaVpqMlVCa1JmN2hWbjY2VTJOR3dlb25PMFA?oc=5",
@@ -194,9 +186,9 @@
           "package": ""
         },
         {
-          "text": "批剝奪陸配參政權第一名 羅智強嗆：綠提案保護沈伯洋反對到底",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE41aVZRQktCblFFVDV5ejdOX1BWOHkxVUhmcENaUUdwSXVCcGVLOUgwS21HcURaQ3B1SkJfaU53QXN0a0FqOGhxUXBxWDlDMk5Y0gFWQVVfeXFMTW9uMWUxM3NBbFNqeVk2TE82LWgtd1JBMzBjQjRsV254SmlmX1FCbHBLT3RuTmFtOVlqNGJFV0lCMXhhRnQ3dlFlRVotSUZ2cWYxdm80SkE?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE41aVZRQktCblFFVDV5ejdOX1BWOHkxVUhmcENaUUdwSXVCcGVLOUgwS21HcURaQ3B1SkJfaU53QXN0a0FqOGhxUXBxWDlDMk5Y0gFWQVVfeXFMTW9uMWUxM3NBbFNqeVk2TE82LWgtd1JBMzBjQjRsV254SmlmX1FCbHBLT3RuTmFtOVlqNGJFV0lCMXhhRnQ3dlFlRVotSUZ2cWYxdm80SkE?oc=5",
+          "text": "ATM明天可領普發1萬　小心「4種狀況」恐領失敗！",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aLWs4RXFyZWVsMkd2Zkd0cXNYUzk5aFZPNWdxNHZTQ09VQjhvcDZiMzRFUkxTLVUwNzdHSDlpV2J5aGFTZm1KUkQ0T0FPYzByZEtBUW5xa3VURXZFTFHSAWhBVV95cUxQT1p2X3ZjQmlJQjhuRkhjeG8tZUYzbnZ5b2hsakhDdHZnemVGMHBueHJfcWVOeVc1eUVJaktrTnIxLTBveDhZdm1RSUN0a21tRTVYRFFOV1VOV3NiZU52WjYxbWs1d1M1Tg?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aLWs4RXFyZWVsMkd2Zkd0cXNYUzk5aFZPNWdxNHZTQ09VQjhvcDZiMzRFUkxTLVUwNzdHSDlpV2J5aGFTZm1KUkQ0T0FPYzByZEtBUW5xa3VURXZFTFHSAWhBVV95cUxQT1p2X3ZjQmlJQjhuRkhjeG8tZUYzbnZ5b2hsakhDdHZnemVGMHBueHJfcWVOeVc1eUVJaktrTnIxLTBveDhZdm1RSUN0a21tRTVYRFFOV1VOV3NiZU52WjYxbWs1d1M1Tg?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -218,6 +210,14 @@
           "package": ""
         },
         {
+          "text": "沈伯洋遭中共通緝 IPAC共同創辦人發文「公開力挺」",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02VGFwYXloQUVsUTdNWGVxaUNQSGRwNXpTdGFPU1MwMmRiUFMyclJoVXNacHFCU2ZQT2M1aGdaX0lGQmVGZEo5VWtzdUkzRm9tYVZkUEg0R1AwN0dMel84SlpoQktMdXc5QXfSAW9BVV95cUxQUmtoM19LMFhIQkZSSS1HcDZsOFdic0s0TDVJa3A2TFYwUUFSWk9oenk5ZzFKLW5kMW1zWGgzUDM2bmMzbnAwb2pGc2NBdkNkdVFOOThoYzl0bnY2WndCZWpUazM5TDM5V1o0TjRrems?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02VGFwYXloQUVsUTdNWGVxaUNQSGRwNXpTdGFPU1MwMmRiUFMyclJoVXNacHFCU2ZQT2M1aGdaX0lGQmVGZEo5VWtzdUkzRm9tYVZkUEg0R1AwN0dMel84SlpoQktMdXc5QXfSAW9BVV95cUxQUmtoM19LMFhIQkZSSS1HcDZsOFdic0s0TDVJa3A2TFYwUUFSWk9oenk5ZzFKLW5kMW1zWGgzUDM2bmMzbnAwb2pGc2NBdkNkdVFOOThoYzl0bnY2WndCZWpUazM5TDM5V1o0TjRrems?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
           "text": "台大大氣系賭輸雞排放鳥百人！地理系出手送飲料 店家證實了",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA0aHJ0ejRTQzNURzN2QWpGMkFPUDJqUUtOcUZZenhDcEVEMjRWT1V5YlhmVDRPaXZDRG1sN0d0M0U0WG9KdVRHT0xvVFc1UQ?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA0aHJ0ejRTQzNURzN2QWpGMkFPUDJqUUtOcUZZenhDcEVEMjRWT1V5YlhmVDRPaXZDRG1sN0d0M0U0WG9KdVRHT0xvVFc1UQ?oc=5",
@@ -234,33 +234,33 @@
           "package": ""
         },
         {
-          "text": "致死率最高達80%！這國爆「伊波拉等級」病毒疫情 已9例確診",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1hTVBiT20xR090RzJJUUhOTGIwZWhGS3o1VXEtWUFHWVozdEltOUZZNUFfdGhpN1NBc0VDZ0JPRUtWMm5SR0NkcmNLeXpDVm5C0gFWQVVfeXFMTk5lLXhRTFVQeDlQYWM5ZlNXREljY0FydXNvVkRaLU5LUUZBV0pvWTI0cDhrVGFFamtSS3VJcmVHdVVUcXgteWRGQ2JkdzBtSFI5SWdqN1E?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1hTVBiT20xR090RzJJUUhOTGIwZWhGS3o1VXEtWUFHWVozdEltOUZZNUFfdGhpN1NBc0VDZ0JPRUtWMm5SR0NkcmNLeXpDVm5C0gFWQVVfeXFMTk5lLXhRTFVQeDlQYWM5ZlNXREljY0FydXNvVkRaLU5LUUZBV0pvWTI0cDhrVGFFamtSS3VJcmVHdVVUcXgteWRGQ2JkdzBtSFI5SWdqN1E?oc=5",
+          "text": "對陸示好？南韓政府將三國官方表述明確為「韓中日」",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBZSUhCVUlxcndkWWxLTVEzVjd6dzhGVTF3aDFSODFqNVA5TEttZlY1V0k0c24weC1HSU9OM3lSS0pnNk80UlgxUFVHRXNGUG5q0gFWQVVfeXFMTzlmVHVnRDlFal9MUml2N3lnTlFPelNKa0pOemZJNjlPWHNGSkoyNW53ODJrM3hScGFfVjlzOVhqN21KOTdxbGRDbXhFd3dPUEJUaENQQWc?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBZSUhCVUlxcndkWWxLTVEzVjd6dzhGVTF3aDFSODFqNVA5TEttZlY1V0k0c24weC1HSU9OM3lSS0pnNk80UlgxUFVHRXNGUG5q0gFWQVVfeXFMTzlmVHVnRDlFal9MUml2N3lnTlFPelNKa0pOemZJNjlPWHNGSkoyNW53ODJrM3hScGFfVjlzOVhqN21KOTdxbGRDbXhFd3dPUEJUaENQQWc?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "美軍福特號航艦進駐加勒比海！ CNN：川普已聽取「地面打擊」委內瑞拉選項",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1nc3VxWlFWZnBnc05tYllvV2JmaTVuTDFNYlFWOGNtQWlRcnBPUDFfNmtjWGRUb1c1Wm5QVkZRb0N2OW5ncGRuLTJXeFhmZXE0WkVoanMxNWZzMzlYaDB5MjNORUZlQdIBa0FVX3lxTE1qV0ZfN2dhX2oyNHd1U1M4R1Y5WENVX1RVNWM4a011Q0xFc2VtbGpoN0hYWnhoMmkwSzV0SVROVGc3X000el9NZk9MZzItNEp6TWxyT1BiZEhsWjJNbERGTUdrUUlFT0tZTzVJ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1nc3VxWlFWZnBnc05tYllvV2JmaTVuTDFNYlFWOGNtQWlRcnBPUDFfNmtjWGRUb1c1Wm5QVkZRb0N2OW5ncGRuLTJXeFhmZXE0WkVoanMxNWZzMzlYaDB5MjNORUZlQdIBa0FVX3lxTE1qV0ZfN2dhX2oyNHd1U1M4R1Y5WENVX1RVNWM4a011Q0xFc2VtbGpoN0hYWnhoMmkwSzV0SVROVGc3X000el9NZk9MZzItNEp6TWxyT1BiZEhsWjJNbERGTUdrUUlFT0tZTzVJ?oc=5",
+          "text": "衣索比亞南部爆發馬堡病毒疫情 至少9人確診",
+          "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQSjRfM21IUlZuZWxhckhISUI1ZF8tVTRyWVhPdWNaZ0owV2FiM1d5T1BwcEhfRF9ZV0xlal9YaHFyeEJZc0p4ZnFjeGxNNjdaRktXS2EwbVdlNFdoa20wRGRRY0dZUkFOS0VfRFVDNlZodTNzTm1DcUxuY21UbEdxNzdOT3Bhc3dmeUtDWVIyRVpQNEg0YXRPOE1RaTAzVjVMdk9mZ1NfS2wzME51OTF0RUdhYmZJTWNvdEhXbkM2cUk4UG52WXpJVHFWdXhBU2xTLTBZdVhkYnNwdnZDcVVwVHItSHhBX3lsNFFGOGktNTJ4S3Y1cHNGeENVWktvM1ZzdjBDRGpZTVJ1bTdiSm9BYkd2bWJBZERCRkNuY2JUNF9PdHk2NG5DTGhwc2dMTERfMVRTZ0VIYmxtZw?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQSjRfM21IUlZuZWxhckhISUI1ZF8tVTRyWVhPdWNaZ0owV2FiM1d5T1BwcEhfRF9ZV0xlal9YaHFyeEJZc0p4ZnFjeGxNNjdaRktXS2EwbVdlNFdoa20wRGRRY0dZUkFOS0VfRFVDNlZodTNzTm1DcUxuY21UbEdxNzdOT3Bhc3dmeUtDWVIyRVpQNEg0YXRPOE1RaTAzVjVMdk9mZ1NfS2wzME51OTF0RUdhYmZJTWNvdEhXbkM2cUk4UG52WXpJVHFWdXhBU2xTLTBZdVhkYnNwdnZDcVVwVHItSHhBX3lsNFFGOGktNTJ4S3Y1cHNGeENVWktvM1ZzdjBDRGpZTVJ1bTdiSm9BYkd2bWJBZERCRkNuY2JUNF9PdHk2NG5DTGhwc2dMTERfMVRTZ0VIYmxtZw?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "日本「熊闖入AEON」顧客、員工疏散！熊店內逗留2小時遭麻醉電死",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE81WllCekl6cG8tVGNvdThFU3h1RlBJMThWTEZEN3ExX1BaOFBtWDBaQUFfTkdPOVZfeTZTRUJ4dXpkeUJiLUxSSTJJdG0tb1ZFejdyeExTMkw2UXdlcGfSAWhBVV95cUxPWk5HN2c0VjlHVzZDNEdQR1JjNTY1ZjhHemhXWkM5YkNRU3VnMnRQZEtuMTlGLUN6dWUwcVlTWG83YzY1TzlMVlVEUTRxeDJaZUZ0Q3dOSWNTWmVQd3owM1dvWVdnWDdCMg?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE81WllCekl6cG8tVGNvdThFU3h1RlBJMThWTEZEN3ExX1BaOFBtWDBaQUFfTkdPOVZfeTZTRUJ4dXpkeUJiLUxSSTJJdG0tb1ZFejdyeExTMkw2UXdlcGfSAWhBVV95cUxPWk5HN2c0VjlHVzZDNEdQR1JjNTY1ZjhHemhXWkM5YkNRU3VnMnRQZEtuMTlGLUN6dWUwcVlTWG83YzY1TzlMVlVEUTRxeDJaZUZ0Q3dOSWNTWmVQd3owM1dvWVdnWDdCMg?oc=5",
+          "text": "俄烏戰爭何時停火？ 芬蘭總統預測最快「這個時間」",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BSnhfN0JJelB4WXBFUUE2V1BjMGxrcHlRMXZXRzdXSGxoTTU5bEt0cDlVLTlSZE9YZzJTS3UwaUo5SzFVUW1jcFFSMEQyTTdyNnQw?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BSnhfN0JJelB4WXBFUUE2V1BjMGxrcHlRMXZXRzdXSGxoTTU5bEt0cDlVLTlSZE9YZzJTS3UwaUo5SzFVUW1jcFFSMEQyTTdyNnQw?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "台美匯率聯合聲明效應！這數據預示新台幣31元大關爆失守危機",
-          "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxNQ3BVc0pNZlJsMUxleWpsVVlYc29hd3J3ME5tNFpjQkpXSTVmSU12V1h5SmdPNmdQb1V5WDNaNmFZbTEzbU9rNE5mZ1hSYnZRM1pCQ05zZDlQY0l2T2VJa0ExV2h3Y3NjRkhjUDNUX3BjU0hINTVMT29VdEwwaTRZdmtRY3pUUm1XcEdaSVJneGIyTTNMN3huTDZlc211LWppWlFsZjc5LTNfaF9TT2Y3b05iclVYQmJoZDdIbUR5LXFvSXZTd1pmN05OeVBJZU8wR1JhaU5ReTd2OVU3cVZ1VW9kMEFLRXRuWVdTZWo4b0xNeHBCTEs2eFdaQjVIMHV0MUJQTjJqQ28ybWs5VUktZWFWb3J2bFhIemZjNHY4MzNWR1N6Sl9WQ1ZkMDN6UFNPYkFTbDZpUnFiX1hwaEtQSFBNVk9Nc0JLekJVZFp6cmV4aWdkOU5BbWQ2OTBsTGZQNklsTkgyOWQ3QU9UTGRWTGp1V0JsV2JfTG9NcnduS1FzU3B6b2lvNHhQbUtUQXV0dmhjbDRJRQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxNQ3BVc0pNZlJsMUxleWpsVVlYc29hd3J3ME5tNFpjQkpXSTVmSU12V1h5SmdPNmdQb1V5WDNaNmFZbTEzbU9rNE5mZ1hSYnZRM1pCQ05zZDlQY0l2T2VJa0ExV2h3Y3NjRkhjUDNUX3BjU0hINTVMT29VdEwwaTRZdmtRY3pUUm1XcEdaSVJneGIyTTNMN3huTDZlc211LWppWlFsZjc5LTNfaF9TT2Y3b05iclVYQmJoZDdIbUR5LXFvSXZTd1pmN05OeVBJZU8wR1JhaU5ReTd2OVU3cVZ1VW9kMEFLRXRuWVdTZWo4b0xNeHBCTEs2eFdaQjVIMHV0MUJQTjJqQ28ybWs5VUktZWFWb3J2bFhIemZjNHY4MzNWR1N6Sl9WQ1ZkMDN6UFNPYkFTbDZpUnFiX1hwaEtQSFBNVk9Nc0JLekJVZFp6cmV4aWdkOU5BbWQ2OTBsTGZQNklsTkgyOWQ3QU9UTGRWTGp1V0JsV2JfTG9NcnduS1FzU3B6b2lvNHhQbUtUQXV0dmhjbDRJRQ?oc=5",
+          "text": "獨／台美匯率聲明幕後曝光 長期溝通建立信任、台灣獲美方彈性對待",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5mZ3N1bVhlY1ZLblJRMGhkOXJyYUhtVXMwYktlQm9EUjZUbnBieEdkS0h2Q2dFQ2F6ZTlVVVNtLXBUa2FwaE80N0phYzZMSFVp0gFWQVVfeXFMTkFqSDlGTHhVdXc0cTgyTnh1R3BaSEJUS216eUZEQjZXQzd2OTR3V0NiRzRybTVJX2hhMUhUOGJCNC1hdDY4M0FOTVlkbDlma3pzZEoxOVE?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5mZ3N1bVhlY1ZLblJRMGhkOXJyYUhtVXMwYktlQm9EUjZUbnBieEdkS0h2Q2dFQ2F6ZTlVVVNtLXBUa2FwaE80N0phYzZMSFVp0gFWQVVfeXFMTkFqSDlGTHhVdXc0cTgyTnh1R3BaSEJUS216eUZEQjZXQzd2OTR3V0NiRzRybTVJX2hhMUhUOGJCNC1hdDY4M0FOTVlkbDlma3pzZEoxOVE?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -273,6 +273,6 @@
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 47,
+  "cost": 33,
   "status": 0
 }
