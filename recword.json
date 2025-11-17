@@ -15,14 +15,6 @@
       "link_type": "app",
       "data": [
         {
-          "text": "Super Junior",
-          "url": "https://tw.search.yahoo.com/search?p=Super+Junior&amp;fr=ush-bt1",
-          "h5_url": "https://tw.search.yahoo.com/search?p=Super+Junior&amp;fr=ush-bt1",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_yahoo",
-          "package": ""
-        },
-        {
           "text": "Yahoo財經大人物",
           "url": "https://tw.news.yahoo.com/topic/CEO-interview",
           "h5_url": "https://tw.news.yahoo.com/topic/CEO-interview",
@@ -50,6 +42,14 @@
           "text": "一人抱走6.92億 1400元買法曝光",
           "url": "https://tw.stock.yahoo.com/news/%E8%8A%B11400%E5%85%83%E6%8A%B1%E8%B5%B0%E5%A4%A7%E6%A8%82%E9%80%8F692%E5%84%84%E5%85%83%EF%BC%81%E9%A0%AD%E7%8D%8E%E5%B9%B8%E9%81%8B%E5%85%92%E4%B8%80%E6%AC%A1%E5%8C%85%E8%BE%A6%E3%80%8C3%E5%A4%A7%E7%8D%8E%E3%80%8D-%E8%B2%B7%E6%B3%95%E3%80%81%E6%BD%9B%E5%9C%A8%E8%BA%AB%E4%BB%BD%E6%9B%9D-071659594.html",
           "h5_url": "https://tw.stock.yahoo.com/news/%E8%8A%B11400%E5%85%83%E6%8A%B1%E8%B5%B0%E5%A4%A7%E6%A8%82%E9%80%8F692%E5%84%84%E5%85%83%EF%BC%81%E9%A0%AD%E7%8D%8E%E5%B9%B8%E9%81%8B%E5%85%92%E4%B8%80%E6%AC%A1%E5%8C%85%E8%BE%A6%E3%80%8C3%E5%A4%A7%E7%8D%8E%E3%80%8D-%E8%B2%B7%E6%B3%95%E3%80%81%E6%BD%9B%E5%9C%A8%E8%BA%AB%E4%BB%BD%E6%9B%9D-071659594.html",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_yahoo",
+          "package": ""
+        },
+        {
+          "text": "愈晚下愈大 北北基宜發大雨特報",
+          "url": "https://tw.news.yahoo.com/%E6%9D%B1%E5%8C%97%E5%AD%A3%E9%A2%A8%E5%BD%B1%E9%9F%BF-%E5%8C%97%E5%8C%97%E5%9F%BA%E5%AE%9C%E5%A4%A7%E9%9B%A8%E7%89%B9%E5%A0%B1-%E6%85%8E%E9%98%B2%E7%9E%AC%E9%96%93%E5%A4%A7%E9%9B%A8-025006369.html",
+          "h5_url": "https://tw.news.yahoo.com/%E6%9D%B1%E5%8C%97%E5%AD%A3%E9%A2%A8%E5%BD%B1%E9%9F%BF-%E5%8C%97%E5%8C%97%E5%9F%BA%E5%AE%9C%E5%A4%A7%E9%9B%A8%E7%89%B9%E5%A0%B1-%E6%85%8E%E9%98%B2%E7%9E%AC%E9%96%93%E5%A4%A7%E9%9B%A8-025006369.html",
           "appIconUrl": "",
           "sourceUniqueId": "content_yahoo",
           "package": ""
@@ -111,14 +111,6 @@
           "package": ""
         },
         {
-          "text": "鄭明典曬圖：「雲街」現象已出現",
-          "url": "https://tw.news.yahoo.com/%E5%BC%B7%E5%86%B7%E7%A9%BA%E6%B0%A3%E5%8D%97%E4%B8%8B-%E9%84%AD%E6%98%8E%E5%85%B8%E6%9B%AC%E5%9C%96-%E9%9B%B2%E8%A1%97-%E7%8F%BE%E8%B9%A4-%E4%BB%8A%E6%99%9A%E6%80%A5%E5%87%8D19%E5%BA%A6-022335775.html",
-          "h5_url": "https://tw.news.yahoo.com/%E5%BC%B7%E5%86%B7%E7%A9%BA%E6%B0%A3%E5%8D%97%E4%B8%8B-%E9%84%AD%E6%98%8E%E5%85%B8%E6%9B%AC%E5%9C%96-%E9%9B%B2%E8%A1%97-%E7%8F%BE%E8%B9%A4-%E4%BB%8A%E6%99%9A%E6%80%A5%E5%87%8D19%E5%BA%A6-022335775.html",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_yahoo",
-          "package": ""
-        },
-        {
           "text": "賴回應韓：砍台灣安全桌腳的是中國",
           "url": "https://tw.news.yahoo.com/%E8%B3%B4%E6%B8%85%E5%BE%B7%E5%9B%9E%E6%87%89%E9%9F%93%E5%9C%8B%E7%91%9C%EF%BC%9A%E7%A0%8D%E6%96%B7%E5%8F%B0%E7%81%A3%E5%AE%89%E5%85%A8%E6%A1%8C%E8%85%B3%E7%9A%84%E6%98%AF%E4%B8%AD%E5%9C%8B%E2%8B%AF%E4%B8%8D%E6%87%89%E6%9B%BF%E4%BE%B5%E7%95%A5%E8%80%85%E6%89%BE%E8%97%89%E5%8F%A3-021834817.html",
           "h5_url": "https://tw.news.yahoo.com/%E8%B3%B4%E6%B8%85%E5%BE%B7%E5%9B%9E%E6%87%89%E9%9F%93%E5%9C%8B%E7%91%9C%EF%BC%9A%E7%A0%8D%E6%96%B7%E5%8F%B0%E7%81%A3%E5%AE%89%E5%85%A8%E6%A1%8C%E8%85%B3%E7%9A%84%E6%98%AF%E4%B8%AD%E5%9C%8B%E2%8B%AF%E4%B8%8D%E6%87%89%E6%9B%BF%E4%BE%B5%E7%95%A5%E8%80%85%E6%89%BE%E8%97%89%E5%8F%A3-021834817.html",
@@ -130,6 +122,14 @@
           "text": "問題蛋流向台中 衛生局公布35家下游店家",
           "url": "https://tw.news.yahoo.com/%E5%BD%B0%E5%8C%96%E8%8A%AC%E6%99%AE%E5%B0%BC%E9%9B%9E%E8%9B%8B%E5%A4%96%E6%B5%81%E5%8F%B0%E4%B8%AD35%E4%B8%8B%E6%B8%B8%E5%BA%97%E5%AE%B6-%E4%B8%AD%E5%B8%82%E8%A1%9B%E7%94%9F%E5%B1%80%E5%B0%87%E5%85%AC%E5%B8%83%E5%90%8D%E5%96%AE-050706856.html",
           "h5_url": "https://tw.news.yahoo.com/%E5%BD%B0%E5%8C%96%E8%8A%AC%E6%99%AE%E5%B0%BC%E9%9B%9E%E8%9B%8B%E5%A4%96%E6%B5%81%E5%8F%B0%E4%B8%AD35%E4%B8%8B%E6%B8%B8%E5%BA%97%E5%AE%B6-%E4%B8%AD%E5%B8%82%E8%A1%9B%E7%94%9F%E5%B1%80%E5%B0%87%E5%85%AC%E5%B8%83%E5%90%8D%E5%96%AE-050706856.html",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_yahoo",
+          "package": ""
+        },
+        {
+          "text": "芬普尼蛋管制破功 石崇良：即起擴大抽驗籠飼蛋",
+          "url": "https://tw.news.yahoo.com/%E8%8A%AC%E6%99%AE%E5%B0%BC%E6%AF%92%E8%9B%8B%E7%AE%A1%E5%88%B6%E7%A0%B4%E5%8A%9F-4%E8%90%AC%E9%A1%86%E6%AF%92%E8%9B%8B%E5%A4%96%E6%B5%81%E5%8F%B0%E4%B8%AD-%E7%9F%B3%E5%B4%87%E8%89%AF-%E6%93%B4%E5%A4%A7%E6%8A%BD%E9%A9%97%E7%B1%A0%E9%A3%BC%E8%9B%8B-063858456.html",
+          "h5_url": "https://tw.news.yahoo.com/%E8%8A%AC%E6%99%AE%E5%B0%BC%E6%AF%92%E8%9B%8B%E7%AE%A1%E5%88%B6%E7%A0%B4%E5%8A%9F-4%E8%90%AC%E9%A1%86%E6%AF%92%E8%9B%8B%E5%A4%96%E6%B5%81%E5%8F%B0%E4%B8%AD-%E7%9F%B3%E5%B4%87%E8%89%AF-%E6%93%B4%E5%A4%A7%E6%8A%BD%E9%A9%97%E7%B1%A0%E9%A3%BC%E8%9B%8B-063858456.html",
           "appIconUrl": "",
           "sourceUniqueId": "content_yahoo",
           "package": ""
@@ -178,14 +178,6 @@
           "package": ""
         },
         {
-          "text": "影／高雄燕巢月世界驚現「垃圾山」蒼蠅成群 環保局破袋查出來自台南",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ER2RUczBtamRNT0FIOGJNNHJkOE5GZmJleGxSaUJqZHlodVBrTTlfclE1WnZwVm1QcEZqV3dqZFRGZTk4c1BPQUxEazZpbER00gFWQVVfeXFMTjIzS0x3dUtjTy1BRXB5NE1kNnZWejBiU0RxcW1Ba2NBMlBraWpFVGNOYXJmS1NUUUZ1cHJKQ2JMckJ4VVJGRGNvOE9WY2tfdnd3QlRIdXc?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ER2RUczBtamRNT0FIOGJNNHJkOE5GZmJleGxSaUJqZHlodVBrTTlfclE1WnZwVm1QcEZqV3dqZFRGZTk4c1BPQUxEazZpbER00gFWQVVfeXFMTjIzS0x3dUtjTy1BRXB5NE1kNnZWejBiU0RxcW1Ba2NBMlBraWpFVGNOYXJmS1NUUUZ1cHJKQ2JMckJ4VVJGRGNvOE9WY2tfdnd3QlRIdXc?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
           "text": "蛋捲店才剛開幕「收掉不做了」　館長：保護台灣我錯了嗎？",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNczY4ZzFoLXpXNFNIRVpFSGlLSzdCS0lRMXVjOHVnYjQxWXRRQ0kxZTRwZ1VyQ19LVXFvNS16SEZrT0lYUXNZZUpHMEtwMDY2ZC1ya001NHVNWFHSAWBBVV95cUxNSGp0cXZ6WDNLWkUtckJrY3YycGRhWHEwUTBCXy1tQXNjbjloWlp3ZlVTSDFwUVBYZ1VrQWxjLTVSWlBaR25HZWQtUDUtRTEydm52alAwS2NxNk84eGcyV2o?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNczY4ZzFoLXpXNFNIRVpFSGlLSzdCS0lRMXVjOHVnYjQxWXRRQ0kxZTRwZ1VyQ19LVXFvNS16SEZrT0lYUXNZZUpHMEtwMDY2ZC1ya001NHVNWFHSAWBBVV95cUxNSGp0cXZ6WDNLWkUtckJrY3YycGRhWHEwUTBCXy1tQXNjbjloWlp3ZlVTSDFwUVBYZ1VrQWxjLTVSWlBaR25HZWQtUDUtRTEydm52alAwS2NxNk84eGcyV2o?oc=5",
@@ -194,17 +186,33 @@
           "package": ""
         },
         {
-          "text": "30年資深外匯交易員：若台幣兌美元走向升值 一旦破28恐直接挑戰24",
-          "url": "https://news.google.com/rss/articles/CBMiigNBVV95cUxQVlowTmNYZmFPQXoxalpWRGpHdTh2WkIzbXhEZlBPVjRIWWF3YlljQ3VsemR3aGhPRUpXR2paTkdBRnV6b3BNMnI1bEJaUlNLaVduT3p4SGZWRE1rU3IydmJJUTZRTjh0N1dFWVJCVC1MbFl6QUxJOVNwRlM4VFg3VE1BQ1JwQkM2dUhsV2lPc2ViZ3lHWW9CMmNzLWJxYWVBU0pXVTQ4XzFxanBpUFV3RlJwT1dhenlFYUZBaXVMU0cyNGp5cnRhY0p6d055ZzFMMUNDQ2NmcTlQb1I3RWl0SXgtSUlRMWxsbUVWbDdCS1hkWFZSWEJtQkQ1Q2pTOHgzYVI0by02dHJHb0JUR0F2OFllYWhzZWdoOU5uSWtiTFJ4em11amZyQklRcng0ejExTFVHSE0zM2xjXzh6UklxZnU4a21nc3psendNUS1kMUZmTEhjeUc2QjRRNXd6U245aTRZWm9VUE1lQXFWUjItT3pKaHp3d2pMa2wybnVEenV5S3NOTmY4OEV3?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiigNBVV95cUxQVlowTmNYZmFPQXoxalpWRGpHdTh2WkIzbXhEZlBPVjRIWWF3YlljQ3VsemR3aGhPRUpXR2paTkdBRnV6b3BNMnI1bEJaUlNLaVduT3p4SGZWRE1rU3IydmJJUTZRTjh0N1dFWVJCVC1MbFl6QUxJOVNwRlM4VFg3VE1BQ1JwQkM2dUhsV2lPc2ViZ3lHWW9CMmNzLWJxYWVBU0pXVTQ4XzFxanBpUFV3RlJwT1dhenlFYUZBaXVMU0cyNGp5cnRhY0p6d055ZzFMMUNDQ2NmcTlQb1I3RWl0SXgtSUlRMWxsbUVWbDdCS1hkWFZSWEJtQkQ1Q2pTOHgzYVI0by02dHJHb0JUR0F2OFllYWhzZWdoOU5uSWtiTFJ4em11amZyQklRcng0ejExTFVHSE0zM2xjXzh6UklxZnU4a21nc3psendNUS1kMUZmTEhjeUc2QjRRNXd6U245aTRZWm9VUE1lQXFWUjItT3pKaHp3d2pMa2wybnVEenV5S3NOTmY4OEV3?oc=5",
+          "text": "影／高雄燕巢月世界驚現「垃圾山」蒼蠅成群 環保局破袋查出來自台南",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ER2RUczBtamRNT0FIOGJNNHJkOE5GZmJleGxSaUJqZHlodVBrTTlfclE1WnZwVm1QcEZqV3dqZFRGZTk4c1BPQUxEazZpbER00gFWQVVfeXFMTjIzS0x3dUtjTy1BRXB5NE1kNnZWejBiU0RxcW1Ba2NBMlBraWpFVGNOYXJmS1NUUUZ1cHJKQ2JMckJ4VVJGRGNvOE9WY2tfdnd3QlRIdXc?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ER2RUczBtamRNT0FIOGJNNHJkOE5GZmJleGxSaUJqZHlodVBrTTlfclE1WnZwVm1QcEZqV3dqZFRGZTk4c1BPQUxEazZpbER00gFWQVVfeXFMTjIzS0x3dUtjTy1BRXB5NE1kNnZWejBiU0RxcW1Ba2NBMlBraWpFVGNOYXJmS1NUUUZ1cHJKQ2JMckJ4VVJGRGNvOE9WY2tfdnd3QlRIdXc?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "陳耀昌76歲逝世台灣首位骨髓移植醫師、斯卡羅原著作家",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE00TFVfUWVyMm8tWVlrTHRGWTVRcXVGSlppUnZnTXNUcUNDekpQSGZvZkZLWWYyalZJcElFcUlpUlU1RnpkckRJX1h4VWljTEx3QlhZX2o5R0lUdVBJZG9z?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE00TFVfUWVyMm8tWVlrTHRGWTVRcXVGSlppUnZnTXNUcUNDekpQSGZvZkZLWWYyalZJcElFcUlpUlU1RnpkckRJX1h4VWljTEx3QlhZX2o5R0lUdVBJZG9z?oc=5",
+          "text": "台美匯率聲明後新台幣有升值壓力？日、韓經驗早揭示真相",
+          "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxQeWt4dVFMV3JpZE1KV2QtbGhiTzloT05ua08zTnlJWWRwV1lncUx3MVVfZzQ0ZUtqQkxBSFBySC1CRmw0ak11SmRzWllVNjZIdFBUN2ZJQUdVS3k5T1dBYjBPU1d0WURwQVVDaDVWb3ZIY09oZmk4bFRkR18tWlhJMGRoNUdlTHZ1NWlXbllsQm9Pdl92dTZIYTUzLU5FamZDZDlNQ0hiWUR3czctbzUyNVlSbVBwNFhEVml1cElZOEtKcW55aGtGYVFwcnRLTU0zSDhJTjA2b29wSkt4TERLdVBUSGV4M1RBdnVxdEJKYnNINDBoY2ZCRUxHeXR3YkFlRVAyQXp2UUZRUlpoSmQzVXpLRnNnVkFIcjJ0Rk9NV0l0RG51QzJ6aUk0UFRVbTdaZ05NdXJhQkFJWVlrODVHREdINnQ0XzkwT0xheWVhQnR4RV9iYTMxTEZIdDhNbmNIZ1NlTTZRYjRuZGRScWhVQXQwZXBjdw?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxQeWt4dVFMV3JpZE1KV2QtbGhiTzloT05ua08zTnlJWWRwV1lncUx3MVVfZzQ0ZUtqQkxBSFBySC1CRmw0ak11SmRzWllVNjZIdFBUN2ZJQUdVS3k5T1dBYjBPU1d0WURwQVVDaDVWb3ZIY09oZmk4bFRkR18tWlhJMGRoNUdlTHZ1NWlXbllsQm9Pdl92dTZIYTUzLU5FamZDZDlNQ0hiWUR3czctbzUyNVlSbVBwNFhEVml1cElZOEtKcW55aGtGYVFwcnRLTU0zSDhJTjA2b29wSkt4TERLdVBUSGV4M1RBdnVxdEJKYnNINDBoY2ZCRUxHeXR3YkFlRVAyQXp2UUZRUlpoSmQzVXpLRnNnVkFIcjJ0Rk9NV0l0RG51QzJ6aUk0UFRVbTdaZ05NdXJhQkFJWVlrODVHREdINnQ0XzkwT0xheWVhQnR4RV9iYTMxTEZIdDhNbmNIZ1NlTTZRYjRuZGRScWhVQXQwZXBjdw?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "政院版財劃法統籌稅款分配指標曝光 財政部曝「3縣市」有意見",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlZHZhZmhMTGMtN0s5TVd2Y2lkQXdLMzlMZUVON1RZdWxQUE1SaUFwWExJRW9sSVRxYXY5YV80eDJITUpIbklwVU9CdTBMVkRo0gFWQVVfeXFMTWVDRF80MlRIUjZZVjdqX2xWWDlrakV2dWV0a1FFWkF6VVZNenZhNjU1V2Y2TC15dGVqNWYzM1hWNU9YLXJ0aWJUTkc0UDAxb0VBMVoyRWc?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlZHZhZmhMTGMtN0s5TVd2Y2lkQXdLMzlMZUVON1RZdWxQUE1SaUFwWExJRW9sSVRxYXY5YV80eDJITUpIbklwVU9CdTBMVkRo0gFWQVVfeXFMTWVDRF80MlRIUjZZVjdqX2xWWDlrakV2dWV0a1FFWkF6VVZNenZhNjU1V2Y2TC15dGVqNWYzM1hWNU9YLXJ0aWJUTkc0UDAxb0VBMVoyRWc?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "陳耀昌76歲病逝...血液腫瘤權威、骨髓移植教父！罹攝護腺癌說不會瞎操心：要離世，我寧可醒著時發生",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTWE3My1yNWU4aTQxM3p3OEt1VWY0MlR0bWdGbHp0aFlTemNabTZxYjZUaE9Ha2RHVUxtSjZCOW4tR3dDOW4xZHdER2pfOC1BWnF2RHliTWo0MFVGajFSeFBsbThQZDdJNEpPTTNia1ZrcWx4MGNiTlFHMVFfSHBZbA?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTWE3My1yNWU4aTQxM3p3OEt1VWY0MlR0bWdGbHp0aFlTemNabTZxYjZUaE9Ha2RHVUxtSjZCOW4tR3dDOW4xZHdER2pfOC1BWnF2RHliTWo0MFVGajFSeFBsbThQZDdJNEpPTTNia1ZrcWx4MGNiTlFHMVFfSHBZbA?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -213,14 +221,6 @@
           "text": "黃國昌證實與鄭麗文周三下午會面 地點場勘確定再對外說明",
           "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxPcEx5X0xycGJJY0Jzb0tpd0RVS0hFY25FUUlKQkdrcTNnZmo5SlRxTUd4RUFUMGxTTmV1VUtKMXJ5clVFcDNBSVozU2FBQWpRZnlMbHFCUVRVcFlsVExfWWhieGxIdFd3NWRoemh1SmNDS3pBSklMdWt3SVdGSDZKc0JMUDRNWkVSV0FfZnRVeEFCaTVKNW5CcHU5dTltQ1J3dzJGeERrd1AzOEY2ckdVYVV4blVqN3hnT0ZiTy1XaXp2Q3kzejhCQnFzeF95Q1dxNU9IRmdVWDZ6SU9XM1FZOWM0cG9jcmxJRi1UejRLVXJjZURZSi1iVTNGR25uUTVJZmFHazdTcGgyNTM4aG9TVXlxTmJidGNqdHhhWW92R0J4dWVYX2Nic1RtczBfeUZMSUsxSnNXRE9RWGNUSFlacDlPU3JoRFFCeG82YWlsWWtLcTdOenU5SHlpLUlRbmpyOEMxMVdHNHBJRFVhbE4ySUpadE9QTzhiRHRPN0pubGJ6bFQ4WURkVklPQTU?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMijANBVV95cUxPcEx5X0xycGJJY0Jzb0tpd0RVS0hFY25FUUlKQkdrcTNnZmo5SlRxTUd4RUFUMGxTTmV1VUtKMXJ5clVFcDNBSVozU2FBQWpRZnlMbHFCUVRVcFlsVExfWWhieGxIdFd3NWRoemh1SmNDS3pBSklMdWt3SVdGSDZKc0JMUDRNWkVSV0FfZnRVeEFCaTVKNW5CcHU5dTltQ1J3dzJGeERrd1AzOEY2ckdVYVV4blVqN3hnT0ZiTy1XaXp2Q3kzejhCQnFzeF95Q1dxNU9IRmdVWDZ6SU9XM1FZOWM0cG9jcmxJRi1UejRLVXJjZURZSi1iVTNGR25uUTVJZmFHazdTcGgyNTM4aG9TVXlxTmJidGNqdHhhWW92R0J4dWVYX2Nic1RtczBfeUZMSUsxSnNXRE9RWGNUSFlacDlPU3JoRFFCeG82YWlsWWtLcTdOenU5SHlpLUlRbmpyOEMxMVdHNHBJRFVhbE4ySUpadE9QTzhiRHRPN0pubGJ6bFQ4WURkVklPQTU?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "衛福部將設兒少及家庭支持署 4年135億照顧兒童健康",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5rX0dtU1FLRVh5U3FTZTdvSHAwVVdxTy14NmxIbWotWWdrYUg2ZkZXZ2NCZzk0eC1HbTBIbGtNUzIwSEtDVFFTOVQzWDB4TDRHWTNF0gFYQVVfeXFMTXlqOFRNRWFHcndlNU0temJuT0dXNnh5Y3NCT1BTWmRzeXVjbE53dTZXWnQ3SnVac1NiaGFKSVBTSThvc01DbnB5eWl0aVVfTTlnQXNzTGlWUA?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5rX0dtU1FLRVh5U3FTZTdvSHAwVVdxTy14NmxIbWotWWdrYUg2ZkZXZ2NCZzk0eC1HbTBIbGtNUzIwSEtDVFFTOVQzWDB4TDRHWTNF0gFYQVVfeXFMTXlqOFRNRWFHcndlNU0temJuT0dXNnh5Y3NCT1BTWmRzeXVjbE53dTZXWnQ3SnVac1NiaGFKSVBTSThvc01DbnB5eWl0aVVfTTlnQXNzTGlWUA?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -242,9 +242,9 @@
           "package": ""
         },
         {
-          "text": "男童遭斬首「頭顱裝進背包」丟入池塘 警方鎖定180公分男嫌",
-          "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQcFJoNFdXUW5mZ0R2bjI0UmI5ZTJJUzFXM18zUjR4U0IwbDJpa0RNUXNVR3NadjQwTUo2MWotRUdickdwRnBHVWFvRG83Vk9CRk83bTNDT3Q0RHZ4YTJjMDZFdlhhMGtEbHVlY0lvUXhsSjlxa201eGMzQm05WUR0aGlOVVRhRTl1SkE0ejBHT2k4RFJvSnpFUUNOTG1KamZsOWtLUEdpdUFoTlI5VmtJbWRMWnRycmpCZnNiTUU3WFhDVDRuYjUwRjB1NlVLdS1jN3B1cmpLT3hXNzBWOWdhMEZra2ZMQWpZd3ZVZUNXMWNldWpsYmpSRE03a1FGek1ENkVGb3F1SzRGWkVHUjhBSURGNDhLNU9HNWRlbHdvaDlDVnJGNnphckluNnhLLU10UnYxYmdHaVZRRElBTExTWUJWSVplaTNGLV9wRklJRzI0NHVvVWRJVVZGWnk2cXFVdDlOZnl4RVBxOUVXblVv?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQcFJoNFdXUW5mZ0R2bjI0UmI5ZTJJUzFXM18zUjR4U0IwbDJpa0RNUXNVR3NadjQwTUo2MWotRUdickdwRnBHVWFvRG83Vk9CRk83bTNDT3Q0RHZ4YTJjMDZFdlhhMGtEbHVlY0lvUXhsSjlxa201eGMzQm05WUR0aGlOVVRhRTl1SkE0ejBHT2k4RFJvSnpFUUNOTG1KamZsOWtLUEdpdUFoTlI5VmtJbWRMWnRycmpCZnNiTUU3WFhDVDRuYjUwRjB1NlVLdS1jN3B1cmpLT3hXNzBWOWdhMEZra2ZMQWpZd3ZVZUNXMWNldWpsYmpSRE03a1FGek1ENkVGb3F1SzRGWkVHUjhBSURGNDhLNU9HNWRlbHdvaDlDVnJGNnphckluNnhLLU10UnYxYmdHaVZRRElBTExTWUJWSVplaTNGLV9wRklJRzI0NHVvVWRJVVZGWnk2cXFVdDlOZnl4RVBxOUVXblVv?oc=5",
+          "text": "擁700萬退休金爽退！8年燒掉400萬 7旬夫婦超後悔原因曝",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LWWxzc2RyNERrX3dXTmM1RDN2UDVLS0llaTFGQm04cWlDSzRPN25pazdCQjdCWElKX0xIb1lnWkVRMEc3LVNFemcxR0d5dTRNQ3ByOGpfQWRuZ3p5S3RZ0gFkQVVfeXFMTk84TWRhMVlhNlFZVnRUZWhHV2dRZVl1dnRfdXc2aXR0ay1SZ3RYYnRuSVRjZTNqQzl6UWxOTDJSU1pkZmRocElaRTMyWldHWWlYenlMeXFWV1VRbHk4OUJkQ2Q5dw?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LWWxzc2RyNERrX3dXTmM1RDN2UDVLS0llaTFGQm04cWlDSzRPN25pazdCQjdCWElKX0xIb1lnWkVRMEc3LVNFemcxR0d5dTRNQ3ByOGpfQWRuZ3p5S3RZ0gFkQVVfeXFMTk84TWRhMVlhNlFZVnRUZWhHV2dRZVl1dnRfdXc2aXR0ay1SZ3RYYnRuSVRjZTNqQzl6UWxOTDJSU1pkZmRocElaRTMyWldHWWlYenlMeXFWV1VRbHk4OUJkQ2Q5dw?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -273,6 +273,6 @@
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 13,
+  "cost": 12,
   "status": 0
 }
