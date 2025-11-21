@@ -47,6 +47,14 @@
           "package": ""
         },
         {
+          "text": "股匯雙殺！台股盤中狂瀉逾千點",
+          "url": "https://tw.news.yahoo.com/%E8%82%A1%E5%8C%AF%E9%9B%99%E6%AE%BA%EF%BC%81%E5%8F%B0%E8%82%A1%E7%9B%A4%E4%B8%AD%E9%87%8D%E6%8C%AB%E9%80%BE%E5%8D%83%E9%BB%9E-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E4%B8%8B%E8%B7%8C70%E5%85%83-011338469.html",
+          "h5_url": "https://tw.news.yahoo.com/%E8%82%A1%E5%8C%AF%E9%9B%99%E6%AE%BA%EF%BC%81%E5%8F%B0%E8%82%A1%E7%9B%A4%E4%B8%AD%E9%87%8D%E6%8C%AB%E9%80%BE%E5%8D%83%E9%BB%9E-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E4%B8%8B%E8%B7%8C70%E5%85%83-011338469.html",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_yahoo",
+          "package": ""
+        },
+        {
           "text": "鴻海科技日 郭台銘白髮驚喜現身",
           "url": "https://tw.stock.yahoo.com/news/%E3%80%90%E9%B4%BB%E6%B5%B7%E7%A7%91%E6%8A%80%E6%97%A5%E3%80%91%E9%83%AD%E5%8F%B0%E9%8A%98%E7%99%BD%E9%AB%AE%E9%A9%9A%E5%96%9C%E7%8F%BE%E8%BA%AB%EF%BC%81%E5%8A%89%E6%8F%9A%E5%81%89%E5%90%8C%E5%8F%B0%E5%B0%8D%E9%83%AD%E6%AF%8D%E9%9B%A2%E4%B8%96%E8%87%B4%E3%80%8C%E6%9C%80%E6%B7%B1%E5%93%80%E6%82%BC%E3%80%8D-022011910.html",
           "h5_url": "https://tw.stock.yahoo.com/news/%E3%80%90%E9%B4%BB%E6%B5%B7%E7%A7%91%E6%8A%80%E6%97%A5%E3%80%91%E9%83%AD%E5%8F%B0%E9%8A%98%E7%99%BD%E9%AB%AE%E9%A9%9A%E5%96%9C%E7%8F%BE%E8%BA%AB%EF%BC%81%E5%8A%89%E6%8F%9A%E5%81%89%E5%90%8C%E5%8F%B0%E5%B0%8D%E9%83%AD%E6%AF%8D%E9%9B%A2%E4%B8%96%E8%87%B4%E3%80%8C%E6%9C%80%E6%B7%B1%E5%93%80%E6%82%BC%E3%80%8D-022011910.html",
@@ -58,14 +66,6 @@
           "text": "輝達在台設子公司 經濟部准了",
           "url": "https://tw.news.yahoo.com/%E8%BC%9D%E9%81%94%E7%A0%B810%E5%84%84%E7%94%B3%E8%AB%8B%E5%9C%A8%E5%8F%B0%E7%81%A3%E8%A8%AD%E5%AD%90%E5%85%AC%E5%8F%B8-%E7%B6%93%E6%BF%9F%E9%83%A8%E5%87%86%E4%BA%86-035648837.html",
           "h5_url": "https://tw.news.yahoo.com/%E8%BC%9D%E9%81%94%E7%A0%B810%E5%84%84%E7%94%B3%E8%AB%8B%E5%9C%A8%E5%8F%B0%E7%81%A3%E8%A8%AD%E5%AD%90%E5%85%AC%E5%8F%B8-%E7%B6%93%E6%BF%9F%E9%83%A8%E5%87%86%E4%BA%86-035648837.html",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_yahoo",
-          "package": ""
-        },
-        {
-          "text": "股匯雙殺 台股盤中狂瀉逾900點",
-          "url": "https://tw.news.yahoo.com/%E8%82%A1%E5%8C%AF%E9%9B%99%E6%AE%BA%EF%BC%81%E5%8F%B0%E8%82%A1%E7%9B%A4%E4%B8%AD%E9%87%8D%E6%8C%AB%E9%80%BE%E5%8D%83%E9%BB%9E%E5%89%B5%E6%B3%A2%E6%AE%B5%E6%96%B0%E4%BD%8E-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E4%B8%8B%E8%B7%8C70%E5%85%83-011338258.html",
-          "h5_url": "https://tw.news.yahoo.com/%E8%82%A1%E5%8C%AF%E9%9B%99%E6%AE%BA%EF%BC%81%E5%8F%B0%E8%82%A1%E7%9B%A4%E4%B8%AD%E9%87%8D%E6%8C%AB%E9%80%BE%E5%8D%83%E9%BB%9E%E5%89%B5%E6%B3%A2%E6%AE%B5%E6%96%B0%E4%BD%8E-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E4%B8%8B%E8%B7%8C70%E5%85%83-011338258.html",
           "appIconUrl": "",
           "sourceUniqueId": "content_yahoo",
           "package": ""
@@ -146,25 +146,9 @@
       "link_type": "app",
       "data": [
         {
-          "text": "賴總統享用日本水產品日網友大讚：這才是真友好",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ZNXRGQ1JMaHpBbEZiMElBNVRuaUd2MFltdVlUQ053WkVhLXZIcmloS3k1MVp5N2VnZVc0YmkydFMzQ1pWN2RVeFBXMzRXQkJhb2tSNkxqcThacFNWcEc0?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ZNXRGQ1JMaHpBbEZiMElBNVRuaUd2MFltdVlUQ053WkVhLXZIcmloS3k1MVp5N2VnZVc0YmkydFMzQ1pWN2RVeFBXMzRXQkJhb2tSNkxqcThacFNWcEc0?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "G20李強就是不見高市早苗！ 中外交部嗆日本：請自重",
-          "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPSFl0TUJaamVyZjBiYlgzbXFoNlBTRnd3c3BRVnk1LUpsSEpHMzdwR251QVlJOWJKNHFuWjJIblFoNXl6TnYyd1QwaGk5UTA0eDJWUl9fN1ozd2NzVTQ3dnFsaW5Nd0RsMWRKcTlKRmdvckM0bHFnSFNVQjBXd0F6MzlVcVdQaVZtVGZhM0lkdE9pVjE1YzhYQWlwMTZnblN4ZnEwcjFNcHFGY3UzTEc1Q1lKY2hhczRocEMyVzR3NHU5NzEtT01lelVvVkFoWWJLelZEUktGTmpUWnVKUk0yWkdRLWJNWFFaYTc2SWszNmJqMFdiRHA1V00tOTM5eXM3VElEWkNSRGJpbmk0R1VhZWpwZzN0UUt6RUVDaDczQTRRYUxUWGQ5Vm8zcGdtTnNWZWlNWHhBUnFtX0RyWUFkQ0ZnS2Z6dzQ4NGc?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPSFl0TUJaamVyZjBiYlgzbXFoNlBTRnd3c3BRVnk1LUpsSEpHMzdwR251QVlJOWJKNHFuWjJIblFoNXl6TnYyd1QwaGk5UTA0eDJWUl9fN1ozd2NzVTQ3dnFsaW5Nd0RsMWRKcTlKRmdvckM0bHFnSFNVQjBXd0F6MzlVcVdQaVZtVGZhM0lkdE9pVjE1YzhYQWlwMTZnblN4ZnEwcjFNcHFGY3UzTEc1Q1lKY2hhczRocEMyVzR3NHU5NzEtT01lelVvVkFoWWJLelZEUktGTmpUWnVKUk0yWkdRLWJNWFFaYTc2SWszNmJqMFdiRHA1V00tOTM5eXM3VElEWkNSRGJpbmk0R1VhZWpwZzN0UUt6RUVDaDczQTRRYUxUWGQ5Vm8zcGdtTnNWZWlNWHhBUnFtX0RyWUFkQ0ZnS2Z6dzQ4NGc?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "震驚！TWICE彩瑛健康亮紅燈 「確定缺席高雄演唱會」暫停活動至年底",
-          "url": "https://news.google.com/rss/articles/CBMiigNBVV95cUxNaG9BclY1Ul9fUkhWaktIQ01ZaEdxckpMUVZ4dDJkUTZNUjBtWXotelNIUUdRdWRtcnZlOHpDMjBaNHVGY3ZicWVrdWMtSEZJaXJ0aS1LTEJDSldyaWZfUm1tdVZ1cThzdVU2VkRrQXdyRmdWOEIxc015am8tM1hhZUNzeTFfSC1ZLWh2M1N0QWRFdFE5R1VxZ3ZGZGwzV01xeWdid1dyMG5CanlkNzdvYjRxVFVTWFJJeUNFWlRlMUJKYjVPVFZjSW94aVp3azZRcXFXRS1scjg0RV9uM0E5MG9OV1hCelhfdmpXUVNnRlVXN1hLczFpeXdGMnV1WU9FVzRUTTBWelFsUlZpUHRJRW00ZUVMOUM1MDRlZ1FRZU9KZi1Ma05fS2N6d2JOb0lBUUN5WkYwVDJzTHpTYkE5Rk8taWVfaUc1bmdwaU1mVHFyWVNhbzdRLTN4Sk96TXVnZHhCTlluejdMUmNoWHVFT0NDX1pjY1RzaE5fRk4yTlhCaHd6T3I1RWZR?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiigNBVV95cUxNaG9BclY1Ul9fUkhWaktIQ01ZaEdxckpMUVZ4dDJkUTZNUjBtWXotelNIUUdRdWRtcnZlOHpDMjBaNHVGY3ZicWVrdWMtSEZJaXJ0aS1LTEJDSldyaWZfUm1tdVZ1cThzdVU2VkRrQXdyRmdWOEIxc015am8tM1hhZUNzeTFfSC1ZLWh2M1N0QWRFdFE5R1VxZ3ZGZGwzV01xeWdid1dyMG5CanlkNzdvYjRxVFVTWFJJeUNFWlRlMUJKYjVPVFZjSW94aVp3azZRcXFXRS1scjg0RV9uM0E5MG9OV1hCelhfdmpXUVNnRlVXN1hLczFpeXdGMnV1WU9FVzRUTTBWelFsUlZpUHRJRW00ZUVMOUM1MDRlZ1FRZU9KZi1Ma05fS2N6d2JOb0lBUUN5WkYwVDJzTHpTYkE5Rk8taWVfaUc1bmdwaU1mVHFyWVNhbzdRLTN4Sk96TXVnZHhCTlluejdMUmNoWHVFT0NDX1pjY1RzaE5fRk4yTlhCaHd6T3I1RWZR?oc=5",
+          "text": "中國禁日本水產 賴總統秀午餐吃日生魚片送暖 日網友喊感動",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05VGs3RkFoYnRfcXNBQWxYUTlWZUE4cnliYzhvRXNVU09RejkxOVFYbHpvQlg1ZVgwSEhGWnJOQ25QR0J6VmNpNklSS1FGXzdINVdDUEtkcVctMFUweThZ0gFkQVVfeXFMTUNoWGNLOEIzZzg5a1NjbjlpSTdGbjIzbmk5MHZ5LUdoU2gzN3lldFN0WGF5eVR0RVFYNFhxVE1jVnNNMHV3Um82TU1NbzFiWmhNUENQZ3lxZVFLeUFGSkdtZHNEUw?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05VGs3RkFoYnRfcXNBQWxYUTlWZUE4cnliYzhvRXNVU09RejkxOVFYbHpvQlg1ZVgwSEhGWnJOQ25QR0J6VmNpNklSS1FGXzdINVdDUEtkcVctMFUweThZ0gFkQVVfeXFMTUNoWGNLOEIzZzg5a1NjbjlpSTdGbjIzbmk5MHZ5LUdoU2gzN3lldFN0WGF5eVR0RVFYNFhxVE1jVnNNMHV3Um82TU1NbzFiWmhNUENQZ3lxZVFLeUFGSkdtZHNEUw?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -178,17 +162,33 @@
           "package": ""
         },
         {
-          "text": "周末短暫回暖　下周明顯降溫「可能還有颱風生成」",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1pUlZtTkhBc2hZMkhJWjRwQ0xob1BHaG5hV050ODhzTmxJdmdKdHNxQW5wU0ZrTHZhQjF4N0JaczFDTkxBczJ1NkdRUEZXN2FSYjVhQ2dNbl9LNW9zdlHSAWhBVV95cUxPYnJiTXd2OXlUTm5UMlhqNDZMd3ladHBWWUhlY0szR1pnTXNLTHZ1czlMeE83RmdvVWhkM2UyNGNfaFZMUlBjZEJHQ1k4M2pTVDN0RnFWSmwwUEhDVzVpN2F4TXNRLUtJdw?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1pUlZtTkhBc2hZMkhJWjRwQ0xob1BHaG5hV050ODhzTmxJdmdKdHNxQW5wU0ZrTHZhQjF4N0JaczFDTkxBczJ1NkdRUEZXN2FSYjVhQ2dNbl9LNW9zdlHSAWhBVV95cUxPYnJiTXd2OXlUTm5UMlhqNDZMd3ladHBWWUhlY0szR1pnTXNLTHZ1czlMeE83RmdvVWhkM2UyNGNfaFZMUlBjZEJHQ1k4M2pTVDN0RnFWSmwwUEhDVzVpN2F4TXNRLUtJdw?oc=5",
+          "text": "TWICE彩瑛「確定缺席高雄開唱」 病情曝光！停工到年底",
+          "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxNQ0RwNzF4TWpwY2ZmMlRtaTJ5cGp3TmJzekthS1RGMjZRYV9iMDl4MXV0VFMtTzNMT2xPWXlEd0toUTBHUlQzX2FBRE9CVlZ0TjFzTzFMVkg3NGZ5M2Q0VWZ4UjJzNy0yMzlHSUVBcTVCN0RwbUZrcWJpWUpRZ1RabDN1S2RIOWM0SjNteTJKYkExNDBVU3EyZE1kLWhGZk5BYkhKQ0MyaVNMTzJ2MWMycElUVVptUUl2elh0amJoODFrdXIwR3pZVDQ0VnJiSVh6ZDd6OFNHV0g5QmFMdXhNQ3prYklrd3V5TDdPaEx2ak9SNWVJOVdKR0tJU1Q5QU9QUVQzR2pzX3RNeV94Z19NSUpUWGM5VnJNYlkzU3Z4a1U2eEZveUswNXNCUUVZRWw1b0lwNF9xci1wa2FDbEhTS19FY2NnVkN5Z3lFcWp4RDJHNE5GSS1kV0wxWHI2T29XckJicUZZRGtFUzZZMFBfS1VjMXlkWUJKLXlxem9n?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxNQ0RwNzF4TWpwY2ZmMlRtaTJ5cGp3TmJzekthS1RGMjZRYV9iMDl4MXV0VFMtTzNMT2xPWXlEd0toUTBHUlQzX2FBRE9CVlZ0TjFzTzFMVkg3NGZ5M2Q0VWZ4UjJzNy0yMzlHSUVBcTVCN0RwbUZrcWJpWUpRZ1RabDN1S2RIOWM0SjNteTJKYkExNDBVU3EyZE1kLWhGZk5BYkhKQ0MyaVNMTzJ2MWMycElUVVptUUl2elh0amJoODFrdXIwR3pZVDQ0VnJiSVh6ZDd6OFNHV0g5QmFMdXhNQ3prYklrd3V5TDdPaEx2ak9SNWVJOVdKR0tJU1Q5QU9QUVQzR2pzX3RNeV94Z19NSUpUWGM5VnJNYlkzU3Z4a1U2eEZveUswNXNCUUVZRWw1b0lwNF9xci1wa2FDbEhTS19FY2NnVkN5Z3lFcWp4RDJHNE5GSS1kV0wxWHI2T29XckJicUZZRGtFUzZZMFBfS1VjMXlkWUJKLXlxem9n?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "北港媽祖南巡「百年盛事」！時間、路線、18禁忌一次看",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1OcThtUXdEM1lvVmJ6Z2ZXSlhjRVF4eVlmaWJQZ3lreUYtZ1NkZVgyaDNQTncxcnJQMGdhRVM4RDBYX1hsSjhMYnRjQ1A2WGVtVU1HUVJRRHhNUXUwalFTTks3YXBoSm5OdWxkR3g2bElzcm1YV0hJbVZQWQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1OcThtUXdEM1lvVmJ6Z2ZXSlhjRVF4eVlmaWJQZ3lreUYtZ1NkZVgyaDNQTncxcnJQMGdhRVM4RDBYX1hsSjhMYnRjQ1A2WGVtVU1HUVJRRHhNUXUwalFTTks3YXBoSm5OdWxkR3g2bElzcm1YV0hJbVZQWQ?oc=5",
+          "text": "日本沒中國觀光客會怎樣？資生堂、Uniqlo股價全跌倒謝金河揭一百貨噴11%最慘| 李瑋萱",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ZdWlLWWVFOHZSc0dCbExrNzFyMC1uaHdxN1RPMU1CLVFMa195cG91Qnd1Nld4dVVqVWlHLUdhbDdwMzlHdF9mbnBZRENaQQ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ZdWlLWWVFOHZSc0dCbExrNzFyMC1uaHdxN1RPMU1CLVFMa195cG91Qnd1Nld4dVVqVWlHLUdhbDdwMzlHdF9mbnBZRENaQQ?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "財報炸裂也救不了？輝達狂飆變跳水 華爾街驚呼「應收帳款」嚇壞市場",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aSHpIQ1JZODdzWnVJa25GNzJrQUxMdlZ3YjRZUV9EaTVvVFVvZ2Jmd3pSVV90UFRiVjVjOHpjS1VqTThoRFpWMXJzc2tFdlE?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aSHpIQ1JZODdzWnVJa25GNzJrQUxMdlZ3YjRZUV9EaTVvVFVvZ2Jmd3pSVV90UFRiVjVjOHpjS1VqTThoRFpWMXJzc2tFdlE?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "黃國昌鄭麗文4字化解藍白合爭議　媒體人：比君悅之亂高了許多檔次",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPSEdBUFNjUThZRV9lcWJQejc3cklfZzdxRngwTGwyTVl3bDV6eW1DSzE0Y1Y1YlY1V2ZQT3ZCSkxaeG9rdXpYREJPYWxaX0FrcmJWRkw4VEJQVTV0U1HSAWhBVV95cUxOa1hUWW5Yc3pwYkd0LWhERUlZQ3R4NkFiYWhzOWE3bHkyUnBqeXo0T0VpLUswRWEzUlVFa3pJUVVnZWdnd1VTWkhqT29sTDBFNGpLdHFOaWFhME1GZUVwekV0UjJVX2FIbg?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPSEdBUFNjUThZRV9lcWJQejc3cklfZzdxRngwTGwyTVl3bDV6eW1DSzE0Y1Y1YlY1V2ZQT3ZCSkxaeG9rdXpYREJPYWxaX0FrcmJWRkw4VEJQVTV0U1HSAWhBVV95cUxOa1hUWW5Yc3pwYkd0LWhERUlZQ3R4NkFiYWhzOWE3bHkyUnBqeXo0T0VpLUswRWEzUlVFa3pJUVVnZWdnd1VTWkhqT29sTDBFNGpLdHFOaWFhME1GZUVwekV0UjJVX2FIbg?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -202,25 +202,25 @@
           "package": ""
         },
         {
-          "text": "《熱門族群》輝達一喊進駐！士林三寶開外掛 士紙站上C位帶頭",
-          "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxQV0xUYTZ3SXFEVlpLY3o1VGZtYnlBODRyMmxSMmVkdDlkSXVOYzFvV3FpWDlYQWk5blV0RV9fbFpXOGI0OHR5X1N4NUJPU2xIYWR4Y0dUNHBsTFRmRFRUam1LTUlyWnJQWGJMMDZYMkhrTlFQWWtlUmNFS1J4OWJwVWpoc1VESFhQME8wY1VvYXBLYjNNM3ZQZkJsN2tLd01DX2V6MjFNdFktN0lrd3BZU05UU1c3cDB0aDBVSGdyTmZLT0pnekNwd3d0cnlZVVY0OVlQTFc3M3N2RHJUMHhUWlQtaEhxZFptRFlTaWg0aXRyNGUwZnd6Q0szc2M5ZmhneThXaFc3RmZKMWdaU2M2Q0lyLUFsNjlwOS1FSnFBVW9sRENfVS1PZ0tGOVVsZl9ZdlRHVWNSU2cxcWFPN1d1aUlEMjlPVVI2N1h4RGdPYnd4bjBVSDRfSGs5NnpRclFjOGpqM2ZDVTFNbWE1ajVmOHB3cENOUQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxQV0xUYTZ3SXFEVlpLY3o1VGZtYnlBODRyMmxSMmVkdDlkSXVOYzFvV3FpWDlYQWk5blV0RV9fbFpXOGI0OHR5X1N4NUJPU2xIYWR4Y0dUNHBsTFRmRFRUam1LTUlyWnJQWGJMMDZYMkhrTlFQWWtlUmNFS1J4OWJwVWpoc1VESFhQME8wY1VvYXBLYjNNM3ZQZkJsN2tLd01DX2V6MjFNdFktN0lrd3BZU05UU1c3cDB0aDBVSGdyTmZLT0pnekNwd3d0cnlZVVY0OVlQTFc3M3N2RHJUMHhUWlQtaEhxZFptRFlTaWg0aXRyNGUwZnd6Q0szc2M5ZmhneThXaFc3RmZKMWdaU2M2Q0lyLUFsNjlwOS1FSnFBVW9sRENfVS1PZ0tGOVVsZl9ZdlRHVWNSU2cxcWFPN1d1aUlEMjlPVVI2N1h4RGdPYnd4bjBVSDRfSGs5NnpRclFjOGpqM2ZDVTFNbWE1ajVmOHB3cENOUQ?oc=5",
+          "text": "「輝達會有好結果」李四川曝最快下周與新壽簽T17、T18解約",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE00MFRjMnF1UWVfc0dOU01OT2tpSEJST0lDem8zZHdYSGhVZDRUeDZxb1pGYmJXVDhxVWkxVlcxeDQ5T1BGT0taSVVWS2VRdlJi0gFWQVVfeXFMTjRSaTczU1J5TGRLdEFzOE1RM2xMUzNEX3JrMnRwaGlQLUxONWpXQW1SSi1BZDJ4UG0zaUFZTzJ4M2R2Q29aUkUyaHlINUtudi1MYVlvQ3c?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE00MFRjMnF1UWVfc0dOU01OT2tpSEJST0lDem8zZHdYSGhVZDRUeDZxb1pGYmJXVDhxVWkxVlcxeDQ5T1BGT0taSVVWS2VRdlJi0gFWQVVfeXFMTjRSaTczU1J5TGRLdEFzOE1RM2xMUzNEX3JrMnRwaGlQLUxONWpXQW1SSi1BZDJ4UG0zaUFZTzJ4M2R2Q29aUkUyaHlINUtudi1MYVlvQ3c?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "「沈伯洋若選台北市長下場很難看」 游盈隆：提名她可能有點希望 | 李孟恩",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5MZDJPR0xhZ0dVWlR2bXRsUTFxajRqLXRRTVhNNWwwUmQ3dGRwcVRmaXFNN2FrVlUyamJKR3VrVEdLSFRVQWs2T3JRck9NQQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5MZDJPR0xhZ0dVWlR2bXRsUTFxajRqLXRRTVhNNWwwUmQ3dGRwcVRmaXFNN2FrVlUyamJKR3VrVEdLSFRVQWs2T3JRck9NQQ?oc=5",
+          "text": "盧秀燕怒批「白目」下令封殺　賓賓哥再開直播回嗆",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5mTktHODQwN1h0NS1Lbm1MTW9vRDdmNEJfSl9tUTRYbko2Tmx5SEhKVW5nTnRqQjcyQWhLQi1nd0VPdEE5T2pUVUtjV1dQYU40NzllSTlwekZQNnNWaGfSAWhBVV95cUxNcmE5OUpUUEs2azNqWENvclNiaHVSOGhJZS12M0VERVVWdDlWbWRBUUcwcFFvQWJjNnZnN2dhcmxhTTdzNEZVVndodWdPT2VTeUl4aEhRU2o5UzB3ZjhiQ041V29rckZBRQ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5mTktHODQwN1h0NS1Lbm1MTW9vRDdmNEJfSl9tUTRYbko2Tmx5SEhKVW5nTnRqQjcyQWhLQi1nd0VPdEE5T2pUVUtjV1dQYU40NzllSTlwekZQNnNWaGfSAWhBVV95cUxNcmE5OUpUUEs2azNqWENvclNiaHVSOGhJZS12M0VERVVWdDlWbWRBUUcwcFFvQWJjNnZnN2dhcmxhTTdzNEZVVndodWdPT2VTeUl4aEhRU2o5UzB3ZjhiQ041V29rckZBRQ?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "聲援參政權藍擬修法排除陸配適用國籍法",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xU3JRUC1faTh4YVdKRm1EUlpzdmNLYmNKWTc5QnhzU0pGRTRIdjdHZjZjcG9SQ1kyZndjYng4a3VQc0lwY0plSXVheXNFcWZRd3V3bFdQX250YTB5Nk9r?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xU3JRUC1faTh4YVdKRm1EUlpzdmNLYmNKWTc5QnhzU0pGRTRIdjdHZjZjcG9SQ1kyZndjYng4a3VQc0lwY0plSXVheXNFcWZRd3V3bFdQX250YTB5Nk9r?oc=5",
+          "text": "邱垂正：一國兩區恐有「超譯」",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPOG1iaWdvZ0x2dlBVRk1RNUxNZG5OUll3azJiMmJtYXVOMjFEOVZMZC12STNEeDR6R0U2UlNDUG03MUpRMFloR2loV1dBNmZPVmlXT2lod1luQnZKYmVEZTFIUFU2aWtGeEdnTmlDaUpUYWotRU9BNkJOdkozSGJueEVtc3dYdkhOWWZmT3I4QTNmN0V2aWFGQlZKOTlkcDdiUEVEc2NROXBTOHNiRnBzVDVVZm00a2NrTGMzOE9WMHhzVlpyR3VyZ3FCYXZZdw?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPOG1iaWdvZ0x2dlBVRk1RNUxNZG5OUll3azJiMmJtYXVOMjFEOVZMZC12STNEeDR6R0U2UlNDUG03MUpRMFloR2loV1dBNmZPVmlXT2lod1luQnZKYmVEZTFIUFU2aWtGeEdnTmlDaUpUYWotRU9BNkJOdkozSGJueEVtc3dYdkhOWWZmT3I4QTNmN0V2aWFGQlZKOTlkcDdiUEVEc2NROXBTOHNiRnBzVDVVZm00a2NrTGMzOE9WMHhzVlpyR3VyZ3FCYXZZdw?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -258,9 +258,9 @@
           "package": ""
         },
         {
-          "text": "〈台股開盤〉非農冷水澆熄輝達 暴跌855點吞掉昨日史上第二大漲點",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9QS0FOMmN4R3ZFUUstbDdOOC1RS2F4eTY2X2t3Y3Zaci1FazZZVjU4VklkbFRJUC1oXzF0Z2luUXZjWGZzRnJVc3ppQmNoUlU?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9QS0FOMmN4R3ZFUUstbDdOOC1RS2F4eTY2X2t3Y3Zaci1FazZZVjU4VklkbFRJUC1oXzF0Z2luUXZjWGZzRnJVc3ppQmNoUlU?oc=5",
+          "text": "台股暴跌890點寫史上第7！23萬散戶離場躲過一劫",
+          "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQdnFhcmV4MGJfVWVTd1J4Z2Z2UER3SER5SWkyQkl5Y2tWeDRPV1JhaUtETDdsaF9SOXFmekZIVzR2TTJfQmYxWUdHMHVsUXJvYlhfN2xaUmxCQ2hlSWl4eUEyR1Z1NHVhOWtMY21EekhNdzZSZGE3Zk5IZkJCbjdwWVFDU1dvdXJVT0tGY25FZEt3QW4zWkVhVEk2TEw3QnlpcVJ3TF9xQWNBcDI1S2FwdE1IZkxiVy02Z18yck1PdVk3dFRuQ3ZJb3lLOFVWaE12SHpyU0tzOHRTYmVNTHZTMEhlMThqMloxcWVRclA5eVVSS3VDTDlldU0wbE5qMksycWN1dUU1UElGa1Z6WEFWeGVnWE5FMUNaTGdxYjZLTkFOQWNzd0I4VzRIalJqZ2psTGVUWDNBRXM5QXJZTzRjaUM5ZEhDdjg?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQdnFhcmV4MGJfVWVTd1J4Z2Z2UER3SER5SWkyQkl5Y2tWeDRPV1JhaUtETDdsaF9SOXFmekZIVzR2TTJfQmYxWUdHMHVsUXJvYlhfN2xaUmxCQ2hlSWl4eUEyR1Z1NHVhOWtMY21EekhNdzZSZGE3Zk5IZkJCbjdwWVFDU1dvdXJVT0tGY25FZEt3QW4zWkVhVEk2TEw3QnlpcVJ3TF9xQWNBcDI1S2FwdE1IZkxiVy02Z18yck1PdVk3dFRuQ3ZJb3lLOFVWaE12SHpyU0tzOHRTYmVNTHZTMEhlMThqMloxcWVRclA5eVVSS3VDTDlldU0wbE5qMksycWN1dUU1UElGa1Z6WEFWeGVnWE5FMUNaTGdxYjZLTkFOQWNzd0I4VzRIalJqZ2psTGVUWDNBRXM5QXJZTzRjaUM5ZEhDdjg?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -273,6 +273,6 @@
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 23,
+  "cost": 27,
   "status": 0
 }
