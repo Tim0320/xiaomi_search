@@ -146,9 +146,9 @@
       "link_type": "app",
       "data": [
         {
-          "text": "香港大火住戶目睹絕望痛哭鄰居互助重聽長者幸運逃生",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5OLUlWU1ZiX2EtT1N5ajhxUFFlUHd0Vlk4VmdLUE5RYnFra1JzY0pCajJQNENiZEZQQzBFN29qV2tEdG02bjB5Zkx3Tmh6YlI4RlVnem5kQi1ZSlg3OEE?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5OLUlWU1ZiX2EtT1N5ajhxUFFlUHd0Vlk4VmdLUE5RYnFra1JzY0pCajJQNENiZEZQQzBFN29qV2tEdG02bjB5Zkx3Tmh6YlI4RlVnem5kQi1ZSlg3OEE?oc=5",
+          "text": "香港宏福苑大火增至55死數百人失聯搜救中",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1iaGxwWENsU0FaMTV4dmFvWTVCRTBIeTNvNUV1Z25TNWRCbmpCVXV6TlRlTXEzVkRXd1R0RlhkVkNHbk5YdXc0SUw2QUhrYkp1dGowT2lmYzBucWFBRlE?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1iaGxwWENsU0FaMTV4dmFvWTVCRTBIeTNvNUV1Z25TNWRCbmpCVXV6TlRlTXEzVkRXd1R0RlhkVkNHbk5YdXc0SUw2QUhrYkp1dGowT2lmYzBucWFBRlE?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -273,6 +273,6 @@
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 23,
+  "cost": 10,
   "status": 0
 }
