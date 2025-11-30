@@ -146,14 +146,6 @@
       "link_type": "app",
       "data": [
         {
-          "text": "甄妮、黃秋生駁「竹棚助燃說」 痛批官員卸責：香港人自求多福了",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RRFg1ZV9BbjZMc25Hc3EzcUUwc3NnNlRPZ1doem1NZ0hoenBBUER2UzZXLTltT0V4bTFoYXJIb1ljaUhJMW1pckk0OWZWTGdhZFFmMTdOUGxxbTQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RRFg1ZV9BbjZMc25Hc3EzcUUwc3NnNlRPZ1doem1NZ0hoenBBUER2UzZXLTltT0V4bTFoYXJIb1ljaUhJMW1pckk0OWZWTGdhZFFmMTdOUGxxbTQ?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
           "text": "快訊／台南掩埋場夜間大火　20公尺高垃圾堆狂燒濃煙沖天",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9zaWE4M3dIemRSQU5PNGFDdGU4aGRsMExvTFJuMkNUOFF6SzlYODRUOFhWV2VIZWdIUUYxcVpTOXk4MXZfaHVocTlLaDEyMjNrTGI2T181dEVtZ0R2QlHSAWhBVV95cUxQMGYzSUJ6S1NpYXFQcmNuT2hxUWU2Vms3SGZfRUNJWl9SY2JuNHpsSEg2MWk4bVJ6dE50UGp4dWdQR1JGNkdlZUZEQ2xhVVZERFVCdUNobzF4RXNqekJTTUNNMnJMRFVuRg?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9zaWE4M3dIemRSQU5PNGFDdGU4aGRsMExvTFJuMkNUOFF6SzlYODRUOFhWV2VIZWdIUUYxcVpTOXk4MXZfaHVocTlLaDEyMjNrTGI2T181dEVtZ0R2QlHSAWhBVV95cUxQMGYzSUJ6S1NpYXFQcmNuT2hxUWU2Vms3SGZfRUNJWl9SY2JuNHpsSEg2MWk4bVJ6dE50UGp4dWdQR1JGNkdlZUZEQ2xhVVZERFVCdUNobzF4RXNqekJTTUNNMnJMRFVuRg?oc=5",
@@ -165,6 +157,14 @@
           "text": "下探13度！週二晚間起降溫 本週天氣1圖看懂",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5GTXFGX3QtWnVZVEtUbFdZTjdkaWFXZVlaVXU3MDJsOXZYNk9PQk1QaWJJdExlalg0RWNrLVhLYTl0VXZTb2pVQXE3LXZpR29JLWFZQ1hHNmpFYlp2Z2VJTVNXQmvSAWpBVV95cUxObDM3aGp6WXFWVjVUQXJZM2h6SUc5bXJIUDVPcUhtOUtLSlY3SWN3VDJ6S09DQWQ0YXFxbHVLa1h0VVhYN2xPLTlaZGx0UlREWnN2cVVoMFZwZkxSdzRja1d2dWlEZy0zMnJn?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5GTXFGX3QtWnVZVEtUbFdZTjdkaWFXZVlaVXU3MDJsOXZYNk9PQk1QaWJJdExlalg0RWNrLVhLYTl0VXZTb2pVQXE3LXZpR29JLWFZQ1hHNmpFYlp2Z2VJTVNXQmvSAWpBVV95cUxObDM3aGp6WXFWVjVUQXJZM2h6SUc5bXJIUDVPcUhtOUtLSlY3SWN3VDJ6S09DQWQ0YXFxbHVLa1h0VVhYN2xPLTlaZGx0UlREWnN2cVVoMFZwZkxSdzRja1d2dWlEZy0zMnJn?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "甄妮、黃秋生駁「竹棚助燃說」 痛批官員卸責：香港人自求多福了",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RRFg1ZV9BbjZMc25Hc3EzcUUwc3NnNlRPZ1doem1NZ0hoenBBUER2UzZXLTltT0V4bTFoYXJIb1ljaUhJMW1pckk0OWZWTGdhZFFmMTdOUGxxbTQ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RRFg1ZV9BbjZMc25Hc3EzcUUwc3NnNlRPZ1doem1NZ0hoenBBUER2UzZXLTltT0V4bTFoYXJIb1ljaUhJMW1pckk0OWZWTGdhZFFmMTdOUGxxbTQ?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -194,14 +194,6 @@
           "package": ""
         },
         {
-          "text": "基隆河污染影響基隆汐止約15萬戶台水啟動補償措施",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ORy1ibllMLXJOWnpWTjJTZzNraGhSa1YxeVl2ajVuZENrZlFHQ18zQ1hacWs3bEN6UkhBS0szcDE0aXdQbDk0UWNjZGRNM0V0OFQ5STJFdFBzdlFZcGpZ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ORy1ibllMLXJOWnpWTjJTZzNraGhSa1YxeVl2ajVuZENrZlFHQ18zQ1hacWs3bEN6UkhBS0szcDE0aXdQbDk0UWNjZGRNM0V0OFQ5STJFdFBzdlFZcGpZ?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
           "text": "批政府債留子孫換不了台海安全 鄭麗文聲援秋鬥：命沒了什麼都是假的",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE85b0l1VF8zZl9RclRqVjYwb3gza3lwOEpuR3ZWRlNmczl3aGs4eFRxbVZ3QkV6ZFVJUjlxb01LY04xZ2NHc0ltaHJwM0tac3h30gFWQVVfeXFMTWFzRXJIOVFTMWdTdHB0MEx0Y1ZwY1FWb0R0bF95S0kwNGdfZTJYNFNTM2x2OFBLd0ExNFY5NmhxWDBuTDNscW9INkdKLW9qTC1oQnM2S3c?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE85b0l1VF8zZl9RclRqVjYwb3gza3lwOEpuR3ZWRlNmczl3aGs4eFRxbVZ3QkV6ZFVJUjlxb01LY04xZ2NHc0ltaHJwM0tac3h30gFWQVVfeXFMTWFzRXJIOVFTMWdTdHB0MEx0Y1ZwY1FWb0R0bF95S0kwNGdfZTJYNFNTM2x2OFBLd0ExNFY5NmhxWDBuTDNscW9INkdKLW9qTC1oQnM2S3c?oc=5",
@@ -221,6 +213,14 @@
           "text": "李有宜被「黃國昌金釵」逼到退黨？黃光芹揭黨中央如何排擠她：她才說要繼續選 | 張大任",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9obDZXa3VqYXEybVpsSFRhSjVzV2RJdmM0WTBPdzdyV25HWm1SVkdzTVF2S2ltb3BsMU1FZGJGamJuTzVCRThYeXZUM0Zzdw?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9obDZXa3VqYXEybVpsSFRhSjVzV2RJdmM0WTBPdzdyV25HWm1SVkdzTVF2S2ltb3BsMU1FZGJGamJuTzVCRThYeXZUM0Zzdw?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "基隆河污染影響基隆汐止約15萬戶台水啟動補償措施",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ORy1ibllMLXJOWnpWTjJTZzNraGhSa1YxeVl2ajVuZENrZlFHQ18zQ1hacWs3bEN6UkhBS0szcDE0aXdQbDk0UWNjZGRNM0V0OFQ5STJFdFBzdlFZcGpZ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ORy1ibllMLXJOWnpWTjJTZzNraGhSa1YxeVl2ajVuZENrZlFHQ18zQ1hacWs3bEN6UkhBS0szcDE0aXdQbDk0UWNjZGRNM0V0OFQ5STJFdFBzdlFZcGpZ?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -273,6 +273,6 @@
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 15,
+  "cost": 33,
   "status": 0
 }
