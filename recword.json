@@ -202,6 +202,14 @@
           "package": ""
         },
         {
+          "text": "基隆河污染影響基隆汐止約15萬戶台水啟動補償措施",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ORy1ibllMLXJOWnpWTjJTZzNraGhSa1YxeVl2ajVuZENrZlFHQ18zQ1hacWs3bEN6UkhBS0szcDE0aXdQbDk0UWNjZGRNM0V0OFQ5STJFdFBzdlFZcGpZ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ORy1ibllMLXJOWnpWTjJTZzNraGhSa1YxeVl2ajVuZENrZlFHQ18zQ1hacWs3bEN6UkhBS0szcDE0aXdQbDk0UWNjZGRNM0V0OFQ5STJFdFBzdlFZcGpZ?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
           "text": "李有宜被「黃國昌金釵」逼到退黨？黃光芹揭黨中央如何排擠她：她才說要繼續選 | 張大任",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9obDZXa3VqYXEybVpsSFRhSjVzV2RJdmM0WTBPdzdyV25HWm1SVkdzTVF2S2ltb3BsMU1FZGJGamJuTzVCRThYeXZUM0Zzdw?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9obDZXa3VqYXEybVpsSFRhSjVzV2RJdmM0WTBPdzdyV25HWm1SVkdzTVF2S2ltb3BsMU1FZGJGamJuTzVCRThYeXZUM0Zzdw?oc=5",
@@ -213,14 +221,6 @@
           "text": "桃園機場第3航廈北廊廳12/1起試營運增8大型登機門",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8yVWF4SzdMd2hYdHhXcTR0NXNmdDdqQzZnT3JjT0FfQkpYSzdmbkdpMDJBSEk0bzZGYW5nZll2dmlPUlBXYWlES1RGU3BBb2xnbEUteUU4ajVmLVhhdUln?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8yVWF4SzdMd2hYdHhXcTR0NXNmdDdqQzZnT3JjT0FfQkpYSzdmbkdpMDJBSEk0bzZGYW5nZll2dmlPUlBXYWlES1RGU3BBb2xnbEUteUU4ajVmLVhhdUln?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "基隆河污染影響基隆汐止約15萬戶台水啟動補償措施",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ORy1ibllMLXJOWnpWTjJTZzNraGhSa1YxeVl2ajVuZENrZlFHQ18zQ1hacWs3bEN6UkhBS0szcDE0aXdQbDk0UWNjZGRNM0V0OFQ5STJFdFBzdlFZcGpZ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ORy1ibllMLXJOWnpWTjJTZzNraGhSa1YxeVl2ajVuZENrZlFHQ18zQ1hacWs3bEN6UkhBS0szcDE0aXdQbDk0UWNjZGRNM0V0OFQ5STJFdFBzdlFZcGpZ?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -273,6 +273,6 @@
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 37,
+  "cost": 21,
   "status": 0
 }
