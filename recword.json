@@ -15,6 +15,14 @@
       "link_type": "app",
       "data": [
         {
+          "text": "Line Pay Money",
+          "url": "https://tw.search.yahoo.com/search?p=Line+Pay+Money&amp;fr=ush-bt1",
+          "h5_url": "https://tw.search.yahoo.com/search?p=Line+Pay+Money&amp;fr=ush-bt1",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_yahoo",
+          "package": ""
+        },
+        {
           "text": "Yahoo財經大人物",
           "url": "https://tw.news.yahoo.com/topic/CEO-interview",
           "h5_url": "https://tw.news.yahoo.com/topic/CEO-interview",
@@ -125,14 +133,6 @@
           "appIconUrl": "",
           "sourceUniqueId": "content_yahoo",
           "package": ""
-        },
-        {
-          "text": "看懂《台灣保證實施法案》賴過境美國未必更容易",
-          "url": "https://tw.news.yahoo.com/%E6%96%87%E7%9C%8B%E6%87%82-%E5%8F%B0%E7%81%A3%E4%BF%9D%E8%AD%89%E5%AF%A6%E6%96%BD%E6%B3%95%E6%A1%88-%E4%B8%BB%E8%A6%81%E5%BD%B1%E9%9F%BF%E7%82%BA%E4%BD%95-%E7%B8%BD%E7%B5%B1%E9%81%8E%E5%A2%83%E8%A8%AA%E7%BE%8E%E6%9B%B4%E5%AE%B9%E6%98%93-082200571.html",
-          "h5_url": "https://tw.news.yahoo.com/%E6%96%87%E7%9C%8B%E6%87%82-%E5%8F%B0%E7%81%A3%E4%BF%9D%E8%AD%89%E5%AF%A6%E6%96%BD%E6%B3%95%E6%A1%88-%E4%B8%BB%E8%A6%81%E5%BD%B1%E9%9F%BF%E7%82%BA%E4%BD%95-%E7%B8%BD%E7%B5%B1%E9%81%8E%E5%A2%83%E8%A8%AA%E7%BE%8E%E6%9B%B4%E5%AE%B9%E6%98%93-082200571.html",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_yahoo",
-          "package": ""
         }
       ],
       "selectedStatus": false,
@@ -145,14 +145,6 @@
       "headImageUrl": "",
       "link_type": "app",
       "data": [
-        {
-          "text": "嗆北京戰狼「蝦」扯！宏國媒體再曝證據、痛失台灣80多年合作友誼",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZUllzanZPZzVWMDVzQmFTQjNhQUxtR041NE15bm9CUVhCRnc3TXBhSDliLVI0b1d3NjM1U0w2SUhFTDZwaHdOUXNsNDVxclVDSnF2bE8tb3htVkR5SDY40gFkQVVfeXFMTmN4NkF1RlR6WFRaNUljUTMwTjdHeTlOU2JOdUtXd3FhSG9RYkRPXzJ5MXZKY09SdW0wbmhoNEtCT0N3bDF3eTZVLTV6emJ2cFNoS0NGQmh5QTh1YTBseVlGNXJ5aA?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZUllzanZPZzVWMDVzQmFTQjNhQUxtR041NE15bm9CUVhCRnc3TXBhSDliLVI0b1d3NjM1U0w2SUhFTDZwaHdOUXNsNDVxclVDSnF2bE8tb3htVkR5SDY40gFkQVVfeXFMTmN4NkF1RlR6WFRaNUljUTMwTjdHeTlOU2JOdUtXd3FhSG9RYkRPXzJ5MXZKY09SdW0wbmhoNEtCT0N3bDF3eTZVLTV6emJ2cFNoS0NGQmh5QTh1YTBseVlGNXJ5aA?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
         {
           "text": "日中聯合聲明「台灣是中國領土不可分割的一部分」 高市：沒有改變",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5VeGVCMmhmYktFdUV6bzBlcUNwTDFsUVl2ZHdLN19iVkFSVEVSdkxYOUdvUWVCbGttNFdObVE4VG1aSU5YdlpvVURIYS1GNHM2Mjl1TWZ3am1SZ9IBX0FVX3lxTE5HM01nbmJVOExkdzdhTm9IXzBWR2Q3WUdRckt1ZXl4TTZOb2VLNWdBNWhWUC1pZHdCakpqWVFfOEUxRXBkTHBUTmV0RVlHdlRVVWdjeEQ0ekVNTnJKYnMw?oc=5",
@@ -178,9 +170,9 @@
           "package": ""
         },
         {
-          "text": "20多家倒光！網紅手搖飲「官方FB也刪了」　網嘆超慘：開幕即倒閉",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5pcTI5VzB1UXFmRV9iSnhlMGR4bFdtQmZWaGhJYjV6ZGN4YzJNTFJPZWpnRnMzcVIxS2Ytc3hFZHNJRGlKUUhTbGZjWFJhdE1MTDM1OFc5ekZGM0NuQWfSAWhBVV95cUxQbVZUMGh4M0RJMkctT3hYb0w5dzlKUWFNWHloeENZZlZQNlQwdTRWRWdmMWlqUGNiazdTN1ZPMEplUHd2Yk10RlYtVVZERUxva3VLZ1NnRTM2eG10NXNITHhHemFzc0w3Xw?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5pcTI5VzB1UXFmRV9iSnhlMGR4bFdtQmZWaGhJYjV6ZGN4YzJNTFJPZWpnRnMzcVIxS2Ytc3hFZHNJRGlKUUhTbGZjWFJhdE1MTDM1OFc5ekZGM0NuQWfSAWhBVV95cUxQbVZUMGh4M0RJMkctT3hYb0w5dzlKUWFNWHloeENZZlZQNlQwdTRWRWdmMWlqUGNiazdTN1ZPMEplUHd2Yk10RlYtVVZERUxva3VLZ1NnRTM2eG10NXNITHhHemFzc0w3Xw?oc=5",
+          "text": "嗆北京戰狼「蝦」扯！宏國媒體再曝證據、痛失台灣80多年合作友誼",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZUllzanZPZzVWMDVzQmFTQjNhQUxtR041NE15bm9CUVhCRnc3TXBhSDliLVI0b1d3NjM1U0w2SUhFTDZwaHdOUXNsNDVxclVDSnF2bE8tb3htVkR5SDY40gFkQVVfeXFMTmN4NkF1RlR6WFRaNUljUTMwTjdHeTlOU2JOdUtXd3FhSG9RYkRPXzJ5MXZKY09SdW0wbmhoNEtCT0N3bDF3eTZVLTV6emJ2cFNoS0NGQmh5QTh1YTBseVlGNXJ5aA?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZUllzanZPZzVWMDVzQmFTQjNhQUxtR041NE15bm9CUVhCRnc3TXBhSDliLVI0b1d3NjM1U0w2SUhFTDZwaHdOUXNsNDVxclVDSnF2bE8tb3htVkR5SDY40gFkQVVfeXFMTmN4NkF1RlR6WFRaNUljUTMwTjdHeTlOU2JOdUtXd3FhSG9RYkRPXzJ5MXZKY09SdW0wbmhoNEtCT0N3bDF3eTZVLTV6emJ2cFNoS0NGQmh5QTh1YTBseVlGNXJ5aA?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -194,9 +186,9 @@
           "package": ""
         },
         {
-          "text": "川普簽署台灣保證實施法案研擬解除美台交往限制",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CZlU1bS1pYkdXZnE1UzJWWGhiQ1hYd2VpcmE2ajNBaS1kcU4zRjlPelVZYzVpaVRkVnJ0cS14RnVtU0hfcHpBbkJhaFRRTGJ0cFB2Ui0xcGlMS0F1bjFF?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CZlU1bS1pYkdXZnE1UzJWWGhiQ1hYd2VpcmE2ajNBaS1kcU4zRjlPelVZYzVpaVRkVnJ0cS14RnVtU0hfcHpBbkJhaFRRTGJ0cFB2Ui0xcGlMS0F1bjFF?oc=5",
+          "text": "翁曉玲關鍵一票　1.25兆國防預算、政院財劃法草案「暫緩列案」",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBLT2NPZHVRT1dubi1MQkU3eW1JYnhINThtNEZ1RzlNSGxrakM1Q1AxcXEtRWdSNWZXdWtNNGt3ZThFMW5Wd01ySTltdlR3VjBKcTJTVy11a1NLbThkZnfSAWhBVV95cUxQTzhDUUZfd2tZUmI2ejJxbVE4eWQzSFE2M2hQTDNyTU45RUFwRUlSRk1XY3hDOVFUZElsY250RFUwSlNRa2VJUUx2MkxJb214TjR0cHhBVnRQOU14SF95aTFTbDh3dm02RQ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBLT2NPZHVRT1dubi1MQkU3eW1JYnhINThtNEZ1RzlNSGxrakM1Q1AxcXEtRWdSNWZXdWtNNGt3ZThFMW5Wd01ySTltdlR3VjBKcTJTVy11a1NLbThkZnfSAWhBVV95cUxQTzhDUUZfd2tZUmI2ejJxbVE4eWQzSFE2M2hQTDNyTU45RUFwRUlSRk1XY3hDOVFUZElsY250RFUwSlNRa2VJUUx2MkxJb214TjR0cHhBVnRQOU14SF95aTFTbDh3dm02RQ?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -210,17 +202,25 @@
           "package": ""
         },
         {
-          "text": "《紐時》DealBook峰會 特邀「台灣總統」賴清德專訪",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0yVDJ6WHNmOHlOUHJDOGpscjFxNlR6dHJ1VlUtbTd0SHVrREEzU1VhWWFxZUp6S1JUTEt5UVNIaklnVzNlN3lfZ3VySHNtX1NQQWhoanhrdEZxaExEd09aTmVaZng5Z0RLZHfSAW9BVV95cUxPQ21vV1V6ZHR2STZBNGllSEt5TlQtd0tlVHUySXZWM1IxSFBTRmwyUTZrZVVLeG9HODdHc3hGbV9zY2tPdlhJX2phakpIUlU3NkhLS2pFeWh4T2JWcVZWaW9haExCR2xxS2p1T1hpYVk?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0yVDJ6WHNmOHlOUHJDOGpscjFxNlR6dHJ1VlUtbTd0SHVrREEzU1VhWWFxZUp6S1JUTEt5UVNIaklnVzNlN3lfZ3VySHNtX1NQQWhoanhrdEZxaExEd09aTmVaZng5Z0RLZHfSAW9BVV95cUxPQ21vV1V6ZHR2STZBNGllSEt5TlQtd0tlVHUySXZWM1IxSFBTRmwyUTZrZVVLeG9HODdHc3hGbV9zY2tPdlhJX2phakpIUlU3NkhLS2pFeWh4T2JWcVZWaW9haExCR2xxS2p1T1hpYVk?oc=5",
+          "text": "首度鬆口「我當然要參加初選」 李四川曝1結果：我會承擔",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBpNTNQbW9rRUJfZkhSUWZ4UjBGeWo0MEJlM1g4NDBCbHpheEdmdWVUa2ZrbndiQ0Z2MWdVZFFYMEgtaHVYaFc1RnY1cGN0clF5bzF30gFYQVVfeXFMT2NHQzNmbHNBaDZlTFFIY1Q2VVBwQ2NmRzlKaEM4NlNHMmdQRExqOHJmNjlTTVBueWtLVWg5bzNDcFFXMVA4TE1UTDBqUi1NaE9hQXJ3cHFNUQ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBpNTNQbW9rRUJfZkhSUWZ4UjBGeWo0MEJlM1g4NDBCbHpheEdmdWVUa2ZrbndiQ0Z2MWdVZFFYMEgtaHVYaFc1RnY1cGN0clF5bzF30gFYQVVfeXFMT2NHQzNmbHNBaDZlTFFIY1Q2VVBwQ2NmRzlKaEM4NlNHMmdQRExqOHJmNjlTTVBueWtLVWg5bzNDcFFXMVA4TE1UTDBqUi1NaE9hQXJ3cHFNUQ?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "影／綠選對會建議徵召劉建國捲土再戰雲林縣長 張麗善冷回這句話",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xcjVOZXVPRm1PQXJobmppcFVFVXpLLTRxNm0xYmlQSHlaWW1FTWlJMGFnbDBjcWU1V3pEeE9wSHZNZG9fQ0gyU3B0NmYyLW9YWXVz0gFYQVVfeXFMUEpkMWNIQ2dvZnB4c0FyUHVnMU16X2Z6T2xHMVJtQzR6VXQ1QkR3UXpJOHBUTnl0RE1zb1pUeHlmX1JZU3NRTllsallEUV8tZ0tySDh5N2hpMQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xcjVOZXVPRm1PQXJobmppcFVFVXpLLTRxNm0xYmlQSHlaWW1FTWlJMGFnbDBjcWU1V3pEeE9wSHZNZG9fQ0gyU3B0NmYyLW9YWXVz0gFYQVVfeXFMUEpkMWNIQ2dvZnB4c0FyUHVnMU16X2Z6T2xHMVJtQzR6VXQ1QkR3UXpJOHBUTnl0RE1zb1pUeHlmX1JZU3NRTllsallEUV8tZ0tySDh5N2hpMQ?oc=5",
+          "text": "國民黨新人事！連勝武接KMT studio召集人　萬美玲任婦女部主任",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1pN2dLdkp6Q1RCT242bVVRbllfZkJtZFd5UVQ2Rk9UNUpMaWJTb0VhS3NodkxubWdMMktLbGExVW1hQXM4bGc0TFo2M1BZUmNOajJNLVRiR3pnUjlxeEHSAWhBVV95cUxOeV82R0NCZDUyc0FBa2l2RGwzb29tZUdYTzItX05lMGltNUpBdTA3d0VFSjVtQUxRV0VKUFJKY2J1Y0pjMm5NaTVaVkxURjZXcFJKSXZGLV9nRl9LSW9XbmhjeU9BWnliNw?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1pN2dLdkp6Q1RCT242bVVRbllfZkJtZFd5UVQ2Rk9UNUpMaWJTb0VhS3NodkxubWdMMktLbGExVW1hQXM4bGc0TFo2M1BZUmNOajJNLVRiR3pnUjlxeEHSAWhBVV95cUxOeV82R0NCZDUyc0FBa2l2RGwzb29tZUdYTzItX05lMGltNUpBdTA3d0VFSjVtQUxRV0VKUFJKY2J1Y0pjMm5NaTVaVkxURjZXcFJKSXZGLV9nRl9LSW9XbmhjeU9BWnliNw?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "川普簽署台灣保證實施法案研擬解除美台交往限制",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CZlU1bS1pYkdXZnE1UzJWWGhiQ1hYd2VpcmE2ajNBaS1kcU4zRjlPelVZYzVpaVRkVnJ0cS14RnVtU0hfcHpBbkJhaFRRTGJ0cFB2Ui0xcGlMS0F1bjFF?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CZlU1bS1pYkdXZnE1UzJWWGhiQ1hYd2VpcmE2ajNBaS1kcU4zRjlPelVZYzVpaVRkVnJ0cS14RnVtU0hfcHpBbkJhaFRRTGJ0cFB2Ui0xcGlMS0F1bjFF?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -234,14 +234,6 @@
           "package": ""
         },
         {
-          "text": "台灣關稅不疊加且降？學者示警「川普將祭出更多關稅」：法院判決擋不了他",
-          "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxOMXFTcW5sZXhwX0lzcExaeXF5dFBsanBFS0oza3NtZzVCOHg4TGZxR3VZazlMSTBQdEExUjN4M282dDF5YzM1dWJBR19BNzgyaTFfR0RqUTNYeFc2Q0E4Rmx6ZjlTSS14WWw3c282MWU0ODRrSUg1ay1kalF0UmFnX1lHOHRTZUJwVzJqNTdGWXdNZzNaQTVUUFNBRHM3RmdFdldtbW5qSlU1LTk1dUZrMDV1WWZNRUFzSWQxOWZrNnJJUXVTTGo0Wi1hSVE5cGpDTDhxVl9hQkFTR0ZYQ1QzNzNfcnhYS0hma1pVUDFDdW5ubDU0ZkhHbkg1N25lUmpFWHJuU1duRDRVUm1yNlFGZ0lqUVFWeUcwR0tBMnNWQ3B3RUQxZnBWTjZ1SHZ1c3Z3TEI3Ql9QcDJPQmZrSjFLMHdjdWJGWlBZQ1ZaMDY0SnQ2d2dlU0g5cTFlV2tnR2x5TURpVUFHNXhmUkFnc01WQS1wbXFmM09EOThDWjg4clhNZ3NqQ2packdaajdnRVg3bi1qWUt4eWZUMnNIUkJQRnExenZzRFZvbWxnRnlMdFJQSWxPNmFoOWt0aXRKN2s?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxOMXFTcW5sZXhwX0lzcExaeXF5dFBsanBFS0oza3NtZzVCOHg4TGZxR3VZazlMSTBQdEExUjN4M282dDF5YzM1dWJBR19BNzgyaTFfR0RqUTNYeFc2Q0E4Rmx6ZjlTSS14WWw3c282MWU0ODRrSUg1ay1kalF0UmFnX1lHOHRTZUJwVzJqNTdGWXdNZzNaQTVUUFNBRHM3RmdFdldtbW5qSlU1LTk1dUZrMDV1WWZNRUFzSWQxOWZrNnJJUXVTTGo0Wi1hSVE5cGpDTDhxVl9hQkFTR0ZYQ1QzNzNfcnhYS0hma1pVUDFDdW5ubDU0ZkhHbkg1N25lUmpFWHJuU1duRDRVUm1yNlFGZ0lqUVFWeUcwR0tBMnNWQ3B3RUQxZnBWTjZ1SHZ1c3Z3TEI3Ql9QcDJPQmZrSjFLMHdjdWJGWlBZQ1ZaMDY0SnQ2d2dlU0g5cTFlV2tnR2x5TURpVUFHNXhmUkFnc01WQS1wbXFmM09EOThDWjg4clhNZ3NqQ2packdaajdnRVg3bi1qWUt4eWZUMnNIUkJQRnExenZzRFZvbWxnRnlMdFJQSWxPNmFoOWt0aXRKN2s?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
           "text": "追蹤解析美軍戰機與軍艦在委內瑞拉附近的部署",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE45VjlzYXc4MjJRalExVkhrZU85UDRJSS1TblZILV93QjIydW9ZZFE5N1dEdkhxamtXRURpaVN4WWZvdU1ER0RXWWE4UXdsTDdTMzAyYnQ2Zzd2MVd1dVhacEZZRVcwUdIBa0FVX3lxTFBacWpEMFdiYU8taTNRbEF6MnItVDYxMDQ2YzlIdGRKWVhNeFhyM3hDN1lkLUpza3J4dlVsaFcyVVEzOGx5YTctSmlHX3pNcUtLY1d0SnM5bXZLRDBSWWNXeWM3QnRjS0tqYklF?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE45VjlzYXc4MjJRalExVkhrZU85UDRJSS1TblZILV93QjIydW9ZZFE5N1dEdkhxamtXRURpaVN4WWZvdU1ER0RXWWE4UXdsTDdTMzAyYnQ2Zzd2MVd1dVhacEZZRVcwUdIBa0FVX3lxTFBacWpEMFdiYU8taTNRbEF6MnItVDYxMDQ2YzlIdGRKWVhNeFhyM3hDN1lkLUpza3J4dlVsaFcyVVEzOGx5YTctSmlHX3pNcUtLY1d0SnM5bXZLRDBSWWNXeWM3QnRjS0tqYklF?oc=5",
@@ -250,17 +242,25 @@
           "package": ""
         },
         {
-          "text": "駐韓記者的尹錫悅戒嚴風暴周年回顧 ：南韓如何《超越戒嚴與內亂》",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB0OS0xangxRnFVeXRYUlZwdDRMZlEyYXVWM1lrSXZRb0N3SF9RZzN2NVkwdzRKZmxIcnlCN3dyYm8wR2ZhQU93c2NSNXc3MnlEZFYwOFRLT3RiR3ptT2o0clIxVG1wUQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB0OS0xangxRnFVeXRYUlZwdDRMZlEyYXVWM1lrSXZRb0N3SF9RZzN2NVkwdzRKZmxIcnlCN3dyYm8wR2ZhQU93c2NSNXc3MnlEZFYwOFRLT3RiR3ptT2o0clIxVG1wUQ?oc=5",
+          "text": "南韓戒嚴之亂一周年 李在明宣佈：12/3「國民主權日」",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOT3pOVkRJX2Z0djVkdmZhZ1dUaHFRUG91MWNES0s0bUtzcEtwTFBZZVp2cU85cHg5ZERPWHB6enM2VUxjZHNuS1NqVEd2ZnNCcWRZVG1tT2tKX2JVUlBIR05iVlo2VkRsdjJtaWgyQ0wtcWp5RDkxTDJHSTZUVEY2QW04WVVCMDg3Y0trRmNHOVdTSUtFY09XS0JOQ25SaGJQck1VR1VXTDVWMGltakVVR29lYnZNQjE5elBNU09EZWJkdGJUazNGZXlHZEJpZUFBYVZtLTFBSW45bGUxQUZFQ3BhZjJpaXJKcVphM0Q2a05HUmFFX2RBZg?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOT3pOVkRJX2Z0djVkdmZhZ1dUaHFRUG91MWNES0s0bUtzcEtwTFBZZVp2cU85cHg5ZERPWHB6enM2VUxjZHNuS1NqVEd2ZnNCcWRZVG1tT2tKX2JVUlBIR05iVlo2VkRsdjJtaWgyQ0wtcWp5RDkxTDJHSTZUVEY2QW04WVVCMDg3Y0trRmNHOVdTSUtFY09XS0JOQ25SaGJQck1VR1VXTDVWMGltakVVR29lYnZNQjE5elBNU09EZWJkdGJUazNGZXlHZEJpZUFBYVZtLTFBSW45bGUxQUZFQ3BhZjJpaXJKcVphM0Q2a05HUmFFX2RBZg?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "【Follow法人】母子兩樣情！外資力拱南亞買超近3萬張居冠 狙殺南亞科1.9萬張",
-          "url": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxNQXpJNlRuZWFLbFJwTGVOSk1KaDcyVTNNYWJBdXNoLVZjUFF4MGticFZaSUl3SGNidm8yLUVPT3hBNHN0SWdWbXBJSGpfMzFjUUlqajlGQm5oWHpwNjhfX0lRRGRqNFF3ZktRcjJmMUswMzhiT3loT2QySWttYWlzU2hOT3Vzc3FDY2g5TzBuRFUxa2o0REVnTjNzTlMtWEh6LW9qNGFmdEhlRU9KaE5Ib0M2R2poMHk0cTVJOXItMS1KajNFeG5LUHFsRURZaGg5YV8xNWhabWhKQ1h0cXEySlFFWjMtS0J3Vk5wZ1FKdFU2cEJ2bHlGeThTeUxiS1hqQUdxcWM2Yzh4dDZyVmZUdHdWWTQxQ2MtbWdTR3NuLVh6T0h0ajlFbVZuQkNDWjAzY1NSQm9NTVc3SzgtNU4wTkR0YjVLcFhDcVZ6enZQM0JUd0N5THU3Tm5FZ1JBSWl5RF9rdGYzcHFtTXRqeVdIbTJDOTlIR01XeVFkRzFfUmZJeklONFh3V3k2cHA3T0YwTnAxd1RlTnc1aWV6QnJBRUxIN3o3d3ZWeE03YkRFRmFyZmJTMFdjaXlmYVRURi03ZFlnTERaalBBeDl6QUtuNg?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxNQXpJNlRuZWFLbFJwTGVOSk1KaDcyVTNNYWJBdXNoLVZjUFF4MGticFZaSUl3SGNidm8yLUVPT3hBNHN0SWdWbXBJSGpfMzFjUUlqajlGQm5oWHpwNjhfX0lRRGRqNFF3ZktRcjJmMUswMzhiT3loT2QySWttYWlzU2hOT3Vzc3FDY2g5TzBuRFUxa2o0REVnTjNzTlMtWEh6LW9qNGFmdEhlRU9KaE5Ib0M2R2poMHk0cTVJOXItMS1KajNFeG5LUHFsRURZaGg5YV8xNWhabWhKQ1h0cXEySlFFWjMtS0J3Vk5wZ1FKdFU2cEJ2bHlGeThTeUxiS1hqQUdxcWM2Yzh4dDZyVmZUdHdWWTQxQ2MtbWdTR3NuLVh6T0h0ajlFbVZuQkNDWjAzY1NSQm9NTVc3SzgtNU4wTkR0YjVLcFhDcVZ6enZQM0JUd0N5THU3Tm5FZ1JBSWl5RF9rdGYzcHFtTXRqeVdIbTJDOTlIR01XeVFkRzFfUmZJeklONFh3V3k2cHA3T0YwTnAxd1RlTnc1aWV6QnJBRUxIN3o3d3ZWeE03YkRFRmFyZmJTMFdjaXlmYVRURi03ZFlnTERaalBBeDl6QUtuNg?oc=5",
+          "text": "Costco就「非法」關稅提告川普政府 要求全額退款",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5sWm0yMy1EeHJQR1lYRERWenJXY0ctektYUksyZ18waHNpNUd1eW80MnJ5YVRqWjZndG9JVkRZLXVxeHVxb3RCWGVhWDA3dkh1ZElJekJLbVlOZndqREY40gFkQVVfeXFMUGRRNEVHM1dWVXFwbzVuUk9hSFotY2VwQWtUdjJHblN1WF9hMGdtMjVhckJpQi1TZUJCdThSQ1RkaVZBUjB4MXlTbDg0a3lCME5scjd1ZklPMlRxdmhCWWZOak90Rg?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5sWm0yMy1EeHJQR1lYRERWenJXY0ctektYUksyZ18waHNpNUd1eW80MnJ5YVRqWjZndG9JVkRZLXVxeHVxb3RCWGVhWDA3dkh1ZElJekJLbVlOZndqREY40gFkQVVfeXFMUGRRNEVHM1dWVXFwbzVuUk9hSFotY2VwQWtUdjJHblN1WF9hMGdtMjVhckJpQi1TZUJCdThSQ1RkaVZBUjB4MXlTbDg0a3lCME5scjd1ZklPMlRxdmhCWWZOak90Rg?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "彭金隆：台版穩定幣最快明年六、七月可看到",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5CWHVBSzQ4TlRpcHdURmVaVzI5VXRMLWJZUnZCZlVnU0o0bktfZW5kRjlXZTBUSWJXdFR4UWZhZUFHenUwclNtWk1nOWxhTWpf0gFWQVVfeXFMTzMzdExjY1pCUzVGZEpmbmt4QnNhUDJvQWlrVmFoSHVTRkJIMFk2bzZlTXJUWjRBS2RxSEQ2X0UzNldIM2k5WFRrQ2JISHdtVFhuZkNZLVE?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5CWHVBSzQ4TlRpcHdURmVaVzI5VXRMLWJZUnZCZlVnU0o0bktfZW5kRjlXZTBUSWJXdFR4UWZhZUFHenUwclNtWk1nOWxhTWpf0gFWQVVfeXFMTzMzdExjY1pCUzVGZEpmbmt4QnNhUDJvQWlrVmFoSHVTRkJIMFk2bzZlTXJUWjRBS2RxSEQ2X0UzNldIM2k5WFRrQ2JISHdtVFhuZkNZLVE?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -273,6 +273,6 @@
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 29,
+  "cost": 36,
   "status": 0
 }
