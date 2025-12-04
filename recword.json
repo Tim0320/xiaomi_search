@@ -15,6 +15,14 @@
       "link_type": "app",
       "data": [
         {
+          "text": "Line Pay Money",
+          "url": "https://tw.search.yahoo.com/search?p=Line+Pay+Money&amp;fr=ush-bt1",
+          "h5_url": "https://tw.search.yahoo.com/search?p=Line+Pay+Money&amp;fr=ush-bt1",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_yahoo",
+          "package": ""
+        },
+        {
           "text": "Yahoo財經大人物",
           "url": "https://tw.news.yahoo.com/topic/CEO-interview",
           "h5_url": "https://tw.news.yahoo.com/topic/CEO-interview",
@@ -125,14 +133,6 @@
           "appIconUrl": "",
           "sourceUniqueId": "content_yahoo",
           "package": ""
-        },
-        {
-          "text": "追蹤時間跨度至少一年 已出國交換生也收到通知",
-          "url": "https://tw.news.yahoo.com/%E9%83%BD%E4%B8%8A%E9%81%8E%E9%80%99%E5%A0%82%E8%AA%B2-%E5%A4%9A%E5%90%8D%E5%8F%B0%E5%A4%A7%E7%94%9F%E9%81%AD%E5%8C%A1%E5%88%97-%E8%82%BA%E7%B5%90%E6%A0%B8%E6%8E%A5%E8%A7%B8%E8%80%85-%E7%96%BE%E7%AE%A1%E7%BD%B2%E5%B7%B2%E6%8E%8C%E6%8F%A1-%E9%9D%9E%E6%A0%A1%E5%9C%92%E7%BE%A4%E8%81%9A-051346499.html",
-          "h5_url": "https://tw.news.yahoo.com/%E9%83%BD%E4%B8%8A%E9%81%8E%E9%80%99%E5%A0%82%E8%AA%B2-%E5%A4%9A%E5%90%8D%E5%8F%B0%E5%A4%A7%E7%94%9F%E9%81%AD%E5%8C%A1%E5%88%97-%E8%82%BA%E7%B5%90%E6%A0%B8%E6%8E%A5%E8%A7%B8%E8%80%85-%E7%96%BE%E7%AE%A1%E7%BD%B2%E5%B7%B2%E6%8E%8C%E6%8F%A1-%E9%9D%9E%E6%A0%A1%E5%9C%92%E7%BE%A4%E8%81%9A-051346499.html",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_yahoo",
-          "package": ""
         }
       ],
       "selectedStatus": false,
@@ -154,17 +154,9 @@
           "package": ""
         },
         {
-          "text": "超大烏龍！高市衛生局晚間緊急記者會 為全聯「台灣鯛魚排」爭議道歉",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE92elJsY2xERnlOY09yT0M2M1drTU9ucTdOdHFfeGtsZDRVYVdnV1RjbzZWempfSkpvVDBhczdCUmhEUjZzTnJEeW5aOXIxcm4t0gFWQVVfeXFMTlhiVWlBSXZLSnlYQ0NiMm5QMGRlSTI5MHVJV1VHNS1EY0RDXzc5SktrZzBNdUpZWE9nMkpQTkRocmhjNUZhMmhSQ0FyZjBhMHJCMUxXcGc?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE92elJsY2xERnlOY09yT0M2M1drTU9ucTdOdHFfeGtsZDRVYVdnV1RjbzZWempfSkpvVDBhczdCUmhEUjZzTnJEeW5aOXIxcm4t0gFWQVVfeXFMTlhiVWlBSXZLSnlYQ0NiMm5QMGRlSTI5MHVJV1VHNS1EY0RDXzc5SktrZzBNdUpZWE9nMkpQTkRocmhjNUZhMmhSQ0FyZjBhMHJCMUxXcGc?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "路透：陸動員百艦最大規模海上部署！範圍跨「黃海到南海」",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVNlBxajhsNTR0R0ZINTlWR2s5bWtvS1NrR2ZiX0RPclAwcUNsQ3ZjV3BiNmNOSVJRVXFqOFNDLWtkNUR5ODJsTEFpVXZjNUVkMnRJ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVNlBxajhsNTR0R0ZINTlWR2s5bWtvS1NrR2ZiX0RPclAwcUNsQ3ZjV3BiNmNOSVJRVXFqOFNDLWtkNUR5ODJsTEFpVXZjNUVkMnRJ?oc=5",
+          "text": "全聯鯛魚排檢出禁藥烏龍 雲林養殖戶怒轟：傷害已造成 一定求償",
+          "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxOZzR2TVhxaGgxWGRhN1l1T21RcW5GM1U4T2VOWHhPLUZCVkFLWVVCUk13SHVxbkhJMlNRdUxidHVCUjEwLTRRWExBbzhteTQwLW9seDdZWVp2Yjl0WHJIS0tRWEloTWctQ2x3bFNfd21zZ1ZXN3NnLXZMUnRIQ2FUWW9TOGdZeXo0b05ILXNLOWVaMVQ0Y0M5UWJTWnU4VWp1NlI1RzV0eHlmN0swcGVKejBHaWtlbUdUSFNkYjUxLVFydnRHOGZ4NUhYRnhTdkVFeEstX3VYalVhbURWbU9zRDllLVZHRmxzQXpibVdVOXUtWFVWTXIxRkI2b19SQmtxWnc2ZGw0VEFtWG5pbWVVbHFwMk5hQVpyTFhUUm1HeENQeUUwSXlyOUgtY3VzMzFhREZQMVBVNEQ4NF84T1FIMWxBWkZsT3B3SXBXV0I5OGJuNTNTVjh1Z1VfSUVXZWJ1OEhlbk5MV3ViWVJNejhnOGJQUG5PbDRkd2hoUXpDLW56RU5OSDB4QUhmNUN1eTQxSjlvUWp4dXdpQktLWEdMQzVtRXRXZw?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxOZzR2TVhxaGgxWGRhN1l1T21RcW5GM1U4T2VOWHhPLUZCVkFLWVVCUk13SHVxbkhJMlNRdUxidHVCUjEwLTRRWExBbzhteTQwLW9seDdZWVp2Yjl0WHJIS0tRWEloTWctQ2x3bFNfd21zZ1ZXN3NnLXZMUnRIQ2FUWW9TOGdZeXo0b05ILXNLOWVaMVQ0Y0M5UWJTWnU4VWp1NlI1RzV0eHlmN0swcGVKejBHaWtlbUdUSFNkYjUxLVFydnRHOGZ4NUhYRnhTdkVFeEstX3VYalVhbURWbU9zRDllLVZHRmxzQXpibVdVOXUtWFVWTXIxRkI2b19SQmtxWnc2ZGw0VEFtWG5pbWVVbHFwMk5hQVpyTFhUUm1HeENQeUUwSXlyOUgtY3VzMzFhREZQMVBVNEQ4NF84T1FIMWxBWkZsT3B3SXBXV0I5OGJuNTNTVjh1Z1VfSUVXZWJ1OEhlbk5MV3ViWVJNejhnOGJQUG5PbDRkd2hoUXpDLW56RU5OSDB4QUhmNUN1eTQxSjlvUWp4dXdpQktLWEdMQzVtRXRXZw?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -194,17 +186,17 @@
           "package": ""
         },
         {
-          "text": "大陸晚間再遣返三名台灣涉詐嫌犯 刑事局松山機場緊急接人",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA5SjRGczdFbEtLMDBGb0h0eTZ6X2RCdXc2ZlZuUDFobGxmRjB3RURXOXdXdHFQd1hxblJrS1JsdDM4TmRwY094N1FyM2VvSjR20gFWQVVfeXFMTzctbFg0ZHl4b1FBR2RSdW5WLXZ5SXZtVWtZbS1xekRWend6TkVwZDVMaVBsSGZiZHN2YmJLWXI0UDdta1lXTVhCYmlnSFlzNVZKYUNTSmc?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA5SjRGczdFbEtLMDBGb0h0eTZ6X2RCdXc2ZlZuUDFobGxmRjB3RURXOXdXdHFQd1hxblJrS1JsdDM4TmRwY094N1FyM2VvSjR20gFWQVVfeXFMTzctbFg0ZHl4b1FBR2RSdW5WLXZ5SXZtVWtZbS1xekRWend6TkVwZDVMaVBsSGZiZHN2YmJLWXI0UDdta1lXTVhCYmlnSFlzNVZKYUNTSmc?oc=5",
+          "text": "1972年日中聯合聲明「台灣是中國領土不可分割的一部分」 高市：沒有改變",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qWXlYbVEzUEdWbmRnR3Nkcm1kWk40SERzaE1GWm10NlYzS0FMU040UHQ2QkxLTDBueHQ0b1JWVEFQeXNlSkJFLTRYdGJGWDJwTFQ00gFYQVVfeXFMT2pZS01DMzV0akN1TmhvVEEtLXBicmpDdGdlUTZLdEFBd0V5dWNZQURyT0ZwRGExMm5DakZCSDFSRk5Mc0ZDRkwwWXl6dTcyRXhaZjVScnl1Vg?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qWXlYbVEzUEdWbmRnR3Nkcm1kWk40SERzaE1GWm10NlYzS0FMU040UHQ2QkxLTDBueHQ0b1JWVEFQeXNlSkJFLTRYdGJGWDJwTFQ00gFYQVVfeXFMT2pZS01DMzV0akN1TmhvVEEtLXBicmpDdGdlUTZLdEFBd0V5dWNZQURyT0ZwRGExMm5DakZCSDFSRk5Mc0ZDRkwwWXl6dTcyRXhaZjVScnl1Vg?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "中國嗨喊「高市早苗縮了」 王定宇揭真相：中共假裝不識字",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1EQ0p5LU8yNEJGZXZvUGRCUmtCaXFkdVR2UU5CUXhjMFRNX1FqdEN6RXNRUkFvaVd2ZFl5MEQ0ajJuaEkwLXNlb2xVcTdCdTl3cHlFdEZ1SzlUUWRsWGNiNEVSWjQtUdIBa0FVX3lxTE9JVHFRQ05Uc29DaEZPZzIyVzRFWUljNmRRbkMtdG9XclVJNFJZdlJYUlRHTDBuLS11Z2lBZVd2NmYtWkEteGhEMHREeUF0TWJzOXdpaldIcF9PZ0l6R2NydWN5N0NiTVQ5TUE0?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1EQ0p5LU8yNEJGZXZvUGRCUmtCaXFkdVR2UU5CUXhjMFRNX1FqdEN6RXNRUkFvaVd2ZFl5MEQ0ajJuaEkwLXNlb2xVcTdCdTl3cHlFdEZ1SzlUUWRsWGNiNEVSWjQtUdIBa0FVX3lxTE9JVHFRQ05Uc29DaEZPZzIyVzRFWUljNmRRbkMtdG9XclVJNFJZdlJYUlRHTDBuLS11Z2lBZVd2NmYtWkEteGhEMHREeUF0TWJzOXdpaldIcF9PZ0l6R2NydWN5N0NiTVQ5TUE0?oc=5",
+          "text": "大陸晚間再遣返三名台灣涉詐嫌犯 刑事局松山機場緊急接人",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA5SjRGczdFbEtLMDBGb0h0eTZ6X2RCdXc2ZlZuUDFobGxmRjB3RURXOXdXdHFQd1hxblJrS1JsdDM4TmRwY094N1FyM2VvSjR20gFWQVVfeXFMTzctbFg0ZHl4b1FBR2RSdW5WLXZ5SXZtVWtZbS1xekRWend6TkVwZDVMaVBsSGZiZHN2YmJLWXI0UDdta1lXTVhCYmlnSFlzNVZKYUNTSmc?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA5SjRGczdFbEtLMDBGb0h0eTZ6X2RCdXc2ZlZuUDFobGxmRjB3RURXOXdXdHFQd1hxblJrS1JsdDM4TmRwY094N1FyM2VvSjR20gFWQVVfeXFMTzctbFg0ZHl4b1FBR2RSdW5WLXZ5SXZtVWtZbS1xekRWend6TkVwZDVMaVBsSGZiZHN2YmJLWXI0UDdta1lXTVhCYmlnSFlzNVZKYUNTSmc?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -218,17 +210,25 @@
           "package": ""
         },
         {
-          "text": "基隆河油污案2業者排污開罰 竟都不是元凶",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE84YmxzaENBRFRKY1JXc29MT1hmUGNaMmlqVFFaak5yRnJCbUxRRXduei1aSUo1SXhqQzRZNlVXU0xXOUxWRWNTSEpOWldFc1k1TUNZdWNEUmVxMHdOTGUxODMzcXHSAWpBVV95cUxOam5Mb3VJX05rYmJnbEM3TVNFVmQ2UnBCeTE4LVFQYU9nSEpPd1JzNWRKZVdENVEzUHdTNWY4QmhyREU0MENjYUFQUnFRVUtveDF4dGJuZW9heTdQdTFBMi1xbHdhQXJXd2t3?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE84YmxzaENBRFRKY1JXc29MT1hmUGNaMmlqVFFaak5yRnJCbUxRRXduei1aSUo1SXhqQzRZNlVXU0xXOUxWRWNTSEpOWldFc1k1TUNZdWNEUmVxMHdOTGUxODMzcXHSAWpBVV95cUxOam5Mb3VJX05rYmJnbEM3TVNFVmQ2UnBCeTE4LVFQYU9nSEpPd1JzNWRKZVdENVEzUHdTNWY4QmhyREU0MENjYUFQUnFRVUtveDF4dGJuZW9heTdQdTFBMi1xbHdhQXJXd2t3?oc=5",
+          "text": "路透：陸動員百艦最大規模海上部署！範圍跨「黃海到南海」",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVNlBxajhsNTR0R0ZINTlWR2s5bWtvS1NrR2ZiX0RPclAwcUNsQ3ZjV3BiNmNOSVJRVXFqOFNDLWtkNUR5ODJsTEFpVXZjNUVkMnRJ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVNlBxajhsNTR0R0ZINTlWR2s5bWtvS1NrR2ZiX0RPclAwcUNsQ3ZjV3BiNmNOSVJRVXFqOFNDLWtkNUR5ODJsTEFpVXZjNUVkMnRJ?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "中俄高層會面 就日本問題 「達成高度共識」",
-          "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQeE5TZ2drNEt2eWQyRXp1dERJUjRoUURLWnN2djdGV0JobjhLQVZqWmRJQU9zVkY1NGtjdjhIai1ZRnA2VE56eUEtZDJobjdnTGJFVnpDMEZyUG5RTVlxWmphTW1VX2pTSXQxMzFoejBOcFE3V0dmNWxwSkhfVlZDdFQ5TnR0Q0JNQ0tnSFg1MklJeGV2eW5YWGhLazRtcWgtbzNlTW5nWWNYUUF3V1pTMzh3YUZnSjNtb1h0VmhvSVBIRnV0SHY0S1VlRXRHV0k5a1h0YnVOMXBaTEN0Tll2STg0SkpnYnFlZ2lPSW1PMnY2cWZDVFlZM3U5Q1dRWVVRemV6U0huVnJRM0NFVC16d0F1QVFOVko5ZVlKSzVjWkhRdw?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQeE5TZ2drNEt2eWQyRXp1dERJUjRoUURLWnN2djdGV0JobjhLQVZqWmRJQU9zVkY1NGtjdjhIai1ZRnA2VE56eUEtZDJobjdnTGJFVnpDMEZyUG5RTVlxWmphTW1VX2pTSXQxMzFoejBOcFE3V0dmNWxwSkhfVlZDdFQ5TnR0Q0JNQ0tnSFg1MklJeGV2eW5YWGhLazRtcWgtbzNlTW5nWWNYUUF3V1pTMzh3YUZnSjNtb1h0VmhvSVBIRnV0SHY0S1VlRXRHV0k5a1h0YnVOMXBaTEN0Tll2STg0SkpnYnFlZ2lPSW1PMnY2cWZDVFlZM3U5Q1dRWVVRemV6U0huVnJRM0NFVC16d0F1QVFOVko5ZVlKSzVjWkhRdw?oc=5",
+          "text": "還在氣！柯文哲難忘藍白合破局 提醒黃國昌「一定要全民調、不讓%」",
+          "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxQRWRJMDU2RlpZQ056ODRXTmdrV2lBLWdKQ1FoTW9zOHlvQ3laREtCWVJaSHctaTB6T0lmNjVZeXgwdXppNWV2Ni1hOU42Umk2clQ2bzMwT2lSd1lTNXlybTFEQVdFUHlRaXpkZzkwSFpwNTFzcDhyZDRlZTJzVUZvSmowcmVtTlFOLW5MZFlHM0pmeGtKTGV0Y1hkQWxQejRTcG11ZWFxUUVKNl9QenFHWkJHZXJxMjhSUXVvNXQwNjFOdHBtMXZtSUdocWQtdjNxMy1CcXdPdDhpV1NwVmJGcHIyaUxIQ1E5TDVIUWFaMU0wRElEaWYtTDRLWi1WeXZPN29JbUpwOGpPaElDWU1PbC02ZDFGeC1qT1FMSm9ZNllNTDNJVkY4b0E5RTljQVlrRTVCckdyNDR1WUI1Ukl6OHVEYVFWWV9FWVQtQUtZb1duaGJzZzBHX25LTERCMGhnQUxCdnozWmNXLVI4NnY1aWVUYzdaVE95QzZJbnhGMVNMdzlY?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMihANBVV95cUxQRWRJMDU2RlpZQ056ODRXTmdrV2lBLWdKQ1FoTW9zOHlvQ3laREtCWVJaSHctaTB6T0lmNjVZeXgwdXppNWV2Ni1hOU42Umk2clQ2bzMwT2lSd1lTNXlybTFEQVdFUHlRaXpkZzkwSFpwNTFzcDhyZDRlZTJzVUZvSmowcmVtTlFOLW5MZFlHM0pmeGtKTGV0Y1hkQWxQejRTcG11ZWFxUUVKNl9QenFHWkJHZXJxMjhSUXVvNXQwNjFOdHBtMXZtSUdocWQtdjNxMy1CcXdPdDhpV1NwVmJGcHIyaUxIQ1E5TDVIUWFaMU0wRElEaWYtTDRLWi1WeXZPN29JbUpwOGpPaElDWU1PbC02ZDFGeC1qT1FMSm9ZNllNTDNJVkY4b0E5RTljQVlrRTVCckdyNDR1WUI1Ukl6OHVEYVFWWV9FWVQtQUtZb1duaGJzZzBHX25LTERCMGhnQUxCdnozWmNXLVI4NnY1aWVUYzdaVE95QzZJbnhGMVNMdzlY?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "川普又出手！　全面暫停「19國移民申請」：國安考量",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xTk1yNGFtdFBQbmZhdkpsa055YUE0ZUpud1ExUFoyZFpJYlAwdkcxSnRaYlV6MHljVnMzdE1Na1Jja1lJZlBpcjFfVUNfTnBUTjBMMjRaMXRQVzNJSmfSAWhBVV95cUxORUMtc3BDbmd3bURvMTI2aW1ENDE4Wnptb1B0cTc1MkpfXzR3WU1adG5NX3FTU3FFcDhzbm5hSENFa05RTW9FR1FYTVA2bU9hMVJLZUlLTGRlYkhBQ1dTbHpJRDgwSFp6Yg?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xTk1yNGFtdFBQbmZhdkpsa055YUE0ZUpud1ExUFoyZFpJYlAwdkcxSnRaYlV6MHljVnMzdE1Na1Jja1lJZlBpcjFfVUNfTnBUTjBMMjRaMXRQVzNJSmfSAWhBVV95cUxORUMtc3BDbmd3bURvMTI2aW1ENDE4Wnptb1B0cTc1MkpfXzR3WU1adG5NX3FTU3FFcDhzbm5hSENFa05RTW9FR1FYTVA2bU9hMVJLZUlLTGRlYkhBQ1dTbHpJRDgwSFp6Yg?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -242,17 +242,17 @@
           "package": ""
         },
         {
-          "text": "港府指證據顯示阻燃檢測造假勒令維修棚網全部撤除下架",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94bnFwTWFOZWFQSGpZSHV5UUlWbW9SQUw0OFZRM0lSYkJyV3dla21YTkE5V21vOGViYlpra1l3Y1p1YklGZUdta3BhME1CbjNfNlJ4TDdaUXE0c19GbFE?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94bnFwTWFOZWFQSGpZSHV5UUlWbW9SQUw0OFZRM0lSYkJyV3dla21YTkE5V21vOGViYlpra1l3Y1p1YklGZUdta3BhME1CbjNfNlJ4TDdaUXE0c19GbFE?oc=5",
+          "text": "7旬翁靠「極致節儉」苦存1200萬後悔了！「1習慣」晚年淒涼曝",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zS3pPZGQ1TUdmMWFYT0JYZjFqd005b2xCTkRyUGdybFRrR0Zxc3R3RFg4emNTQkhYcFM0XzNUTmtWV0Jvb2lfYzVad2VETFpnMGR0Q2dUdEEydHRvSUg40gFkQVVfeXFMT08tVjlxTGI1MXc2c2F1azV0RGdxN1Zza3Q2QkM3R1UtVlpkYkJTRFFySnZYbmJFdGhHQnU4dktIMGdpV09yNFp4UWhVcDBWSjczdW9YVENOV1RoVGVCRTBoNmZqbA?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zS3pPZGQ1TUdmMWFYT0JYZjFqd005b2xCTkRyUGdybFRrR0Zxc3R3RFg4emNTQkhYcFM0XzNUTmtWV0Jvb2lfYzVad2VETFpnMGR0Q2dUdEEydHRvSUg40gFkQVVfeXFMT08tVjlxTGI1MXc2c2F1azV0RGdxN1Zza3Q2QkM3R1UtVlpkYkJTRFFySnZYbmJFdGhHQnU4dktIMGdpV09yNFp4UWhVcDBWSjczdW9YVENOV1RoVGVCRTBoNmZqbA?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "CNN：川普威脅攻擊一個石油儲量比伊拉克還多國家",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qaExaWlJFaXF6YWE0Z25UM0xxMWo1Z2hncE1ZeUFxYk5XQ2s5WjJWdnJ6cmlxcXVmNkthQmQweVVuNmstZ0VUbGpYVDVHU0JweE1BY3BfN3o1S0ZTOGlV0gFkQVVfeXFMUHhTQ252OURnVzFwZ1NZcU5wUGNpUUZNd0J3SjkzVGwxNHRpblRISVdxN3dHMHl6RVpBRk5QYWZPdTljMlZYMlp6emRvOF9vZWZYdDkwLWI3eS10aXBkcXJ1ZjFlbw?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qaExaWlJFaXF6YWE0Z25UM0xxMWo1Z2hncE1ZeUFxYk5XQ2s5WjJWdnJ6cmlxcXVmNkthQmQweVVuNmstZ0VUbGpYVDVHU0JweE1BY3BfN3o1S0ZTOGlV0gFkQVVfeXFMUHhTQ252OURnVzFwZ1NZcU5wUGNpUUZNd0J3SjkzVGwxNHRpblRISVdxN3dHMHl6RVpBRk5QYWZPdTljMlZYMlp6emRvOF9vZWZYdDkwLWI3eS10aXBkcXJ1ZjFlbw?oc=5",
+          "text": "中俄高層會面 就日本問題 「達成高度共識」",
+          "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQeE5TZ2drNEt2eWQyRXp1dERJUjRoUURLWnN2djdGV0JobjhLQVZqWmRJQU9zVkY1NGtjdjhIai1ZRnA2VE56eUEtZDJobjdnTGJFVnpDMEZyUG5RTVlxWmphTW1VX2pTSXQxMzFoejBOcFE3V0dmNWxwSkhfVlZDdFQ5TnR0Q0JNQ0tnSFg1MklJeGV2eW5YWGhLazRtcWgtbzNlTW5nWWNYUUF3V1pTMzh3YUZnSjNtb1h0VmhvSVBIRnV0SHY0S1VlRXRHV0k5a1h0YnVOMXBaTEN0Tll2STg0SkpnYnFlZ2lPSW1PMnY2cWZDVFlZM3U5Q1dRWVVRemV6U0huVnJRM0NFVC16d0F1QVFOVko5ZVlKSzVjWkhRdw?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQeE5TZ2drNEt2eWQyRXp1dERJUjRoUURLWnN2djdGV0JobjhLQVZqWmRJQU9zVkY1NGtjdjhIai1ZRnA2VE56eUEtZDJobjdnTGJFVnpDMEZyUG5RTVlxWmphTW1VX2pTSXQxMzFoejBOcFE3V0dmNWxwSkhfVlZDdFQ5TnR0Q0JNQ0tnSFg1MklJeGV2eW5YWGhLazRtcWgtbzNlTW5nWWNYUUF3V1pTMzh3YUZnSjNtb1h0VmhvSVBIRnV0SHY0S1VlRXRHV0k5a1h0YnVOMXBaTEN0Tll2STg0SkpnYnFlZ2lPSW1PMnY2cWZDVFlZM3U5Q1dRWVVRemV6U0huVnJRM0NFVC16d0F1QVFOVko5ZVlKSzVjWkhRdw?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -273,6 +273,6 @@
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 13,
+  "cost": 44,
   "status": 0
 }
