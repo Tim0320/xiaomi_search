@@ -47,9 +47,9 @@
           "package": ""
         },
         {
-          "text": "直播／明年ETF布局 專家教戰",
-          "url": "https://tw.tv.yahoo.com/12-4-money-024340924.html",
-          "h5_url": "https://tw.tv.yahoo.com/12-4-money-024340924.html",
+          "text": "李四川表態參選 侯友宜：歡迎",
+          "url": "https://tw.news.yahoo.com/%E6%9D%8E%E5%9B%9B%E5%B7%9D%E8%A1%A8%E6%85%8B%E5%8F%83%E5%8A%A0%E6%96%B0%E5%8C%97%E5%B8%82%E9%95%B7%E8%97%8D%E7%87%9F%E5%88%9D%E9%81%B8-%E4%BE%AF%E5%8F%8B%E5%AE%9C-%E9%BC%93%E5%8B%B5%E5%8A%A0%E6%B2%B9-030546974.html",
+          "h5_url": "https://tw.news.yahoo.com/%E6%9D%8E%E5%9B%9B%E5%B7%9D%E8%A1%A8%E6%85%8B%E5%8F%83%E5%8A%A0%E6%96%B0%E5%8C%97%E5%B8%82%E9%95%B7%E8%97%8D%E7%87%9F%E5%88%9D%E9%81%B8-%E4%BE%AF%E5%8F%8B%E5%AE%9C-%E9%BC%93%E5%8B%B5%E5%8A%A0%E6%B2%B9-030546974.html",
           "appIconUrl": "",
           "sourceUniqueId": "content_yahoo",
           "package": ""
@@ -146,9 +146,25 @@
       "link_type": "app",
       "data": [
         {
+          "text": "若中國入侵台灣美國有多大機會協防？賴總統接受紐時專訪這樣回答",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJOGtrUGxJVDFZU0l1cklkT29lZE81bmlJTXRpLWRFLVFBN0xpQm9pUnJWWmx3RjJXMm1WWFBqbGZYZHNDZ2JCLXZnMUlwOWV4eHfSAVdBVV95cUxQeHhqZ0xLNE9ZVEcwbEN5ZXNrSFhQMjQ0bWF4cUdXc3laUjFwd1VYUm5XeWxJRlMyVjRmZXJfZDBiVnRseW82cENXNnVMNlJyUzZvek9LbWs?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJOGtrUGxJVDFZU0l1cklkT29lZE81bmlJTXRpLWRFLVFBN0xpQm9pUnJWWmx3RjJXMm1WWFBqbGZYZHNDZ2JCLXZnMUlwOWV4eHfSAVdBVV95cUxQeHhqZ0xLNE9ZVEcwbEN5ZXNrSFhQMjQ0bWF4cUdXc3laUjFwd1VYUm5XeWxJRlMyVjRmZXJfZDBiVnRseW82cENXNnVMNlJyUzZvek9LbWs?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
           "text": "快訊／國一南下凌晨嚴重車禍！車輛殘骸噴滿地「傷亡不明」",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBKWlFLQ1draWMwZFprWHA0RGE4aEkzdWx6dWktRDRMMnY3OGdJenoyTzlKSldfYUlTYTBjMGpQUEItZ3JlN0ZrT051YjFiTjhOS3NJMzBWN0tWVlUyWGfSAWhBVV95cUxNNmpZcDBodEtMWm84OC0xTldCTElzOEZ3emw5eXBRQzhTOTk3TVBQa1RoZDM5YmE3ZlhMTWlLWU96TElNcnZBdGRHZmdVbzI4amV1azY4VHVqbXphcEFUZkRrMlk0eGUxdg?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBKWlFLQ1draWMwZFprWHA0RGE4aEkzdWx6dWktRDRMMnY3OGdJenoyTzlKSldfYUlTYTBjMGpQUEItZ3JlN0ZrT051YjFiTjhOS3NJMzBWN0tWVlUyWGfSAWhBVV95cUxNNmpZcDBodEtMWm84OC0xTldCTElzOEZ3emw5eXBRQzhTOTk3TVBQa1RoZDM5YmE3ZlhMTWlLWU96TElNcnZBdGRHZmdVbzI4amV1azY4VHVqbXphcEFUZkRrMlk0eGUxdg?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "高雄某家長副會長吸上流圈20億落跑 前夫慘背債打零工度日",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBkakRJek5CM201ZTJqVFkxUk9nYzQ5YzdkVGFCLUxXM3hrc2lnWWsyQ3VFcmxMRkhHUnBnTjloSm5WYS1raTVVSkFpMFFLX0M50gFWQVVfeXFMUE5Oa2plSFhXODJGZHZfRE8xSGoydm5lUnhaTVdncTVsaklycFhzMDVuMS1lX1E3M0g0bUhnX2pmQnpaMGhTUXEzU0N4WnF5WmNtYnhNMFE?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBkakRJek5CM201ZTJqVFkxUk9nYzQ5YzdkVGFCLUxXM3hrc2lnWWsyQ3VFcmxMRkhHUnBnTjloSm5WYS1raTVVSkFpMFFLX0M50gFWQVVfeXFMUE5Oa2plSFhXODJGZHZfRE8xSGoydm5lUnhaTVdncTVsaklycFhzMDVuMS1lX1E3M0g0bUhnX2pmQnpaMGhTUXEzU0N4WnF5WmNtYnhNMFE?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -178,22 +194,6 @@
           "package": ""
         },
         {
-          "text": "高市早苗縮了！ 稱「台灣是中國領土不可分割的一部分」",
-          "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxOWF8yd3lnbm81aF96UE5Ld3hJZkpyMHJqcTlmY0dkWm4zVmI0UGNXZWN5VTVfcGlqVm51QlJIMFNUNFV0V1lfcnhWcE10WUxEc1FBeGozQkx3Mno5ZGlRSExzSUplc0FBVEJaYk1Ka1I1aURVelhPZEpMbVZHdG0wVmUwZDZKMjZQRG9OYzk2Nzh6NEhPUUFMSGMyQ1N5bms3SXZRR25fNHFPY0RLVFNSTDVFZjQ0RGNYbE9MXzdLeDVfWTJlOU1sbDZVaEZUMTZDbDlGakxsVzFDV1JtNWQtd19WTlpQR1hfTUJZa1pnWWc5WllpbnNsX2NnZTBCOE43WVRmS3lGdVJleUpVOEdpd2xZTEI4eGtWTkEtMzNDNzdFSVFhVVFQQ1BnWUotWkdkMTF0T0lIeFZONTRMR2gxekRqMXdoZDFRUEdrVDJIeXpCOU0?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxOWF8yd3lnbm81aF96UE5Ld3hJZkpyMHJqcTlmY0dkWm4zVmI0UGNXZWN5VTVfcGlqVm51QlJIMFNUNFV0V1lfcnhWcE10WUxEc1FBeGozQkx3Mno5ZGlRSExzSUplc0FBVEJaYk1Ka1I1aURVelhPZEpMbVZHdG0wVmUwZDZKMjZQRG9OYzk2Nzh6NEhPUUFMSGMyQ1N5bms3SXZRR25fNHFPY0RLVFNSTDVFZjQ0RGNYbE9MXzdLeDVfWTJlOU1sbDZVaEZUMTZDbDlGakxsVzFDV1JtNWQtd19WTlpQR1hfTUJZa1pnWWc5WllpbnNsX2NnZTBCOE43WVRmS3lGdVJleUpVOEdpd2xZTEI4eGtWTkEtMzNDNzdFSVFhVVFQQ1BnWUotWkdkMTF0T0lIeFZONTRMR2gxekRqMXdoZDFRUEdrVDJIeXpCOU0?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "若中國入侵台灣美國有多大機會協防？賴總統接受紐時專訪這樣回答",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJOGtrUGxJVDFZU0l1cklkT29lZE81bmlJTXRpLWRFLVFBN0xpQm9pUnJWWmx3RjJXMm1WWFBqbGZYZHNDZ2JCLXZnMUlwOWV4eHfSAVdBVV95cUxQeHhqZ0xLNE9ZVEcwbEN5ZXNrSFhQMjQ0bWF4cUdXc3laUjFwd1VYUm5XeWxJRlMyVjRmZXJfZDBiVnRseW82cENXNnVMNlJyUzZvek9LbWs?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJOGtrUGxJVDFZU0l1cklkT29lZE81bmlJTXRpLWRFLVFBN0xpQm9pUnJWWmx3RjJXMm1WWFBqbGZYZHNDZ2JCLXZnMUlwOWV4eHfSAVdBVV95cUxQeHhqZ0xLNE9ZVEcwbEN5ZXNrSFhQMjQ0bWF4cUdXc3laUjFwd1VYUm5XeWxJRlMyVjRmZXJfZDBiVnRseW82cENXNnVMNlJyUzZvek9LbWs?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
           "text": "盧秀燕挺國防預算增加 「但不能窮國窮民」",
           "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOMm9zcmxaOWJhcHJ6bTFJSTdVT19vQW5HZUFGOGdGTkFMYVRRRUY4c3RndUZXR2FNUXhZaWtmU3NINnpvaXdNeTljNE1iWWxvSUItdENBeWxMd2ZBUUgzVGJYekNQVDVLWGhPT0dVSHM3NzlFQ1hxTnVESk1TZXJweUU1LURLQWFzejQ2YXljZHpMa0pubkpzVjR4eWh0LVRSTl81QzN5VWxVOE1JRUR0NUxwbnI5bE5NdWg4Ujd4cjlWSmNrUEN4WS1NVjVaazJ6WVl3LXZzcnI1RVphZ3JlSHlTSlctUFNjMkdDc2xKSGwxWk1sdWhnTDlCazBKQXNCWVZ0ak82VnZBV0EyZ0xxaFhhRnBvZ2dhcWE1SzU0NzI?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOMm9zcmxaOWJhcHJ6bTFJSTdVT19vQW5HZUFGOGdGTkFMYVRRRUY4c3RndUZXR2FNUXhZaWtmU3NINnpvaXdNeTljNE1iWWxvSUItdENBeWxMd2ZBUUgzVGJYekNQVDVLWGhPT0dVSHM3NzlFQ1hxTnVESk1TZXJweUU1LURLQWFzejQ2YXljZHpMa0pubkpzVjR4eWh0LVRSTl81QzN5VWxVOE1JRUR0NUxwbnI5bE5NdWg4Ujd4cjlWSmNrUEN4WS1NVjVaazJ6WVl3LXZzcnI1RVphZ3JlSHlTSlctUFNjMkdDc2xKSGwxWk1sdWhnTDlCazBKQXNCWVZ0ak82VnZBV0EyZ0xxaFhhRnBvZ2dhcWE1SzU0NzI?oc=5",
@@ -202,33 +202,33 @@
           "package": ""
         },
         {
-          "text": "清潔員送32元電鍋遭判刑！律師逆風幫法官補血：已是最大限度",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xdGdJTjJ3VkV2NVU5ckJGczN3Z3h2enBVQllXdEJjeHgzN2FEQTlCalBnVFZta1pkaHU2SVp4YktuTnc0SXlmQThlU3lXZzc2enlseVFUNmpCUHBnVWfSAWhBVV95cUxPNzlLWUtlZXZnQmZZOEp3M0dxQ3EyNmdXcVBwT19FbnVLVXV0cDE3YkozY3doVG0tZ0pwX0lpak5FZFJyTnZVQ0tLVmpONHNvYXp0V1BDOTVJeWhHZEpUeUhVbWVwbS13Vw?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xdGdJTjJ3VkV2NVU5ckJGczN3Z3h2enBVQllXdEJjeHgzN2FEQTlCalBnVFZta1pkaHU2SVp4YktuTnc0SXlmQThlU3lXZzc2enlseVFUNmpCUHBnVWfSAWhBVV95cUxPNzlLWUtlZXZnQmZZOEp3M0dxQ3EyNmdXcVBwT19FbnVLVXV0cDE3YkozY3doVG0tZ0pwX0lpak5FZFJyTnZVQ0tLVmpONHNvYXp0V1BDOTVJeWhHZEpUeUhVbWVwbS13Vw?oc=5",
+          "text": "對台立場 高市：對「日中聯合聲明」沒有改變",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1leExQYjBPc3VQRXhicTBqRlNkSWEtMWFfMTdRYS1OMGc1cGZRcUZuZlh5cUhGaXRBMU9xZjIwTktqc2hYYTJwOXdObVVneEtNZW1z0gFYQVVfeXFMTXJtc0JVOGdlbXkwdGJtNS1McHlRamNSNkUwS0Y5UEE3STNTQmRyOTFDVnNldlpuc0w2SDgzOU9pRDd1bDBXZXN6dzl0N3VDbFAtTGhieTg2Yg?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1leExQYjBPc3VQRXhicTBqRlNkSWEtMWFfMTdRYS1OMGc1cGZRcUZuZlh5cUhGaXRBMU9xZjIwTktqc2hYYTJwOXdObVVneEtNZW1z0gFYQVVfeXFMTXJtc0JVOGdlbXkwdGJtNS1McHlRamNSNkUwS0Y5UEE3STNTQmRyOTFDVnNldlpuc0w2SDgzOU9pRDd1bDBXZXN6dzl0N3VDbFAtTGhieTg2Yg?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "台美關稅協議再爆內幕 ! 美商務部長暗示投資金額逾3000億美元",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tNGk5eDN2QVNsdDV0ZkNIMXpNZjQ2a0cxdHFUd3FGUUQ2RkFWTGVNWmpmSVFNclIyQzF1VWt1eWFhTXo3Vk1RYmV4eXJzMWlWdFFsWUtLOHZDT0NnZUFZ0gFkQVVfeXFMTmpTS0RoNDd0UzNUNVl6YkxDSWw0dGVuZm9rbXJsSDNqeFlDdjFNZ3FJWlN6TFpYaUlMaDNIUHlabWxSQ3FzNi1DS0U5d1k1QktPUVhsUjhlNEgyVkJZNUxxNjhKSQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tNGk5eDN2QVNsdDV0ZkNIMXpNZjQ2a0cxdHFUd3FGUUQ2RkFWTGVNWmpmSVFNclIyQzF1VWt1eWFhTXo3Vk1RYmV4eXJzMWlWdFFsWUtLOHZDT0NnZUFZ0gFkQVVfeXFMTmpTS0RoNDd0UzNUNVl6YkxDSWw0dGVuZm9rbXJsSDNqeFlDdjFNZ3FJWlN6TFpYaUlMaDNIUHlabWxSQ3FzNi1DS0U5d1k1QktPUVhsUjhlNEgyVkJZNUxxNjhKSQ?oc=5",
+          "text": "獨／32元電鍋案好心人站出來！願出律師費挺上訴　憨厚大哥婉拒",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfTlZvZ3c4a3ZhMHptbWpRVTI5SUJuZEctLUhfLWpKOU92X2twbGRhTm5tRENzT21IelV3SVQzV0RzcFAyeWZXMGdRZ0Y3c2djckg1MXpIaVp5Z0tEVUHSAWhBVV95cUxPR2F6Wm5WVnJSYUhrTzNUXzZHSG5JOGZEQ05LZWk2MF9pdEY5SFVxa0tVN2cxRXp1NXBwOHJHMzl1dmlRZW1hNTdYYVRJdDRpVm5rSGQ5b0E3X21EYVVOZElseWw4dWp6Mw?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfTlZvZ3c4a3ZhMHptbWpRVTI5SUJuZEctLUhfLWpKOU92X2twbGRhTm5tRENzT21IelV3SVQzV0RzcFAyeWZXMGdRZ0Y3c2djckg1MXpIaVp5Z0tEVUHSAWhBVV95cUxPR2F6Wm5WVnJSYUhrTzNUXzZHSG5JOGZEQ05LZWk2MF9pdEY5SFVxa0tVN2cxRXp1NXBwOHJHMzl1dmlRZW1hNTdYYVRJdDRpVm5rSGQ5b0E3X21EYVVOZElseWw4dWp6Mw?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "韓國電子入境卡標我國為CHINA 外交部：要求更正未獲正面回應",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4ybmIxSlhiQkpVbGVYS0lqRlctV2JfQTBYeTB4U21hTXF4ajlIVXlOVXBIV2NFYjlNWXZrbWZpdmNWRktYZnQ2ZEEyRzRObVgtbXd3SzBjU2V4UEU?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4ybmIxSlhiQkpVbGVYS0lqRlctV2JfQTBYeTB4U21hTXF4ajlIVXlOVXBIV2NFYjlNWXZrbWZpdmNWRktYZnQ2ZEEyRzRObVgtbXd3SzBjU2V4UEU?oc=5",
+          "text": "台大多人收肺結核接觸通知！ 衛生局：匡列人數仍在統計中",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82VktuWFhid2dGckVXSUhSNG0xcDA2RHYza2poZFFnTkRCT3FqMEZEX1ZQZWdPWGg4T1FxWm1OVDlqNG5KQUktSFNNWV90TjdSZVduUEtR?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82VktuWFhid2dGckVXSUhSNG0xcDA2RHYza2poZFFnTkRCT3FqMEZEX1ZQZWdPWGg4T1FxWm1OVDlqNG5KQUktSFNNWV90TjdSZVduUEtR?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "港媒發現有大廈維修用山東棚網檢測報告疑是假",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBaNGZNdFVxaGd4Nm9oRlNDU0ZxNTRSMjBRQ2Q5eGJBLUVpb1NQRFFVU0VYTXBvMmdMc0ZCTkZRdnF6MWl2QVRpTFR2X29oaE1uYlROVnBzSDdoVi1BQnc?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBaNGZNdFVxaGd4Nm9oRlNDU0ZxNTRSMjBRQ2Q5eGJBLUVpb1NQRFFVU0VYTXBvMmdMc0ZCTkZRdnF6MWl2QVRpTFR2X29oaE1uYlROVnBzSDdoVi1BQnc?oc=5",
+          "text": "川普政府恐擴大旅遊禁令 從19國增至約30國",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5TNXY2WGhzTVRXWFpGWjFwd2JXOEpva08yRVNMY2xaU1I1VWF2aTBCUlpYYW1BbUk0blRWcEE1Wk4ySkpXbVVaX3lTa205V2J50gFWQVVfeXFMTkJuMG9nZkx6T0hmNUx6cEZfY1FYalhEQjljblZ6anhWWWhSZEFuSnI2OC1HM1Y4MXJsMzNCanFya0JHZjFXLVhSWG9TY2lpaGJQZVJ0R3c?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5TNXY2WGhzTVRXWFpGWjFwd2JXOEpva08yRVNMY2xaU1I1VWF2aTBCUlpYYW1BbUk0blRWcEE1Wk4ySkpXbVVaX3lTa205V2J50gFWQVVfeXFMTkJuMG9nZkx6T0hmNUx6cEZfY1FYalhEQjljblZ6anhWWWhSZEFuSnI2OC1HM1Y4MXJsMzNCanFya0JHZjFXLVhSWG9TY2lpaGJQZVJ0R3c?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -242,9 +242,9 @@
           "package": ""
         },
         {
-          "text": "中日衝突升溫是否挺日？南韓總統李在明：打架要攔著、生意要撮合",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE56MEQzWFVHTkIxMkl5bDItT0ROdTd1dW1iLWl2MnpYQ3NWVFNDY0dFTldyalYzSjhVYWx3aklPMjNyX3NIdVJxdHJleUlEVFdFN1JN0gFYQVVfeXFMUHJBSzBqd2FCbVpTOWRnYllsbm90UkNWS0xKemFHNkJWVVhzSnNzdkxGSEZKaE9ES045QzdsWWJpRnd3NVBxZ2tmdTk3SWJqRk16cjc5dE5SVA?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE56MEQzWFVHTkIxMkl5bDItT0ROdTd1dW1iLWl2MnpYQ3NWVFNDY0dFTldyalYzSjhVYWx3aklPMjNyX3NIdVJxdHJleUlEVFdFN1JN0gFYQVVfeXFMUHJBSzBqd2FCbVpTOWRnYllsbm90UkNWS0xKemFHNkJWVVhzSnNzdkxGSEZKaE9ES045QzdsWWJpRnd3NVBxZ2tmdTk3SWJqRk16cjc5dE5SVA?oc=5",
+          "text": "日中為台海互槓！南韓總統李在明表態：選邊站只會讓局勢更糟",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8zeXQ2a2tQS1NUT2syY19KVkg4Z2ZNVEo3T1RMNXh0dnVnTTdNbUhRbXlFSVRmRHFjeGQ3YkxWdlNTbUJMUEt0LVZLOWp3WVhqekhOZlMwaFA0M3NHYTNvYlA4VHQtQdIBa0FVX3lxTFBmRmpVUFAzY0MxUDJ3YzIyeFFBNHUxeG1WOXZveG1kV3lqNWxWMi15SGdSLW0tOWdTOVZtUVhQZGRHNVNBNFVXMmpkeVJLNGhMaXRDRllfazgtMzh4UjhyZzVBYjFaRjFxSEpR?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8zeXQ2a2tQS1NUT2syY19KVkg4Z2ZNVEo3T1RMNXh0dnVnTTdNbUhRbXlFSVRmRHFjeGQ3YkxWdlNTbUJMUEt0LVZLOWp3WVhqekhOZlMwaFA0M3NHYTNvYlA4VHQtQdIBa0FVX3lxTFBmRmpVUFAzY0MxUDJ3YzIyeFFBNHUxeG1WOXZveG1kV3lqNWxWMi15SGdSLW0tOWdTOVZtUVhQZGRHNVNBNFVXMmpkeVJLNGhMaXRDRllfazgtMzh4UjhyZzVBYjFaRjFxSEpR?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -273,6 +273,6 @@
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 34,
+  "cost": 24,
   "status": 0
 }
