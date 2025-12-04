@@ -15,14 +15,6 @@
       "link_type": "app",
       "data": [
         {
-          "text": "Line Pay Money",
-          "url": "https://tw.search.yahoo.com/search?p=Line+Pay+Money&amp;fr=ush-bt1",
-          "h5_url": "https://tw.search.yahoo.com/search?p=Line+Pay+Money&amp;fr=ush-bt1",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_yahoo",
-          "package": ""
-        },
-        {
           "text": "Yahoo財經大人物",
           "url": "https://tw.news.yahoo.com/topic/CEO-interview",
           "h5_url": "https://tw.news.yahoo.com/topic/CEO-interview",
@@ -133,6 +125,14 @@
           "appIconUrl": "",
           "sourceUniqueId": "content_yahoo",
           "package": ""
+        },
+        {
+          "text": "追蹤時間跨度至少一年 已出國交換生也收到通知",
+          "url": "https://tw.news.yahoo.com/%E9%83%BD%E4%B8%8A%E9%81%8E%E9%80%99%E5%A0%82%E8%AA%B2-%E5%A4%9A%E5%90%8D%E5%8F%B0%E5%A4%A7%E7%94%9F%E9%81%AD%E5%8C%A1%E5%88%97-%E8%82%BA%E7%B5%90%E6%A0%B8%E6%8E%A5%E8%A7%B8%E8%80%85-%E7%96%BE%E7%AE%A1%E7%BD%B2%E5%B7%B2%E6%8E%8C%E6%8F%A1-%E9%9D%9E%E6%A0%A1%E5%9C%92%E7%BE%A4%E8%81%9A-051346499.html",
+          "h5_url": "https://tw.news.yahoo.com/%E9%83%BD%E4%B8%8A%E9%81%8E%E9%80%99%E5%A0%82%E8%AA%B2-%E5%A4%9A%E5%90%8D%E5%8F%B0%E5%A4%A7%E7%94%9F%E9%81%AD%E5%8C%A1%E5%88%97-%E8%82%BA%E7%B5%90%E6%A0%B8%E6%8E%A5%E8%A7%B8%E8%80%85-%E7%96%BE%E7%AE%A1%E7%BD%B2%E5%B7%B2%E6%8E%8C%E6%8F%A1-%E9%9D%9E%E6%A0%A1%E5%9C%92%E7%BE%A4%E8%81%9A-051346499.html",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_yahoo",
+          "package": ""
         }
       ],
       "selectedStatus": false,
@@ -162,14 +162,6 @@
           "package": ""
         },
         {
-          "text": "稱鄭麗文對國民黨是衝擊！柯文哲嗆：2026藍白合別再讓3％、6％",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBtb29JbG15M195cVZIQTRQOHNSbkJ0VnZxbDdxZnMzVmI4TzIzdG5fWG12MGRZeE0ySXNveDZ4TWQ1TWY0MHJyWFEycmJrYlVJdWVBV0FQWHVCa3piaW8zSHFoeVlfazFVamfSAW9BVV95cUxNWkY4d2ZYV0pjQy1LYlFZcGtJSUJPWmxTTHVwX1JYR1YzSnp3aGctVEdPOG1fd2hFZTNjR2hUZDdJWXBPM3BSNW42aWloVVRsSXpmUUREcEFoMDhLRVU5ei1PandGY0tfTEppa3N0cDg?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBtb29JbG15M195cVZIQTRQOHNSbkJ0VnZxbDdxZnMzVmI4TzIzdG5fWG12MGRZeE0ySXNveDZ4TWQ1TWY0MHJyWFEycmJrYlVJdWVBV0FQWHVCa3piaW8zSHFoeVlfazFVamfSAW9BVV95cUxNWkY4d2ZYV0pjQy1LYlFZcGtJSUJPWmxTTHVwX1JYR1YzSnp3aGctVEdPOG1fd2hFZTNjR2hUZDdJWXBPM3BSNW42aWloVVRsSXpmUUREcEFoMDhLRVU5ei1PandGY0tfTEppa3N0cDg?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
           "text": "中配錢麗在公司「努力擺強硬態度」 華碩員工爆：人資監視下打包走人",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9BQjNfLVVZcXFGenExX3loS1R0ZnRwVk5jS0xwYlU2MDdzVkNwaVl4Nk5VampsVzBhVmQtX0ZFWjFvcDYwdXFpX0YzS0k3X2tvei1VNnpZa2RQcG8tRUlrOVk3WUl6TVlyX0HSAW9BVV95cUxOQTVadm45ZlYyVlRDb3RTUW8zenhrUUFpMXJxbGpqWl80UTdIUjVmWTdEbElOcGlTV2tVWkQxaTRRaFFUakkzQXRyQ3F6Zm9HMXZ1elN5cnJuSmZQcHlCNnJLbDZqWjJIVEd4WF96UjQ?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9BQjNfLVVZcXFGenExX3loS1R0ZnRwVk5jS0xwYlU2MDdzVkNwaVl4Nk5VampsVzBhVmQtX0ZFWjFvcDYwdXFpX0YzS0k3X2tvei1VNnpZa2RQcG8tRUlrOVk3WUl6TVlyX0HSAW9BVV95cUxOQTVadm45ZlYyVlRDb3RTUW8zenhrUUFpMXJxbGpqWl80UTdIUjVmWTdEbElOcGlTV2tVWkQxaTRRaFFUakkzQXRyQ3F6Zm9HMXZ1elN5cnJuSmZQcHlCNnJLbDZqWjJIVEd4WF96UjQ?oc=5",
@@ -194,17 +186,17 @@
           "package": ""
         },
         {
-          "text": "大陸晚間再遣返三名台灣涉詐嫌犯 刑事局松山機場緊急接人",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA5SjRGczdFbEtLMDBGb0h0eTZ6X2RCdXc2ZlZuUDFobGxmRjB3RURXOXdXdHFQd1hxblJrS1JsdDM4TmRwY094N1FyM2VvSjR20gFWQVVfeXFMTzctbFg0ZHl4b1FBR2RSdW5WLXZ5SXZtVWtZbS1xekRWend6TkVwZDVMaVBsSGZiZHN2YmJLWXI0UDdta1lXTVhCYmlnSFlzNVZKYUNTSmc?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA5SjRGczdFbEtLMDBGb0h0eTZ6X2RCdXc2ZlZuUDFobGxmRjB3RURXOXdXdHFQd1hxblJrS1JsdDM4TmRwY094N1FyM2VvSjR20gFWQVVfeXFMTzctbFg0ZHl4b1FBR2RSdW5WLXZ5SXZtVWtZbS1xekRWend6TkVwZDVMaVBsSGZiZHN2YmJLWXI0UDdta1lXTVhCYmlnSFlzNVZKYUNTSmc?oc=5",
+          "text": "俄羅斯已做好與歐洲開戰的準備！普丁：將快速結束且無人可以跟我談和平",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1na0lXSmNEckRhODNjZGJvRmdjWTA5eW9EWC1tblJCcGttWTlJaHZVbk5fc0NIckxaamFReXF5bU1ZcktEbmJIeGxTOXdCUkk?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1na0lXSmNEckRhODNjZGJvRmdjWTA5eW9EWC1tblJCcGttWTlJaHZVbk5fc0NIckxaamFReXF5bU1ZcktEbmJIeGxTOXdCUkk?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "日台交流協會長隅修三：有人試圖武力改變現狀 台灣是日本重要友人",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5kMTJZbUktYVk4WWFjZUVtV0FwRTVYT3V1RXJjTkxXRGJjQlJUb2Z3VzB4cmJiYk9RMkxUUGVNVm5kZVBoRG5XQmF2LS04TjlR0gFWQVVfeXFMTkF0TjNPV1hCN2l0UEk1X2tLbTYyMWJXMk14clI1WjdZMEt4MEZiajZTdlBqN2dwbl9jbk54NXNfOVg1azQ2SmMxYWwyRDN6NXRPRTFpWWc?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5kMTJZbUktYVk4WWFjZUVtV0FwRTVYT3V1RXJjTkxXRGJjQlJUb2Z3VzB4cmJiYk9RMkxUUGVNVm5kZVBoRG5XQmF2LS04TjlR0gFWQVVfeXFMTkF0TjNPV1hCN2l0UEk1X2tLbTYyMWJXMk14clI1WjdZMEt4MEZiajZTdlBqN2dwbl9jbk54NXNfOVg1azQ2SmMxYWwyRDN6NXRPRTFpWWc?oc=5",
+          "text": "大陸晚間再遣返三名台灣涉詐嫌犯 刑事局松山機場緊急接人",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA5SjRGczdFbEtLMDBGb0h0eTZ6X2RCdXc2ZlZuUDFobGxmRjB3RURXOXdXdHFQd1hxblJrS1JsdDM4TmRwY094N1FyM2VvSjR20gFWQVVfeXFMTzctbFg0ZHl4b1FBR2RSdW5WLXZ5SXZtVWtZbS1xekRWend6TkVwZDVMaVBsSGZiZHN2YmJLWXI0UDdta1lXTVhCYmlnSFlzNVZKYUNTSmc?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA5SjRGczdFbEtLMDBGb0h0eTZ6X2RCdXc2ZlZuUDFobGxmRjB3RURXOXdXdHFQd1hxblJrS1JsdDM4TmRwY094N1FyM2VvSjR20gFWQVVfeXFMTzctbFg0ZHl4b1FBR2RSdW5WLXZ5SXZtVWtZbS1xekRWend6TkVwZDVMaVBsSGZiZHN2YmJLWXI0UDdta1lXTVhCYmlnSFlzNVZKYUNTSmc?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -218,9 +210,25 @@
           "package": ""
         },
         {
-          "text": "狗狗真能療癒心靈！汪星人身藏「神奇細菌」能讓孩子更快樂、更健康",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5tVUVOcEdlWnB6RnV6dzdSQlNSUnVYS3d4YWF5QkY1T1FBTkxmSEhjSVUydkt5OHlKM1hJbzZQNGY0dDQ4d1JGVGkzZ0F6ZnVqREJJeUtyMlJ5U2lidGhESW5aRnrSAWpBVV95cUxQaXRMXzRiQ0lvX1ZSb1RNa3FxYWRDOC1TNTRxRHpfWEdNQ21YdTloazFORFdnVGxkUjdTbVFENlgtN3FzLXhIM1ptRzJVNjVqWjVkeTl3cGJLa3AwdGx5XzYwaUZBN0VZUUl3?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5tVUVOcEdlWnB6RnV6dzdSQlNSUnVYS3d4YWF5QkY1T1FBTkxmSEhjSVUydkt5OHlKM1hJbzZQNGY0dDQ4d1JGVGkzZ0F6ZnVqREJJeUtyMlJ5U2lidGhESW5aRnrSAWpBVV95cUxQaXRMXzRiQ0lvX1ZSb1RNa3FxYWRDOC1TNTRxRHpfWEdNQ21YdTloazFORFdnVGxkUjdTbVFENlgtN3FzLXhIM1ptRzJVNjVqWjVkeTl3cGJLa3AwdGx5XzYwaUZBN0VZUUl3?oc=5",
+          "text": "日台交流協會長隅修三：有人試圖武力改變現狀 台灣是日本重要友人",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5kMTJZbUktYVk4WWFjZUVtV0FwRTVYT3V1RXJjTkxXRGJjQlJUb2Z3VzB4cmJiYk9RMkxUUGVNVm5kZVBoRG5XQmF2LS04TjlR0gFWQVVfeXFMTkF0TjNPV1hCN2l0UEk1X2tLbTYyMWJXMk14clI1WjdZMEt4MEZiajZTdlBqN2dwbl9jbk54NXNfOVg1azQ2SmMxYWwyRDN6NXRPRTFpWWc?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5kMTJZbUktYVk4WWFjZUVtV0FwRTVYT3V1RXJjTkxXRGJjQlJUb2Z3VzB4cmJiYk9RMkxUUGVNVm5kZVBoRG5XQmF2LS04TjlR0gFWQVVfeXFMTkF0TjNPV1hCN2l0UEk1X2tLbTYyMWJXMk14clI1WjdZMEt4MEZiajZTdlBqN2dwbl9jbk54NXNfOVg1azQ2SmMxYWwyRDN6NXRPRTFpWWc?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "路透：陸動員百艦最大規模海上部署！範圍跨「黃海到南海」",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVNlBxajhsNTR0R0ZINTlWR2s5bWtvS1NrR2ZiX0RPclAwcUNsQ3ZjV3BiNmNOSVJRVXFqOFNDLWtkNUR5ODJsTEFpVXZjNUVkMnRJ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVNlBxajhsNTR0R0ZINTlWR2s5bWtvS1NrR2ZiX0RPclAwcUNsQ3ZjV3BiNmNOSVJRVXFqOFNDLWtkNUR5ODJsTEFpVXZjNUVkMnRJ?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "中俄高層會面 就日本問題 「達成高度共識」",
+          "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQeE5TZ2drNEt2eWQyRXp1dERJUjRoUURLWnN2djdGV0JobjhLQVZqWmRJQU9zVkY1NGtjdjhIai1ZRnA2VE56eUEtZDJobjdnTGJFVnpDMEZyUG5RTVlxWmphTW1VX2pTSXQxMzFoejBOcFE3V0dmNWxwSkhfVlZDdFQ5TnR0Q0JNQ0tnSFg1MklJeGV2eW5YWGhLazRtcWgtbzNlTW5nWWNYUUF3V1pTMzh3YUZnSjNtb1h0VmhvSVBIRnV0SHY0S1VlRXRHV0k5a1h0YnVOMXBaTEN0Tll2STg0SkpnYnFlZ2lPSW1PMnY2cWZDVFlZM3U5Q1dRWVVRemV6U0huVnJRM0NFVC16d0F1QVFOVko5ZVlKSzVjWkhRdw?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQeE5TZ2drNEt2eWQyRXp1dERJUjRoUURLWnN2djdGV0JobjhLQVZqWmRJQU9zVkY1NGtjdjhIai1ZRnA2VE56eUEtZDJobjdnTGJFVnpDMEZyUG5RTVlxWmphTW1VX2pTSXQxMzFoejBOcFE3V0dmNWxwSkhfVlZDdFQ5TnR0Q0JNQ0tnSFg1MklJeGV2eW5YWGhLazRtcWgtbzNlTW5nWWNYUUF3V1pTMzh3YUZnSjNtb1h0VmhvSVBIRnV0SHY0S1VlRXRHV0k5a1h0YnVOMXBaTEN0Tll2STg0SkpnYnFlZ2lPSW1PMnY2cWZDVFlZM3U5Q1dRWVVRemV6U0huVnJRM0NFVC16d0F1QVFOVko5ZVlKSzVjWkhRdw?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -229,14 +237,6 @@
           "text": "習近平見馬克宏 稱「脫鉤斷鏈」意味著自我封閉",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0yRUJfcjE0cDhQVXBzTV8wWFliaXctRDAwd0JrSno4cU55Yko2MlJ4NHZSXzJLYllnZjZNMEx0U0lTYTFkbjNRclZma1QyODg?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0yRUJfcjE0cDhQVXBzTV8wWFliaXctRDAwd0JrSno4cU55Yko2MlJ4NHZSXzJLYllnZjZNMEx0U0lTYTFkbjNRclZma1QyODg?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "烏克蘭和平協議：美俄莫斯科會談揭示了普京怎樣的心態——觀察",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9TOUF0emlWTzVFSGhIcjJNbmVXQTNNYVdGTHFPVWdLcUZaZ1o4Tk5peXJOYnpXZnNoSEJaRmJwcHJTRnFZMFY5djNic21iVUxreF9hQ2NCSUxSNkw2aWExdERRSEFsZ9IBa0FVX3lxTE4yZjRyWTlhNUNqZHBlRGZJVTFsOUZTYl9RMldaalhrb1RWQjVheG9HOXZDa1VQVkJSVm9vSWtRQ2RLcV8xYVNLbmJBSlRvVUIyWGVSYXBwbjFnaTh5U3dJbFFvbUZBYjFaMFBz?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9TOUF0emlWTzVFSGhIcjJNbmVXQTNNYVdGTHFPVWdLcUZaZ1o4Tk5peXJOYnpXZnNoSEJaRmJwcHJTRnFZMFY5djNic21iVUxreF9hQ2NCSUxSNkw2aWExdERRSEFsZ9IBa0FVX3lxTE4yZjRyWTlhNUNqZHBlRGZJVTFsOUZTYl9RMldaalhrb1RWQjVheG9HOXZDa1VQVkJSVm9vSWtRQ2RLcV8xYVNLbmJBSlRvVUIyWGVSYXBwbjFnaTh5U3dJbFFvbUZBYjFaMFBz?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -273,6 +273,6 @@
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 13,
+  "cost": 46,
   "status": 0
 }
