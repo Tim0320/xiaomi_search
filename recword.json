@@ -15,6 +15,14 @@
       "link_type": "app",
       "data": [
         {
+          "text": "勞工紓困10萬2026",
+          "url": "https://tw.search.yahoo.com/search?p=%E5%8B%9E%E5%B7%A5%E7%B4%93%E5%9B%B010%E8%90%AC2026&amp;fr=ush-bt1",
+          "h5_url": "https://tw.search.yahoo.com/search?p=%E5%8B%9E%E5%B7%A5%E7%B4%93%E5%9B%B010%E8%90%AC2026&amp;fr=ush-bt1",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_yahoo",
+          "package": ""
+        },
+        {
           "text": "Yahoo財經大人物",
           "url": "https://tw.news.yahoo.com/topic/CEO-interview",
           "h5_url": "https://tw.news.yahoo.com/topic/CEO-interview",
@@ -39,25 +47,9 @@
           "package": ""
         },
         {
-          "text": "再揪高市疏失 儀器帳密全員共用",
-          "url": "https://tw.news.yahoo.com/%E9%AB%98%E9%9B%84%E5%B8%82%E8%A1%9B%E7%94%9F%E5%B1%80%E5%8F%B0%E7%81%A3%E9%AF%9B%E6%AA%A2%E9%A9%97%E7%83%8F%E9%BE%8D%E6%A1%88-%E9%A3%9F%E8%97%A5%E7%BD%B2%E6%8F%AA%E7%96%8F%E5%A4%B1-%E6%AA%A2%E9%A9%97%E5%84%80%E5%99%A8%E5%B8%B3%E5%AF%86%E5%85%A8%E5%93%A1%E5%85%B1%E7%94%A8-052000810.html",
-          "h5_url": "https://tw.news.yahoo.com/%E9%AB%98%E9%9B%84%E5%B8%82%E8%A1%9B%E7%94%9F%E5%B1%80%E5%8F%B0%E7%81%A3%E9%AF%9B%E6%AA%A2%E9%A9%97%E7%83%8F%E9%BE%8D%E6%A1%88-%E9%A3%9F%E8%97%A5%E7%BD%B2%E6%8F%AA%E7%96%8F%E5%A4%B1-%E6%AA%A2%E9%A9%97%E5%84%80%E5%99%A8%E5%B8%B3%E5%AF%86%E5%85%A8%E5%93%A1%E5%85%B1%E7%94%A8-052000810.html",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_yahoo",
-          "package": ""
-        },
-        {
-          "text": "不只宜蘭警 台北警為蕭美琴清道車禍",
-          "url": "https://tw.news.yahoo.com/%E4%B8%8D%E5%8F%AA%E5%AE%9C%E8%98%AD%E8%AD%A6%E8%BB%8A%E7%A6%8D-%E7%9B%B8%E9%9A%941%E5%B0%8F%E6%99%82-%E5%8F%B0%E5%8C%97%E8%AD%A6%E5%AF%9F-%E5%B9%AB%E8%95%AD%E7%BE%8E%E7%90%B4%E6%B8%85%E9%81%93-%E6%92%9E%E6%96%B7%E6%89%8B-053520890.html",
-          "h5_url": "https://tw.news.yahoo.com/%E4%B8%8D%E5%8F%AA%E5%AE%9C%E8%98%AD%E8%AD%A6%E8%BB%8A%E7%A6%8D-%E7%9B%B8%E9%9A%941%E5%B0%8F%E6%99%82-%E5%8F%B0%E5%8C%97%E8%AD%A6%E5%AF%9F-%E5%B9%AB%E8%95%AD%E7%BE%8E%E7%90%B4%E6%B8%85%E9%81%93-%E6%92%9E%E6%96%B7%E6%89%8B-053520890.html",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_yahoo",
-          "package": ""
-        },
-        {
-          "text": "小紅書遭封鎖一年 蔣萬安發聲",
-          "url": "https://tw.news.yahoo.com/%E5%B0%8F%E7%B4%85%E6%9B%B8%E9%81%AD%E5%B0%81%E9%8E%96%E4%B8%80%E5%B9%B4-%E8%94%A3%E8%90%AC%E5%AE%89%EF%BC%9A%E6%89%93%E6%93%8A%E8%A9%90%E9%A8%99%E4%B8%8D%E8%A6%81%E8%AE%93%E4%BA%BA%E8%A6%BA%E5%BE%97%E3%80%8C%E5%88%A5%E6%9C%89%E7%9B%AE%E7%9A%84%E3%80%8D-043031605.html",
-          "h5_url": "https://tw.news.yahoo.com/%E5%B0%8F%E7%B4%85%E6%9B%B8%E9%81%AD%E5%B0%81%E9%8E%96%E4%B8%80%E5%B9%B4-%E8%94%A3%E8%90%AC%E5%AE%89%EF%BC%9A%E6%89%93%E6%93%8A%E8%A9%90%E9%A8%99%E4%B8%8D%E8%A6%81%E8%AE%93%E4%BA%BA%E8%A6%BA%E5%BE%97%E3%80%8C%E5%88%A5%E6%9C%89%E7%9B%AE%E7%9A%84%E3%80%8D-043031605.html",
+          "text": "柯提藍白合規則 鄭回應公平提名",
+          "url": "https://tw.news.yahoo.com/%E6%9F%AF%E6%96%87%E5%93%B2%E6%8F%90%E8%97%8D%E7%99%BD%E5%90%88%E4%B8%8D%E8%AE%933-%E6%88%966-%E9%84%AD%E9%BA%97%E6%96%87-%E5%85%AC%E5%B9%B3%E6%8F%90%E5%90%8D%E4%BA%BA%E9%81%B8-055202442.html",
+          "h5_url": "https://tw.news.yahoo.com/%E6%9F%AF%E6%96%87%E5%93%B2%E6%8F%90%E8%97%8D%E7%99%BD%E5%90%88%E4%B8%8D%E8%AE%933-%E6%88%966-%E9%84%AD%E9%BA%97%E6%96%87-%E5%85%AC%E5%B9%B3%E6%8F%90%E5%90%8D%E4%BA%BA%E9%81%B8-055202442.html",
           "appIconUrl": "",
           "sourceUniqueId": "content_yahoo",
           "package": ""
@@ -71,7 +63,31 @@
           "package": ""
         },
         {
-          "text": "建築大師蓋瑞辭世 東亞唯一鉅作在台灣",
+          "text": "不只宜蘭警 台北警為蕭美琴清道車禍",
+          "url": "https://tw.news.yahoo.com/%E4%B8%8D%E5%8F%AA%E5%AE%9C%E8%98%AD%E8%AD%A6%E8%BB%8A%E7%A6%8D-%E7%9B%B8%E9%9A%941%E5%B0%8F%E6%99%82-%E5%8F%B0%E5%8C%97%E8%AD%A6%E5%AF%9F-%E5%B9%AB%E8%95%AD%E7%BE%8E%E7%90%B4%E6%B8%85%E9%81%93-%E6%92%9E%E6%96%B7%E6%89%8B-053520890.html",
+          "h5_url": "https://tw.news.yahoo.com/%E4%B8%8D%E5%8F%AA%E5%AE%9C%E8%98%AD%E8%AD%A6%E8%BB%8A%E7%A6%8D-%E7%9B%B8%E9%9A%941%E5%B0%8F%E6%99%82-%E5%8F%B0%E5%8C%97%E8%AD%A6%E5%AF%9F-%E5%B9%AB%E8%95%AD%E7%BE%8E%E7%90%B4%E6%B8%85%E9%81%93-%E6%92%9E%E6%96%B7%E6%89%8B-053520890.html",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_yahoo",
+          "package": ""
+        },
+        {
+          "text": "再揪高市疏失 儀器帳密全員共用",
+          "url": "https://tw.news.yahoo.com/%E9%AB%98%E9%9B%84%E5%B8%82%E8%A1%9B%E7%94%9F%E5%B1%80%E5%8F%B0%E7%81%A3%E9%AF%9B%E6%AA%A2%E9%A9%97%E7%83%8F%E9%BE%8D%E6%A1%88-%E9%A3%9F%E8%97%A5%E7%BD%B2%E6%8F%AA%E7%96%8F%E5%A4%B1-%E6%AA%A2%E9%A9%97%E5%84%80%E5%99%A8%E5%B8%B3%E5%AF%86%E5%85%A8%E5%93%A1%E5%85%B1%E7%94%A8-052000810.html",
+          "h5_url": "https://tw.news.yahoo.com/%E9%AB%98%E9%9B%84%E5%B8%82%E8%A1%9B%E7%94%9F%E5%B1%80%E5%8F%B0%E7%81%A3%E9%AF%9B%E6%AA%A2%E9%A9%97%E7%83%8F%E9%BE%8D%E6%A1%88-%E9%A3%9F%E8%97%A5%E7%BD%B2%E6%8F%AA%E7%96%8F%E5%A4%B1-%E6%AA%A2%E9%A9%97%E5%84%80%E5%99%A8%E5%B8%B3%E5%AF%86%E5%85%A8%E5%93%A1%E5%85%B1%E7%94%A8-052000810.html",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_yahoo",
+          "package": ""
+        },
+        {
+          "text": "小紅書遭封鎖一年 蔣萬安發聲",
+          "url": "https://tw.news.yahoo.com/%E5%B0%8F%E7%B4%85%E6%9B%B8%E9%81%AD%E5%B0%81%E9%8E%96%E4%B8%80%E5%B9%B4-%E8%94%A3%E8%90%AC%E5%AE%89%EF%BC%9A%E6%89%93%E6%93%8A%E8%A9%90%E9%A8%99%E4%B8%8D%E8%A6%81%E8%AE%93%E4%BA%BA%E8%A6%BA%E5%BE%97%E3%80%8C%E5%88%A5%E6%9C%89%E7%9B%AE%E7%9A%84%E3%80%8D-043031605.html",
+          "h5_url": "https://tw.news.yahoo.com/%E5%B0%8F%E7%B4%85%E6%9B%B8%E9%81%AD%E5%B0%81%E9%8E%96%E4%B8%80%E5%B9%B4-%E8%94%A3%E8%90%AC%E5%AE%89%EF%BC%9A%E6%89%93%E6%93%8A%E8%A9%90%E9%A8%99%E4%B8%8D%E8%A6%81%E8%AE%93%E4%BA%BA%E8%A6%BA%E5%BE%97%E3%80%8C%E5%88%A5%E6%9C%89%E7%9B%AE%E7%9A%84%E3%80%8D-043031605.html",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_yahoo",
+          "package": ""
+        },
+        {
+          "text": "建築大師蓋瑞辭世 東亞唯一鉅作在台",
           "url": "https://tw.news.yahoo.com/%E5%BB%BA%E7%AF%89%E7%95%8C%E3%80%8C%E7%95%A2%E5%8D%A1%E7%B4%A2%E3%80%8D%E8%93%8B%E7%91%9E96%E6%AD%B2%E8%BE%AD%E4%B8%96-%E9%80%A0%E5%B0%B1%E7%B6%93%E5%85%B8%E7%95%A2%E7%88%BE%E5%8C%85%E5%8F%A4%E6%A0%B9%E6%BC%A2%E7%BE%8E%E8%A1%93%E9%A4%A8-022034668.html",
           "h5_url": "https://tw.news.yahoo.com/%E5%BB%BA%E7%AF%89%E7%95%8C%E3%80%8C%E7%95%A2%E5%8D%A1%E7%B4%A2%E3%80%8D%E8%93%8B%E7%91%9E96%E6%AD%B2%E8%BE%AD%E4%B8%96-%E9%80%A0%E5%B0%B1%E7%B6%93%E5%85%B8%E7%95%A2%E7%88%BE%E5%8C%85%E5%8F%A4%E6%A0%B9%E6%BC%A2%E7%BE%8E%E8%A1%93%E9%A4%A8-022034668.html",
           "appIconUrl": "",
@@ -82,14 +98,6 @@
           "text": "台積電讓鳳凰城飄台味 7大改變",
           "url": "https://tw.stock.yahoo.com/news/%E3%80%90%E9%B3%B3%E5%87%B0%E5%8F%B0%E7%A9%8D%E5%A4%A21%E3%80%91%E5%8F%B0%E7%A9%8D%E9%9B%BB%E8%B5%B4%E7%BE%8E%E5%B8%B6%E4%BE%86%E9%B3%B3%E5%87%B0%E5%9F%8E7%E5%A4%A7%E6%94%B9%E8%AE%8A%EF%BC%81%E3%80%8C%E5%8F%B0%E5%BC%8F%E4%BE%BF%E7%95%B6%E3%80%8D%E8%90%BD%E5%9C%B0%E7%94%9F%E6%A0%B9-010000589.html",
           "h5_url": "https://tw.stock.yahoo.com/news/%E3%80%90%E9%B3%B3%E5%87%B0%E5%8F%B0%E7%A9%8D%E5%A4%A21%E3%80%91%E5%8F%B0%E7%A9%8D%E9%9B%BB%E8%B5%B4%E7%BE%8E%E5%B8%B6%E4%BE%86%E9%B3%B3%E5%87%B0%E5%9F%8E7%E5%A4%A7%E6%94%B9%E8%AE%8A%EF%BC%81%E3%80%8C%E5%8F%B0%E5%BC%8F%E4%BE%BF%E7%95%B6%E3%80%8D%E8%90%BD%E5%9C%B0%E7%94%9F%E6%A0%B9-010000589.html",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_yahoo",
-          "package": ""
-        },
-        {
-          "text": "包商傳落跑 環狀線旁工程停擺",
-          "url": "https://tw.news.yahoo.com/%E5%8C%85%E5%95%86%E5%82%B3%E8%90%BD%E8%B7%91-%E7%92%B0%E7%8B%80%E7%B7%9A%E6%96%B0%E5%9F%94%E6%B0%91%E7%94%9F%E5%9C%B0%E4%B8%8B%E9%81%93%E5%81%9C%E5%B7%A5-221512375.html",
-          "h5_url": "https://tw.news.yahoo.com/%E5%8C%85%E5%95%86%E5%82%B3%E8%90%BD%E8%B7%91-%E7%92%B0%E7%8B%80%E7%B7%9A%E6%96%B0%E5%9F%94%E6%B0%91%E7%94%9F%E5%9C%B0%E4%B8%8B%E9%81%93%E5%81%9C%E5%B7%A5-221512375.html",
           "appIconUrl": "",
           "sourceUniqueId": "content_yahoo",
           "package": ""
@@ -125,14 +133,6 @@
           "appIconUrl": "",
           "sourceUniqueId": "content_yahoo",
           "package": ""
-        },
-        {
-          "text": "包正豪酸「電話詐騙是始祖 怎不禁電話」",
-          "url": "https://tw.news.yahoo.com/%E5%8C%85%E6%AD%A3%E8%B1%AA%E9%85%B8-%E9%9B%BB%E8%A9%B1%E8%A9%90%E9%A8%99%E6%98%AF%E5%A7%8B%E7%A5%96-%E6%80%8E%E4%B8%8D%E7%A6%81%E9%9B%BB%E8%A9%B1-212331140.html",
-          "h5_url": "https://tw.news.yahoo.com/%E5%8C%85%E6%AD%A3%E8%B1%AA%E9%85%B8-%E9%9B%BB%E8%A9%B1%E8%A9%90%E9%A8%99%E6%98%AF%E5%A7%8B%E7%A5%96-%E6%80%8E%E4%B8%8D%E7%A6%81%E9%9B%BB%E8%A9%B1-212331140.html",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_yahoo",
-          "package": ""
         }
       ],
       "selectedStatus": false,
@@ -146,9 +146,9 @@
       "link_type": "app",
       "data": [
         {
-          "text": "賴瑞隆兒涉霸凌！綠議員喊「只是8歲小孩」　嘆因選戰變政治事件",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBxZ2hZSllNVl9Pc3RCcjNqbFVwUjRlcUl5dHJjeW1UY25qUllYb0dEZ0RsRWIzaExMVzhmQWZ1R3FQaEZzUGZ4OXd0eGU2TEVLQmVrcHRjU1ppaWhWbEHSAWhBVV95cUxOeGkwMTd1LTY5elZ0QU1YMmVyM2h3SlBhYlBxLWdTLXctMnpkcUw0Z3Zmb2owcXpqOG9ONVpHWldldGNma3Rkd2M4RFFLUXlhbnZKXy10dFZoUDRCVzFGZlBjbEVJeHh0bw?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBxZ2hZSllNVl9Pc3RCcjNqbFVwUjRlcUl5dHJjeW1UY25qUllYb0dEZ0RsRWIzaExMVzhmQWZ1R3FQaEZzUGZ4OXd0eGU2TEVLQmVrcHRjU1ppaWhWbEHSAWhBVV95cUxOeGkwMTd1LTY5elZ0QU1YMmVyM2h3SlBhYlBxLWdTLXctMnpkcUw0Z3Zmb2owcXpqOG9ONVpHWldldGNma3Rkd2M4RFFLUXlhbnZKXy10dFZoUDRCVzFGZlBjbEVJeHh0bw?oc=5",
+          "text": "兒涉霸凌「賴瑞隆又被爆新料」！黃揚明示警民眾最討厭一事：市長路恐提前下車 | 李瑋萱",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5CbVNCSFA2M09Jdmp6dkZaQ0JUcHFLcVFwTXBZbnhfUUtuTU1INlpQVFFiMUxLX1NoV3JNUHN2YUJwWlpMRnJCRmRTMl8yQQ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5CbVNCSFA2M09Jdmp6dkZaQ0JUcHFLcVFwTXBZbnhfUUtuTU1INlpQVFFiMUxLX1NoV3JNUHN2YUJwWlpMRnJCRmRTMl8yQQ?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -186,9 +186,9 @@
           "package": ""
         },
         {
-          "text": "錢麗回中國了！喊武統被廢依親居留　翻牆發臉書嗆：待大家理性我再回台",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9MYmdwUVphVHRza3hYbVFYV29pYXBpVkJkWXlPTTdsR1JFYzBQQldKcjJfamhieTdydExwcWUyT3ZmcnV3cWc1eXFoUVJmd9IBX0FVX3lxTE8ySWt6SFlXYnA1YXV3TzFuX1E0X0RLQ3VPUVJRRmhiSEJ0N093QnB6TU8xTjlZb2ZldmNYZzJqLW43RkZUSmtCQnJZZjk5enRIMGIxOUpIVndZMDI2V2x3?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9MYmdwUVphVHRza3hYbVFYV29pYXBpVkJkWXlPTTdsR1JFYzBQQldKcjJfamhieTdydExwcWUyT3ZmcnV3cWc1eXFoUVJmd9IBX0FVX3lxTE8ySWt6SFlXYnA1YXV3TzFuX1E0X0RLQ3VPUVJRRmhiSEJ0N093QnB6TU8xTjlZb2ZldmNYZzJqLW43RkZUSmtCQnJZZjk5enRIMGIxOUpIVndZMDI2V2x3?oc=5",
+          "text": "公司辦交換禮物「他挑一物」網見狀全讚：最好的千元禮物",
+          "url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxNLUg3bG9DZjdjdEk3OTNReXBIcjFiMVplODNiQl90SUNzUFQxUzRnVTNMQ21yWURycktVZkFGdnhoZkVKWVRtMGoyLTNlU09fV3VKdlN1UU12MnExcDJWQWtBZWxYZVNqS1htYUh1ZWJHQ0VFT29YUURHN2ZPVmdRNE9oTFp2SkpQTHZCWmVDRGk2cl8yNEpkYlM0dDFOSXgwc1ZQOHhiUTBmeU9iY2diZW05aUZ5TnF5LWI0T0ZwZFVZNGhYUzFWNXI0RW9hb09ISFNtY0QxYjBqVk1WbnJCUllaNDFQQkw1LWxYM0tJNnhtbnpSd0stYlhBdUJqdUhjZWdpYldiUnUtdm9mREU3WHcyaUdJVGY4WU82dUpTR3JyRk92akFPZkc5a2FiQXVGN2RtQTQzX3dpRXFGLUtzdUNlTzc4aXB2T2xNNlRLMXZmTTZlaGhialRXR1pCOUJ0YmJjZUlrU2FtMW5ZOVFFOFpDVEdhZzNPYmx4OTBjbU5mSDJ0SDNpQ1lkRQ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxNLUg3bG9DZjdjdEk3OTNReXBIcjFiMVplODNiQl90SUNzUFQxUzRnVTNMQ21yWURycktVZkFGdnhoZkVKWVRtMGoyLTNlU09fV3VKdlN1UU12MnExcDJWQWtBZWxYZVNqS1htYUh1ZWJHQ0VFT29YUURHN2ZPVmdRNE9oTFp2SkpQTHZCWmVDRGk2cl8yNEpkYlM0dDFOSXgwc1ZQOHhiUTBmeU9iY2diZW05aUZ5TnF5LWI0T0ZwZFVZNGhYUzFWNXI0RW9hb09ISFNtY0QxYjBqVk1WbnJCUllaNDFQQkw1LWxYM0tJNnhtbnpSd0stYlhBdUJqdUhjZWdpYldiUnUtdm9mREU3WHcyaUdJVGY4WU82dUpTR3JyRk92akFPZkc5a2FiQXVGN2RtQTQzX3dpRXFGLUtzdUNlTzc4aXB2T2xNNlRLMXZmTTZlaGhialRXR1pCOUJ0YmJjZUlrU2FtMW5ZOVFFOFpDVEdhZzNPYmx4OTBjbU5mSDJ0SDNpQ1lkRQ?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -202,17 +202,17 @@
           "package": ""
         },
         {
-          "text": "傅崐萁喊話賴總統赴立院國情報告 黃帝穎：公然踐踏憲法簡直國際笑話",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wdk5JZkxMbkZiaS1ydVN4ZGNMQ3h4b3B2azU5TWhpbTg1VTR6Q1ZLTWZMbXpGUkhQRUhmVnZIaVAyRnR6MjR5WmVFbmJpR29NZ0dYeTVTZXRiQVVSSldhaXJwTTRtaG1kN3fSAW9BVV95cUxPVXpXMnNXRzViMk5LeDZ0NnBmSlRub3FwSTRWOHpMbGZSUTJGN0pvRU1WSlZNTGFLc3FKOUJMUElGck9PVXVDaUowcXZ3ZlI2S2ZzVnV1a25wZDRoTlhNQy1xQ2xrZEczeXA2TmMxb1E?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wdk5JZkxMbkZiaS1ydVN4ZGNMQ3h4b3B2azU5TWhpbTg1VTR6Q1ZLTWZMbXpGUkhQRUhmVnZIaVAyRnR6MjR5WmVFbmJpR29NZ0dYeTVTZXRiQVVSSldhaXJwTTRtaG1kN3fSAW9BVV95cUxPVXpXMnNXRzViMk5LeDZ0NnBmSlRub3FwSTRWOHpMbGZSUTJGN0pvRU1WSlZNTGFLc3FKOUJMUElGck9PVXVDaUowcXZ3ZlI2S2ZzVnV1a25wZDRoTlhNQy1xQ2xrZEczeXA2TmMxb1E?oc=5",
+          "text": "賴清德世界人權日強調：民主台灣不走回頭路 抵抗威權守護區域和平",
+          "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxOamZNcE81RjJfcGdFcVVsSVY1ODYwVjhIbnNpVm1KZ09ZXy1zUkdlWG1LaVB5TzZ0UER0STRyMVROcWxveWlhd1FLQUk3YUxRN1U3cmZ0akNxcnJqY1d5Xy1kbllob3NnYkppUG1vckEwWkwwdHluME1Rdl9EWF9rQ1hxMnBMZ3dBZVNJYVM2MEV0dGdmMnA3czcyb0lsN2NsZnpGZksxYlVHZFJwLUt3WkYwcllOUlJ3M19yLWFzWFN4NS1tZTFGQzRqWjlhUXhqNk1pdV9zSDdSZFRLVHI4blROeU5pdWdnYXdGX1NTcTJyb09RRHRBRHFoaUgyLUl3ZmRrSzVEVGlTRGJGTUdrUFIxNm8yOGRvcnlfUF9kN0szeU1kQThqQi1yWXU1aXd2SXc3R2owUXVjbGxFaVNjczlKYzZERzVrRnVwQzJQaVNnbjk1RW1abE1YRFFfYzE5R2lSOHRhc1pHVVZQVkcyNmdKZWcxLXNOVDVwX082OXU3Y25nY0Z0cjZ5S0ZfZVVGazdaZ1AxcmRXaUd6SktwcVFvNlNRaEhJaGFqWmRNUTg3YzlWUHEyY2tWNHE?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMivANBVV95cUxOamZNcE81RjJfcGdFcVVsSVY1ODYwVjhIbnNpVm1KZ09ZXy1zUkdlWG1LaVB5TzZ0UER0STRyMVROcWxveWlhd1FLQUk3YUxRN1U3cmZ0akNxcnJqY1d5Xy1kbllob3NnYkppUG1vckEwWkwwdHluME1Rdl9EWF9rQ1hxMnBMZ3dBZVNJYVM2MEV0dGdmMnA3czcyb0lsN2NsZnpGZksxYlVHZFJwLUt3WkYwcllOUlJ3M19yLWFzWFN4NS1tZTFGQzRqWjlhUXhqNk1pdV9zSDdSZFRLVHI4blROeU5pdWdnYXdGX1NTcTJyb09RRHRBRHFoaUgyLUl3ZmRrSzVEVGlTRGJGTUdrUFIxNm8yOGRvcnlfUF9kN0szeU1kQThqQi1yWXU1aXd2SXc3R2owUXVjbGxFaVNjczlKYzZERzVrRnVwQzJQaVNnbjk1RW1abE1YRFFfYzE5R2lSOHRhc1pHVVZQVkcyNmdKZWcxLXNOVDVwX082OXU3Y25nY0Z0cjZ5S0ZfZVVGazdaZ1AxcmRXaUd6SktwcVFvNlNRaEhJaGFqWmRNUTg3YzlWUHEyY2tWNHE?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "賴清德：絕不允許任何勢力讓台灣退回無民主自由時代",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBOenUtQ2hLdWNTNVZaZ01RdWh6czdDYWpydHB1WmlLQjVGaWU3RXhFbGxubUFlamp2NEcyM3ZhZFE3dTR6OTdfXzJPSVdqbzl3LUZtT3h3bzBQWExPbXdiWXpwWjdZWUxvNHfSAW9BVV95cUxQdWxJU2JQN203T3hVcmVwVERmeVNJYnMwdWkxOTJGTHd4NThfSEFhcGZaMkRULWdIU0QwdlhfZl9IcEhiWVRFS3dTaVV3eHpwV1lDbGNQUGsxTkxlNnBZaWRYNmEzUHdOMV9VRmcxVWs?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBOenUtQ2hLdWNTNVZaZ01RdWh6czdDYWpydHB1WmlLQjVGaWU3RXhFbGxubUFlamp2NEcyM3ZhZFE3dTR6OTdfXzJPSVdqbzl3LUZtT3h3bzBQWExPbXdiWXpwWjdZWUxvNHfSAW9BVV95cUxQdWxJU2JQN203T3hVcmVwVERmeVNJYnMwdWkxOTJGTHd4NThfSEFhcGZaMkRULWdIU0QwdlhfZl9IcEhiWVRFS3dTaVV3eHpwV1lDbGNQUGsxTkxlNnBZaWRYNmEzUHdOMV9VRmcxVWs?oc=5",
+          "text": "傅崐萁喊話賴總統赴立院國情報告 黃帝穎：公然踐踏憲法簡直國際笑話",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wdk5JZkxMbkZiaS1ydVN4ZGNMQ3h4b3B2azU5TWhpbTg1VTR6Q1ZLTWZMbXpGUkhQRUhmVnZIaVAyRnR6MjR5WmVFbmJpR29NZ0dYeTVTZXRiQVVSSldhaXJwTTRtaG1kN3fSAW9BVV95cUxPVXpXMnNXRzViMk5LeDZ0NnBmSlRub3FwSTRWOHpMbGZSUTJGN0pvRU1WSlZNTGFLc3FKOUJMUElGck9PVXVDaUowcXZ3ZlI2S2ZzVnV1a25wZDRoTlhNQy1xQ2xrZEczeXA2TmMxb1E?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wdk5JZkxMbkZiaS1ydVN4ZGNMQ3h4b3B2azU5TWhpbTg1VTR6Q1ZLTWZMbXpGUkhQRUhmVnZIaVAyRnR6MjR5WmVFbmJpR29NZ0dYeTVTZXRiQVVSSldhaXJwTTRtaG1kN3fSAW9BVV95cUxPVXpXMnNXRzViMk5LeDZ0NnBmSlRub3FwSTRWOHpMbGZSUTJGN0pvRU1WSlZNTGFLc3FKOUJMUElGck9PVXVDaUowcXZ3ZlI2S2ZzVnV1a25wZDRoTlhNQy1xQ2xrZEczeXA2TmMxb1E?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -273,6 +273,6 @@
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 27,
+  "cost": 16,
   "status": 0
 }
