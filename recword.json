@@ -146,9 +146,9 @@
       "link_type": "app",
       "data": [
         {
-          "text": "未來一週2波東北季風8日新竹以北有短暫雨",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9KaWlSSmwzYWhxd1Mta2J2WUdxc3hvS0tacW5fWTZZVkRzNWRaQmlwdVFSclVxeEd5Tmo2dEpPRGRid0hJTHNFOHlkZXZSOThMRGpZbjBvR0xCTmxGOUVv?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9KaWlSSmwzYWhxd1Mta2J2WUdxc3hvS0tacW5fWTZZVkRzNWRaQmlwdVFSclVxeEd5Tmo2dEpPRGRid0hJTHNFOHlkZXZSOThMRGpZbjBvR0xCTmxGOUVv?oc=5",
+          "text": "淑麗氣象／挑戰入冬首個冷氣團 「轉雨濕冷」一週天氣出爐",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9taUZqU0JIZExOTWdvS19qX1RPbWxMOHJyS2Z1UC1Qak9ETjdVckhlNUhwQXhVNkN3WTJ5djY2TmRpS1g1NWFzaTVOakQ4QWxsRWp5QQ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9taUZqU0JIZExOTWdvS19qX1RPbWxMOHJyS2Z1UC1Qak9ETjdVckhlNUhwQXhVNkN3WTJ5djY2TmRpS1g1NWFzaTVOakQ4QWxsRWp5QQ?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -178,6 +178,14 @@
           "package": ""
         },
         {
+          "text": "台南知名牛肉湯店「活蟑螂醬汁桶掙扎」！業者致歉、衛生局稽查",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xRUlKZUV3MXJidDE5dlg2VGdBeTFydzdLOWtMbzRGS2NpWGludzNfV1FvZVhyN2M0dUdIRjV0ZHNxSF9JWE9KTUowX1Y2VER2dG1TNndkWFpLdl9UbmfSAWhBVV95cUxNZHVXY1RBTzh1d2h4eXN1ZWJWWW92ejVJX0EtX3N1NGVXUHR2dFNadERVV3A1WEkzdTdvalZPTVo0TUdETF8tYkJHcENWQ3pDc2tDTzJ0cDJBQW52ZUd6UzhnN1Z5X0NpQg?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xRUlKZUV3MXJidDE5dlg2VGdBeTFydzdLOWtMbzRGS2NpWGludzNfV1FvZVhyN2M0dUdIRjV0ZHNxSF9JWE9KTUowX1Y2VER2dG1TNndkWFpLdl9UbmfSAWhBVV95cUxNZHVXY1RBTzh1d2h4eXN1ZWJWWW92ejVJX0EtX3N1NGVXUHR2dFNadERVV3A1WEkzdTdvalZPTVo0TUdETF8tYkJHcENWQ3pDc2tDTzJ0cDJBQW52ZUd6UzhnN1Z5X0NpQg?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
           "text": "詐騙集團滲透進軍營！ 馬防部官兵疑集體涉案 被利用恐遭汰除",
           "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQMnZUOF9IWGRsQzc1NldxTjNDbFVvNVdpbE8yVGU0UTZwNXVzbm01NnExejhlcFl2YjJnNFJwY1o2dzV2TWEwbk5nZXhxUndQeHZLT3JSd1ZNMDFaNVVoRHQtZExpYVBaTHhheXZIc2pnMEpickZJSktIcTZjYkkxeGhQY0NMdW8wUUo2NzhPaGtkN3NudlViQ3FwNm5lcjNQdW9xTzIzSi1nN21TTHpEakxvNk83dll4VTRTdjZFSUp2dndKYWNNOW40MUg1WmZKZmY1bVFOakVHNTg4Z3NTaU9LenlLb2Noa1ZRZ2JXWEsyUXpXbkYwOUpIRktIZzVEMzBZS0hsLTR2d1gydjRnRjdtQ1RfbUo1SjZFTTlJNU9UclE5cnY5c3RZLTlsZWFWZjBtR3hlVVAzQXR1eHB4WGhROGc2dDlkeGkwUDVoTFoyWTZkRVFMWVJPbklJQ0Fib250dWpvbEZadHdmZ0xIbFlDSU0taEJnVXJSZ1FVVk9pejZUM0dWcWJqa080dw?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQMnZUOF9IWGRsQzc1NldxTjNDbFVvNVdpbE8yVGU0UTZwNXVzbm01NnExejhlcFl2YjJnNFJwY1o2dzV2TWEwbk5nZXhxUndQeHZLT3JSd1ZNMDFaNVVoRHQtZExpYVBaTHhheXZIc2pnMEpickZJSktIcTZjYkkxeGhQY0NMdW8wUUo2NzhPaGtkN3NudlViQ3FwNm5lcjNQdW9xTzIzSi1nN21TTHpEakxvNk83dll4VTRTdjZFSUp2dndKYWNNOW40MUg1WmZKZmY1bVFOakVHNTg4Z3NTaU9LenlLb2Noa1ZRZ2JXWEsyUXpXbkYwOUpIRktIZzVEMzBZS0hsLTR2d1gydjRnRjdtQ1RfbUo1SjZFTTlJNU9UclE5cnY5c3RZLTlsZWFWZjBtR3hlVVAzQXR1eHB4WGhROGc2dDlkeGkwUDVoTFoyWTZkRVFMWVJPbklJQ0Fib250dWpvbEZadHdmZ0xIbFlDSU0taEJnVXJSZ1FVVk9pejZUM0dWcWJqa080dw?oc=5",
@@ -186,9 +194,17 @@
           "package": ""
         },
         {
-          "text": "台南知名牛肉湯店「活蟑螂醬汁桶掙扎」！業者致歉、衛生局稽查",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xRUlKZUV3MXJidDE5dlg2VGdBeTFydzdLOWtMbzRGS2NpWGludzNfV1FvZVhyN2M0dUdIRjV0ZHNxSF9JWE9KTUowX1Y2VER2dG1TNndkWFpLdl9UbmfSAWhBVV95cUxNZHVXY1RBTzh1d2h4eXN1ZWJWWW92ejVJX0EtX3N1NGVXUHR2dFNadERVV3A1WEkzdTdvalZPTVo0TUdETF8tYkJHcENWQ3pDc2tDTzJ0cDJBQW52ZUd6UzhnN1Z5X0NpQg?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xRUlKZUV3MXJidDE5dlg2VGdBeTFydzdLOWtMbzRGS2NpWGludzNfV1FvZVhyN2M0dUdIRjV0ZHNxSF9JWE9KTUowX1Y2VER2dG1TNndkWFpLdl9UbmfSAWhBVV95cUxNZHVXY1RBTzh1d2h4eXN1ZWJWWW92ejVJX0EtX3N1NGVXUHR2dFNadERVV3A1WEkzdTdvalZPTVo0TUdETF8tYkJHcENWQ3pDc2tDTzJ0cDJBQW52ZUd6UzhnN1Z5X0NpQg?oc=5",
+          "text": "民調出爐！蔣萬安大勝5對手 年輕人卻挺他",
+          "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNNW40cGNhOVIzY1FLSHd3aWJuRU9Fam8xcjVYLVpRZWhVbEFCOFA0Z1F5R2tVYi0wUnFiWWVVVTE4UVJOZlVCYkF2MU41bDlyRzJhSFBQUzZReGJ1MXJ3aXNjdjlkc2JUNTFRZmVFOEVLMmF4YkVMcXBBRVhJdnFPelp6MkxHMW5rTkJDVGZrRE1uTXBnRXMyRllndm1MdnF5S3Ewa0hXSWVOcWs0TFdBUndiV2tKQU8zd2xETTY2aWo3ZHNOalIwOG0yM1ZwemVKQkNFZzhoRi04Ulo2RHNRWU5rbkhqbHh5Y09HM2FaR2J5ek9qUUh0UFZIU3g1V2lfY2ZOc0xiS21aSXMwVHVpS1R1RERhMldRVnNHVHRNQVlULUU?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNNW40cGNhOVIzY1FLSHd3aWJuRU9Fam8xcjVYLVpRZWhVbEFCOFA0Z1F5R2tVYi0wUnFiWWVVVTE4UVJOZlVCYkF2MU41bDlyRzJhSFBQUzZReGJ1MXJ3aXNjdjlkc2JUNTFRZmVFOEVLMmF4YkVMcXBBRVhJdnFPelp6MkxHMW5rTkJDVGZrRE1uTXBnRXMyRllndm1MdnF5S3Ewa0hXSWVOcWs0TFdBUndiV2tKQU8zd2xETTY2aWo3ZHNOalIwOG0yM1ZwemVKQkNFZzhoRi04Ulo2RHNRWU5rbkhqbHh5Y09HM2FaR2J5ek9qUUh0UFZIU3g1V2lfY2ZOc0xiS21aSXMwVHVpS1R1RERhMldRVnNHVHRNQVlULUU?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "日本人談台灣有事！過半挺高市「反感陸大驚小怪」",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5YQ25CZHpxZVRtNC1fMVhuSkhSTHVIbGo0UnJVNjJxWGJrV0dyOWJ0dDhwSzRiZXJFaThQaGVUODhnRWFGNVI1S25mN0FCUDlFY3FN0gFYQVVfeXFMTkVvZ3BmZFFmalRzZHFhalh3RWpfQ3VCQkZOREJCaHlfa3habExhcG9rNGNpUVhhN1hWdlBMSXdqVEJBSC1nQ3luQXg4c0xpaUtNUTVaLXR5Uw?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5YQ25CZHpxZVRtNC1fMVhuSkhSTHVIbGo0UnJVNjJxWGJrV0dyOWJ0dDhwSzRiZXJFaThQaGVUODhnRWFGNVI1S25mN0FCUDlFY3FN0gFYQVVfeXFMTkVvZ3BmZFFmalRzZHFhalh3RWpfQ3VCQkZOREJCaHlfa3habExhcG9rNGNpUVhhN1hWdlBMSXdqVEJBSC1nQ3luQXg4c0xpaUtNUTVaLXR5Uw?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -210,17 +226,9 @@
           "package": ""
         },
         {
-          "text": "新版財劃法覆議失敗「府院不採不公布不副署方式」行政院將不執行",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96QnhkbmU1b0JfUzVveEJCNk9zeEZJbjc5QkhXdmhldkx4RnFlVElHSl9Kdk9IZGZSanRtVVRhVnZlY2RZQmZydjlnSWFmeGh0N3NoaVZPRE1oemc?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96QnhkbmU1b0JfUzVveEJCNk9zeEZJbjc5QkhXdmhldkx4RnFlVElHSl9Kdk9IZGZSanRtVVRhVnZlY2RZQmZydjlnSWFmeGh0N3NoaVZPRE1oemc?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "涉詐被押21月！「徐巧芯大姑夫婦」劉向婕、杜秉澄獲高院裁定交保",
-          "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNM3U0VWJ6ek43TGxvQW53VDg2ZGdheWRLTnBmZFFVQ2w0dWNvSDhXdllkTXktWnc5N044MDM4bFBYcnh2cHBjR3J6QzZ3ZU9PWkFxdXVYakdrcURrRHdBUTdJVmFsdjhGclMydXRZaDRsTVlGODRHc2JBanlHLVJJV0w2WVhxZUFORWo1NTdOUWJ3SEZEd1RRS1ZxSGlWb3lvRUstV3ZfaUk1MWExRHRFMmd5dWYtVG43ekpxSUl4QmEtNUdTYl95UmJST2l1UVg0dnN1b1VZOTZYc25VbERGS0NVYnVxYTlsWDRvSlVJZ1p4blFDTDd5cktBQTBIX0poWlhqUXJOaUZCZjd4b2FPbjRDYTJkYVJWcGx3dUtwUUVQMURnUWc2VERyS2lUamxfQVpNaEkxZDVDc2xiR2F3OUJ4QkFUZzJ5VTBnQUtqbjFSV3U1Wm0tR1pya3NzRXhpTDRXb3FnOTh6RDA5THdZVVNFbmR0R0I0QVpQWGd4Z2N2QzdkWWc?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNM3U0VWJ6ek43TGxvQW53VDg2ZGdheWRLTnBmZFFVQ2w0dWNvSDhXdllkTXktWnc5N044MDM4bFBYcnh2cHBjR3J6QzZ3ZU9PWkFxdXVYakdrcURrRHdBUTdJVmFsdjhGclMydXRZaDRsTVlGODRHc2JBanlHLVJJV0w2WVhxZUFORWo1NTdOUWJ3SEZEd1RRS1ZxSGlWb3lvRUstV3ZfaUk1MWExRHRFMmd5dWYtVG43ekpxSUl4QmEtNUdTYl95UmJST2l1UVg0dnN1b1VZOTZYc25VbERGS0NVYnVxYTlsWDRvSlVJZ1p4blFDTDd5cktBQTBIX0poWlhqUXJOaUZCZjd4b2FPbjRDYTJkYVJWcGx3dUtwUUVQMURnUWc2VERyS2lUamxfQVpNaEkxZDVDc2xiR2F3OUJ4QkFUZzJ5VTBnQUtqbjFSV3U1Wm0tR1pya3NzRXhpTDRXb3FnOTh6RDA5THdZVVNFbmR0R0I0QVpQWGd4Z2N2QzdkWWc?oc=5",
+          "text": "美國防長警告日本盟國：國防支出不足將「付出代價」",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9NZm9hWWhTY21wYmZ3OXRUYnFCT3VIb3IxOG5Db3NkMDhCeWt3VW4tbldRSC1TQTRnOE5VVDNlZktNVzY5X3J4MHJ5MEgzMms?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9NZm9hWWhTY21wYmZ3OXRUYnFCT3VIb3IxOG5Db3NkMDhCeWt3VW4tbldRSC1TQTRnOE5VVDNlZktNVzY5X3J4MHJ5MEgzMms?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -234,25 +242,17 @@
           "package": ""
         },
         {
-          "text": "美國防長警告日本盟國：國防支出不足將「付出代價」",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9NZm9hWWhTY21wYmZ3OXRUYnFCT3VIb3IxOG5Db3NkMDhCeWt3VW4tbldRSC1TQTRnOE5VVDNlZktNVzY5X3J4MHJ5MEgzMms?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9NZm9hWWhTY21wYmZ3OXRUYnFCT3VIb3IxOG5Db3NkMDhCeWt3VW4tbldRSC1TQTRnOE5VVDNlZktNVzY5X3J4MHJ5MEgzMms?oc=5",
+          "text": "法總統訪中「偷跑」引爆中法保鑣大戰 習近平「摸背奴才」引熱議",
+          "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxOWXZHVTdxdGR2NXBaS1M3N2V6MmJONHlKakU1a3IyT01wcFJjbERGTDc1SEwxNzdGQmM1eHo2czVsWGh2QVNHcG1RYl9wY2sxMzBFeVJ4NGZxWklTVEFtVlN2VkFCb3lOcGtCS1hpZVludXcwWk8xTW0xcnFmSU5mS2xjdGplX3JNNHZKcEpRZjVfYVN3T0hKaDJwVmROa294R3BYQVdyaEE2T3hoTXQ3NHpCd2JRS2ZJYXFwX0FTTHJCNkdCX3V4VmdyR0FINUd3b0NBTTYyZmY0eFFRYW14S2RCQUE5Zm1UbEJhUGs5QzgzaUU5RFdXbHJ0VFI1QW5GeC1zd3RiRnhZYV9SY3BaUGRReGt5anFsYVQxN1EwcExFWDlUZ2k1NWpOUExKQ0xPWWFYTWxGS0h6c3labkR5Nm52ZnBDeVNieGd0a1gwcnBEeFZjem1meXRqUGI1eFFl?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxOWXZHVTdxdGR2NXBaS1M3N2V6MmJONHlKakU1a3IyT01wcFJjbERGTDc1SEwxNzdGQmM1eHo2czVsWGh2QVNHcG1RYl9wY2sxMzBFeVJ4NGZxWklTVEFtVlN2VkFCb3lOcGtCS1hpZVludXcwWk8xTW0xcnFmSU5mS2xjdGplX3JNNHZKcEpRZjVfYVN3T0hKaDJwVmROa294R3BYQVdyaEE2T3hoTXQ3NHpCd2JRS2ZJYXFwX0FTTHJCNkdCX3V4VmdyR0FINUd3b0NBTTYyZmY0eFFRYW14S2RCQUE5Zm1UbEJhUGs5QzgzaUU5RFdXbHJ0VFI1QW5GeC1zd3RiRnhZYV9SY3BaUGRReGt5anFsYVQxN1EwcExFWDlUZ2k1NWpOUExKQ0xPWWFYTWxGS0h6c3labkR5Nm52ZnBDeVNieGd0a1gwcnBEeFZjem1meXRqUGI1eFFl?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "瓜地馬拉聖誕遊行「鎮長遭槍擊身亡」！ 生前直播畫面曝光",
-          "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQckZ2R1g3TndYYjYyeklIcmhtWmpjWHN2c05wdmRHLThsT2xIUGFfdmhaVUxDeWphOTZxR3JvM2JjWmdlQzJWZ0swakhZUHpIdGJ5V3dDWEx1VzJWRDFTWnJ0Zk5ubFVGbHlhVy1PamhRV1NucVlSazdBREwzdThsRk9uY3lZTFdLdkRZTTFtSnQ2TU1OdzBjR3VtN2ZFaVh5RXRESlJuS2ZyeThhZWFQQTE3Q3E4ZlhqZWhPTVNqNHM2NWxpcG5VTU5iNzlaZVhLdHVCaVFVZFVuanR3bXZzWGs2aDYtTndMY1FhN2xyNTZ5SmNHdk1uR2Vqb2pfV2lfT1hrZ0xvaTRIcDZBQWVRczlyMHY4TElSWnRGMEFudHltN3otcjdrVkozMUpZUGVfWU8tX3pQZmlaMlZBSHNZRHRWM1o2ZmtlNExOdkhYQVk0c3htalpPTnJSdTA0TDBmME40T1ptYzE4UQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQckZ2R1g3TndYYjYyeklIcmhtWmpjWHN2c05wdmRHLThsT2xIUGFfdmhaVUxDeWphOTZxR3JvM2JjWmdlQzJWZ0swakhZUHpIdGJ5V3dDWEx1VzJWRDFTWnJ0Zk5ubFVGbHlhVy1PamhRV1NucVlSazdBREwzdThsRk9uY3lZTFdLdkRZTTFtSnQ2TU1OdzBjR3VtN2ZFaVh5RXRESlJuS2ZyeThhZWFQQTE3Q3E4ZlhqZWhPTVNqNHM2NWxpcG5VTU5iNzlaZVhLdHVCaVFVZFVuanR3bXZzWGs2aDYtTndMY1FhN2xyNTZ5SmNHdk1uR2Vqb2pfV2lfT1hrZ0xvaTRIcDZBQWVRczlyMHY4TElSWnRGMEFudHltN3otcjdrVkozMUpZUGVfWU8tX3pQZmlaMlZBSHNZRHRWM1o2ZmtlNExOdkhYQVk0c3htalpPTnJSdTA0TDBmME40T1ptYzE4UQ?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "馬克宏：大陸若不縮減貿易順差歐盟擬祭關稅回應| 國際焦點",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBibWxGNXN3VTFOUkxRb0Q0NkZPamdxWXNDM3hobkhIaWNlMmg3cGo3dllHd0lsNVg1NDdLbmlXdDJsZVV5NnlHdkhsV0xfNEho?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBibWxGNXN3VTFOUkxRb0Q0NkZPamdxWXNDM3hobkhIaWNlMmg3cGo3dllHd0lsNVg1NDdLbmlXdDJsZVV5NnlHdkhsV0xfNEho?oc=5",
+          "text": "香港立法會選舉投票率31.9% 歷屆第2低",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzZjR4T2cwU2tSLTA3ZDBBcG44ZXdRTWtfQWxQZEJmZlNhZTJLMm5mWTlURmZCTDZNUkZ6MU93TVJtS3JKLWtQMERaVVZhdGxaajJXQjJWQkRxek5ZZ2c?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzZjR4T2cwU2tSLTA3ZDBBcG44ZXdRTWtfQWxQZEJmZlNhZTJLMm5mWTlURmZCTDZNUkZ6MU93TVJtS3JKLWtQMERaVVZhdGxaajJXQjJWQkRxek5ZZ2c?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -273,6 +273,6 @@
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 49,
+  "cost": 10,
   "status": 0
 }
