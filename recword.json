@@ -146,14 +146,6 @@
       "link_type": "app",
       "data": [
         {
-          "text": "地震！19:24花蓮規模5.7地震 最大震度4級 雙北有感",
-          "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQUlNRWkZ3TE1yMEhuLVdRcHZPcDFpU1NsSUY3ck5pazZEd1VYZm5aYjlDQnRXTlF0UnZpTW5EZnJWRDZuRGhFMTA2QmVxMTJSU3ppQUJRNTMtc3lwTGlPOHlsLXVBRUZ4eEU0Z0VlZUV4bWtydkZuclFEVG5td0tFRTFBWDVwSGM5eTlxSW9qc3hSRTVLbm5hMkRDOHJxelBHVWZEUndudmVZWTVGdVNGR3hLdkZYTHlGZm84N2lrWXdpalNac0I4M3NQTW9uYVlxcU1GY3ZBa1BhUXdrMmVCYWI0RUo3RHQ0UTU1eU1PTFhJVkJNRzVVc0VBQ0tkOVlGeHRGS29ra1RBXzJGdnlFVHVkc05CZHEwR2lIal92QndGQ0VZTENMSWpaVGdKbmdzZ1Fud3k5Yw?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQUlNRWkZ3TE1yMEhuLVdRcHZPcDFpU1NsSUY3ck5pazZEd1VYZm5aYjlDQnRXTlF0UnZpTW5EZnJWRDZuRGhFMTA2QmVxMTJSU3ppQUJRNTMtc3lwTGlPOHlsLXVBRUZ4eEU0Z0VlZUV4bWtydkZuclFEVG5td0tFRTFBWDVwSGM5eTlxSW9qc3hSRTVLbm5hMkRDOHJxelBHVWZEUndudmVZWTVGdVNGR3hLdkZYTHlGZm84N2lrWXdpalNac0I4M3NQTW9uYVlxcU1GY3ZBa1BhUXdrMmVCYWI0RUo3RHQ0UTU1eU1PTFhJVkJNRzVVc0VBQ0tkOVlGeHRGS29ra1RBXzJGdnlFVHVkc05CZHEwR2lIal92QndGQ0VZTENMSWpaVGdKbmdzZ1Fud3k5Yw?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
           "text": "日本青森縣外海7.6地震最大震度6強、發布海嘯警報",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wYlR5TWp6MXdpZnA2a1BqTDdpSGlpZldmMEtMTW42UWgwckJUNDVleGczY3VDXzU4LXhURDRsUDNYdFQ0dnlDR1I2SF94aXhDdFc1amFoUFk3bnVSTjRJ?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wYlR5TWp6MXdpZnA2a1BqTDdpSGlpZldmMEtMTW42UWgwckJUNDVleGczY3VDXzU4LXhURDRsUDNYdFQ0dnlDR1I2SF94aXhDdFc1amFoUFk3bnVSTjRJ?oc=5",
@@ -162,9 +154,25 @@
           "package": ""
         },
         {
-          "text": "「菜鳥的危險行為」！日本退將揭解放軍心態 雷達照射日F-15恐踩紅線",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Jb2dkVlNDdFVmZDJpcHJGcDFvZzdzWVdQb3ZpZHVfVjl6d1lWZk0zTV9BQXhHT0FCa2E0SlRvenMySDVoX3pzNVVTU1R3d1dCTTBz0gFYQVVfeXFMTUVrc01Tendzam9ucWZDQ3BVUVctYmZYQ1A2UF9hTks2blpjTnRXdTVSTVFQWUd3Y1dra0x2WDAwcmlrTExvZFJMWHVQQnY1YndWSExCY2xsTg?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Jb2dkVlNDdFVmZDJpcHJGcDFvZzdzWVdQb3ZpZHVfVjl6d1lWZk0zTV9BQXhHT0FCa2E0SlRvenMySDVoX3pzNVVTU1R3d1dCTTBz0gFYQVVfeXFMTUVrc01Tendzam9ucWZDQ3BVUVctYmZYQ1A2UF9hTks2blpjTnRXdTVSTVFQWUd3Y1dra0x2WDAwcmlrTExvZFJMWHVQQnY1YndWSExCY2xsTg?oc=5",
+          "text": "地震！19:24花蓮規模5.7地震 最大震度4級 雙北有感",
+          "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQUlNRWkZ3TE1yMEhuLVdRcHZPcDFpU1NsSUY3ck5pazZEd1VYZm5aYjlDQnRXTlF0UnZpTW5EZnJWRDZuRGhFMTA2QmVxMTJSU3ppQUJRNTMtc3lwTGlPOHlsLXVBRUZ4eEU0Z0VlZUV4bWtydkZuclFEVG5td0tFRTFBWDVwSGM5eTlxSW9qc3hSRTVLbm5hMkRDOHJxelBHVWZEUndudmVZWTVGdVNGR3hLdkZYTHlGZm84N2lrWXdpalNac0I4M3NQTW9uYVlxcU1GY3ZBa1BhUXdrMmVCYWI0RUo3RHQ0UTU1eU1PTFhJVkJNRzVVc0VBQ0tkOVlGeHRGS29ra1RBXzJGdnlFVHVkc05CZHEwR2lIal92QndGQ0VZTENMSWpaVGdKbmdzZ1Fud3k5Yw?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQUlNRWkZ3TE1yMEhuLVdRcHZPcDFpU1NsSUY3ck5pazZEd1VYZm5aYjlDQnRXTlF0UnZpTW5EZnJWRDZuRGhFMTA2QmVxMTJSU3ppQUJRNTMtc3lwTGlPOHlsLXVBRUZ4eEU0Z0VlZUV4bWtydkZuclFEVG5td0tFRTFBWDVwSGM5eTlxSW9qc3hSRTVLbm5hMkRDOHJxelBHVWZEUndudmVZWTVGdVNGR3hLdkZYTHlGZm84N2lrWXdpalNac0I4M3NQTW9uYVlxcU1GY3ZBa1BhUXdrMmVCYWI0RUo3RHQ0UTU1eU1PTFhJVkJNRzVVc0VBQ0tkOVlGeHRGS29ra1RBXzJGdnlFVHVkc05CZHEwR2lIal92QndGQ0VZTENMSWpaVGdKbmdzZ1Fud3k5Yw?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "川普斡旋和平協議瀕臨破裂！泰國空襲柬埔寨邊境 出動F-16戰機支援",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1wRHZVMGhmZWpFdW1SeWJVUm1SUy1KUDBTVkhNdE9FU1FPU0tvdjlkMWUwa2wyTEZ2Q0dUMmxuVmdIUWNmbnphc2hqV2s0QmQt0gFWQVVfeXFMUEd4T3hicjc3SkdNNmhSTDE3R21pcklmbF8xeGlKbWl5Uk9EenNDTEs0Q0IzalFvYUUyXzNFVE1iMDdnRVRhSHktWkZxU3VRaXRoQlg1X1E?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1wRHZVMGhmZWpFdW1SeWJVUm1SUy1KUDBTVkhNdE9FU1FPU0tvdjlkMWUwa2wyTEZ2Q0dUMmxuVmdIUWNmbnphc2hqV2s0QmQt0gFWQVVfeXFMUEd4T3hicjc3SkdNNmhSTDE3R21pcklmbF8xeGlKbWl5Uk9EenNDTEs0Q0IzalFvYUUyXzNFVE1iMDdnRVRhSHktWkZxU3VRaXRoQlg1X1E?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "火控雷達鎖定日本戰機　中國扯被滋擾：駁回交涉！堅決反對嫁禍於人",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAtWW5ocEU3M0FPQUFzTkUwOG9aM05IVTJLS2pNVXkyVDdLaUxKQmVNT094c0RudThGbGV4Q2ZRbHpNMk5YeW1SbUVISXlkZ9IBX0FVX3lxTFBGUU1yM281bzBjU0FhTklyYmwxdHZMVGQ2YW1GM2NZa0I0MDF2T0hibS1EaWtMYnl5WEJGcDFPd1FKTF8zZUVPemgzT0NMb05reFNoanBka2FyV1hiWC1J?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAtWW5ocEU3M0FPQUFzTkUwOG9aM05IVTJLS2pNVXkyVDdLaUxKQmVNT094c0RudThGbGV4Q2ZRbHpNMk5YeW1SbUVISXlkZ9IBX0FVX3lxTFBGUU1yM281bzBjU0FhTklyYmwxdHZMVGQ2YW1GM2NZa0I0MDF2T0hibS1EaWtMYnl5WEJGcDFPd1FKTF8zZUVPemgzT0NMb05reFNoanBka2FyV1hiWC1J?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -178,17 +186,25 @@
           "package": ""
         },
         {
-          "text": "「千億富太」甘比出手了！勾大劉罕見合體　嘆「心很痛」捐款香港大火",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpNncyNjFsaVhPSXV0MUIybkp1YXBxWUtRVEhQdEpuYURGdHYzUldLSjBySUNjVUdEZTc4UFpmRTlSeG0tQld6RGp1U01JYXhMVUwxX2tXZWE3aFnSAWBBVV95cUxNQ3Rsb19HUWZac0ZXTUJDZS12WFV3MFJWSm5ZaVB5aHBKakFvWGh6endxYW9kNjIxMWl3bWQ2akwxcGdzSDFWNDhYdVFrcS13Y2hoRGs5clF1S3dETXJQeng?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpNncyNjFsaVhPSXV0MUIybkp1YXBxWUtRVEhQdEpuYURGdHYzUldLSjBySUNjVUdEZTc4UFpmRTlSeG0tQld6RGp1U01JYXhMVUwxX2tXZWE3aFnSAWBBVV95cUxNQ3Rsb19HUWZac0ZXTUJDZS12WFV3MFJWSm5ZaVB5aHBKakFvWGh6endxYW9kNjIxMWl3bWQ2akwxcGdzSDFWNDhYdVFrcS13Y2hoRGs5clF1S3dETXJQeng?oc=5",
+          "text": "Pocky巧克力棒有異味原因曝光！ 格力高回收20品項600萬件商品",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMNFpFejVzN0pCakFKYl9NVmt2ak94M3JWTzVYWE9WN1BVNmhpeERNeXpGOVM0WEZzUERvM3JKNTZzbDlfY2pJcFlTTWFrekJkcFlFNUkxak1zaG1qV1VqMm5sd2d4Z9IBa0FVX3lxTE5LcjJPU3lLUjU1LXAtVW5oQ0VNelF3ZUx1T1dvdTFtdGNIYWFZOHZMVFN0SjFacDhsQ2JqQVB5V2FfSG1OQ3dDeFpvRG9MSjBRTVRYbnpCX2pEeTFqQ1dBdlY2bmRJRzgtVThz?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMNFpFejVzN0pCakFKYl9NVmt2ak94M3JWTzVYWE9WN1BVNmhpeERNeXpGOVM0WEZzUERvM3JKNTZzbDlfY2pJcFlTTWFrekJkcFlFNUkxak1zaG1qV1VqMm5sd2d4Z9IBa0FVX3lxTE5LcjJPU3lLUjU1LXAtVW5oQ0VNelF3ZUx1T1dvdTFtdGNIYWFZOHZMVFN0SjFacDhsQ2JqQVB5V2FfSG1OQ3dDeFpvRG9MSjBRTVRYbnpCX2pEeTFqQ1dBdlY2bmRJRzgtVThz?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "2波冷空氣陸續報到「下探13度」 未來一週溫度1圖看懂",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE53RVpMUHFNQ1FBQlR5QzU4aVUtU1ZzRlpSemFFeHoyVnhLb3JFcndSelJJeGtHRUNKMUNsNVZ5SDdZU2hHd3EzOE1RNDd2bmx3Z3pUcXVtVGtpc2RsOVYyMXRZeXjSAWpBVV95cUxNZHpEZ09TY015aTI4OUQ4d3Z1VVhYd09sdTZqeTFvcUpoZjBkTXpfeWlOdDJuSkNQN0hFcDVTOXZsNWRQUDVuR3YzelVfVEVWVW43ZERlcXMtUzVnaUZkTWhpQXp0eDZTM01n?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE53RVpMUHFNQ1FBQlR5QzU4aVUtU1ZzRlpSemFFeHoyVnhLb3JFcndSelJJeGtHRUNKMUNsNVZ5SDdZU2hHd3EzOE1RNDd2bmx3Z3pUcXVtVGtpc2RsOVYyMXRZeXjSAWpBVV95cUxNZHpEZ09TY015aTI4OUQ4d3Z1VVhYd09sdTZqeTFvcUpoZjBkTXpfeWlOdDJuSkNQN0hFcDVTOXZsNWRQUDVuR3YzelVfVEVWVW43ZERlcXMtUzVnaUZkTWhpQXp0eDZTM01n?oc=5",
+          "text": "2波東北風接力！明雨彈轟3地 冷氣團最快週末報到「低溫剩個位數」",
+          "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxPR0xwT29CbHdKdnFKS2plc1RoRTVrcElOTkZkUWlkVkQ4UjRBMkkyT05pcl8wWVFGbml3RHNfXzktNG13dmtEdXUwdFlmSG9CaF9zYzZHUlVyUnc3dDhUeXNyV21yMXVON3lxXzdJdzdDdkxTaVhPS2JKZVRYRGlFUWlnY2dGVW5ibTZ0QzEyYUhwOTh4ZFZ3SHlHNUdxNVhadlhQMXJ1SU5jclJjLTZ2ellPeVRRQXdtR2czMTdaTnZQMlVyN251Y0JwdlFyMXZTQnR6cXlkTFEybXBFODE4dV9Bclk5SEkyRHNDTHkwUk1yXzlJUTJWeUJiRWpiVzc5NXJHM3RDTnltYm45T0FoUFpub2pMS3JIY3E3dWNvRk1EZDc4cEQyY2xMOG1ta3FqeGxXZGxTdTJubEh3TDJ4dWg4QUhQMFhHMnJFd1JndWtiV3ZId1ZxRFdSVl9vODVWOFZvT2xqNDZUd3Iza2FjVmo2ek5wQlBUU2hTd1ZGMGdsZW1Ka1lvWGxTWF9YLWN0cFE?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxPR0xwT29CbHdKdnFKS2plc1RoRTVrcElOTkZkUWlkVkQ4UjRBMkkyT05pcl8wWVFGbml3RHNfXzktNG13dmtEdXUwdFlmSG9CaF9zYzZHUlVyUnc3dDhUeXNyV21yMXVON3lxXzdJdzdDdkxTaVhPS2JKZVRYRGlFUWlnY2dGVW5ibTZ0QzEyYUhwOTh4ZFZ3SHlHNUdxNVhadlhQMXJ1SU5jclJjLTZ2ellPeVRRQXdtR2czMTdaTnZQMlVyN251Y0JwdlFyMXZTQnR6cXlkTFEybXBFODE4dV9Bclk5SEkyRHNDTHkwUk1yXzlJUTJWeUJiRWpiVzc5NXJHM3RDTnltYm45T0FoUFpub2pMS3JIY3E3dWNvRk1EZDc4cEQyY2xMOG1ta3FqeGxXZGxTdTJubEh3TDJ4dWg4QUhQMFhHMnJFd1JndWtiV3ZId1ZxRFdSVl9vODVWOFZvT2xqNDZUd3Iza2FjVmo2ek5wQlBUU2hTd1ZGMGdsZW1Ka1lvWGxTWF9YLWN0cFE?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "美眾院國防授權法案出爐 邀台參加環太軍演文字遭刪除",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5kaWZkQnNTV3RsWW0wQkIxd2Z0OU0zazVUZ1lnem1Hd3FTa3Zrd1E0WEJiLWhWZTlIQlZuakxSenYxNmZtME5IaDRicVNYSEpGcUHSAVdBVV95cUxOa0xRUG5JRmlRTjhJQjRJNW12MWdyd3pIVGRXczB1cjNvNmc0eFIxOEtEWVl0Z19zZHR2VlU1a3pMNW5kYVFiVDBxdmFvRGZZZEFkNXJJZXM?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5kaWZkQnNTV3RsWW0wQkIxd2Z0OU0zazVUZ1lnem1Hd3FTa3Zrd1E0WEJiLWhWZTlIQlZuakxSenYxNmZtME5IaDRicVNYSEpGcUHSAVdBVV95cUxOa0xRUG5JRmlRTjhJQjRJNW12MWdyd3pIVGRXczB1cjNvNmc0eFIxOEtEWVl0Z19zZHR2VlU1a3pMNW5kYVFiVDBxdmFvRGZZZEFkNXJJZXM?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -210,30 +226,6 @@
           "package": ""
         },
         {
-          "text": "2025新北市7處社會住宅限時招租！每月租金4100元起，如何申請、 資格限制一次看",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE55SmpFMWxHTTlXWUdOWjdtaWlIZHNPVUpfMmFFbWpCeC05TElqRlJ3bzNFWHlRWHFwd3lMTV8teTRyd0hmbHhST1lRY0pNRVdp?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE55SmpFMWxHTTlXWUdOWjdtaWlIZHNPVUpfMmFFbWpCeC05TElqRlJ3bzNFWHlRWHFwd3lMTV8teTRyd0hmbHhST1lRY0pNRVdp?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "快訊／新北「定食8」凌晨突氣爆　整層炸爛3女1男送醫",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0ybzVQQmlJQ0dINlBUaTBYVHJ3bmIyaGo1Qkw5NllFVDhFZi12ZktGbGRuOXNsb285VkZ3czVyVlFXR0xrd3BCcGROY0lVcjBhOXFSNkF1eTF1VVBSdFHSAWhBVV95cUxNVFhZa0NUb1Zzb0hHamRuRzMxTHJ6SFZBell1dmFjWURPYzZsWGNsRGh2ZlN0NzZUVWJlTlR5TThlLUtvenJZVWd1cFRhczRvdEcwSC01TkZPWlJyWkFRSFctR0ZXZWpHeg?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0ybzVQQmlJQ0dINlBUaTBYVHJ3bmIyaGo1Qkw5NllFVDhFZi12ZktGbGRuOXNsb285VkZ3czVyVlFXR0xrd3BCcGROY0lVcjBhOXFSNkF1eTF1VVBSdFHSAWhBVV95cUxNVFhZa0NUb1Zzb0hHamRuRzMxTHJ6SFZBell1dmFjWURPYzZsWGNsRGh2ZlN0NzZUVWJlTlR5TThlLUtvenJZVWd1cFRhczRvdEcwSC01TkZPWlJyWkFRSFctR0ZXZWpHeg?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "泰柬衝突40萬居民撤離 醫院關閉避難所人滿為患",
-          "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOeUlOcU5Ma1ZPOUNrTnQzUVBfZ0U4U1hYVWtNTGhxM1k2SEppMDJqNk4tcVVpa0JMbDZ0dHA4Vnllc29SMVZ4a2NScnJsNWhEd25RbHVRTDMxZ1FER3VWeTBNTG8yajNBT19acmFRdXBMMXlMeGRDM2ZrMFlCb09lU20wVjZBMXcycGhzWUdGOHd1NXpYaTBoN2xuV2xpSm9OaGtWd1JNY2M1QWZ4dFFyVWJILWFjbXBOcmtwZ3c4Z0dhb01kU1lUenduNmxNVFQ1Ykpia1h1RkkxUWw2SU9OX2lkbXEyemJqd0ZrSUdEbnk3ZkJwVFgtekNnOE1DUVhENTA0SzFON2VFblcxVDBoU1hxRHNHSS1PRDdLQ2d1NkFhd041WWRicWdORktQY1oxWUxzWHB1emZhX0FBVTdPRG1pUng0Vk0?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOeUlOcU5Ma1ZPOUNrTnQzUVBfZ0U4U1hYVWtNTGhxM1k2SEppMDJqNk4tcVVpa0JMbDZ0dHA4Vnllc29SMVZ4a2NScnJsNWhEd25RbHVRTDMxZ1FER3VWeTBNTG8yajNBT19acmFRdXBMMXlMeGRDM2ZrMFlCb09lU20wVjZBMXcycGhzWUdGOHd1NXpYaTBoN2xuV2xpSm9OaGtWd1JNY2M1QWZ4dFFyVWJILWFjbXBOcmtwZ3c4Z0dhb01kU1lUenduNmxNVFQ1Ykpia1h1RkkxUWw2SU9OX2lkbXEyemJqd0ZrSUdEbnk3ZkJwVFgtekNnOE1DUVhENTA0SzFON2VFblcxVDBoU1hxRHNHSS1PRDdLQ2d1NkFhd041WWRicWdORktQY1oxWUxzWHB1emZhX0FBVTdPRG1pUng0Vk0?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
           "text": "美國不再將俄羅斯稱為「直接威脅」、盼展開合作！俄羅斯回應",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE04aU82S2F1aU9lNlN3NlNBLUt6VGZrUm5GczZuTUx6N2lZdmZSLVc5Ul9fVnRXSU5hcGRMbTduNDVMNUR4a2RKN2Rfb0ZHd1U?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE04aU82S2F1aU9lNlN3NlNBLUt6VGZrUm5GczZuTUx6N2lZdmZSLVc5Ul9fVnRXSU5hcGRMbTduNDVMNUR4a2RKN2Rfb0ZHd1U?oc=5",
@@ -245,6 +237,14 @@
           "text": "川普：澤倫斯基不去看俄烏和平提案我有些失望",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5iUTN0SnlNWEEtQ180Zk1PTlgxQjlFcDVudVRVTG9Qbml0NUVOdGVEZkNKWjktVV9RcnlrNzJnSFpnX2djdm1XdGk0YzNUd2d2bjVTMVpjUHZFcnpXT29V?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5iUTN0SnlNWEEtQ180Zk1PTlgxQjlFcDVudVRVTG9Qbml0NUVOdGVEZkNKWjktVV9RcnlrNzJnSFpnX2djdm1XdGk0YzNUd2d2bjVTMVpjUHZFcnpXT29V?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "「千億富太」甘比出手了！勾大劉罕見合體　嘆「心很痛」捐款香港大火",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpNncyNjFsaVhPSXV0MUIybkp1YXBxWUtRVEhQdEpuYURGdHYzUldLSjBySUNjVUdEZTc4UFpmRTlSeG0tQld6RGp1U01JYXhMVUwxX2tXZWE3aFnSAWBBVV95cUxNQ3Rsb19HUWZac0ZXTUJDZS12WFV3MFJWSm5ZaVB5aHBKakFvWGh6endxYW9kNjIxMWl3bWQ2akwxcGdzSDFWNDhYdVFrcS13Y2hoRGs5clF1S3dETXJQeng?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpNncyNjFsaVhPSXV0MUIybkp1YXBxWUtRVEhQdEpuYURGdHYzUldLSjBySUNjVUdEZTc4UFpmRTlSeG0tQld6RGp1U01JYXhMVUwxX2tXZWE3aFnSAWBBVV95cUxNQ3Rsb19HUWZac0ZXTUJDZS12WFV3MFJWSm5ZaVB5aHBKakFvWGh6endxYW9kNjIxMWl3bWQ2akwxcGdzSDFWNDhYdVFrcS13Y2hoRGs5clF1S3dETXJQeng?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -273,6 +273,6 @@
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 14,
+  "cost": 31,
   "status": 0
 }
