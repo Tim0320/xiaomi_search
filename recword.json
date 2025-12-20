@@ -15,6 +15,14 @@
       "link_type": "app",
       "data": [
         {
+          "text": "Citylink三重",
+          "url": "https://tw.search.yahoo.com/search?p=Citylink%E4%B8%89%E9%87%8D&amp;fr=ush-bt1",
+          "h5_url": "https://tw.search.yahoo.com/search?p=Citylink%E4%B8%89%E9%87%8D&amp;fr=ush-bt1",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_yahoo",
+          "package": ""
+        },
+        {
           "text": "Yahoo財經大人物",
           "url": "https://tw.news.yahoo.com/topic/CEO-interview",
           "h5_url": "https://tw.news.yahoo.com/topic/CEO-interview",
@@ -125,14 +133,6 @@
           "appIconUrl": "",
           "sourceUniqueId": "content_yahoo",
           "package": ""
-        },
-        {
-          "text": "全台戒備！嚴防模仿效應 聖誕、跨年活動維安升級",
-          "url": "https://tw.news.yahoo.com/%E5%BC%B5%E6%96%87%E9%9A%A8%E6%A9%9F%E6%94%BB%E6%93%8A%E9%87%804%E6%AD%BB%E5%9A%B4%E9%98%B2%E6%A8%A1%E4%BB%BF%E6%95%88%E6%87%89-%E5%85%A8%E5%8F%B0%E8%81%96%E8%AA%95%E3%80%81%E8%B7%A8%E5%B9%B4%E6%B4%BB%E5%8B%95%E5%8D%87%E9%AB%98%E7%B6%AD%E5%AE%89%E8%AD%A6%E6%88%92-115117593.html",
-          "h5_url": "https://tw.news.yahoo.com/%E5%BC%B5%E6%96%87%E9%9A%A8%E6%A9%9F%E6%94%BB%E6%93%8A%E9%87%804%E6%AD%BB%E5%9A%B4%E9%98%B2%E6%A8%A1%E4%BB%BF%E6%95%88%E6%87%89-%E5%85%A8%E5%8F%B0%E8%81%96%E8%AA%95%E3%80%81%E8%B7%A8%E5%B9%B4%E6%B4%BB%E5%8B%95%E5%8D%87%E9%AB%98%E7%B6%AD%E5%AE%89%E8%AD%A6%E6%88%92-115117593.html",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_yahoo",
-          "package": ""
         }
       ],
       "selectedStatus": false,
@@ -145,30 +145,6 @@
       "headImageUrl": "",
       "link_type": "app",
       "data": [
-        {
-          "text": "北市隨機殺人案兆豐行員不幸遇害 兆豐銀：協助家屬治喪從優撫恤",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBoTkc3dVdGMmtEWDQyUnM1Q3pSU3BOX01GcXN6TzlQeXcwd3I0U2FNMzd5RkxwUmk1X1V1dkpoQ0VsakUxYUpZeEFnLS1VcElqOGVYRjk1TE1vQXoxakow0gFkQVVfeXFMT0EzVG0wcl83dGJxVVl0aEliR0J6d1RGcjJYUlBuNEJ2MmRfV0hjZktBb1JOZkNtQUh6SG5mSHdjcy1SX293Y3N3NGlZZkZ6dE00ZDV5bE9GM3FHZ1VfdmF6M0NibQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBoTkc3dVdGMmtEWDQyUnM1Q3pSU3BOX01GcXN6TzlQeXcwd3I0U2FNMzd5RkxwUmk1X1V1dkpoQ0VsakUxYUpZeEFnLS1VcElqOGVYRjk1TE1vQXoxakow0gFkQVVfeXFMT0EzVG0wcl83dGJxVVl0aEliR0J6d1RGcjJYUlBuNEJ2MmRfV0hjZktBb1JOZkNtQUh6SG5mSHdjcy1SX293Y3N3NGlZZkZ6dE00ZDV5bE9GM3FHZ1VfdmF6M0NibQ?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "高雄小港有發煙筒製造大量煙霧警逮涉案男",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9tclFtRGZYUUZpVUZyN1A1NnlZUVFJalJ6WHlJUmVTMUVMVFdUb2hfRTdLa2NmeDNTZnZYUm9wTnZFaElTQUFCMTV2SWotN0J0enduQVF6RGpFSDZXcWtJ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9tclFtRGZYUUZpVUZyN1A1NnlZUVFJalJ6WHlJUmVTMUVMVFdUb2hfRTdLa2NmeDNTZnZYUm9wTnZFaElTQUFCMTV2SWotN0J0enduQVF6RGpFSDZXcWtJ?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "藍指違憲判決無效擬22日告發大法官濫權瀆職",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBKZWJrSkVzTy1oN2dQVUo4SmRyTGFWTGxvdVlNanE4bnJZd0hXUHpiLVlCYk9uN1E3bk8yRzNJVlZiUnVONmxYbjlkTDlhLWdpUDhDdko4VWVQWTYyWE9j?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBKZWJrSkVzTy1oN2dQVUo4SmRyTGFWTGxvdVlNanE4bnJZd0hXUHpiLVlCYk9uN1E3bk8yRzNJVlZiUnVONmxYbjlkTDlhLWdpUDhDdko4VWVQWTYyWE9j?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
         {
           "text": "美布朗大學槍擊案凶嫌曾是高材生 犯案後再射殺昔日同窗MIT教授",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5fWVd2cUNROGZIVDVhbGFZaWNXanhjNTVxT0piNXZrRVpMM2dsTnFINXI3WlhxOWRPYW4wVnZreXJSRlVPcTJyUnNyX3JnaWh2VEZVbDJmTHgtR0NuZm1n?oc=5",
@@ -186,17 +162,25 @@
           "package": ""
         },
         {
-          "text": "川普批准史上最大規模對台軍售案 國台辦回應",
-          "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPR25HUFFycWRSdGNqczNoSnZzN0U5TFlYMHlQckxaSEdOSUtTV1pBaTZKQ0VHLWczdVhkdElXQk5DN09fd0dXbnRDSFBaTG5xVXZYTWcyT1dNTEpSR0EyZHowaW14aUhZMEtlaFJWZXB3ZV9BRHRoYjl2TFV0eHEyRkIzYmNWMlR6UUhBcmVMNXg1NnJKNnRSVTYwVXdmbEl1eUdEeWU0dFZxVTFGM0plMEJmdkdLeUpTR3pPOFB6LVY4cjJhY1BuLV8zeUNraFF6SVNrdnZQUklCa1FMWjNpQWtwWkpROVJsZkYtbDhDYzF6eGVIZGZPQVV0d0ttUFRQVmxIQV9vZ3dhVl91ZTVhd0dNYjVFTFhsd0JkcTZRYzhGSVVWRXp3ZjN1aHlsVGtOWUxTZWlrd1FFQlBNbG4teTRZWGlVMEM1QnpJSFJ4VQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPR25HUFFycWRSdGNqczNoSnZzN0U5TFlYMHlQckxaSEdOSUtTV1pBaTZKQ0VHLWczdVhkdElXQk5DN09fd0dXbnRDSFBaTG5xVXZYTWcyT1dNTEpSR0EyZHowaW14aUhZMEtlaFJWZXB3ZV9BRHRoYjl2TFV0eHEyRkIzYmNWMlR6UUhBcmVMNXg1NnJKNnRSVTYwVXdmbEl1eUdEeWU0dFZxVTFGM0plMEJmdkdLeUpTR3pPOFB6LVY4cjJhY1BuLV8zeUNraFF6SVNrdnZQUklCa1FMWjNpQWtwWkpROVJsZkYtbDhDYzF6eGVIZGZPQVV0d0ttUFRQVmxIQV9vZ3dhVl91ZTVhd0dNYjVFTFhsd0JkcTZRYzhGSVVWRXp3ZjN1aHlsVGtOWUxTZWlrd1FFQlBNbG4teTRZWGlVMEM1QnpJSFJ4VQ?oc=5",
+          "text": "三重迎來第一家百貨潤泰CITYLINK開幕 簡滄圳：明年競標北車商場",
+          "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxPTXpxXzRKUGJORlFhU3dMRERhMlg2R0k3bzFTQjdoZW1wTGQzQk91ekJwRTRTbUlReHNrQzNoTEhGZHJBWTFEWnBkUFhyV2loN2x6a1RPTlY5dnVERmt0bkUyWlpyY1dWUnpWOHc3cHl0S01oWWJqMWhfQmJSVkd5YjYwV0xuaGxaaXJLNVBxd1JYbm9rZzhLcUQ5RDNlZ0ZMa2FqYVdjT1lTM21LWG5PdS1heEluVm9hcHNBMGZIWlRMRG5SWnpiMDNlbkpzeXFLQ0hnOS1aakVBdnVmU3J0VFd1akJ4Ym9DN2JQOU0xbTAtdVN3cTlWeVM3VU5KaVQwTUpDN2dqTTB5Tzh4Rjd4OXlZajZpSnd6U3V4WWJna1lDUUxxQmVwWnNpTUQ5ei1jTUhqeUhJZ09YQjl2UlVQd0xpZUtPdG9ydThtcnhMOXo2dDhkWmxxQTlyekpDb2VQUHFfYVJwb3Jvem4xVlFSRndGUkM2akRKdzJQal93?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxPTXpxXzRKUGJORlFhU3dMRERhMlg2R0k3bzFTQjdoZW1wTGQzQk91ekJwRTRTbUlReHNrQzNoTEhGZHJBWTFEWnBkUFhyV2loN2x6a1RPTlY5dnVERmt0bkUyWlpyY1dWUnpWOHc3cHl0S01oWWJqMWhfQmJSVkd5YjYwV0xuaGxaaXJLNVBxd1JYbm9rZzhLcUQ5RDNlZ0ZMa2FqYVdjT1lTM21LWG5PdS1heEluVm9hcHNBMGZIWlRMRG5SWnpiMDNlbkpzeXFLQ0hnOS1aakVBdnVmU3J0VFd1akJ4Ym9DN2JQOU0xbTAtdVN3cTlWeVM3VU5KaVQwTUpDN2dqTTB5Tzh4Rjd4OXlZajZpSnd6U3V4WWJna1lDUUxxQmVwWnNpTUQ5ei1jTUhqeUhJZ09YQjl2UlVQd0xpZUtPdG9ydThtcnhMOXo2dDhkWmxxQTlyekpDb2VQUHFfYVJwb3Jvem4xVlFSRndGUkM2akRKdzJQal93?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "3地防雨神…周日冬至北部濕涼僅17度 2波東北季風降溫時序曝光",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1vZlpoNEw2emVMalFvMk1GcG4xOXVMMXF4dHBaZWxKY3VvS0hZWW1zRzJfR0t6cG03Qm5qcE1adWVudU5hSnBFZ0hyamJtcjJC?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1vZlpoNEw2emVMalFvMk1GcG4xOXVMMXF4dHBaZWxKY3VvS0hZWW1zRzJfR0t6cG03Qm5qcE1adWVudU5hSnBFZ0hyamJtcjJC?oc=5",
+          "text": "日銀升息壓縮套利空間 恐掀「渡邊太太」拋售潮",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9mTjFFdDVQc2VzVEdpcGFkS3Z3dHdSS0xGZFRKc3FVeWNjZ09uUTlIU25YWnpyWnBndkk3NWVqd3FRR0VkWEVjVWtDMXYyZzNFQTZCME5WbVRYSklmS0dV0gFkQVVfeXFMTWoxeHJ5VUpKR2UzeXkyQjdTSHJiUm8yMjI4UzBVMHZhWVJhTDROZXE0Tm1uY1VJbEk1VHJFYS1YQm9jZDZOd0N4Y3lLTk9QVDlEeDBTbkE2a3NwWWc2MlNLa01hNg?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9mTjFFdDVQc2VzVEdpcGFkS3Z3dHdSS0xGZFRKc3FVeWNjZ09uUTlIU25YWnpyWnBndkk3NWVqd3FRR0VkWEVjVWtDMXYyZzNFQTZCME5WbVRYSklmS0dV0gFkQVVfeXFMTWoxeHJ5VUpKR2UzeXkyQjdTSHJiUm8yMjI4UzBVMHZhWVJhTDROZXE0Tm1uY1VJbEk1VHJFYS1YQm9jZDZOd0N4Y3lLTk9QVDlEeDBTbkE2a3NwWWc2MlNLa01hNg?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "全球資訊網 - 新聞與公告 - 區域動態 - 中共解放軍臺海周邊海、空域動態",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ENnNlS0U0UXhZN3VJQktHdFV5eE1mRzJSSWVpSk9vM3ZWU244akFrVElIMEx2UGhBQWtOTW1DdXJjMG5IczFBdUhyanAwb1BVaXc?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ENnNlS0U0UXhZN3VJQktHdFV5eE1mRzJSSWVpSk9vM3ZWU244akFrVElIMEx2UGhBQWtOTW1DdXJjMG5IczFBdUhyanAwb1BVaXc?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -218,9 +202,17 @@
           "package": ""
         },
         {
-          "text": "影／北車遭丟煙霧彈…嫌犯犯案「從M7走到M8」 警不排除有同夥",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9abmdkelpPY0xxVm1wbkFpUzVXMlJhQlVhR3dfcEZoS0FkZjBPdUI1d1lpaWlhRl9UREt1S2F5YVRJdmNhQk1TNjdueVM1WThGN1RF0gFYQVVfeXFMUFY3TW5TQXo4cmt2ekNHYU9mOFpaU1htVmR3RFJNdW04bUpvY0VRc0F6Ny0wZnhnN1QyMXQ0R0hFOUp5TlRVVWxxc1d5TFR2YnJZTjFNTjRiOA?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9abmdkelpPY0xxVm1wbkFpUzVXMlJhQlVhR3dfcEZoS0FkZjBPdUI1d1lpaWlhRl9UREt1S2F5YVRJdmNhQk1TNjdueVM1WThGN1RF0gFYQVVfeXFMUFY3TW5TQXo4cmt2ekNHYU9mOFpaU1htVmR3RFJNdW04bUpvY0VRc0F6Ny0wZnhnN1QyMXQ0R0hFOUp5TlRVVWxxc1d5TFR2YnJZTjFNTjRiOA?oc=5",
+          "text": "斷金流出大招！美立法遏阻投資中國軍事有關企業",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13VWtJQnNNOFQ0V1pucmFqMTFSdmZHREJ1Mm5aVi1xWFU4aV9VNjhtQk92d0VteGR3enNNRjEzeGZUZm94Mm9rYVFhWnNRSHNGVUZfM0ZnOFRUcmNPTDhZ0gFkQVVfeXFMT0FUYkF3TmFCY3d3cERRSTlQZlpQd3hCMllTb2k0UkVQRzA0Z19hMkpGSmlTSEZDT2ZIMGFwNlFDUzk5cTVEelhjNEJoOENlQUIxbnJmQXJtUGNCQ01PX2R3Rjk2LQ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13VWtJQnNNOFQ0V1pucmFqMTFSdmZHREJ1Mm5aVi1xWFU4aV9VNjhtQk92d0VteGR3enNNRjEzeGZUZm94Mm9rYVFhWnNRSHNGVUZfM0ZnOFRUcmNPTDhZ0gFkQVVfeXFMT0FUYkF3TmFCY3d3cERRSTlQZlpQd3hCMllTb2k0UkVQRzA0Z19hMkpGSmlTSEZDT2ZIMGFwNlFDUzk5cTVEelhjNEJoOENlQUIxbnJmQXJtUGNCQ01PX2R3Rjk2LQ?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "千呼萬喚始出來！ 我國首架F-16 BLK70戰機在美滑行測試畫面曝光",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIWUlZR09DdTBjMEFjZ2FDNGJ0ZG5NX2lQVVpWa0RITUVKRDB6U25qS1NibW9uTG85Z2xYaWtrUFRuTzFOWUliem02Sl9SV19UOEhsUC1Qb3BySmF0endyU9IBZkFVX3lxTE9udUsyT25yLUFYbFh6T01WZ19ralBzWUFtbG93dUM5T2dNYmdZNlU2T1JzN0c3dVhYbG5JZURabzg1V24zQVhpcEpVa1pxTll4MHRuM0tYZlhqdG5iTXVwUm4xNk5oZw?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIWUlZR09DdTBjMEFjZ2FDNGJ0ZG5NX2lQVVpWa0RITUVKRDB6U25qS1NibW9uTG85Z2xYaWtrUFRuTzFOWUliem02Sl9SV19UOEhsUC1Qb3BySmF0endyU9IBZkFVX3lxTE9udUsyT25yLUFYbFh6T01WZ19ralBzWUFtbG93dUM5T2dNYmdZNlU2T1JzN0c3dVhYbG5JZURabzg1V24zQVhpcEpVa1pxTll4MHRuM0tYZlhqdG5iTXVwUm4xNk5oZw?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -242,25 +234,25 @@
           "package": ""
         },
         {
-          "text": "美司法部公開富豪淫魔檔案 大量柯林頓照片曝光、少見川普",
-          "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxOZVpkblk1NXM0dE1uNlpoRWNfd280RzBGS0tkOGlBWWVBdnkyTnY2SUdnUWg0cS1ueC1xRWVrZUxXc1hxOE5zMkJOa0xqRmNWUEVLdUdfTDlhOVNoZklEWlBfci0xQ0lCci1GQmNEVzZJV2wwZDhXMFdLVTVEMlU1QkZGbHVxS0R5TUZ1LU9QMUdvWTE2Y3FiOUpZbjVtYXZKTlJLMGFoaW5ScTBnelFPNW5oYTRMQ0loVEpLZUJFVzZIdnQyZ0dUV0doWWp3a3pCejRnaVlCdVYtd0NsUHp4NEZfTVpOUEU4UXFYNHhHbU9YdzJUNTZoeUREZGZNT1dCcGNXVTFjZjg3S3ptdXBuQ051cUN6VDUyemtTRHVfX3N4WWk1SVRHOFljTjByUmVFMWhweklXWHVtcGI2bWNGZEhibkVlM0ZNT2NTd1J6MGlrMzBWNTdtTlNtSjVPUUdLMmdiWXdxZ3dRNW1yWTNXOWhhUUhINzc1ckg4cGRRT29CQQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxOZVpkblk1NXM0dE1uNlpoRWNfd280RzBGS0tkOGlBWWVBdnkyTnY2SUdnUWg0cS1ueC1xRWVrZUxXc1hxOE5zMkJOa0xqRmNWUEVLdUdfTDlhOVNoZklEWlBfci0xQ0lCci1GQmNEVzZJV2wwZDhXMFdLVTVEMlU1QkZGbHVxS0R5TUZ1LU9QMUdvWTE2Y3FiOUpZbjVtYXZKTlJLMGFoaW5ScTBnelFPNW5oYTRMQ0loVEpLZUJFVzZIdnQyZ0dUV0doWWp3a3pCejRnaVlCdVYtd0NsUHp4NEZfTVpOUEU4UXFYNHhHbU9YdzJUNTZoeUREZGZNT1dCcGNXVTFjZjg3S3ptdXBuQ051cUN6VDUyemtTRHVfX3N4WWk1SVRHOFljTjByUmVFMWhweklXWHVtcGI2bWNGZEhibkVlM0ZNT2NTd1J6MGlrMzBWNTdtTlNtSjVPUUdLMmdiWXdxZ3dRNW1yWTNXOWhhUUhINzc1ckg4cGRRT29CQQ?oc=5",
+          "text": "烏克蘭專家：歐盟決定意義重大 莫斯科的算計落空",
+          "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOd3ZSZEVLU3NEeW84SkQyLWppOFRCSDB4Ujd5d044UjlucnhuREhUTHBoV09KZTB1dXZSRzRQQjgtWENncU9jVy02NE8xWnBwSzZNT19XMXlLNjNPX25aRVVhWGs0VFhuQ2JoZ1ZXOXZiT002MmxGX1hlbzJpQ2pYVU04TjYyRndXaU12UmdObFRwZGFydmVvZk9VSzh2YzN6d1ROUDRQSkVTekw2MHVDYzBRdFNGWmdKX290T0w2Vnc0QkFzQzlKVVBCUjd1ZG1tNlR4VHNBTF85eUhkNUxoWEpUamUzdVBlREFHYXVCTWZ4dGZUNk9ubFlTNnhxMGtxVF80LXJ5SU1EbHFGazV0WHNZdzBvY0FkMnJIbzhUaDU2ZWRkNGhXV1FJd2VFeDNsbllEeEhQTDJxcG9DRWppelg4dUQ1ZG9Yb0d6WmhLeTgxQQ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOd3ZSZEVLU3NEeW84SkQyLWppOFRCSDB4Ujd5d044UjlucnhuREhUTHBoV09KZTB1dXZSRzRQQjgtWENncU9jVy02NE8xWnBwSzZNT19XMXlLNjNPX25aRVVhWGs0VFhuQ2JoZ1ZXOXZiT002MmxGX1hlbzJpQ2pYVU04TjYyRndXaU12UmdObFRwZGFydmVvZk9VSzh2YzN6d1ROUDRQSkVTekw2MHVDYzBRdFNGWmdKX290T0w2Vnc0QkFzQzlKVVBCUjd1ZG1tNlR4VHNBTF85eUhkNUxoWEpUamUzdVBlREFHYXVCTWZ4dGZUNk9ubFlTNnhxMGtxVF80LXJ5SU1EbHFGazV0WHNZdzBvY0FkMnJIbzhUaDU2ZWRkNGhXV1FJd2VFeDNsbllEeEhQTDJxcG9DRWppelg4dUQ1ZG9Yb0d6WmhLeTgxQQ?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "大本營現形？泰軍轟炸電詐園「中共反詐App」竟同步斷線",
-          "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxQaE1WSk5ZWmgyQ1pncmlTS3k5Yjh4X2t1RTRhYUNIS0JrNTM4TzVrUHo5X2FpT0JhVGpHelNMSXY2aWJ1c0JfY0xJTUNqcWNOOTJ5aTJLYV9TS0pkMENxZ3pZb2Q0Vy1YVjY2Y3FoZnctTlZIUG1XM0xtMWFoOGxfeE5KMmtLMl81QzNWQ3VtSGxtbmJGM0l1bjhUSy1EM0xUNExpUlR3QmVEWEhES0JEYks3YnBLWDlqWHZlZXF4NWNoYVNTOFlrU1gybUI4eHBmY2VISzUtMkVYTkN6c0JyS3ZzcjlTak5raFBUeWpGUnk4T1piRTd2b1JnOTZJbzJ4RmxPVXlkNjFKeXIzSTRpTlJIUVhaandvbEE3UlhWLUZ4QnR6MGxtUC16dDBmOGR0TS1yXzNSTkdHeWlqN0tYYXdWQ2RmSEpVSElSX2xlcGhmUWRDbkJR?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxQaE1WSk5ZWmgyQ1pncmlTS3k5Yjh4X2t1RTRhYUNIS0JrNTM4TzVrUHo5X2FpT0JhVGpHelNMSXY2aWJ1c0JfY0xJTUNqcWNOOTJ5aTJLYV9TS0pkMENxZ3pZb2Q0Vy1YVjY2Y3FoZnctTlZIUG1XM0xtMWFoOGxfeE5KMmtLMl81QzNWQ3VtSGxtbmJGM0l1bjhUSy1EM0xUNExpUlR3QmVEWEhES0JEYks3YnBLWDlqWHZlZXF4NWNoYVNTOFlrU1gybUI4eHBmY2VISzUtMkVYTkN6c0JyS3ZzcjlTak5raFBUeWpGUnk4T1piRTd2b1JnOTZJbzJ4RmxPVXlkNjFKeXIzSTRpTlJIUVhaandvbEE3UlhWLUZ4QnR6MGxtUC16dDBmOGR0TS1yXzNSTkdHeWlqN0tYYXdWQ2RmSEpVSElSX2xlcGhmUWRDbkJR?oc=5",
+          "text": "中國該如何打敗美國？美國戰略家給出終極答案",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA0MVFBYVY4WGIxZnk1bDVTc2JYX1VDaVZmYWFmMVpLSlFSSm5LMXkzMzRPa0V1Yk5ibnU4ajNZakU3b0RGUVRodFEwd0ViREc2WXozSA?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA0MVFBYVY4WGIxZnk1bDVTc2JYX1VDaVZmYWFmMVpLSlFSSm5LMXkzMzRPa0V1Yk5ibnU4ajNZakU3b0RGUVRodFEwd0ViREc2WXozSA?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "〈紐約匯市〉美元上漲 日央未釋出未來路徑 日元大幅走貶",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LZ1p4NUhsc3pxQXUtZVpiTEZiaDRuOGFSOWQ0RDRzSG9BcUZiMmVKVGpJVDkzVGFZWTgtN0ZaQ1dxZlBLZ0U0Y3RuTWRTdVE?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LZ1p4NUhsc3pxQXUtZVpiTEZiaDRuOGFSOWQ0RDRzSG9BcUZiMmVKVGpJVDkzVGFZWTgtN0ZaQ1dxZlBLZ0U0Y3RuTWRTdVE?oc=5",
+          "text": "美股收盤》科技股續強！道瓊漲183點 台積電ADR勁揚1.5％",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5URXBYbmFQaVRTZVhLeXMzNkkwaEstWXFFbG1UdVY4dmdvQkxQbG1fUUVXYnRWbzhRVERLV3gySmlZQWJBcHoxcnJza0RxeFdYa29ZQjhKMzc1ZWpydmVF0gFkQVVfeXFMT0ZxTDdtLWVpd0pOSmtFN2dEdDFkRTMtb0pMZzBEX2pDTXpIM1hKVGQxai1KZHVuM3RtZDM2U3o0ZkdjeVZlQ0xTdTBsWndpamxrV0d4M3VQT3hUeDQxWWktVTB1aQ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5URXBYbmFQaVRTZVhLeXMzNkkwaEstWXFFbG1UdVY4dmdvQkxQbG1fUUVXYnRWbzhRVERLV3gySmlZQWJBcHoxcnJza0RxeFdYa29ZQjhKMzc1ZWpydmVF0gFkQVVfeXFMT0ZxTDdtLWVpd0pOSmtFN2dEdDFkRTMtb0pMZzBEX2pDTXpIM1hKVGQxai1KZHVuM3RtZDM2U3o0ZkdjeVZlQ0xTdTBsWndpamxrV0d4M3VQT3hUeDQxWWktVTB1aQ?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -273,6 +265,6 @@
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 14,
+  "cost": 26,
   "status": 0
 }
