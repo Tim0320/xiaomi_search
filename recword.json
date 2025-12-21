@@ -146,14 +146,6 @@
       "link_type": "app",
       "data": [
         {
-          "text": "冬至變天！兩波東北季風接力 最低溫恐下探13°C",
-          "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxObW05NmxqYngzcmhLMFQxd0R4ZXB5Rm5rMmtFOHZHQWNZMjRvc05mN0xYUEpGNDdYeUswTnNGMWJiYXBGVTVrSWdkcG9LTURZakc3X3ZhU0p5Z1FRckVUUjFUbnJGcldKa3dCTnlTTS1LYzFxRk0xVno0SHNQMmdMaG13cmw0NjN5ZzdjRzJvbmktUWhURUpmcVFMQWowdmxsYTM5M0oxM0NWY0YtTWJnTXFCTzJqdjM4OWZrZURvOTVTN2JaUkVCZkdXWGZnVE9aMXpvM0pBeHhMemNoVkVTbnBjZFNVV2pDbXdSdjNzd19QXzctZnVXaUlqdlBqS3pQSDNTbDZkRGNqUFB5c1hNRjBFalRoWXRXSVRGVEhndDBZTFBDY0RpVi1XMHhDcDlzTU1Z?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxObW05NmxqYngzcmhLMFQxd0R4ZXB5Rm5rMmtFOHZHQWNZMjRvc05mN0xYUEpGNDdYeUswTnNGMWJiYXBGVTVrSWdkcG9LTURZakc3X3ZhU0p5Z1FRckVUUjFUbnJGcldKa3dCTnlTTS1LYzFxRk0xVno0SHNQMmdMaG13cmw0NjN5ZzdjRzJvbmktUWhURUpmcVFMQWowdmxsYTM5M0oxM0NWY0YtTWJnTXFCTzJqdjM4OWZrZURvOTVTN2JaUkVCZkdXWGZnVE9aMXpvM0pBeHhMemNoVkVTbnBjZFNVV2pDbXdSdjNzd19QXzctZnVXaUlqdlBqS3pQSDNTbDZkRGNqUFB5c1hNRjBFalRoWXRXSVRGVEhndDBZTFBDY0RpVi1XMHhDcDlzTU1Z?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
           "text": "張文隨機攻擊案37歲銀行員遇害兆豐銀：悲痛不捨",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE55UFhzelZ4eFV1Q2ZoR0p5SGc5cnlkckR6T0dMYVJkVVNXcWRadjRDaGdjeVZnZ0wyUTBBY3BocWZ2eEZ5TWVRUmVyTmVNdXNWTDdFRy1RdmU4UnRUNWRj?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE55UFhzelZ4eFV1Q2ZoR0p5SGc5cnlkckR6T0dMYVJkVVNXcWRadjRDaGdjeVZnZ0wyUTBBY3BocWZ2eEZ5TWVRUmVyTmVNdXNWTDdFRy1RdmU4UnRUNWRj?oc=5",
@@ -162,9 +154,17 @@
           "package": ""
         },
         {
-          "text": "張文恐攻後PO文「下個地點是高雄車站」 男大生落網發文原因曝光",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tTEdWaE1FOWthT04zeGFsMVBWdlAzUGtFYmhpeHl6ajVkbXhncTBlaXJXZmpYYmdHeVFBNWlrWG9nOEppT1RaVl9LQ1Fjb0RvYjFR0gFYQVVfeXFMTmpkVWZwN0RBWXBfS3BkbjRPQ091b3V0eVY2TWJEREtIendOT21xYkZTMkJMTEhKN3BMUTZ4T05rMDJFZV9TaGMxM091bnJFalFoSi1PRGZ3cA?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tTEdWaE1FOWthT04zeGFsMVBWdlAzUGtFYmhpeHl6ajVkbXhncTBlaXJXZmpYYmdHeVFBNWlrWG9nOEppT1RaVl9LQ1Fjb0RvYjFR0gFYQVVfeXFMTmpkVWZwN0RBWXBfS3BkbjRPQ091b3V0eVY2TWJEREtIendOT21xYkZTMkJMTEhKN3BMUTZ4T05rMDJFZV9TaGMxM091bnJFalFoSi1PRGZ3cA?oc=5",
+          "text": "冬至變天！兩波東北季風接力 最低溫恐下探13°C",
+          "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxObW05NmxqYngzcmhLMFQxd0R4ZXB5Rm5rMmtFOHZHQWNZMjRvc05mN0xYUEpGNDdYeUswTnNGMWJiYXBGVTVrSWdkcG9LTURZakc3X3ZhU0p5Z1FRckVUUjFUbnJGcldKa3dCTnlTTS1LYzFxRk0xVno0SHNQMmdMaG13cmw0NjN5ZzdjRzJvbmktUWhURUpmcVFMQWowdmxsYTM5M0oxM0NWY0YtTWJnTXFCTzJqdjM4OWZrZURvOTVTN2JaUkVCZkdXWGZnVE9aMXpvM0pBeHhMemNoVkVTbnBjZFNVV2pDbXdSdjNzd19QXzctZnVXaUlqdlBqS3pQSDNTbDZkRGNqUFB5c1hNRjBFalRoWXRXSVRGVEhndDBZTFBDY0RpVi1XMHhDcDlzTU1Z?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxObW05NmxqYngzcmhLMFQxd0R4ZXB5Rm5rMmtFOHZHQWNZMjRvc05mN0xYUEpGNDdYeUswTnNGMWJiYXBGVTVrSWdkcG9LTURZakc3X3ZhU0p5Z1FRckVUUjFUbnJGcldKa3dCTnlTTS1LYzFxRk0xVno0SHNQMmdMaG13cmw0NjN5ZzdjRzJvbmktUWhURUpmcVFMQWowdmxsYTM5M0oxM0NWY0YtTWJnTXFCTzJqdjM4OWZrZURvOTVTN2JaUkVCZkdXWGZnVE9aMXpvM0pBeHhMemNoVkVTbnBjZFNVV2pDbXdSdjNzd19QXzctZnVXaUlqdlBqS3pQSDNTbDZkRGNqUFB5c1hNRjBFalRoWXRXSVRGVEhndDBZTFBDY0RpVi1XMHhDcDlzTU1Z?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "網路貼文揚言攻擊高雄車站男大生遭拘提5萬元交保",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE41bXVzU1VCZWhHUlJPRnJrNlh3YjdvanA1UklJdWkzRF9TekRaNnZzVTRfTTRRZTVQN0luY2dNVm81YXQtVnByZ05RQjV3VGtlcmJYZC1KTHpHOUJWS293?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE41bXVzU1VCZWhHUlJPRnJrNlh3YjdvanA1UklJdWkzRF9TekRaNnZzVTRfTTRRZTVQN0luY2dNVm81YXQtVnByZ05RQjV3VGtlcmJYZC1KTHpHOUJWS293?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -218,6 +218,14 @@
           "package": ""
         },
         {
+          "text": "台北隨機傷人案引關注高鐵：列車椅墊可拆卸自保",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UcHRXMjJYdjFBWjctd0VYaWhhUUxzTWp3bWVlR204ZllIZ3Z4Z0daMVRiNndxZENJVjZYZkgzYXlsYnU1YWlCUDZuckMtWVJVQng3WVhLWldNRk5CODI4?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UcHRXMjJYdjFBWjctd0VYaWhhUUxzTWp3bWVlR204ZllIZ3Z4Z0daMVRiNndxZENJVjZYZkgzYXlsYnU1YWlCUDZuckMtWVJVQng3WVhLWldNRk5CODI4?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
           "text": "南非大規模槍擊案下修至9死10傷 警：約12人犯案持續緝凶中",
           "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxPVXQ3ZFdhcWp6M3MxMno1a1EyTEJiV3lQT0VneHdUazdXclY2WmtOeHF4WUNndjFFRzcyUFpEQTVxUFNJNzVZTFFKRldKc05NRThnakYycm5mQ3dIaTZLc1dZT3pCaEVxYm5yQlNobzZBNkNIeS1XUlVZM3JIbXJPY184LWdRbXJhTHkwSHJEUG9jQlJkU1VKZ19IRGY1WkwwSGZRS19CZkM5Q3B5Q2pNVmRqb1lzQ2xsWDZ3TnRIbG9XdFdtZXF0blloVHZnOVVWaFItWTk1d0I3RTYzel9KSTFleGtKWk5XMENmRWdPNXI1c21HdEFEbFRFVm42bUVnejF3X1k2Sk5kX3ZQUGU3UVpjNDNjN0xZNXZCMUwzUE80Zlo3emdtZzVWajJlWW5sTThoU1E5aGY4angtMFZDZk05R3JyMmtlUWxmeUN5V2pSVy1rUDhpTDdTYUdYTl9mc0J6aERrYkxxUXNmSUMyajJCakRYQ2FrODc0?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxPVXQ3ZFdhcWp6M3MxMno1a1EyTEJiV3lQT0VneHdUazdXclY2WmtOeHF4WUNndjFFRzcyUFpEQTVxUFNJNzVZTFFKRldKc05NRThnakYycm5mQ3dIaTZLc1dZT3pCaEVxYm5yQlNobzZBNkNIeS1XUlVZM3JIbXJPY184LWdRbXJhTHkwSHJEUG9jQlJkU1VKZ19IRGY1WkwwSGZRS19CZkM5Q3B5Q2pNVmRqb1lzQ2xsWDZ3TnRIbG9XdFdtZXF0blloVHZnOVVWaFItWTk1d0I3RTYzel9KSTFleGtKWk5XMENmRWdPNXI1c21HdEFEbFRFVm42bUVnejF3X1k2Sk5kX3ZQUGU3UVpjNDNjN0xZNXZCMUwzUE80Zlo3emdtZzVWajJlWW5sTThoU1E5aGY4angtMFZDZk05R3JyMmtlUWxmeUN5V2pSVy1rUDhpTDdTYUdYTl9mc0J6aERrYkxxUXNmSUMyajJCakRYQ2FrODc0?oc=5",
@@ -242,9 +250,9 @@
           "package": ""
         },
         {
-          "text": "日本北海道連3震！半小時內狂搖最大震度3",
-          "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOQ2h6UDdJZHpsTzFLUVVDZXNjbHVCOVFYdnRuZGU0VUZRM0JveGw2OS14MktlbXBSbjEzUUpqVzNrR3dJMkRMRjQzZlJKaTFUTWRBY1dwb1NXU0VYWE5vdERGRWwtTlJsTVV1aE0xbXpJcGNqUkQ0bkU0TUpSWEo1aDlCYUs1c1NMZENBbXBrVXktY0NUVWpuZHpXQXk4eGNoYkxnR3NCLXpqandrV1VNZ2M0ZGpEeE5ZRklfa0d1dlpPVExhbFBHZHdyQ09sRXlvY0xBdVNrR3FqRmctejR5MmVjSHNJUFY2dmFaanNRWkNVTmtKb1VJLXhnal9MeThKYXozcmhRQklaQVJ1Zkp0TkNBQjNxZnhRZU43X3dKZTRvams?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOQ2h6UDdJZHpsTzFLUVVDZXNjbHVCOVFYdnRuZGU0VUZRM0JveGw2OS14MktlbXBSbjEzUUpqVzNrR3dJMkRMRjQzZlJKaTFUTWRBY1dwb1NXU0VYWE5vdERGRWwtTlJsTVV1aE0xbXpJcGNqUkQ0bkU0TUpSWEo1aDlCYUs1c1NMZENBbXBrVXktY0NUVWpuZHpXQXk4eGNoYkxnR3NCLXpqandrV1VNZ2M0ZGpEeE5ZRklfa0d1dlpPVExhbFBHZHdyQ09sRXlvY0xBdVNrR3FqRmctejR5MmVjSHNJUFY2dmFaanNRWkNVTmtKb1VJLXhnal9MeThKYXozcmhRQklaQVJ1Zkp0TkNBQjNxZnhRZU43X3dKZTRvams?oc=5",
+          "text": "日官員拋擁核論美國務院表態了- 國際",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BQUFxejQ0Rm5BZEY0eUNHZURFcGlTb0RYMUxKZGFDemtMQjY1M3J3aTJmQnI5ME1lRDc4bUZfRFVybkRGMFBudUhlcTVUeU55cnhQWHhwVHA2ZlRlelVybVhYM0k1TTAzLWcxd1ZB?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BQUFxejQ0Rm5BZEY0eUNHZURFcGlTb0RYMUxKZGFDemtMQjY1M3J3aTJmQnI5ME1lRDc4bUZfRFVybkRGMFBudUhlcTVUeU55cnhQWHhwVHA2ZlRlelVybVhYM0k1TTAzLWcxd1ZB?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -253,14 +261,6 @@
           "text": "金融時報：中國升級ASML舊款DUV元件 提高AI晶片產量",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VdVF0Y1hrR3VyQ0xlRG9oUDlidEctalJjVFlWRGZ5TWEyRXhNSlpLc0VPQ3IyS0VHUmpsei04SnJhTWh1MHQ1OVZTQ0hxNkxMZWxNRzlqcnBleUZrdnFF0gFkQVVfeXFMTWliemRFam5BZ1VBRGstU3RiTEdrci00elpWS25ER1JJamxicEZ2QkYwWEgxQXlJTHVQQ0xEVEh4QVRCdFl0RG9mWFdzRlRHcGhIY250VFA5NExfeWpLNk00SFRwNg?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VdVF0Y1hrR3VyQ0xlRG9oUDlidEctalJjVFlWRGZ5TWEyRXhNSlpLc0VPQ3IyS0VHUmpsei04SnJhTWh1MHQ1OVZTQ0hxNkxMZWxNRzlqcnBleUZrdnFF0gFkQVVfeXFMTWliemRFam5BZ1VBRGstU3RiTEdrci00elpWS25ER1JJamxicEZ2QkYwWEgxQXlJTHVQQ0xEVEh4QVRCdFl0RG9mWFdzRlRHcGhIY250VFA5NExfeWpLNk00SFRwNg?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "油價連兩周調降 下周汽油、柴油每公升各再調降0.4元",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9oaFVvcFQtRVFRX0xsbFc2Rm1KdUpSTHE0UmJXZWFnZGN2bEx3SDhWSy02bjlYOW5CWkE4V2tsZUt1cmNURnNTbWhaYmZYZGlw0gFWQVVfeXFMUDYtU2plY1lhckJveG1LSFRCdHNLbnlZdUdwSzYxTVVoYm1QZWNXWk1QS0xUR3pnVWxWckNRS0JrYmNWWmxYeV83ZTE2U1RpaThzR1RWV1E?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9oaFVvcFQtRVFRX0xsbFc2Rm1KdUpSTHE0UmJXZWFnZGN2bEx3SDhWSy02bjlYOW5CWkE4V2tsZUt1cmNURnNTbWhaYmZYZGlw0gFWQVVfeXFMUDYtU2plY1lhckJveG1LSFRCdHNLbnlZdUdwSzYxTVVoYm1QZWNXWk1QS0xUR3pnVWxWckNRS0JrYmNWWmxYeV83ZTE2U1RpaThzR1RWV1E?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -273,6 +273,6 @@
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 23,
+  "cost": 17,
   "status": 0
 }
