@@ -146,22 +146,6 @@
       "link_type": "app",
       "data": [
         {
-          "text": "明天愈晚愈冷「低溫探10度」　北台灣防較大雨勢",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xWm1pLWhwdHllQWpLd2dCd2dYazdTNnZxMFZXcE5IaFZGcEVBcV9qcHF0d0ZZYkhGOEV3QXRrWG8zWTlPNXNQdG9oRTNOZElvRHk0ZlhoSmI4dEllX1HSAWhBVV95cUxPYWNPWndRbWRoSUh0aXJWZjZ0NzRramNJR1pFdmxZRG9Ybk13LWNaejBqQkdDMFJkV3ZpdjJZVVNudUpTQ2ViV19LSC10Z0dVdjhOMWNxTTZZZUMzRzZRSC1WMDhjcVJVQg?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xWm1pLWhwdHllQWpLd2dCd2dYazdTNnZxMFZXcE5IaFZGcEVBcV9qcHF0d0ZZYkhGOEV3QXRrWG8zWTlPNXNQdG9oRTNOZElvRHk0ZlhoSmI4dEllX1HSAWhBVV95cUxPYWNPWndRbWRoSUh0aXJWZjZ0NzRramNJR1pFdmxZRG9Ybk13LWNaejBqQkdDMFJkV3ZpdjJZVVNudUpTQ2ViV19LSC10Z0dVdjhOMWNxTTZZZUMzRzZRSC1WMDhjcVJVQg?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "北車獻花寫卡片 署名「張嫌兄長」致歉感謝余媽媽大愛",
-          "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxOc3NkS05vbkxIelVvV0VWdjY1Y1pKLUJnZzVmNkxPNVhlM1gtdjBSYXNmbHFOZC1fcnNmNVF5eVRMWDR2bThrMVl3dHhWZU80NW12RzBLSXVYYVNkZFFlMl8zbjdMWm4xNmQ0Z1YtNGdOYTVZOGRkaUxyQUYwTC1PRzYtLUl0Q3BQZjR5WlA2SkNvZG1RZURnZUFjMjhoSnY1aFQyZXUtek5VaGlWeUFjNzBNWU1uVG1lWGNjczgzWTRtakdfN1JWdy1oYlk3RkgwS3VFRE1fMUV6VnJpX3ZtdmFzejlfNHJfXzJNem1iSDJhX1RpbGk5NkhyZy0ySFpUc0Juc1dvd3Rnb2FLVzZEamNxb0tqVDdyNTJhc1lyVkE3RFdNQmx0aVFoRXI5R2RCWmFTZXl2WU9rb0tQWE12OS1pRGx3RmdBNFREX0JqbWFaamdpTUZUS0E0RWxUSFhrajM4TGRyOFFUVDBielNSSllPVUI?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxOc3NkS05vbkxIelVvV0VWdjY1Y1pKLUJnZzVmNkxPNVhlM1gtdjBSYXNmbHFOZC1fcnNmNVF5eVRMWDR2bThrMVl3dHhWZU80NW12RzBLSXVYYVNkZFFlMl8zbjdMWm4xNmQ0Z1YtNGdOYTVZOGRkaUxyQUYwTC1PRzYtLUl0Q3BQZjR5WlA2SkNvZG1RZURnZUFjMjhoSnY1aFQyZXUtek5VaGlWeUFjNzBNWU1uVG1lWGNjczgzWTRtakdfN1JWdy1oYlk3RkgwS3VFRE1fMUV6VnJpX3ZtdmFzejlfNHJfXzJNem1iSDJhX1RpbGk5NkhyZy0ySFpUc0Juc1dvd3Rnb2FLVzZEamNxb0tqVDdyNTJhc1lyVkE3RFdNQmx0aVFoRXI5R2RCWmFTZXl2WU9rb0tQWE12OS1pRGx3RmdBNFREX0JqbWFaamdpTUZUS0E0RWxUSFhrajM4TGRyOFFUVDBielNSSllPVUI?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
           "text": "台東卑南發生規模6.1地震 最大震度台東縣5弱",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9xOHpFWnZRMGg0QVRQNHdROFhEMzNQaklrRDA3V1pMSktuYUw4eHJJbkRvWnJ6c0NBSWRScXhGcVdLZnBYMjBncXhBdkY2UnFKWkhPdWtZck5SWXl6QUgw?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9xOHpFWnZRMGg0QVRQNHdROFhEMzNQaklrRDA3V1pMSktuYUw4eHJJbkRvWnJ6c0NBSWRScXhGcVdLZnBYMjBncXhBdkY2UnFKWkhPdWtZck5SWXl6QUgw?oc=5",
@@ -170,9 +154,25 @@
           "package": ""
         },
         {
-          "text": "快訊／北市民宅5樓失火　2人全身焦黑明顯死亡",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfNTlBSUw0RmlQc0xydnE3QVdoeHU5NWhlUGJaUXlqMGYxYll1Y0tNSDFxR1dmZ2Naa3Y5QTJvN2RUNHdKVDhaN1g3S0tUdmt2M01HekRBaEpCb08yZ0HSAWhBVV95cUxNaE9IaUJOT0RJUGtmWmxVdUQ4cWVxOHhkT3Zja2k0ekh4N1RYXzhUNE4tRERfeDdNeDYxM2ZBNk1SdWRVTTByZkVmYzFRdFhDWkhGMFA0aXRUb3lWTW5aQUpQMzhPbkZydA?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfNTlBSUw0RmlQc0xydnE3QVdoeHU5NWhlUGJaUXlqMGYxYll1Y0tNSDFxR1dmZ2Naa3Y5QTJvN2RUNHdKVDhaN1g3S0tUdmt2M01HekRBaEpCb08yZ0HSAWhBVV95cUxNaE9IaUJOT0RJUGtmWmxVdUQ4cWVxOHhkT3Zja2k0ekh4N1RYXzhUNE4tRERfeDdNeDYxM2ZBNk1SdWRVTTByZkVmYzFRdFhDWkhGMFA0aXRUb3lWTW5aQUpQMzhPbkZydA?oc=5",
+          "text": "明天愈晚愈冷「低溫探10度」　北台灣防較大雨勢",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xWm1pLWhwdHllQWpLd2dCd2dYazdTNnZxMFZXcE5IaFZGcEVBcV9qcHF0d0ZZYkhGOEV3QXRrWG8zWTlPNXNQdG9oRTNOZElvRHk0ZlhoSmI4dEllX1HSAWhBVV95cUxPYWNPWndRbWRoSUh0aXJWZjZ0NzRramNJR1pFdmxZRG9Ybk13LWNaejBqQkdDMFJkV3ZpdjJZVVNudUpTQ2ViV19LSC10Z0dVdjhOMWNxTTZZZUMzRzZRSC1WMDhjcVJVQg?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xWm1pLWhwdHllQWpLd2dCd2dYazdTNnZxMFZXcE5IaFZGcEVBcV9qcHF0d0ZZYkhGOEV3QXRrWG8zWTlPNXNQdG9oRTNOZElvRHk0ZlhoSmI4dEllX1HSAWhBVV95cUxPYWNPWndRbWRoSUh0aXJWZjZ0NzRramNJR1pFdmxZRG9Ybk13LWNaejBqQkdDMFJkV3ZpdjJZVVNudUpTQ2ViV19LSC10Z0dVdjhOMWNxTTZZZUMzRzZRSC1WMDhjcVJVQg?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "張文哥哥獻花致歉！親筆信提「遭霸凌過往」：承受不了走向踰矩",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9iekVqQzZpcGdrbXNwLV94QzFwTDdRQU0zLWV4bllzRC1SM3RXWm0td1RGU2RFZWtoMmlHSWppZkYyS0Z6SmEwcW0xcEhwYUlsLUREeWtrYkMzY1hwZWfSAWhBVV95cUxOWFNMVGFnWU9IbHdnckdKMEt0S1QySkcxemRpYm05ek5VejFua1FXbk1tSzNtcVRfWTh0bEQtb1FKcnF6VHZOaHNnNXNGaXVxUEVQWnJJNnE3RGJXQ2U1NGZ3by1nUEhOaw?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9iekVqQzZpcGdrbXNwLV94QzFwTDdRQU0zLWV4bllzRC1SM3RXWm0td1RGU2RFZWtoMmlHSWppZkYyS0Z6SmEwcW0xcEhwYUlsLUREeWtrYkMzY1hwZWfSAWhBVV95cUxOWFNMVGFnWU9IbHdnckdKMEt0S1QySkcxemRpYm05ek5VejFua1FXbk1tSzNtcVRfWTh0bEQtb1FKcnF6VHZOaHNnNXNGaXVxUEVQWnJJNnE3RGJXQ2U1NGZ3by1nUEhOaw?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "柯文哲「犯後態度不佳」被求刑28年6月 京華城案辯結明年3/26宣判",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9VelpIMFdzSWYwazFxcm5jMkIzN3dYVHFSblJzdndQaHZ2cWw3ZHhHdWVQbFRzY1pCQ2EzZ3dodG1oQldDX3hLenhCTkM2aVIxS2M1UDNhUTNWWGRqdnZlc2IyMXR5bXVa0gFuQVVfeXFMUFBWVS1BSzlHMTY5RW9UdXNUdS1rZjJaa2ttUzJYRDdKWENrNnN1VXdaU1M1aTVkWjRsVVR0S1E1UjVRcVotMmpJQ3pxTy1TYXY0c2ZTWUZWN2JEYmhPQ0x5SXA2VjR2SVJkdWdfNFE?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9VelpIMFdzSWYwazFxcm5jMkIzN3dYVHFSblJzdndQaHZ2cWw3ZHhHdWVQbFRzY1pCQ2EzZ3dodG1oQldDX3hLenhCTkM2aVIxS2M1UDNhUTNWWGRqdnZlc2IyMXR5bXVa0gFuQVVfeXFMUFBWVS1BSzlHMTY5RW9UdXNUdS1rZjJaa2ttUzJYRDdKWENrNnN1VXdaU1M1aTVkWjRsVVR0S1E1UjVRcVotMmpJQ3pxTy1TYXY0c2ZTWUZWN2JEYmhPQ0x5SXA2VjR2SVJkdWdfNFE?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -194,17 +194,17 @@
           "package": ""
         },
         {
-          "text": "京華城案辯結115年3/26宣判 檢斥柯文哲犯後態度不佳求刑28年6月",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE96OF9ualVKV2s4MXhleEJleHlfeXgxSGU2Q0sxM2MxMW9DbnhPUjZxbktBZkRqbWhLQ3RDSWI1c2hfcHRhSWlUM2pKNnZFN0dqZWRZX01tbW1DZ0ZqS2NR?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE96OF9ualVKV2s4MXhleEJleHlfeXgxSGU2Q0sxM2MxMW9DbnhPUjZxbktBZkRqbWhLQ3RDSWI1c2hfcHRhSWlUM2pKNnZFN0dqZWRZX01tbW1DZ0ZqS2NR?oc=5",
+          "text": "藍委鄭天財涉收業者供養逾7百萬被起訴 具體求刑10年以上",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKUkVhRHRtMmtmS082eDB5bWV0d2JSbTJjaW82STNRbklLZDAtRENKRTlUREsza0ZUaHgxbEs1WkpRbF9FeFgyVHlRMmw3WmMyeF9YT3NMVnZ1TW10RWltQUNEOTg0UEtK0gFuQVVfeXFMTkNEc29ETERiYU92c1VXQnp1NFVFSHFsWV9veE50TXhuTmhueE01NFlaLTIwdnBUbWFWYlE0VjVqeHkwWV9zWlNPMGFlOGs5Y2VWYkNxdWY5RGczaHYzSmZBa1BrenFHU0RpWHIzSmc?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKUkVhRHRtMmtmS082eDB5bWV0d2JSbTJjaW82STNRbklLZDAtRENKRTlUREsza0ZUaHgxbEs1WkpRbF9FeFgyVHlRMmw3WmMyeF9YT3NMVnZ1TW10RWltQUNEOTg0UEtK0gFuQVVfeXFMTkNEc29ETERiYU92c1VXQnp1NFVFSHFsWV9veE50TXhuTmhueE01NFlaLTIwdnBUbWFWYlE0VjVqeHkwWV9zWlNPMGFlOGs5Y2VWYkNxdWY5RGczaHYzSmZBa1BrenFHU0RpWHIzSmc?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "立委鄭天財涉收賄逾700萬元北檢起訴求刑10年以上",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9HY0ZrUnNsYl9JMFFOV1Nfc1ZyRHZDMkZvejgwUWhBYmw2S2RQTGxJc2tCby1MdENuaUMxdTQ4MWoxWDJIbEJqajRZa2pOSVpMMUNUQzJOS1czb2pEUkZv?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9HY0ZrUnNsYl9JMFFOV1Nfc1ZyRHZDMkZvejgwUWhBYmw2S2RQTGxJc2tCby1MdENuaUMxdTQ4MWoxWDJIbEJqajRZa2pOSVpMMUNUQzJOS1czb2pEUkZv?oc=5",
+          "text": "綠營關說大法官被抓包？民眾黨團親赴北檢遞告發狀！",
+          "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxORV91MnVTaXZXMEJjX2xZYlBscTlBTEtrWV9GbEpGTkdqQjRlLVR6TGJzSUxydW9EUkZDQk9KaDhfa3lWWnF3RFB6TXFfQ2JXYVJJQUdHbGJDNGRFejR1aHRZZGJYeFRDOHFXTENKN1B3cGI0ekcyQXNseUdBWjdkakNkOERLSWN4NzQtbmltSEJOdFNheUtIM0pubkFlMU5ZU0l0ZGFRSy01SjlYRDlKblBPMnFBc1Y3RTBXTHlhRktKMFo2dTBCV1lsVlp3Ml9rR0JPcG8yZEUyTGdJOHpMcExHTklhTzFBd3RfakRIdjFUZVE2b2xhZE1XTUhWU0tFVEllS09XN05sLURfQ2c5WjRWRGpBQWZvZ0NfWEhVcEJGMDNjRnpBcFZPQ1JjVEJyM01JTnJ4ekpXMHU2bWs2ME1Bd0RQODJFTzVqc1dFMUtsYi1uYnQ0aDJ5V3k?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxORV91MnVTaXZXMEJjX2xZYlBscTlBTEtrWV9GbEpGTkdqQjRlLVR6TGJzSUxydW9EUkZDQk9KaDhfa3lWWnF3RFB6TXFfQ2JXYVJJQUdHbGJDNGRFejR1aHRZZGJYeFRDOHFXTENKN1B3cGI0ekcyQXNseUdBWjdkakNkOERLSWN4NzQtbmltSEJOdFNheUtIM0pubkFlMU5ZU0l0ZGFRSy01SjlYRDlKblBPMnFBc1Y3RTBXTHlhRktKMFo2dTBCV1lsVlp3Ml9rR0JPcG8yZEUyTGdJOHpMcExHTklhTzFBd3RfakRIdjFUZVE2b2xhZE1XTUhWU0tFVEllS09XN05sLURfQ2c5WjRWRGpBQWZvZ0NfWEhVcEJGMDNjRnpBcFZPQ1JjVEJyM01JTnJ4ekpXMHU2bWs2ME1Bd0RQODJFTzVqc1dFMUtsYi1uYnQ0aDJ5V3k?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -213,14 +213,6 @@
           "text": "國中割頸案判決掀眾怒「乾哥爸媽被肉搜」　全網要求道歉轟：犯後態度多囂張",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZRDZOWnV6dktLcnN2RkVIY0EzX09wXzJ0MVVVektVbGc3bVF4bTNRZ2VnTThzZk15N2ZYa3lSNU8xRFZzYUZidUVDREVWTTFxTTNDRDA3bFVSajTSAWBBVV95cUxPWTNOVm9ETVhXby1yRXlrTGo2b3dzYnczT1dIS2MySnlTQzF0TFVjUF9IZ0JCNkc1b21uaEZBZThHcmRCYW52SVZ6NzNtZUhqY3FZYWtjcktIU1l3cmhXaFc?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZRDZOWnV6dktLcnN2RkVIY0EzX09wXzJ0MVVVektVbGc3bVF4bTNRZ2VnTThzZk15N2ZYa3lSNU8xRFZzYUZidUVDREVWTTFxTTNDRDA3bFVSajTSAWBBVV95cUxPWTNOVm9ETVhXby1yRXlrTGo2b3dzYnczT1dIS2MySnlTQzF0TFVjUF9IZ0JCNkc1b21uaEZBZThHcmRCYW52SVZ6NzNtZUhqY3FZYWtjcktIU1l3cmhXaFc?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "蔡宗珍被獵巫 法界轟司法院漠視",
-          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQMk9QU0x1N1RYSWFzUnJ2N0h4aW1Pd1dvQ2tLaTUxeVpMemlHMkxrV2FmNldmTUpZdlg3SnRfTXc5UlEtRy1SanhMNDR5NnFjMnRNUlBJa0NuUGNYcmdrMjdORGpNUHh6VkItSTlXVXZHeXk0QkF0RXI2YXprS05TMHZMNVdiS3g3V0VFQnVBV3JGdFJnY09WSzdRTC1IbUo4dUlzbkctZU9xLVpSTm1jbkM2V3ZEbW0wekh4amM1REhxdE1XOWw2THYxUm5NSEtXaTlTcVBSX0dDRXpwWG9fZ2k5b25vY1dNemtpSG1NTHQxUnR3em13eGo4b1Q?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQMk9QU0x1N1RYSWFzUnJ2N0h4aW1Pd1dvQ2tLaTUxeVpMemlHMkxrV2FmNldmTUpZdlg3SnRfTXc5UlEtRy1SanhMNDR5NnFjMnRNUlBJa0NuUGNYcmdrMjdORGpNUHh6VkItSTlXVXZHeXk0QkF0RXI2YXprS05TMHZMNVdiS3g3V0VFQnVBV3JGdFJnY09WSzdRTC1IbUo4dUlzbkctZU9xLVpSTm1jbkM2V3ZEbW0wekh4amM1REhxdE1XOWw2THYxUm5NSEtXaTlTcVBSX0dDRXpwWG9fZ2k5b25vY1dNemtpSG1NTHQxUnR3em13eGo4b1Q?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -250,17 +242,25 @@
           "package": ""
         },
         {
-          "text": "華爾街日報：美軍增派特戰部隊進駐加勒比海 川普升高對委內瑞拉壓力",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBxaVhqckh3UUJGX2FmOFUyRW5HUDhWaUR6WG5DczNHaE9MT0pseTVBRDFObV9oZnlwaGJ0VWpCZUR4eldsWmJ0MGo0bTlYUElR0gFWQVVfeXFMTnlQWEplMURlTHNMS2RpZW1NRzF6WkIzUnhEdnhxTUtvNzZLZTA0c19iN04yelN3NzFJY1BIQ09HOVF6OVpka3FhSzJaT0VyTVV6TC1qOGc?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBxaVhqckh3UUJGX2FmOFUyRW5HUDhWaUR6WG5DczNHaE9MT0pseTVBRDFObV9oZnlwaGJ0VWpCZUR4eldsWmJ0MGo0bTlYUElR0gFWQVVfeXFMTnlQWEplMURlTHNMS2RpZW1NRzF6WkIzUnhEdnhxTUtvNzZLZTA0c19iN04yelN3NzFJY1BIQ09HOVF6OVpka3FhSzJaT0VyTVV6TC1qOGc?oc=5",
+          "text": "美國9歲女童頭部中彈陳屍荒野 兇手竟是親生母親",
+          "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPZ2NEaGVnOXczWlVuVW1EZTBxbmhuWEJqeG5adTdkdG9UR0FMVEJMOTk3RGxxVUFwMy0wUDViWkQxdnhfNFBRWXc5c1ZteHppeTFIem9tNFpuZ19iN3ItVGM2RS0yUEdiaDEyTExlRWJLSGc0akpmQWNWTmJ2MUJoMkxCSFpGV2lDRnFQY2RxX200WXNYN1BGR0JhWUZRRGw5MVp5eGlZaExhbkQySUtQdHh3eG1yNGlrRm5JUDY3UEhGMklmUUFiSVlLaFdyZlpNTTVaWi1BTERZZFVERjItSml2OWRnaGlhdVh4RDVlMWNrVjFCQlhQY19TZE5PRWFsT1dMdmpRTHQxZ2NmeGtDX0xUTTdFVXNWOGNpbzY4LXZtdmpWTVJpM0lXbzFjc2dvekhYMFR6NkY5RkhFZ0RvU09LWUkwSjZTMWhPYTlUQlFPQQ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPZ2NEaGVnOXczWlVuVW1EZTBxbmhuWEJqeG5adTdkdG9UR0FMVEJMOTk3RGxxVUFwMy0wUDViWkQxdnhfNFBRWXc5c1ZteHppeTFIem9tNFpuZ19iN3ItVGM2RS0yUEdiaDEyTExlRWJLSGc0akpmQWNWTmJ2MUJoMkxCSFpGV2lDRnFQY2RxX200WXNYN1BGR0JhWUZRRGw5MVp5eGlZaExhbkQySUtQdHh3eG1yNGlrRm5JUDY3UEhGMklmUUFiSVlLaFdyZlpNTTVaWi1BTERZZFVERjItSml2OWRnaGlhdVh4RDVlMWNrVjFCQlhQY19TZE5PRWFsT1dMdmpRTHQxZ2NmeGtDX0xUTTdFVXNWOGNpbzY4LXZtdmpWTVJpM0lXbzFjc2dvekhYMFR6NkY5RkhFZ0RvU09LWUkwSjZTMWhPYTlUQlFPQQ?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "00990A空降主動式ETF漲幅第一連三日奪成交王- 上市櫃",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5BZzFuMzhvdzRLb29ENDl0S2ZaRnBQQTVYRnM4dmFzbWdXelBScThkRGRJR1B5Y0JsRjE4TkNGSHg0V2JHSHo5MmhRVEpfU284YkhUN2t4UXAzYWpyMzlCTHR5UkFqamwxSmc?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5BZzFuMzhvdzRLb29ENDl0S2ZaRnBQQTVYRnM4dmFzbWdXelBScThkRGRJR1B5Y0JsRjE4TkNGSHg0V2JHSHo5MmhRVEpfU284YkhUN2t4UXAzYWpyMzlCTHR5UkFqamwxSmc?oc=5",
+          "text": "《台北股市》外資24日買超前十大 華邦電近7萬張霸榜 追愛陽明、聯電",
+          "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxQMktmOHVjakxlY2xxUzFjaERnOUhhZzhkZ21uSk9GV2pZUkN3QVJaVGZGU3p0WHdQSlpLd0taNUlXRk80SEtlOVVwdFZPUm5lM3lxMmpBTlBIUnh2ZE5wSkNGeS1TVVh3SFBJa0FOU3N6SW1iVWtqd3R1MDFLTzZ0OGJhdkJKWnBTV1dZak9wZWVsZGVHUWo5MmxGSHVORm9pWWp0Q2FoamhabDZHdmVIbVFRTHFFNW41YkZxNzBLU2Zjd2V6RUhVWGxxMVVjcUZVNTdOT1F3Q05VN2VySnF6VlQ0dkxSOVZXbjVIMUFvZGVZTnBtNDFPcW1lQlI0SzU0MzFKOXgxazB6TnJGaGZpUVp2aTk0UlgxTzhUQmFWTFVZLWxQaVdQTGFGYU81Mnhpblg1c3FoWEZHRWxwamxTZGxfaW0tU01lemtVUU9KT3V3WGdqSWEzSkxUX29UYkpLblE5eFhoM2piODk4Z0RJd3ZPMWxxQkR5c1E3eDdBWXM4UmhXbHB6UkQyVFlzcVlQdTVZVktJZXc4cld1?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMinANBVV95cUxQMktmOHVjakxlY2xxUzFjaERnOUhhZzhkZ21uSk9GV2pZUkN3QVJaVGZGU3p0WHdQSlpLd0taNUlXRk80SEtlOVVwdFZPUm5lM3lxMmpBTlBIUnh2ZE5wSkNGeS1TVVh3SFBJa0FOU3N6SW1iVWtqd3R1MDFLTzZ0OGJhdkJKWnBTV1dZak9wZWVsZGVHUWo5MmxGSHVORm9pWWp0Q2FoamhabDZHdmVIbVFRTHFFNW41YkZxNzBLU2Zjd2V6RUhVWGxxMVVjcUZVNTdOT1F3Q05VN2VySnF6VlQ0dkxSOVZXbjVIMUFvZGVZTnBtNDFPcW1lQlI0SzU0MzFKOXgxazB6TnJGaGZpUVp2aTk0UlgxTzhUQmFWTFVZLWxQaVdQTGFGYU81Mnhpblg1c3FoWEZHRWxwamxTZGxfaW0tU01lemtVUU9KT3V3WGdqSWEzSkxUX29UYkpLblE5eFhoM2piODk4Z0RJd3ZPMWxxQkR5c1E3eDdBWXM4UmhXbHB6UkQyVFlzcVlQdTVZVktJZXc4cld1?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "郭哲榮：年底要29000 靠力積電或台積電？",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Sbi1vNnpZTmxXOWt4Ny02LUJnS2tBTEpRRGo1M05haGRKYnVCOHJfbnlpVzBfUURjcWZfX0w5ZkFCMkpoUDlFbmtubWlwdEtBOVJKY3FRUlhvUdIBX0FVX3lxTE10VDdtVXZiYnZLRmROME00RmVJN3FIU0RCRGw0Rkt5Vmx0TFNYbnZ2bVZ6WVlFQk1NaXV4bTNnUUJmRHpCUWlIYXhFNU53X1JBek1saTFUMnFpcV84TFR3?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Sbi1vNnpZTmxXOWt4Ny02LUJnS2tBTEpRRGo1M05haGRKYnVCOHJfbnlpVzBfUURjcWZfX0w5ZkFCMkpoUDlFbmtubWlwdEtBOVJKY3FRUlhvUdIBX0FVX3lxTE10VDdtVXZiYnZLRmROME00RmVJN3FIU0RCRGw0Rkt5Vmx0TFNYbnZ2bVZ6WVlFQk1NaXV4bTNnUUJmRHpCUWlIYXhFNU53X1JBek1saTFUMnFpcV84TFR3?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -273,6 +273,6 @@
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 26,
+  "cost": 28,
   "status": 0
 }
