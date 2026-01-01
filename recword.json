@@ -55,6 +55,14 @@
           "package": ""
         },
         {
+          "text": "跨年夜意外 阿爾卑斯山至少10死",
+          "url": "https://tw.news.yahoo.com/%E7%91%9E%E5%A3%AB%E6%BB%91%E9%9B%AA%E5%8B%9D%E5%9C%B0%E9%85%92%E5%90%A7%E8%B7%A8%E5%B9%B4%E5%A4%9C%E7%88%86%E7%82%B8-%E9%87%80%E8%87%B3%E5%B0%9110%E6%AD%BB10%E5%82%B7-082209496.html",
+          "h5_url": "https://tw.news.yahoo.com/%E7%91%9E%E5%A3%AB%E6%BB%91%E9%9B%AA%E5%8B%9D%E5%9C%B0%E9%85%92%E5%90%A7%E8%B7%A8%E5%B9%B4%E5%A4%9C%E7%88%86%E7%82%B8-%E9%87%80%E8%87%B3%E5%B0%9110%E6%AD%BB10%E5%82%B7-082209496.html",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_yahoo",
+          "package": ""
+        },
+        {
           "text": "北京稱數十國支持軍演 我方回嗆",
           "url": "https://tw.news.yahoo.com/%E4%B8%AD%E5%9C%8B%E7%A8%B1%E6%95%B8%E5%8D%81%E5%9C%8B%E6%94%AF%E6%8C%81%E8%BB%8D%E6%BC%94-%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E6%89%88%E5%BE%9E%E4%B8%AD%E5%9C%8B%E6%8C%91%E9%87%81%E8%A1%8C%E5%BE%91%E4%BF%B1%E5%B1%AC%E7%82%BA%E8%99%8E%E4%BD%9C%E5%80%80-055803789.html",
           "h5_url": "https://tw.news.yahoo.com/%E4%B8%AD%E5%9C%8B%E7%A8%B1%E6%95%B8%E5%8D%81%E5%9C%8B%E6%94%AF%E6%8C%81%E8%BB%8D%E6%BC%94-%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E6%89%88%E5%BE%9E%E4%B8%AD%E5%9C%8B%E6%8C%91%E9%87%81%E8%A1%8C%E5%BE%91%E4%BF%B1%E5%B1%AC%E7%82%BA%E8%99%8E%E4%BD%9C%E5%80%80-055803789.html",
@@ -125,14 +133,6 @@
           "appIconUrl": "",
           "sourceUniqueId": "content_yahoo",
           "package": ""
-        },
-        {
-          "text": "連凍3天 8縣市低溫探10℃以下",
-          "url": "https://tw.news.yahoo.com/8%E7%B8%A3%E5%B8%82%E4%BD%8E%E6%BA%AB%E7%89%B9%E5%A0%B1-%E5%8C%97%E5%8C%97%E5%9F%BA%E7%AD%89%E4%BB%8A%E5%A4%A9%E8%87%B3%E6%98%8E%E6%99%9A%E6%8E%A210%E2%84%83%E4%BB%A5%E4%B8%8B-032733535.html",
-          "h5_url": "https://tw.news.yahoo.com/8%E7%B8%A3%E5%B8%82%E4%BD%8E%E6%BA%AB%E7%89%B9%E5%A0%B1-%E5%8C%97%E5%8C%97%E5%9F%BA%E7%AD%89%E4%BB%8A%E5%A4%A9%E8%87%B3%E6%98%8E%E6%99%9A%E6%8E%A210%E2%84%83%E4%BB%A5%E4%B8%8B-032733535.html",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_yahoo",
-          "package": ""
         }
       ],
       "selectedStatus": false,
@@ -146,33 +146,41 @@
       "link_type": "app",
       "data": [
         {
-          "text": "因應中國2027威脅總統：2026是關鍵將落實和平四大支柱",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBT09KNUJjQ1NHSElSNjdQU19DS0thUEthM3U0cVNKZHI5VjNRRTVPemk4WVBhWUdDdDlNdXBOZ0J2WnJsUGNxbXpvQ2tRNmVOa1ZtckppMHFoeEJLNWxF?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBT09KNUJjQ1NHSElSNjdQU19DS0thUEthM3U0cVNKZHI5VjNRRTVPemk4WVBhWUdDdDlNdXBOZ0J2WnJsUGNxbXpvQ2tRNmVOa1ZtckppMHFoeEJLNWxF?oc=5",
+          "text": "寒潮爆發？ 鄭明典示警：很可能有一波氣溫驟降現象",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBZOGNsaG8yX09UNWZIZ1hPMnlIUC1BTWI5X3hoMFM3MXljRzRGd1NXSkVqamc1d3ZkVldfN0x2SHVyS2RlMmtPWWdZN3dBbHVN0gFWQVVfeXFMUEl2a0VrRGlEOEVrSllPa2VCWF9naENOOHp5NmhmV3gyaVFJdTM5MzFid3hGVTZkcklHTDJ0c2JQRi1sR01zU3pPUWY4ajdEVE5wZmVEbUE?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBZOGNsaG8yX09UNWZIZ1hPMnlIUC1BTWI5X3hoMFM3MXljRzRGd1NXSkVqamc1d3ZkVldfN0x2SHVyS2RlMmtPWWdZN3dBbHVN0gFWQVVfeXFMUEl2a0VrRGlEOEVrSllPa2VCWF9naENOOHp5NmhmV3gyaVFJdTM5MzFid3hGVTZkcklHTDJ0c2JQRi1sR01zU3pPUWY4ajdEVE5wZmVEbUE?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "共軍遠程火箭威脅台灣安全 梅復興提這兩點建議 可降低其成功率",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2UGl4M0FtaVIxNFNITlh0UVhsa3pwTGlHVFQtWVFNeWp3VkxxaFJ5R0RXSXpnaUhYUnVRTWtKbWdMTTRXNFJuemFrWFlnTXlHYmltYzgycGJQRWgwRzl1btIBZkFVX3lxTFBweEVNNXNfY2gtbmhZVFBEaTIwb3c2Rmt5QzdoNzBDOEF5c19nbm82eHM5OTRrNTdJRE0tQzluZUVPTlVwNzRHUFJEekZkLWUyaHVSejE4N0JxakRkNk9rTnpDb043UQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2UGl4M0FtaVIxNFNITlh0UVhsa3pwTGlHVFQtWVFNeWp3VkxxaFJ5R0RXSXpnaUhYUnVRTWtKbWdMTTRXNFJuemFrWFlnTXlHYmltYzgycGJQRWgwRzl1btIBZkFVX3lxTFBweEVNNXNfY2gtbmhZVFBEaTIwb3c2Rmt5QzdoNzBDOEF5c19nbm82eHM5OTRrNTdJRE0tQzluZUVPTlVwNzRHUFJEekZkLWUyaHVSejE4N0JxakRkNk9rTnpDb043UQ?oc=5",
+          "text": "中共軍演結束國防部：仍有機艦擾應變區將適切應處",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5USUN2MTR2eHhvVWZMNHVENHRzQ3BCOVdHYlZsdzd3cVE4Y2ZVN2RGT3lPcV9OUldiR05FVmpRcGg0bkpISWFZbmxZdnRnb1lmWDFiV1NtekQxdXJZZVY0?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5USUN2MTR2eHhvVWZMNHVENHRzQ3BCOVdHYlZsdzd3cVE4Y2ZVN2RGT3lPcV9OUldiR05FVmpRcGg0bkpISWFZbmxZdnRnb1lmWDFiV1NtekQxdXJZZVY0?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "二寶三寶沒來元旦升旗！蔣萬安獨唱國歌…大笑曝缺席原因",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GaGl4ZmJiNkx2blZ3UmlzTy1XTGt2RzdscDdiLW9ldUt4STc3UGdjUUZRbVRhV2hPdkplOHJDMTlzeGFYMm9ldmtzemxLUTA1VTdr?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GaGl4ZmJiNkx2blZ3UmlzTy1XTGt2RzdscDdiLW9ldUt4STc3UGdjUUZRbVRhV2hPdkplOHJDMTlzeGFYMm9ldmtzemxLUTA1VTdr?oc=5",
+          "text": "賴總統元旦談話 聚焦兩岸、總預算",
+          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQbUhYa0dCaU9SQVdSbjlScUpoSGZQeU8tVDZxd2poU1FRZXVmNm1EaWxRcVBaRFhlWXdmZkU0ZDdIYkdUU0lseC1wQ2QwOERNWWE3Si1Ub0NTQ1NZS1VvRkMzT1RiTHFfYmtfR0xmaTBCa05OSDZrTmV2VjdwSWRWVVlPTUNySjg1N0k2YnhiYXJZNnVKS0tFdTBTb2JCZjkwMTd6X29MV2R6Zi1YMGZXX1JqOUJMYUZrRGlJclBidUoxUk52Y1BxTDdjNXdaYzFiNmpab0Y3MDVwcE9XX2NKTVk3dmZLZ1lQVTRhcUh5TE1OS0FMNUpCMW8yWlBFeWFsTzBpemZB?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQbUhYa0dCaU9SQVdSbjlScUpoSGZQeU8tVDZxd2poU1FRZXVmNm1EaWxRcVBaRFhlWXdmZkU0ZDdIYkdUU0lseC1wQ2QwOERNWWE3Si1Ub0NTQ1NZS1VvRkMzT1RiTHFfYmtfR0xmaTBCa05OSDZrTmV2VjdwSWRWVVlPTUNySjg1N0k2YnhiYXJZNnVKS0tFdTBTb2JCZjkwMTd6X29MV2R6Zi1YMGZXX1JqOUJMYUZrRGlJclBidUoxUk52Y1BxTDdjNXdaYzFiNmpab0Y3MDVwcE9XX2NKTVk3dmZLZ1lQVTRhcUh5TE1OS0FMNUpCMW8yWlBFeWFsTzBpemZB?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "迎接2026！ 全台跨年晚會、煙火秀 「活動懶人包」一次看",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1TZUVXeDNmTXJwQi1YNHRGZFJKUmxhUXBqdDJhWF9xeFRjQkNvVlFrLWphbGZvdjBFXy1iVFQteFRwd3JMRTEtYVd4SU1UdVVRM3dLUHd1Zm5mWGRjSEFNVGUwTnbSAWpBVV95cUxPUlBMZlJnV3ZnUDBZRlhQeHpyc2dOaUtZTW9EVlkxZVVfTm12R19YUFU3akZGaUprVkpTVjFvMGIwUFUyaURnRzBkSGZxU2ExanZ3M19Hc09UOEl1RXhSR2pMeGJhUzZBMDB3?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1TZUVXeDNmTXJwQi1YNHRGZFJKUmxhUXBqdDJhWF9xeFRjQkNvVlFrLWphbGZvdjBFXy1iVFQteFRwd3JMRTEtYVd4SU1UdVVRM3dLUHd1Zm5mWGRjSEFNVGUwTnbSAWpBVV95cUxPUlBMZlJnV3ZnUDBZRlhQeHpyc2dOaUtZTW9EVlkxZVVfTm12R19YUFU3akZGaUprVkpTVjFvMGIwUFUyaURnRzBkSGZxU2ExanZ3M19Hc09UOEl1RXhSR2pMeGJhUzZBMDB3?oc=5",
+          "text": "快訊／悲傷跨年夜！高雄男騎士遭工程車輾斃 肇事司機跪地痛哭",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zZ1F6OEpLZkEtcEg0TUNFYmFUQUhUc3pwTnloWVVxTXJyaFVsQXJUZ2s0MVVCVVlWOWk3NjBfVUh5LVFoTUlmN2RtMi0tdUU?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zZ1F6OEpLZkEtcEg0TUNFYmFUQUhUc3pwTnloWVVxTXJyaFVsQXJUZ2s0MVVCVVlWOWk3NjBfVUh5LVFoTUlmN2RtMi0tdUU?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "賴清德元旦大發飆 怒嗆彈劾浪費時間",
+          "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOM0lhQ1RtbUdpWDNhMXRPelFueTlvUnRpbkVhbVVrRlAxdUlCWC00bHgzOFNCWWx0d0ZIMDFTZWFDUEk0dk9SXzIyb2RkWUxhVmRTTGdDM29aejlVaXJ2UHdvUkFaWWVVaEpwUGtWeDhyWTRSTmtyVmU3amdqWUdqTUR3VE8zUjF4ZlVzaV9raWpSUDV6Zi1QbnFoUm9FZ19FZTloTkdNZk9XSTl5c29IekFCN09VZjhBUS1yN0FXcXkyMzJpWHotTGd4dlBzczRpczBrYWVnSFVYRFNyY3dhMnBneVFmU3k3UWNpRDQwRkQzOU5KZEl5YldLQVQ0bWZnVHVDMEdya1prSFltcENnaDdtZXQ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOM0lhQ1RtbUdpWDNhMXRPelFueTlvUnRpbkVhbVVrRlAxdUlCWC00bHgzOFNCWWx0d0ZIMDFTZWFDUEk0dk9SXzIyb2RkWUxhVmRTTGdDM29aejlVaXJ2UHdvUkFaWWVVaEpwUGtWeDhyWTRSTmtyVmU3amdqWUdqTUR3VE8zUjF4ZlVzaV9raWpSUDV6Zi1QbnFoUm9FZ19FZTloTkdNZk9XSTl5c29IekFCN09VZjhBUS1yN0FXcXkyMzJpWHotTGd4dlBzczRpczBrYWVnSFVYRFNyY3dhMnBneVFmU3k3UWNpRDQwRkQzOU5KZEl5YldLQVQ0bWZnVHVDMEdya1prSFltcENnaDdtZXQ?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -186,17 +194,9 @@
           "package": ""
         },
         {
-          "text": "總統府元旦升旗！賴清德與韓國瑜握手致意　同場鄭麗文「互動曝光」",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9QU0dwalRsdnRvXzBQS0xyczRkMllIcGUteFNpN3c0WjVRRzFSdGtmcTZCRWdoVWRweVBzc3ZXMHdoSjJoM05wSFNfQzlEUdIBX0FVX3lxTE9YOVk2LUZFeWFFVC1YSUNjQVg5WVVqMlBWM1pGY2t2SGoxTHVWbkEySWlqRzJKT295clVxcnY1bVNibExNbF9oVXBOd1Q5S0dFZG5NcDFqMEhXQW9rYVJ3?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9QU0dwalRsdnRvXzBQS0xyczRkMllIcGUteFNpN3c0WjVRRzFSdGtmcTZCRWdoVWRweVBzc3ZXMHdoSjJoM05wSFNfQzlEUdIBX0FVX3lxTE9YOVk2LUZFeWFFVC1YSUNjQVg5WVVqMlBWM1pGY2t2SGoxTHVWbkEySWlqRzJKT295clVxcnY1bVNibExNbF9oVXBOd1Q5S0dFZG5NcDFqMEhXQW9rYVJ3?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "強烈冷氣團即將抵達…最凍時間點曝 恐探8度嚴寒低溫",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5vX2QxZlRKSG5kczVqVC14VkEzSnZORjhLREs5cUY5QVFwTW1QcWpkMEhqUXdpbXRNNHAwc1U5V2pwd0c1SENNZkk3QjZUTkM5?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5vX2QxZlRKSG5kczVqVC14VkEzSnZORjhLREs5cUY5QVFwTW1QcWpkMEhqUXdpbXRNNHAwc1U5V2pwd0c1SENNZkk3QjZUTkM5?oc=5",
+          "text": "跨年捷運到幾點？台北、高雄、台中、桃園跨年捷運管制時間一次看",
+          "url": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxNTXMzTzRDTE80Y0dKcThHSUpTLTdzRS1LamJHTGpFSlVHV0JjdDBfWXhDTTAzRGp0YW9GckRjU1F6dGFhYXZXNHVWaWVyeFlVenlTOEJidDhtMmFtVWE4RXZMSUJ0RDFtZ2Q3aUsxRXVxbWlnOGxZSkpaSERlMTB1RERwMHZQNC05dnBtWE9kRlRzTTZvNlp6bTNvQ1RoS0I0dTgyUEVncVhKekxIS3dXRk40d3BqZXE5SVdXeUhUc0plRzNJSk5CN2xYSFV3Q1RxcWdJVzBaVUZNZ3Z2T05lWXRRRkNHbjV0azQ5OFo2aDMxYkZzMUJnSWRxcS12LUxpNDlxemlsa3dRcHJRM2hlTGQxVDNCbFVxM05zcUJXUU9MSmhKY1hUcDB0eVNnWHU3bTlQVHpJMEVGVXZyQVJya3J2a0dvbXdmUmtDU3ZVODFsYk9WY2dwZ19TTlNWUUw1S1JNbDhjVmJ3bV9GUDdQSGhCd2V5Y2FjSVozOHNORlczYTl5MFl1MlU4WFVncDN2Tk1LNk4xLVhKMEt1ZENXcGRtVkdUZmJCcEVRYlJHRDFMRkhoQl9hbldzYw?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxNTXMzTzRDTE80Y0dKcThHSUpTLTdzRS1LamJHTGpFSlVHV0JjdDBfWXhDTTAzRGp0YW9GckRjU1F6dGFhYXZXNHVWaWVyeFlVenlTOEJidDhtMmFtVWE4RXZMSUJ0RDFtZ2Q3aUsxRXVxbWlnOGxZSkpaSERlMTB1RERwMHZQNC05dnBtWE9kRlRzTTZvNlp6bTNvQ1RoS0I0dTgyUEVncVhKekxIS3dXRk40d3BqZXE5SVdXeUhUc0plRzNJSk5CN2xYSFV3Q1RxcWdJVzBaVUZNZ3Z2T05lWXRRRkNHbjV0azQ5OFo2aDMxYkZzMUJnSWRxcS12LUxpNDlxemlsa3dRcHJRM2hlTGQxVDNCbFVxM05zcUJXUU9MSmhKY1hUcDB0eVNnWHU3bTlQVHpJMEVGVXZyQVJya3J2a0dvbXdmUmtDU3ZVODFsYk9WY2dwZ19TTlNWUUw1S1JNbDhjVmJ3bV9GUDdQSGhCd2V5Y2FjSVozOHNORlczYTl5MFl1MlU4WFVncDN2Tk1LNk4xLVhKMEt1ZENXcGRtVkdUZmJCcEVRYlJHRDFMRkhoQl9hbldzYw?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -210,9 +210,9 @@
           "package": ""
         },
         {
-          "text": "賴清德元旦大發飆 怒嗆彈劾浪費時間",
-          "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOM0lhQ1RtbUdpWDNhMXRPelFueTlvUnRpbkVhbVVrRlAxdUlCWC00bHgzOFNCWWx0d0ZIMDFTZWFDUEk0dk9SXzIyb2RkWUxhVmRTTGdDM29aejlVaXJ2UHdvUkFaWWVVaEpwUGtWeDhyWTRSTmtyVmU3amdqWUdqTUR3VE8zUjF4ZlVzaV9raWpSUDV6Zi1QbnFoUm9FZ19FZTloTkdNZk9XSTl5c29IekFCN09VZjhBUS1yN0FXcXkyMzJpWHotTGd4dlBzczRpczBrYWVnSFVYRFNyY3dhMnBneVFmU3k3UWNpRDQwRkQzOU5KZEl5YldLQVQ0bWZnVHVDMEdya1prSFltcENnaDdtZXQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOM0lhQ1RtbUdpWDNhMXRPelFueTlvUnRpbkVhbVVrRlAxdUlCWC00bHgzOFNCWWx0d0ZIMDFTZWFDUEk0dk9SXzIyb2RkWUxhVmRTTGdDM29aejlVaXJ2UHdvUkFaWWVVaEpwUGtWeDhyWTRSTmtyVmU3amdqWUdqTUR3VE8zUjF4ZlVzaV9raWpSUDV6Zi1QbnFoUm9FZ19FZTloTkdNZk9XSTl5c29IekFCN09VZjhBUS1yN0FXcXkyMzJpWHotTGd4dlBzczRpczBrYWVnSFVYRFNyY3dhMnBneVFmU3k3UWNpRDQwRkQzOU5KZEl5YldLQVQ0bWZnVHVDMEdya1prSFltcENnaDdtZXQ?oc=5",
+          "text": "鄭麗文參加總統府前升旗典禮 開心與韓國瑜自拍",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5fRU8tbjd4cVpSM2JLSnZKWkE4b1ZqU3dQQzlYRUJxbmo5bXo4VmoxZEd4Q21PampiMnZTYXhXaWlLRG8xcmQtY2oyZFJsdDFO0gFWQVVfeXFMUFF5TFBjUG1vMVNuVWFGYmcydjl1UGhCMWR1NjgybWtfUDdEa25wVHJsd3FmS2dNbDVmVTdZOVV0NExWOGtNZ2g2YklEbngybkdKMWxNdHc?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5fRU8tbjd4cVpSM2JLSnZKWkE4b1ZqU3dQQzlYRUJxbmo5bXo4VmoxZEd4Q21PampiMnZTYXhXaWlLRG8xcmQtY2oyZFJsdDFO0gFWQVVfeXFMUFF5TFBjUG1vMVNuVWFGYmcydjl1UGhCMWR1NjgybWtfUDdEa25wVHJsd3FmS2dNbDVmVTdZOVV0NExWOGtNZ2g2YklEbngybkdKMWxNdHc?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -242,9 +242,9 @@
           "package": ""
         },
         {
-          "text": "烏克蘭戰爭持續近四年 普丁新年談話展十足信心",
-          "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNclhnWi12QWVSYzFPZjVnNVBEazE2Nl96STlabmNOX3k3UmRqWXdrVWJyNm9zS2lXZ2RHZkhTYzRFR3AtXzZ1cE9qT2NCZWFlS2stR2RqUUdLU1FxVkdCX2ttekZGZTlVS0pmYVNBWThRak8xSU9uSDV0SmEzVTg3NUdDblFlWFIxcVkwcEwyWVBmVXY1Sjh5dU1qajJNc0o5aHVkeC1mTUhxQU9JR3Npb0dfbHJUNEdzSUgtUC1uNTQzeUlZYkhkbFdvcUM2ZWZ6Z3dNVjNWQktSZ1ZpTWFSOHJEczBQemFGdjJ6TFJzNGJ4U0MyZGhEVGtnX1U1NjhTRUxEY0tVUWlCZ3R4VW5oWTlGdGJVclVqMFNYR0Z0dFEta2czdjR3cFlWaWxEcDJKb1ZXNDE1Y1lDZHR5ZFR5RU5NSV81RGhlMDJrM2J3VWc?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNclhnWi12QWVSYzFPZjVnNVBEazE2Nl96STlabmNOX3k3UmRqWXdrVWJyNm9zS2lXZ2RHZkhTYzRFR3AtXzZ1cE9qT2NCZWFlS2stR2RqUUdLU1FxVkdCX2ttekZGZTlVS0pmYVNBWThRak8xSU9uSDV0SmEzVTg3NUdDblFlWFIxcVkwcEwyWVBmVXY1Sjh5dU1qajJNc0o5aHVkeC1mTUhxQU9JR3Npb0dfbHJUNEdzSUgtUC1uNTQzeUlZYkhkbFdvcUM2ZWZ6Z3dNVjNWQktSZ1ZpTWFSOHJEczBQemFGdjJ6TFJzNGJ4U0MyZGhEVGtnX1U1NjhTRUxEY0tVUWlCZ3R4VW5oWTlGdGJVclVqMFNYR0Z0dFEta2czdjR3cFlWaWxEcDJKb1ZXNDE1Y1lDZHR5ZFR5RU5NSV81RGhlMDJrM2J3VWc?oc=5",
+          "text": "俄羅斯稱普亭官邸遭烏無人機襲擊 美官員質疑目標為軍事設施",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4TUp6elUzWk1hbE5aRllDSXVRYzBkajhEdXpJWm9OclJOUEpUM3FSWjAyTWFzR211SnYwMmNjaWV3dFBtOFpnQjhqbkJPWEZfZnVJ0gFYQVVfeXFMT0o5cnNYZ01mMlF2d1RlZUtBVEZXSHZOejgxN2x5THppRWNLQVZNMHFyd3FtS1F5OFgtZFdHRWtyLUo2ZE02RTZ4XzV3VVpTR3hLcU1DV1ptMA?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4TUp6elUzWk1hbE5aRllDSXVRYzBkajhEdXpJWm9OclJOUEpUM3FSWjAyTWFzR211SnYwMmNjaWV3dFBtOFpnQjhqbkJPWEZfZnVJ0gFYQVVfeXFMT0o5cnNYZ01mMlF2d1RlZUtBVEZXSHZOejgxN2x5THppRWNLQVZNMHFyd3FtS1F5OFgtZFdHRWtyLUo2ZE02RTZ4XzV3VVpTR3hLcU1DV1ptMA?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -273,6 +273,6 @@
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 33,
+  "cost": 42,
   "status": 0
 }
