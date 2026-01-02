@@ -55,6 +55,14 @@
           "package": ""
         },
         {
+          "text": "NCC澄清 未要求補發SIM須報案",
+          "url": "https://tw.news.yahoo.com/sim%E5%8D%A1%E8%A3%9C%E7%99%BC%E8%A6%81%E8%B7%91%E6%B4%BE%E5%87%BA%E6%89%80%EF%BC%9Fncc%EF%BC%9A%E6%9C%AA%E8%A6%81%E6%B1%82%E5%BF%85%E9%A0%88%E5%A0%B1%E6%A1%88-%E5%B0%87%E8%88%87%E9%9B%BB%E4%BF%A1%E6%A5%AD%E8%80%85%E6%BA%9D%E9%80%9A-050228592.html",
+          "h5_url": "https://tw.news.yahoo.com/sim%E5%8D%A1%E8%A3%9C%E7%99%BC%E8%A6%81%E8%B7%91%E6%B4%BE%E5%87%BA%E6%89%80%EF%BC%9Fncc%EF%BC%9A%E6%9C%AA%E8%A6%81%E6%B1%82%E5%BF%85%E9%A0%88%E5%A0%B1%E6%A1%88-%E5%B0%87%E8%88%87%E9%9B%BB%E4%BF%A1%E6%A5%AD%E8%80%85%E6%BA%9D%E9%80%9A-050228592.html",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_yahoo",
+          "package": ""
+        },
+        {
           "text": "嫌未遭霸凌 北市攻擊案最新調查",
           "url": "https://tw.news.yahoo.com/%E5%8C%97%E5%B8%82%E9%9A%A8%E6%A9%9F%E6%94%BB%E6%93%8A%E6%A1%88-%E8%AD%A6%E5%88%9D%E5%88%A4%E5%87%B6%E5%AB%8C%E7%84%A1%E5%85%B1%E7%8A%AF-%E6%9C%AA%E6%9B%BE%E9%81%AD%E9%9C%B8%E5%87%8C-%E7%95%8F%E7%BD%AA%E5%A2%9C%E6%A8%93%E9%9D%9E%E5%A4%B1%E8%B6%B3-042004764.html",
           "h5_url": "https://tw.news.yahoo.com/%E5%8C%97%E5%B8%82%E9%9A%A8%E6%A9%9F%E6%94%BB%E6%93%8A%E6%A1%88-%E8%AD%A6%E5%88%9D%E5%88%A4%E5%87%B6%E5%AB%8C%E7%84%A1%E5%85%B1%E7%8A%AF-%E6%9C%AA%E6%9B%BE%E9%81%AD%E9%9C%B8%E5%87%8C-%E7%95%8F%E7%BD%AA%E5%A2%9C%E6%A8%93%E9%9D%9E%E5%A4%B1%E8%B6%B3-042004764.html",
@@ -90,14 +98,6 @@
           "text": "購物看牙⋯金門人赴陸成日常",
           "url": "https://tw.news.yahoo.com/%E5%B0%8F%E4%B8%89%E9%80%9A25%E5%91%A8%E5%B9%B4-%E8%B3%BC%E7%89%A9%E3%80%81%E7%9C%8B%E7%89%99%E2%8B%AF%E9%87%91%E9%96%80%E4%BA%BA%E8%B5%B4%E9%99%B8%E6%88%90%E6%97%A5%E5%B8%B8-223852832.html",
           "h5_url": "https://tw.news.yahoo.com/%E5%B0%8F%E4%B8%89%E9%80%9A25%E5%91%A8%E5%B9%B4-%E8%B3%BC%E7%89%A9%E3%80%81%E7%9C%8B%E7%89%99%E2%8B%AF%E9%87%91%E9%96%80%E4%BA%BA%E8%B5%B4%E9%99%B8%E6%88%90%E6%97%A5%E5%B8%B8-223852832.html",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_yahoo",
-          "package": ""
-        },
-        {
-          "text": "SIM卡補發得先跑警局 挨轟擾民",
-          "url": "https://tw.news.yahoo.com/%E5%8F%B2%E4%B8%8A%E6%9C%80%E6%93%BE%E6%B0%91-sim%E5%8D%A1%E8%A3%9C%E7%99%BC%E5%85%88%E8%B7%91%E8%AD%A6%E5%B1%80-201000500.html",
-          "h5_url": "https://tw.news.yahoo.com/%E5%8F%B2%E4%B8%8A%E6%9C%80%E6%93%BE%E6%B0%91-sim%E5%8D%A1%E8%A3%9C%E7%99%BC%E5%85%88%E8%B7%91%E8%AD%A6%E5%B1%80-201000500.html",
           "appIconUrl": "",
           "sourceUniqueId": "content_yahoo",
           "package": ""
@@ -154,65 +154,33 @@
           "package": ""
         },
         {
-          "text": "入冬最強冷空氣籠罩！低溫下探7度 吳德榮：下一波挑戰「寒流」",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5YWjctaWZaSjZfam9pcEZYblRCMUF3Tkh3RG1VZjkwX3JTQnhvZFlRMUgwS0tJUjRYdmF1d3pRdDBkZHlhSElxY3lPcjJsYndDeF9GTG1pRDBiR0UxcmtwM2VjS1rSAWpBVV95cUxPN2tOOTc4dE9qRm1RWGtuZC1ldURsNkUxd2Y1R2VJM1ZaeWQ0TGNzaThBRWhXRVRDWXZpYlFTNjFEaURfLVJLUjBCR09mcUJUcEJ0TFV0d0ppQ29BbXl6ZXhlQXdseFBnTVpR?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5YWjctaWZaSjZfam9pcEZYblRCMUF3Tkh3RG1VZjkwX3JTQnhvZFlRMUgwS0tJUjRYdmF1d3pRdDBkZHlhSElxY3lPcjJsYndDeF9GTG1pRDBiR0UxcmtwM2VjS1rSAWpBVV95cUxPN2tOOTc4dE9qRm1RWGtuZC1ldURsNkUxd2Y1R2VJM1ZaeWQ0TGNzaThBRWhXRVRDWXZpYlFTNjFEaURfLVJLUjBCR09mcUJUcEJ0TFV0d0ppQ29BbXl6ZXhlQXdseFBnTVpR?oc=5",
+          "text": "東北季風影響 北北基宜4縣市大雨特報",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1FMnEyTkhtVVpqVDZMT2RPQUF1dkJCMHlwQXFWSnVjZ1NGZTJLa2J1NnB4c3BQOW5FWDRFMGotbkJWYXhkcmxyYmQ1aEJfYzlpbXRjVHhTM3Z3QnZLMWw4c1NnTEzSAWpBVV95cUxPMXZhQi1jNlhrZ0J1bUZ1OEZlR01sZXNmR180SmxtUV9KVi14My1lZ0NoMnNFd2Foc2RtS1FyUFlCWFhkNGFJdVgtVzN0aXNrZjZCV3hZT1dKam1rck1lRm9SWEI3Y0hUajln?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1FMnEyTkhtVVpqVDZMT2RPQUF1dkJCMHlwQXFWSnVjZ1NGZTJLa2J1NnB4c3BQOW5FWDRFMGotbkJWYXhkcmxyYmQ1aEJfYzlpbXRjVHhTM3Z3QnZLMWw4c1NnTEzSAWpBVV95cUxPMXZhQi1jNlhrZ0J1bUZ1OEZlR01sZXNmR180SmxtUV9KVi14My1lZ0NoMnNFd2Foc2RtS1FyUFlCWFhkNGFJdVgtVzN0aXNrZjZCV3hZT1dKam1rck1lRm9SWEI3Y0hUajln?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "賴總統點將》曾任256潛艦戰隊長 趙建國升中將接掌「神祕情報單位」",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE81SlplR1R2MENJczF2RGwyWktKY3pMX1l5WEo4Q1VDWElBUi1yZUhuQUtJelVwRUY4VGJodUtyc3JEZzV2UzBnZUdVeGtfcjM4NGhYZGJ4UV9CVDBtVkx5bdIBZkFVX3lxTFBFc21XMkowSlRZbFJ3TWw3NnlXQldFNDBzQ2hwUUYwNmNUb1N6NUJCdDlUYmRxamdWdmUyRkxhd29KTlpCdlBtcGgzT21RMHcyTFhWYm5jN0dTUmFFbk1sSFQ2Q0NhQQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE81SlplR1R2MENJczF2RGwyWktKY3pMX1l5WEo4Q1VDWElBUi1yZUhuQUtJelVwRUY4VGJodUtyc3JEZzV2UzBnZUdVeGtfcjM4NGhYZGJ4UV9CVDBtVkx5bdIBZkFVX3lxTFBFc21XMkowSlRZbFJ3TWw3NnlXQldFNDBzQ2hwUUYwNmNUb1N6NUJCdDlUYmRxamdWdmUyRkxhd29KTlpCdlBtcGgzT21RMHcyTFhWYm5jN0dTUmFFbk1sSFQ2Q0NhQQ?oc=5",
+          "text": "影／跨年夜百人聚集！瑞士滑雪勝地酒吧爆炸多人死亡 起火畫面曝光",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5JUXotU0pYaHJDY1Npb2RSZUR6WTJoZkR5NzhFYnV3bFhqYkdRU2NpSUo1bjlITktBcTFDTHhSYnM4RDNRRGQxT241OXFtdVYz0gFWQVVfeXFMTTQ2U3Vlcm5BZDM3MjhPMll3RE9zZEtrZnBqWEh5S085bWRkdTQ5VHcwSW5iS3BTblFpZ1RXQmYtLXB4ZVVha1lzMVVYa0daeVRsUHc5X0E?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5JUXotU0pYaHJDY1Npb2RSZUR6WTJoZkR5NzhFYnV3bFhqYkdRU2NpSUo1bjlITktBcTFDTHhSYnM4RDNRRGQxT241OXFtdVYz0gFWQVVfeXFMTTQ2U3Vlcm5BZDM3MjhPMll3RE9zZEtrZnBqWEh5S085bWRkdTQ5VHcwSW5iS3BTblFpZ1RXQmYtLXB4ZVVha1lzMVVYa0daeVRsUHc5X0E?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "瑞士酒吧跨年派對火災約40死115傷目擊者：逃生釀推擠",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1vSTJHNWtxTkx6UE1IT1luM3FLQ2hoRXdGLUpSVk1CdVhJNmx0MmpFYzZ2LXVRNkhpMk1Bb08tYTE4M3I0d3k3NEhtZURlOTh0MFNwUkk1U0JGMnJuU3lz?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1vSTJHNWtxTkx6UE1IT1luM3FLQ2hoRXdGLUpSVk1CdVhJNmx0MmpFYzZ2LXVRNkhpMk1Bb08tYTE4M3I0d3k3NEhtZURlOTh0MFNwUkk1U0JGMnJuU3lz?oc=5",
+          "text": "王夢麟酒駕闖禍　愛女氣炸痛罵：完全無法原諒",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBDOURzUjZtaEd4M3dhaGhVbm5pYkNUQndfaGktanIzOUlRZG5vamUtSFRUeHhxZEY3VVVOSjRHZmFMbkZVSjNiaHE0eFpJaUxtS1RyZWN1eEtfT1dsZkHSAWhBVV95cUxOT0JKTFRTZ2hIUGZMWkZHQWRMSXF0V0U2NDVWblo4ZWF2SERVYTNIRWJlOUhNY2tvUkNNY3ltNTZLUmxOQVlHd2ZSTmRZT1lZODc0SjlSbDRDdkNBR3YwUUdiQlQwU2cxLQ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBDOURzUjZtaEd4M3dhaGhVbm5pYkNUQndfaGktanIzOUlRZG5vamUtSFRUeHhxZEY3VVVOSjRHZmFMbkZVSjNiaHE0eFpJaUxtS1RyZWN1eEtfT1dsZkHSAWhBVV95cUxOT0JKTFRTZ2hIUGZMWkZHQWRMSXF0V0U2NDVWblo4ZWF2SERVYTNIRWJlOUhNY2tvUkNNY3ltNTZLUmxOQVlHd2ZSTmRZT1lZODc0SjlSbDRDdkNBR3YwUUdiQlQwU2cxLQ?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "伊朗經濟困境掀示威潮起因、政府回應與局勢分析一覽",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5saFdnUDFkLTBrenRTZmJUdEktZ3hvZ3E1S1VUa29XSXhLbzdkMlk2UzZRa29GNUQ3X0tJQmxOT25XMFRtbVdudHVybUxMZEs5eEZickhYMExndUxJZGpF?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5saFdnUDFkLTBrenRTZmJUdEktZ3hvZ3E1S1VUa29XSXhLbzdkMlk2UzZRa29GNUQ3X0tJQmxOT25XMFRtbVdudHVybUxMZEs5eEZickhYMExndUxJZGpF?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "王夢麟酒駕認「差點心臟麻痺」 女兒氣炸發聲：酒駕的人全是垃圾",
-          "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxPMUplbWludUFra2NoU0JGSzFFMUE5NVVNQ0V5aTdsWFZXTmVQOGhldjE5MDFSVHpvWm92TVdMc2xiT0VxeGt3aDltd1h3a2x5THgxWktLMjBnbkpfUFk2S3RvN2gtbnFLdjd1dFdDWVhqd3JzQzVrRnpCSzNYQ3RuWEtPUVFMODhyWlZJU2wtemJOZWk3aHpTWkJhQ3JPNk9FdVRUT0VuYmVHbUJRdzYxTkI4a3o2LU81b2d4dzhIYmZMMDRCdlpib2FuMS1kNEozQ1M2anBObVlUZU9IREdDQWNGZzROZlBQbVF6aDlsbnUwRkR4VXI3NnlndTFTVm1SNy1wblJ3UmdCa1ZhTjQ3cmhwNVgzdnZmTFdJRWdWTXlkcklhNzA0alBDbU9iX0NRNGJKOXVVbFhJSkhDQUZjZ0xnT3RCb0N4eUs5MDZON1d5MFN0eTQ1Yzd2dU5hQjdxQlk5dG9mS3NXV3hJUjVCNzZqVVUwWXowQU5CRjJOZzJXbEt0XzJKRFJrcll5VTg?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxPMUplbWludUFra2NoU0JGSzFFMUE5NVVNQ0V5aTdsWFZXTmVQOGhldjE5MDFSVHpvWm92TVdMc2xiT0VxeGt3aDltd1h3a2x5THgxWktLMjBnbkpfUFk2S3RvN2gtbnFLdjd1dFdDWVhqd3JzQzVrRnpCSzNYQ3RuWEtPUVFMODhyWlZJU2wtemJOZWk3aHpTWkJhQ3JPNk9FdVRUT0VuYmVHbUJRdzYxTkI4a3o2LU81b2d4dzhIYmZMMDRCdlpib2FuMS1kNEozQ1M2anBObVlUZU9IREdDQWNGZzROZlBQbVF6aDlsbnUwRkR4VXI3NnlndTFTVm1SNy1wblJ3UmdCa1ZhTjQ3cmhwNVgzdnZmTFdJRWdWTXlkcklhNzA0alBDbU9iX0NRNGJKOXVVbFhJSkhDQUZjZ0xnT3RCb0N4eUs5MDZON1d5MFN0eTQ1Yzd2dU5hQjdxQlk5dG9mS3NXV3hJUjVCNzZqVVUwWXowQU5CRjJOZzJXbEt0XzJKRFJrcll5VTg?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "管碧玲偕海巡官員嗑大餐提7點理由 網轟「朱門酒肉臭」",
-          "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNLTRadFBEVEhuMnl3VXNyd3hYNjhxeEI1SkJ2R1hCLU00Sk84RlZodzJhbGdSQ3RBQmxiNjN1aEZXb3RiU0NVWF84T0VRZkVaLUxZSDJ1bXRKb3k2c2U4YnRjbzIzTnJYRHpNekM4c1RoS01Wak9ha29zaDV6SmI3M2NfakZ0Snc3dFpLa1c4MEdvak0yMlhQd2FSdkNnbndyc2w4NzNwazRvZTRsUTJ4cy04VVVEYW1HN3J1c2NCTDBfOUhET1lsaDl3ZjB5MU82VGJtRTlibjJoRFVuMWJvRW9GUC0zNF8yTFNBMEdaRkRTd0k2WllSN04zNE8xWU15eldIQ0FyeExBd1doRlZRSmt3aE94VlRiTzBSTl9xVnNrNFRXY1RfSGNYZjBzY1paRWFSdFpsLXprYWg4d3IzVXJhT09WYkYxc2ROQ0VKc0N3SGJtcktROWY0YTU5V1k?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNLTRadFBEVEhuMnl3VXNyd3hYNjhxeEI1SkJ2R1hCLU00Sk84RlZodzJhbGdSQ3RBQmxiNjN1aEZXb3RiU0NVWF84T0VRZkVaLUxZSDJ1bXRKb3k2c2U4YnRjbzIzTnJYRHpNekM4c1RoS01Wak9ha29zaDV6SmI3M2NfakZ0Snc3dFpLa1c4MEdvak0yMlhQd2FSdkNnbndyc2w4NzNwazRvZTRsUTJ4cy04VVVEYW1HN3J1c2NCTDBfOUhET1lsaDl3ZjB5MU82VGJtRTlibjJoRFVuMWJvRW9GUC0zNF8yTFNBMEdaRkRTd0k2WllSN04zNE8xWU15eldIQ0FyeExBd1doRlZRSmt3aE94VlRiTzBSTl9xVnNrNFRXY1RfSGNYZjBzY1paRWFSdFpsLXprYWg4d3IzVXJhT09WYkYxc2ROQ0VKc0N3SGJtcktROWY0YTU5V1k?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "賴總統指在野提彈劾浪費時間 蔣萬安反嗆：大罷免就不浪費時間？",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Yd3dKa3BKVUR4SGJTYmRQbFlwazRfbWhoUHJ3Y2NPMGxEVFZ2S04zeFh6bzFuaDRab0RHMUt0LVF2UFpvS0F3c2V2SUhFTzRYN3Nj0gFYQVVfeXFMTXFuMW5JZzFXMmQweTl4LUtZejY5bmN3LXBuV1FzZTZOTE0wSXo4YkFuczgtQ0VCeUNNRlljMVlXcVVtTUQxeTFiaENnMHp1RzJZQUdqbEFHdQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Yd3dKa3BKVUR4SGJTYmRQbFlwazRfbWhoUHJ3Y2NPMGxEVFZ2S04zeFh6bzFuaDRab0RHMUt0LVF2UFpvS0F3c2V2SUhFTzRYN3Nj0gFYQVVfeXFMTXFuMW5JZzFXMmQweTl4LUtZejY5bmN3LXBuV1FzZTZOTE0wSXo4YkFuczgtQ0VCeUNNRlljMVlXcVVtTUQxeTFiaENnMHp1RzJZQUdqbEFHdQ?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "帶領團隊完成雄三飛彈量產部署 徐炎廷博士獲頒國防科技貢獻獎",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5nczIyazJLREFUR0dLQktPMHZ3MDB5QWVVX2hLM2M1RkRoaVdrc3ZTTEZPNTlwT3RpdlR4S21DMjZxREk4SVIyRHl3NjFxdGdLOW5kUDhMT1pyQm5LVndHMNIBZkFVX3lxTE5EVGc2TXJWSXJYU2Zka1pWcnllU0JROW93aDFjRHVJbF9TSHBqVGVvMlB6UHNqOUc3Z2k3V0drbmI3VXNkNzZDN2JVcl9lUW01MEhVa2J1ak1zaVh1WnNzZ0wwSXJIQQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5nczIyazJLREFUR0dLQktPMHZ3MDB5QWVVX2hLM2M1RkRoaVdrc3ZTTEZPNTlwT3RpdlR4S21DMjZxREk4SVIyRHl3NjFxdGdLOW5kUDhMT1pyQm5LVndHMNIBZkFVX3lxTE5EVGc2TXJWSXJYU2Zka1pWcnllU0JROW93aDFjRHVJbF9TSHBqVGVvMlB6UHNqOUc3Z2k3V0drbmI3VXNkNzZDN2JVcl9lUW01MEhVa2J1ak1zaVh1WnNzZ0wwSXJIQQ?oc=5",
+          "text": "痛斥藍白「不辦正事、浪費時間」 賴清德：我不貪不取、彈劾總統目的何在？",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00U0MyUzVYWnNZdGRsMi1mclh3ZlY0Uk4zbklFc1dPQXlyYmYybndDdHJLUll6S2gzSkFqRWN4SUZucS1IcWh2UnhYbXJ2MU42NFUxZ0FQTDFyU3ZndjBiUGpidktuMTE4NVHSAW9BVV95cUxQU0hmYks1REgyRThSQ2NpTWVvRmFQeVQ1WFoyRDBIR0xSZFdTc3RaUWVTamtkYnFGb2t1amxxdjRpcjduYjVrVWFUajdWYW1IMFFpV3NpVEYwdVdRMzE5WDYwQkduaE5mUmVyWGFnY2c?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00U0MyUzVYWnNZdGRsMi1mclh3ZlY0Uk4zbklFc1dPQXlyYmYybndDdHJLUll6S2gzSkFqRWN4SUZucS1IcWh2UnhYbXJ2MU42NFUxZ0FQTDFyU3ZndjBiUGpidktuMTE4NVHSAW9BVV95cUxQU0hmYks1REgyRThSQ2NpTWVvRmFQeVQ1WFoyRDBIR0xSZFdTc3RaUWVTamtkYnFGb2t1amxxdjRpcjduYjVrVWFUajdWYW1IMFFpV3NpVEYwdVdRMzE5WDYwQkduaE5mUmVyWGFnY2c?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -226,6 +194,54 @@
           "package": ""
         },
         {
+          "text": "陸圍台軍演辦惜別餐會惹議 管碧玲再發長文：都坦然接受",
+          "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNVXBuNzk5T1VId2QxYkNMTjM4WW5sT0cwSzAxY25jTC1yVFhtOXNNVVA4NUs5dkVtMzFaeTVTdnVyenVieGlaOV9HVlpJWFZETzlhTW5ETHotLWRwTk9ocnRMdGpPQ20wQmNLQndVUnlhN2JfeDQwMmpoQ3RkWjBEaS1tM1RWd01QNVVjaWF5ZlBxb1VZNFBaUTdKemcwMXhJTy1fakxWRndlcUtEcnNuSWVXVUtqTGlwNkFSMUpvV0RPODRhazBMTUZxd2dPbDRTR2FGS29SZmt0SUNqNWJ5dHlrUFZrSncwWE1lLW5GY3dOXzNNaWFvekQzakROcnl5VTVFUHRDTHpya0dKLXFvNmFJd1A2emQ3eF9jR1BtOGYyNm9YN29SN0Y4VE9ibGJNbTMxTENFQWJVaU54a1pQQlF5X0ZvazhnYTgyNDVQTVZoOHBuakFCZGNaNGxETGVqWFpFbnFHS3JRV2R3TUdoemMtQ0dLZw?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNVXBuNzk5T1VId2QxYkNMTjM4WW5sT0cwSzAxY25jTC1yVFhtOXNNVVA4NUs5dkVtMzFaeTVTdnVyenVieGlaOV9HVlpJWFZETzlhTW5ETHotLWRwTk9ocnRMdGpPQ20wQmNLQndVUnlhN2JfeDQwMmpoQ3RkWjBEaS1tM1RWd01QNVVjaWF5ZlBxb1VZNFBaUTdKemcwMXhJTy1fakxWRndlcUtEcnNuSWVXVUtqTGlwNkFSMUpvV0RPODRhazBMTUZxd2dPbDRTR2FGS29SZmt0SUNqNWJ5dHlrUFZrSncwWE1lLW5GY3dOXzNNaWFvekQzakROcnl5VTVFUHRDTHpya0dKLXFvNmFJd1A2emQ3eF9jR1BtOGYyNm9YN29SN0Y4VE9ibGJNbTMxTENFQWJVaU54a1pQQlF5X0ZvazhnYTgyNDVQTVZoOHBuakFCZGNaNGxETGVqWFpFbnFHS3JRV2R3TUdoemMtQ0dLZw?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "官司賠掉積蓄 柯文哲：要陳佩琪找工作賺點生活費",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9qc2xsdkpXV0RiVWQ3M1BjYzg4QlluQS1QaW5vSmZkMURDcGpOSlVlcXBJa25zODZsMjRXc2ZMdlFuaXRXOFlTYXplNGtyc3dJ0gFWQVVfeXFMTjFhM1FtWHJWYk85aTVUNkNfN2VtdGJBMlFfdkdQNTk0ZGh3WjJIT2h6bW1rUDhXWlVkc1V6Y2xYSTJCdWo5d0d1VnpodFl2SmVaQzFtUVE?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9qc2xsdkpXV0RiVWQ3M1BjYzg4QlluQS1QaW5vSmZkMURDcGpOSlVlcXBJa25zODZsMjRXc2ZMdlFuaXRXOFlTYXplNGtyc3dJ0gFWQVVfeXFMTjFhM1FtWHJWYk85aTVUNkNfN2VtdGJBMlFfdkdQNTk0ZGh3WjJIT2h6bW1rUDhXWlVkc1V6Y2xYSTJCdWo5d0d1VnpodFl2SmVaQzFtUVE?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "蔡正元涉掏空阿波羅公司高院依業務侵占罪判刑3年6月定讞",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1laG14aUwtc0dxUm5UNkZJcGN4X1R0dEtaYm1vaDFRT3NkdDBFdmJDdE5MbHVkVEJwMXhDQlQxbEU5bDJ5YlE0am8zXzhHcFRYdy0zUy05LXBLTXJwNGVF?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1laG14aUwtc0dxUm5UNkZJcGN4X1R0dEtaYm1vaDFRT3NkdDBFdmJDdE5MbHVkVEJwMXhDQlQxbEU5bDJ5YlE0am8zXzhHcFRYdy0zUy05LXBLTXJwNGVF?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "合歡山新年首場雪報到！武嶺、松雪樓如撒銀白糖霜美呆了",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1XcF9qS1VhbEJkTXE5enc2UzBtcjZjR0Qtb0VpTlQxR3ZQYnBQZjNGVWNHbUZpVDh6UTJMV1g0V1VCVkx2VEhWZXdtY3FHVmNR0gFWQVVfeXFMTlJBR0ljTktiWWJvUFlMd2ppTkxsXzlvSFBlNHNtQ0JvczUzN3B3dmthcXg2T2s2WTd4dmxiV2o0eFhZNXdMcTg0dGJaS2VmWGwybmZXZHc?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1XcF9qS1VhbEJkTXE5enc2UzBtcjZjR0Qtb0VpTlQxR3ZQYnBQZjNGVWNHbUZpVDh6UTJMV1g0V1VCVkx2VEhWZXdtY3FHVmNR0gFWQVVfeXFMTlJBR0ljTktiWWJvUFlMd2ppTkxsXzlvSFBlNHNtQ0JvczUzN3B3dmthcXg2T2s2WTd4dmxiV2o0eFhZNXdMcTg0dGJaS2VmWGwybmZXZHc?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "伊朗失控大崩盤！貨幣暴貶慘釀死亡悲劇 140萬里亞爾竟只換1美元",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Ia0d4YzNlQl8xLUZlZ0V6OVhYOVlSYmhBeUhlMGZGUEdwaEVBVk1lM3ZyUXpMcHBwSklNaDNaVHJGY0JyeXVQUW1KZUNpYzNXeW5tdVYyUUlNd3lqN2lF0gFkQVVfeXFMTkpITFBsTk1oRldvclc0VUxuVUV6allHR2RnMVR1TVlHQjFjX083NVRfSzRZWmZNd0Mwa3M0M1JsT0VlMFN0VlB4R0NOSkNsTlZTNTM1VjMtcUNkTUJQRTBwRm1mZw?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Ia0d4YzNlQl8xLUZlZ0V6OVhYOVlSYmhBeUhlMGZGUEdwaEVBVk1lM3ZyUXpMcHBwSklNaDNaVHJGY0JyeXVQUW1KZUNpYzNXeW5tdVYyUUlNd3lqN2lF0gFkQVVfeXFMTkpITFBsTk1oRldvclc0VUxuVUV6allHR2RnMVR1TVlHQjFjX083NVRfSzRZWmZNd0Mwa3M0M1JsT0VlMFN0VlB4R0NOSkNsTlZTNTM1VjMtcUNkTUJQRTBwRm1mZw?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "網紅男廚遭捅3刀亡　前男友「滿身血、拿尖刀」搭電梯畫面曝",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Sem9aa3daT1MzRnVEbExHUUZmdkVRVEVyemFhSGE2VFNhbk4tMEJCeGlKUC1DaHo5NTVUV3AwQ241anlRT0dKN2NDYVFUV2tQNW9HV3dfd25haFVGVkHSAWhBVV95cUxOTkV4VE0xdkI5MW43YzBKSVBLTFdqTWFuUGxzWWN2a3Mxc2VKTzI0cnhmYjZGdVVVWm5UblRZX0pLc1ZzLWt6b1liODRNSHJjRVlFZkF5aDA0S1FwcEpwc0VkSWg3YjlzOQ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Sem9aa3daT1MzRnVEbExHUUZmdkVRVEVyemFhSGE2VFNhbk4tMEJCeGlKUC1DaHo5NTVUV3AwQ241anlRT0dKN2NDYVFUV2tQNW9HV3dfd25haFVGVkHSAWhBVV95cUxOTkV4VE0xdkI5MW43YzBKSVBLTFdqTWFuUGxzWWN2a3Mxc2VKTzI0cnhmYjZGdVVVWm5UblRZX0pLc1ZzLWt6b1liODRNSHJjRVlFZkF5aDA0S1FwcEpwc0VkSWg3YjlzOQ?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
           "text": "CIA認定 普廷栽贓烏克蘭空襲官邸",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1YemlQU0l0dzhCZEczdHBwSmF1YnlyS2cxajFacFVIY1JFRGItTmk4SE0wcFAzOUIyUFNEZERYa19CbGluY1M4NHcxM2paejQ4TEM0S3MydmFsTHJq0gFiQVVfeXFMTmpKYVNnakhyR1l2Y05TSkRGNTBtZDVyeU5MU01PZVRJNy1GYXRFV05IWXcwc1Eyc2lBZ2otVzRLNXRqOGRFRFVyRjZoNDJfNm9Kd2JHMWZkRzRkZnJPekV4YlE?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1YemlQU0l0dzhCZEczdHBwSmF1YnlyS2cxajFacFVIY1JFRGItTmk4SE0wcFAzOUIyUFNEZERYa19CbGluY1M4NHcxM2paejQ4TEM0S3MydmFsTHJq0gFiQVVfeXFMTmpKYVNnakhyR1l2Y05TSkRGNTBtZDVyeU5MU01PZVRJNy1GYXRFV05IWXcwc1Eyc2lBZ2otVzRLNXRqOGRFRFVyRjZoNDJfNm9Kd2JHMWZkRzRkZnJPekV4YlE?oc=5",
@@ -234,25 +250,9 @@
           "package": ""
         },
         {
-          "text": "中共不准跨年活動！上海人不死心「聚集倒數54321」 下秒全場尷尬了",
-          "url": "https://news.google.com/rss/articles/CBMiigNBVV95cUxPRDYyRmFCQk5hVzc1M2RLZXh4dE1SME9keGVubW1tTXZtbUMtNGduZjB4OTFDbjNHRWpfSjFqZ1NvNkVVQnVZeXhDclljbkhLbjBHYjU5TnJLTFYyWEZsQndKWWtkQmhRaWRLNU0xNDB1NWdVYXdKbDRoNHRRdUYxN0Z5VlBkX3p4YkVqc0pSUW5XX1lmM1BOWHRpZUR4WmNFR1FRckhPUXkzby1uUURHclBKT0xXZEI2YWVXMk51cUF3T05SdzN1UG5EQnRWcmFaVFl6c2p5Q3VlUXpmQVJXYVB4Vng4RjVsR3VwaDh6VFJJbTFzUWx2QlFERzllT3o4cWxsM1ZYM2tFdVBpNTNicXpmWmZSMjYxb3ZJenJhcGZncm96QjlPZUxzVE5VRC1jLUlJOGtLYndHUkpGREVqRmZQNnM4TVJZRlpVUk5zOTAyMmtmandWMGpOSmY5RkhnUmU2Sk9hNW5Jd3Y0VTRjamJNY0VrbC1uc2RZZTRqVmlzNC1sSGFJSUZR?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiigNBVV95cUxPRDYyRmFCQk5hVzc1M2RLZXh4dE1SME9keGVubW1tTXZtbUMtNGduZjB4OTFDbjNHRWpfSjFqZ1NvNkVVQnVZeXhDclljbkhLbjBHYjU5TnJLTFYyWEZsQndKWWtkQmhRaWRLNU0xNDB1NWdVYXdKbDRoNHRRdUYxN0Z5VlBkX3p4YkVqc0pSUW5XX1lmM1BOWHRpZUR4WmNFR1FRckhPUXkzby1uUURHclBKT0xXZEI2YWVXMk51cUF3T05SdzN1UG5EQnRWcmFaVFl6c2p5Q3VlUXpmQVJXYVB4Vng4RjVsR3VwaDh6VFJJbTFzUWx2QlFERzllT3o4cWxsM1ZYM2tFdVBpNTNicXpmWmZSMjYxb3ZJenJhcGZncm96QjlPZUxzVE5VRC1jLUlJOGtLYndHUkpGREVqRmZQNnM4TVJZRlpVUk5zOTAyMmtmandWMGpOSmY5RkhnUmU2Sk9hNW5Jd3Y0VTRjamJNY0VrbC1uc2RZZTRqVmlzNC1sSGFJSUZR?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "川普老了嗎？他自信基因好：閉眼是放鬆 聽不清是現場太吵",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Yd0JOWkNaUjd3QzZKa0tpOUZxcXp3ZFFVdHlSZFlPTDZ5VmYwZ1ZmbE1sSDlSWE8tVW4wWFk5WUYtZUN5YWktZ3RIR2t4TTlJa1JvYVphSERPSnVWdnVVcTF30gFnQVVfeXFMTXhIVlBFSnZwTzZVcUdvZUFkakt1dU9EMXJBMW1ZOUVKNjhwRUJuNVRrRmhiNjBLcWNkRlg4RlZBdm5GdDlsNGY3MTg1M1NIeXRQOVdNYUQwcUVScE00UzYxcmpSTFhrOA?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Yd0JOWkNaUjd3QzZKa0tpOUZxcXp3ZFFVdHlSZFlPTDZ5VmYwZ1ZmbE1sSDlSWE8tVW4wWFk5WUYtZUN5YWktZ3RIR2t4TTlJa1JvYVphSERPSnVWdnVVcTF30gFnQVVfeXFMTXhIVlBFSnZwTzZVcUdvZUFkakt1dU9EMXJBMW1ZOUVKNjhwRUJuNVRrRmhiNjBLcWNkRlg4RlZBdm5GdDlsNGY3MTg1M1NIeXRQOVdNYUQwcUVScE00UzYxcmpSTFhrOA?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "北韓慶新年金正恩攜妻女看表演 父女同款皮大衣亮相",
-          "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQS3NxMEIxU2xVdU9VekZzMDFKOFFtWERkdUxwaVcxRGd3bEVzX3o4WHgyUjJYZ0d1VmFsek5ETGFaSnpoQ1hjZEdTTUszbVotU2h5ejJkZUd0OEVtc1VnNHQ0SFJSNFFxUEhvRnE5ZFZXMlM2NjBqMWVLNG9WZW1YMTNJZlRVS214V2dIOWxZR2dxUDdvMmNmQThidlhUZHUxUWFRLVJqRzZwR0tCRHA1UFFETDJqS3RjLWJoWWJmT2w0UlVzNHg0MFBrNmVEaTZjRmgwSzRuYm40UzUzTTlfd21nc25uQm9FVktSODV1dmpCcjVia0xXNG9wYU16aFpQc0hVbFlwTEphNUNsMHo1V0tmZFJVU0JRc2d6SjUwaWdqdklEZDBDekstbGVRNEctOTNyS3NBYU5YQzlDSzI3Q3YxZkRNNGM0aE9WOTZlenNpblF4dXVGOHNxXzVSZFFxU1BLVFRwWDA?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQS3NxMEIxU2xVdU9VekZzMDFKOFFtWERkdUxwaVcxRGd3bEVzX3o4WHgyUjJYZ0d1VmFsek5ETGFaSnpoQ1hjZEdTTUszbVotU2h5ejJkZUd0OEVtc1VnNHQ0SFJSNFFxUEhvRnE5ZFZXMlM2NjBqMWVLNG9WZW1YMTNJZlRVS214V2dIOWxZR2dxUDdvMmNmQThidlhUZHUxUWFRLVJqRzZwR0tCRHA1UFFETDJqS3RjLWJoWWJmT2w0UlVzNHg0MFBrNmVEaTZjRmgwSzRuYm40UzUzTTlfd21nc25uQm9FVktSODV1dmpCcjVia0xXNG9wYU16aFpQc0hVbFlwTEphNUNsMHo1V0tmZFJVU0JRc2d6SjUwaWdqdklEZDBDekstbGVRNEctOTNyS3NBYU5YQzlDSzI3Q3YxZkRNNGM0aE9WOTZlenNpblF4dXVGOHNxXzVSZFFxU1BLVFRwWDA?oc=5",
+          "text": "日本人戴耶誕帽想跳恆河惹火印度民眾？導遊道歉揭真實原因",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlVWJJUkFMT25VNWU3blR4Mk5nb0hKSG1PblJzdUIxQW5OLW1SdVVZUzF2a09ieDhlcnR2eGFJRFpWTHdoeHVRb1dYdFVhb2hl0gFWQVVfeXFMTjVPLVI3RjFWWG9JQ2FFN21pUG9CRll5NmJLYlQ0Si1pX0hUN2gzOFhLVjBQNnZjdnh5UDRReHF2a3dCbGxiZ2Vfa1d3alFab0RSOEZFSnc?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlVWJJUkFMT25VNWU3blR4Mk5nb0hKSG1PblJzdUIxQW5OLW1SdVVZUzF2a09ieDhlcnR2eGFJRFpWTHdoeHVRb1dYdFVhb2hl0gFWQVVfeXFMTjVPLVI3RjFWWG9JQ2FFN21pUG9CRll5NmJLYlQ0Si1pX0hUN2gzOFhLVjBQNnZjdnh5UDRReHF2a3dCbGxiZ2Vfa1d3alFab0RSOEZFSnc?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -273,6 +273,6 @@
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 48,
+  "cost": 29,
   "status": 0
 }
