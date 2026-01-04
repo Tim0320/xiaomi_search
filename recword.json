@@ -79,9 +79,9 @@
           "package": ""
         },
         {
-          "text": "調基本工資 賴承諾今年要破3萬元",
-          "url": "https://tw.news.yahoo.com/%E5%9F%BA%E6%9C%AC%E5%B7%A5%E8%B3%87%E5%86%8D%E4%B8%8A%E8%AA%BF-%E8%B3%B4%E6%B8%85%E5%BE%B7%E5%85%81%E4%BB%8A%E5%B9%B4%E8%A6%81%E7%A0%B43%E8%90%AC%E5%85%83-100343142.html",
-          "h5_url": "https://tw.news.yahoo.com/%E5%9F%BA%E6%9C%AC%E5%B7%A5%E8%B3%87%E5%86%8D%E4%B8%8A%E8%AA%BF-%E8%B3%B4%E6%B8%85%E5%BE%B7%E5%85%81%E4%BB%8A%E5%B9%B4%E8%A6%81%E7%A0%B43%E8%90%AC%E5%85%83-100343142.html",
+          "text": "賴承諾：基本工資今年破3萬元",
+          "url": "https://tw.news.yahoo.com/%E8%B3%B4%E6%B8%85%E5%BE%B7%EF%BC%9A%E5%8F%B0%E7%81%A3%E7%B6%93%E6%BF%9F%E8%A1%A8%E7%8F%BE%E4%BA%AE%E7%9C%BC-%E7%B7%A8930%E5%84%84%E5%85%83%E5%8A%A9%E4%BC%81%E6%A5%AD%E8%BF%8E%E9%97%9C%E7%A8%85%E6%8C%91%E6%88%B0-111526720.html",
+          "h5_url": "https://tw.news.yahoo.com/%E8%B3%B4%E6%B8%85%E5%BE%B7%EF%BC%9A%E5%8F%B0%E7%81%A3%E7%B6%93%E6%BF%9F%E8%A1%A8%E7%8F%BE%E4%BA%AE%E7%9C%BC-%E7%B7%A8930%E5%84%84%E5%85%83%E5%8A%A9%E4%BC%81%E6%A5%AD%E8%BF%8E%E9%97%9C%E7%A8%85%E6%8C%91%E6%88%B0-111526720.html",
           "appIconUrl": "",
           "sourceUniqueId": "content_yahoo",
           "package": ""
@@ -146,6 +146,22 @@
       "link_type": "app",
       "data": [
         {
+          "text": "專家：美國逮捕馬杜洛衝擊中國利益令獨裁者們不安",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5mZjQyU1hjbTk0eFlodEo1eDYxN255YndOYm03ajUwTXJtdGRyamI5cmNUYjB1aVoyZmRxS2N5dkp0M3U1S19KeXNtNl9OazdSTVVqNlNZQWRCV05TYVE?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5mZjQyU1hjbTk0eFlodEo1eDYxN255YndOYm03ajUwTXJtdGRyamI5cmNUYjB1aVoyZmRxS2N5dkp0M3U1S19KeXNtNl9OazdSTVVqNlNZQWRCV05TYVE?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "全球資訊網 - 新聞與公告 - 區域動態 - 中共解放軍臺海周邊海、空域動態",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1IR2lkeWFmYnB6dGh4clVGTXNTSTBUbEI5dWV0MjZhUk1FSUZQUF93Sl9GMkVVeW9JY3RMUEt4TGpaYmNEVkFPcFJYVmx3dHJEcFE?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1IR2lkeWFmYnB6dGh4clVGTXNTSTBUbEI5dWV0MjZhUk1FSUZQUF93Sl9GMkVVeW9JY3RMUEt4TGpaYmNEVkFPcFJYVmx3dHJEcFE?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
           "text": "陸媒曝沈伯洋住處陸委會：將檢討兩岸交流",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uRUVpcWduMFM3UnFaTmtDOWlFY2NFdkYzVXFwMFJPaTcxSUZGLWh2Q3hoVHdlTzhWVElvV0NfQjdUR2dPM2ZFUllHVTF3WXF6M0xyMm85eVVfQ0VGWUE?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uRUVpcWduMFM3UnFaTmtDOWlFY2NFdkYzVXFwMFJPaTcxSUZGLWh2Q3hoVHdlTzhWVElvV0NfQjdUR2dPM2ZFUllHVTF3WXF6M0xyMm85eVVfQ0VGWUE?oc=5",
@@ -170,22 +186,6 @@
           "package": ""
         },
         {
-          "text": "「五大法官新常態」 台高檢主任檢察官籲不值得鼓勵",
-          "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQQ0RDVVliMVZrYnRkQWxaX0ZOOXQ2YUpiY3pRNU1UeTlLYUhsREFmLVBBWVNaU1EyeHMzeWtqRi1KQ2FxYmJubDRXRldmOGk5XzM4YW5Qb2ZMazEtVkdSREt0MlNLcW5ScWtvSkNoTlVBZmZDZlZFTmVicWdBOF9jV3M3Wkk5ZlJ6UzdVWGZBSjlJZkdnbVVDaWJBTGpuTHVpY0FsSzdtQXBRcTB6R0plLWRPUGs3a19GdFRYTU9UUC1jYmMydjIxcWZkbXFDaTJpbXB4SFdCSW9MLXJTd2c5OGJ2cUZOYW1GYUsxd1U3SVFQbUFPMFRPQVZRTmpUZjdjWmg1YUh3TGdrblJkcmpqWGhjTE1YRjh4a0lUcjhFQ2p3cEhvRTNkWER5aGlsdjFqTzAteTRIay11U2RkUUVMcDVmUlZ6RTM2THNkdHl1WUk?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQQ0RDVVliMVZrYnRkQWxaX0ZOOXQ2YUpiY3pRNU1UeTlLYUhsREFmLVBBWVNaU1EyeHMzeWtqRi1KQ2FxYmJubDRXRldmOGk5XzM4YW5Qb2ZMazEtVkdSREt0MlNLcW5ScWtvSkNoTlVBZmZDZlZFTmVicWdBOF9jV3M3Wkk5ZlJ6UzdVWGZBSjlJZkdnbVVDaWJBTGpuTHVpY0FsSzdtQXBRcTB6R0plLWRPUGs3a19GdFRYTU9UUC1jYmMydjIxcWZkbXFDaTJpbXB4SFdCSW9MLXJTd2c5OGJ2cUZOYW1GYUsxd1U3SVFQbUFPMFRPQVZRTmpUZjdjWmg1YUh3TGdrblJkcmpqWGhjTE1YRjh4a0lUcjhFQ2p3cEhvRTNkWER5aGlsdjFqTzAteTRIay11U2RkUUVMcDVmUlZ6RTM2THNkdHl1WUk?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "逾8成公會反彈 護理執業新制喊卡",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA0WHM5S1lXNW8xVXhiT1IxLUMwYVd6cVZLNVZkbUdpN05XRUQ5ZzZiOFFXS0JsSllMazVqamJZaDR3QU9sTF9uRkFqUS1UR0I30gFWQVVfeXFMT1RCcFRzdFhyYnpNQ0V1VzlSb2NreVFyNmprWlZIcmlDVkFPUHdXTzZKUjUteENyZFRXRS04TmYxNjl0dFd2OFNvUWVZWmF5aFBTU3poZnc?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA0WHM5S1lXNW8xVXhiT1IxLUMwYVd6cVZLNVZkbUdpN05XRUQ5ZzZiOFFXS0JsSllMazVqamJZaDR3QU9sTF9uRkFqUS1UR0I30gFWQVVfeXFMT1RCcFRzdFhyYnpNQ0V1VzlSb2NreVFyNmprWlZIcmlDVkFPUHdXTzZKUjUteENyZFRXRS04TmYxNjl0dFd2OFNvUWVZWmF5aFBTU3poZnc?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
           "text": "有2張1000萬！7、8月統一發票「6大獎無人領」　 只剩1天就充公",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBreUUtVHp1QTJuc1hTNHVTb25ieW9GSEx4ZlhnTVZ0N3FHTUVwYno4RWNyYk9pN2xNMGNOeVZkSnU4Q3g0RTlvOTFSREhveWF1emfSAW5BVV95cUxQUmpYZXkxenFoNkJfd2NZSmJaclpvdVU0LW9uQUhwRS1DNDdSbl9QMGpHNm41WDNfQ21rMDFPYWRmbEpxY2hxR012dGlGbXhSaF92aU4tRWs5OVJfMU94dkYxeUJqUnY0ZG84RzNTZw?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBreUUtVHp1QTJuc1hTNHVTb25ieW9GSEx4ZlhnTVZ0N3FHTUVwYno4RWNyYk9pN2xNMGNOeVZkSnU4Q3g0RTlvOTFSREhveWF1emfSAW5BVV95cUxQUmpYZXkxenFoNkJfd2NZSmJaclpvdVU0LW9uQUhwRS1DNDdSbl9QMGpHNm41WDNfQ21rMDFPYWRmbEpxY2hxR012dGlGbXhSaF92aU4tRWs5OVJfMU94dkYxeUJqUnY0ZG84RzNTZw?oc=5",
@@ -194,33 +194,33 @@
           "package": ""
         },
         {
-          "text": "總預算卡關卓揆急了！ 喊話全台22縣市補助款4、5百億還沒著落",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wWjd5SHFJdUZVRi1IekdkZjhiUzdhUUk4XzdsVTdSZTFHT3Vua0NGNGl6RVJkR0NibzdBVHA3T1lRWmdkS2J5aXZmV3F0NmhFYTZF0gFYQVVfeXFMTjhLdlFjeEdsT1BsNE96bmRQNTFfRnFNYnlFRE9TNWUtQVNOWHpqM1VpUU1xSHJxRC1RN2NLQmFSMUpRUUpBOEZmRmJONF9BZVRCWngwUXgtRw?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wWjd5SHFJdUZVRi1IekdkZjhiUzdhUUk4XzdsVTdSZTFHT3Vua0NGNGl6RVJkR0NibzdBVHA3T1lRWmdkS2J5aXZmV3F0NmhFYTZF0gFYQVVfeXFMTjhLdlFjeEdsT1BsNE96bmRQNTFfRnFNYnlFRE9TNWUtQVNOWHpqM1VpUU1xSHJxRC1RN2NLQmFSMUpRUUpBOEZmRmJONF9BZVRCWngwUXgtRw?oc=5",
+          "text": "提案修「兩岸條例」刪除「國家統一前」字眼》林宜瑾：確立台灣、中國對等國與國關係",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rdHFteGhnQzF4NERZOE5NLXVUeWE5M0ZaM1gwVWcxMVpFUGRZTmU2SzV0UU1pRkctX1FNN2c5NTVjZ0hrSUxmbkNoZ0xlMDNncjlnVWJmanZ0M0dtWkxtdNIBZkFVX3lxTE83cnNydkg0dGF1S1FwNkJxR28tckcyNzkyY2hZaEV4WVpHamNTdUlSWFp0c0I0VDQ1SGVLbXQ5RURGWC1DZEViaWRCanlqT0JhdjFCQ0lvdC1XeWVlTUNETk9LQnhhUQ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rdHFteGhnQzF4NERZOE5NLXVUeWE5M0ZaM1gwVWcxMVpFUGRZTmU2SzV0UU1pRkctX1FNN2c5NTVjZ0hrSUxmbkNoZ0xlMDNncjlnVWJmanZ0M0dtWkxtdNIBZkFVX3lxTE83cnNydkg0dGF1S1FwNkJxR28tckcyNzkyY2hZaEV4WVpHamNTdUlSWFp0c0I0VDQ1SGVLbXQ5RURGWC1DZEViaWRCanlqT0JhdjFCQ0lvdC1XeWVlTUNETk9LQnhhUQ?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "川普淡化處理解放軍圍台軍演 陸學者曝美方背後2大盤算",
-          "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxPZ2VqS2lCdmk4VU9JdGpYTnZmZzMtT3ZDVGFTelpXcXFpc1dkNjNod1hmM2M2RXZMcHcyU0tVNDJFUExVY2RUMTFMdVQ3UEx6RDVvSHVvX0pnQzJNLWdXcGE1V3Z5TmNHc3ZMc3ZpQVU5RXVnUnBjd3c3M3lVQ29KRFZaMkFCNDQzblFGWVVRQkYwZUZ0dGl4VzlJay1jWmZ1Y3pta3ZYUlhwUTRxeEtoYjBzd1NjeVAwcjJrQ3hkQTN1RDd2VV9qR3U0UDRFTGRYTWFXRUZfVm1iTHp2aWVDUDZ0QnQ2SlpUXzlMMFFvZHZBMDJONE5pNGR6S2RUNXlIeTJtQzZ3LUdEbzZkd3Y5ZUNMUXAyVlEwc0NEaFpSMWE2eVFsU01qZWxGVy1LM2lBdVdxSElxb283cC1TT2FXTnRBbEdLd1RmdmJyQ1lSWlRrNTNFclZvOXlfN2xXX2pQZURWRDJ6VmktRkFXUEczZXNWbWptUQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxPZ2VqS2lCdmk4VU9JdGpYTnZmZzMtT3ZDVGFTelpXcXFpc1dkNjNod1hmM2M2RXZMcHcyU0tVNDJFUExVY2RUMTFMdVQ3UEx6RDVvSHVvX0pnQzJNLWdXcGE1V3Z5TmNHc3ZMc3ZpQVU5RXVnUnBjd3c3M3lVQ29KRFZaMkFCNDQzblFGWVVRQkYwZUZ0dGl4VzlJay1jWmZ1Y3pta3ZYUlhwUTRxeEtoYjBzd1NjeVAwcjJrQ3hkQTN1RDd2VV9qR3U0UDRFTGRYTWFXRUZfVm1iTHp2aWVDUDZ0QnQ2SlpUXzlMMFFvZHZBMDJONE5pNGR6S2RUNXlIeTJtQzZ3LUdEbzZkd3Y5ZUNMUXAyVlEwc0NEaFpSMWE2eVFsU01qZWxGVy1LM2lBdVdxSElxb283cC1TT2FXTnRBbEdLd1RmdmJyQ1lSWlRrNTNFclZvOXlfN2xXX2pQZURWRDJ6VmktRkFXUEczZXNWbWptUQ?oc=5",
+          "text": "綠營要處理黃國昌？柯文哲警告「別把司法當政治工具」：再搞他我一定焦土政策 | 羅立邦",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBTRlpUR0llcU1WMUItdjV2Nm5BMFVtczhVcHMxeV95N1NNM1FWRFFCSklOQWdrZ2REdE1HdTItZXNLNDBPeGFKdUxueDM0QQ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBTRlpUR0llcU1WMUItdjV2Nm5BMFVtczhVcHMxeV95N1NNM1FWRFFCSklOQWdrZ2REdE1HdTItZXNLNDBPeGFKdUxueDM0QQ?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "政見會登場！林岱樺驚吐「已經死過一次」 承諾送長輩健康手錶",
-          "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxOTFhyLXJzTlFqSS1zNzh0Um5WTFFaSHV6WDlzbnpSdGQyWFd5VHZxQzY5M0M0a1FvQzFWM3dqckVwaE4zcVEtZ2pDX1RjMUZBY1ZMd3RaeEVuS1c5YVE4bU13alFhaWhIUjFpSHFfR0pMLTRaMlBYNzRtNjJfclgtTkl3V1NnZnZiT29yTnhKY3h6WXY4UUxfR1A4RkxCMFFRS2ZTNFlwMUx6NVQxeFllQTQ5RjBadVZPdWt5TTNOZUt4LTNwdzNaYkhSN051N0xoSnVMY3cyMXBVNjVNdFNQYlpzRWVqeE1ZWHAxWUtJUFV4X1R5N2hXMThhaEo2c0QwMzJXNllvakcwOTBzLURhT2VDejFWbFJvYTF6RnhhdTFYN3JzX2laTUVoMHBpMzV6WUIwUFFmLTA5ZWowWFFfMEtpVDZFMVNNbFk1OXFyTDdhQzVJN2hPdHkxWTVBSFFScnJVMTU0eU9MZVk3alFMUFVwWHEyaGRm?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxOTFhyLXJzTlFqSS1zNzh0Um5WTFFaSHV6WDlzbnpSdGQyWFd5VHZxQzY5M0M0a1FvQzFWM3dqckVwaE4zcVEtZ2pDX1RjMUZBY1ZMd3RaeEVuS1c5YVE4bU13alFhaWhIUjFpSHFfR0pMLTRaMlBYNzRtNjJfclgtTkl3V1NnZnZiT29yTnhKY3h6WXY4UUxfR1A4RkxCMFFRS2ZTNFlwMUx6NVQxeFllQTQ5RjBadVZPdWt5TTNOZUt4LTNwdzNaYkhSN051N0xoSnVMY3cyMXBVNjVNdFNQYlpzRWVqeE1ZWHAxWUtJUFV4X1R5N2hXMThhaEo2c0QwMzJXNllvakcwOTBzLURhT2VDejFWbFJvYTF6RnhhdTFYN3JzX2laTUVoMHBpMzV6WUIwUFFmLTA5ZWowWFFfMEtpVDZFMVNNbFk1OXFyTDdhQzVJN2hPdHkxWTVBSFFScnJVMTU0eU9MZVk3alFMUFVwWHEyaGRm?oc=5",
+          "text": "嘆該多看世面…國軍長效飲用水120元 游淑慧貼1照驚呆",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9VX21JR19jVmYydV9oY1JXT0VhZmVGWUFTTW9OdmhKVEVYVmFmUWJCY3AtN0J5YjhuQVZsUkNTclIyd052ZmJzbTZaWkduRGc50gFWQVVfeXFMUHE5NGZwMUFPSWllcEJObU0zcmpYbjNJeFV3azRXNmdEME9vSG9uVDZVRGJLZUFQN0NhOC1jaEJ5WllLZjhBaGdBcmp1Q25FbzB3YU03WGc?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9VX21JR19jVmYydV9oY1JXT0VhZmVGWUFTTW9OdmhKVEVYVmFmUWJCY3AtN0J5YjhuQVZsUkNTclIyd052ZmJzbTZaWkduRGc50gFWQVVfeXFMUHE5NGZwMUFPSWllcEJObU0zcmpYbjNJeFV3azRXNmdEME9vSG9uVDZVRGJLZUFQN0NhOC1jaEJ5WllLZjhBaGdBcmp1Q25FbzB3YU03WGc?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "影／爆垃圾大戰？台中社區廚餘費暴漲7.2倍、3月起沒人收 住戶炸鍋了",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ELU1yZ0RCaE5KMnNKQ0VVUi1LNTlhcDhFWENrdTV1VlU4TEFQLW9TUWtmTnZfajRzZUJiNjhYOENUb2U1QS1zVV9iUUFaYXo20gFWQVVfeXFMTjhMVFdLQXZmaW42U2F6WHpDZ1FlanUwVDk2WkM1ZV9qbzJMaExvVzRMRHgtOEl2WnlEbS0yN0J4Yl9jUUV1S2s4NXpCSnpPOVRuNVJoRkE?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ELU1yZ0RCaE5KMnNKQ0VVUi1LNTlhcDhFWENrdTV1VlU4TEFQLW9TUWtmTnZfajRzZUJiNjhYOENUb2U1QS1zVV9iUUFaYXo20gFWQVVfeXFMTjhMVFdLQXZmaW42U2F6WHpDZ1FlanUwVDk2WkM1ZV9qbzJMaExvVzRMRHgtOEl2WnlEbS0yN0J4Yl9jUUV1S2s4NXpCSnpPOVRuNVJoRkE?oc=5",
+          "text": "強冷空氣6日南下可能達寒流等級吳德榮：低溫探5度以下",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBsZkxSN3lPUGxwcWpkcFdVdjNYLWl4OFRXVm83T3lzODNFS25DUi1LNjA0dVZNd3UzV3AweWtFQkxNQ0xjREpLa1N1YjlTQXRBbzhzMFptM1lobEZRd09n?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBsZkxSN3lPUGxwcWpkcFdVdjNYLWl4OFRXVm83T3lzODNFS25DUi1LNjA0dVZNd3UzV3AweWtFQkxNQ0xjREpLa1N1YjlTQXRBbzhzMFptM1lobEZRd09n?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -250,17 +250,17 @@
           "package": ""
         },
         {
-          "text": "川普2025年已對7國動武！ 美國外交路線全面轉向強硬",
-          "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPWXdCeTk5eDhGTlRJVE5aZTBQZFhzWTEycjk4OVlPQzM5N3ZzUHdNTWNKM1EybnFtMWdNTWYzbHFCT2FEbVdCSGlrMVZYcjJhZ3lSNGZ2SDFJYzBhT2ZEMzB0UlktZ1Rta3U0WGdaYTZiYWVMb1UyYm9RZzZYU3JwSUJTT1QtQmx3cFpkQnFvRkZxS3V0Nk1EdmRzdDh2RlpjcjZJLW9NTXJVNzFSQzdZZ2Q1YlVmNThlaFVnUWRvLWNyc0E3YlNxVVZ6NUx3UlVtcE1pejBTVDNOaDNZN01vOTF4WFZfclFjTGV3ZHd0N3d1bW5tQUVTcjZSUHQtYmhGbk1HVW9RQTlySW5wdGxtenFaUVg0WGVXYmRwVmJCOS1hbUlDMFNpUU9reWhxdHlFSjAxYU9Ba1NsOWlMZnV4V2xORGt6TW1GZ2lr?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPWXdCeTk5eDhGTlRJVE5aZTBQZFhzWTEycjk4OVlPQzM5N3ZzUHdNTWNKM1EybnFtMWdNTWYzbHFCT2FEbVdCSGlrMVZYcjJhZ3lSNGZ2SDFJYzBhT2ZEMzB0UlktZ1Rta3U0WGdaYTZiYWVMb1UyYm9RZzZYU3JwSUJTT1QtQmx3cFpkQnFvRkZxS3V0Nk1EdmRzdDh2RlpjcjZJLW9NTXJVNzFSQzdZZ2Q1YlVmNThlaFVnUWRvLWNyc0E3YlNxVVZ6NUx3UlVtcE1pejBTVDNOaDNZN01vOTF4WFZfclFjTGV3ZHd0N3d1bW5tQUVTcjZSUHQtYmhGbk1HVW9RQTlySW5wdGxtenFaUVg0WGVXYmRwVmJCOS1hbUlDMFNpUU9reWhxdHlFSjAxYU9Ba1NsOWlMZnV4V2xORGt6TW1GZ2lr?oc=5",
+          "text": "活捉馬杜羅關鍵曝 美軍神祕「哨兵」匿蹤機現身 1關鍵洩情資戰實力",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FRkhiLU53Z0lxYzZOSnVUcmZzbzF2TV9oaDFQRVl0bkRhWDI0VGhjeHBhSzNlLS1icnVYQ09YaU40V0MtTWxseUFFZUpINy1Rd0tqd1R2ZU1mc3B0Z29GMNIBZkFVX3lxTE8zVGJ0MXlVUnpMbExtUDhhMWY1WEg5OTBqYkNZNi01djBReG5tUDlCcVZ1X3RSZlBmUVVHMHBQWTdxVldTQTR2RUJRM1V0VFRUb2lTVmVuZ2F0OWNDZ3IwTWdwdUJIQQ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FRkhiLU53Z0lxYzZOSnVUcmZzbzF2TV9oaDFQRVl0bkRhWDI0VGhjeHBhSzNlLS1icnVYQ09YaU40V0MtTWxseUFFZUpINy1Rd0tqd1R2ZU1mc3B0Z29GMNIBZkFVX3lxTE8zVGJ0MXlVUnpMbExtUDhhMWY1WEg5OTBqYkNZNi01djBReG5tUDlCcVZ1X3RSZlBmUVVHMHBQWTdxVldTQTR2RUJRM1V0VFRUb2lTVmVuZ2F0OWNDZ3IwTWdwdUJIQQ?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "財經選讀》陸33歲小鎮青年為何讓Meta豪砸627億拒絕字節跳動、投奔美國有底氣- 財經",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QMVhSNnF6YXVnbGFNWU5xaHd3cEFkUW9ReE5sUnR1SUMxQzdhMWVBSy14VjB0Y1JVMFZTaGpmR1hqVDlMeEpYcEpBbE9tT1ZWNzlNQmpabHhjbDlyOGdETF91bGY0SHRSYlB6cWdB?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QMVhSNnF6YXVnbGFNWU5xaHd3cEFkUW9ReE5sUnR1SUMxQzdhMWVBSy14VjB0Y1JVMFZTaGpmR1hqVDlMeEpYcEpBbE9tT1ZWNzlNQmpabHhjbDlyOGdETF91bGY0SHRSYlB6cWdB?oc=5",
+          "text": "美國生產爆貴！台積電5奈米毛利率剩8%　比台製少賺54個百分點",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xOWV5TnBNMW01TTRjU0Y3T09hYmlyQkZweDQ1R0JPMUE2YXhEOWN0YWxkU29TVFRGZy1vSGE4QjlMMnloanU3Rk9KQzIydlNXYnfSAW5BVV95cUxPN0ctYnFISWhLa1BVUjlXWm5XYmlDbjZwYkZxcmtVWUpUcTFfdWJLXzlneEhfTEpEQlR4U1FBV2dQS3VCcWNHd0NzbWhsNGVmVEU4UW9vSWhIcVdrV2tUd2V6V0pBZXRfek9NNHMzdw?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xOWV5TnBNMW01TTRjU0Y3T09hYmlyQkZweDQ1R0JPMUE2YXhEOWN0YWxkU29TVFRGZy1vSGE4QjlMMnloanU3Rk9KQzIydlNXYnfSAW5BVV95cUxPN0ctYnFISWhLa1BVUjlXWm5XYmlDbjZwYkZxcmtVWUpUcTFfdWJLXzlneEhfTEpEQlR4U1FBV2dQS3VCcWNHd0NzbWhsNGVmVEU4UW9vSWhIcVdrV2tUd2V6V0pBZXRfek9NNHMzdw?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -273,6 +273,6 @@
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 23,
+  "cost": 13,
   "status": 0
 }
