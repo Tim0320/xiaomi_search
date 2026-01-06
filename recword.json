@@ -96,8 +96,8 @@
         },
         {
           "text": "銀價飆漲 馬年紀念幣史上最貴",
-          "url": "https://tw.stock.yahoo.com/news/%E5%8F%B2%E4%B8%8A%E6%9C%80%E8%B2%B4%EF%BC%81%E9%8A%80%E5%83%B9%E9%A3%86-%E5%A4%AE%E8%A1%8C%E9%A6%AC%E5%B9%B4%E7%B4%80%E5%BF%B5%E5%B9%A3%E6%AF%8F%E5%A5%972450%E5%85%83-015529631.html",
-          "h5_url": "https://tw.stock.yahoo.com/news/%E5%8F%B2%E4%B8%8A%E6%9C%80%E8%B2%B4%EF%BC%81%E9%8A%80%E5%83%B9%E9%A3%86-%E5%A4%AE%E8%A1%8C%E9%A6%AC%E5%B9%B4%E7%B4%80%E5%BF%B5%E5%B9%A3%E6%AF%8F%E5%A5%972450%E5%85%83-015529631.html",
+          "url": "https://tw.stock.yahoo.com/news/%E5%8F%B2%E4%B8%8A%E6%9C%80%E8%B2%B4%EF%BC%81%E9%8A%80%E5%83%B9%E9%A3%86-%E5%A4%AE%E8%A1%8C%E9%A6%AC%E5%B9%B4%E5%A5%97%E5%B9%A3%E6%AF%8F%E5%A5%972450%E5%85%83-015529312.html",
+          "h5_url": "https://tw.stock.yahoo.com/news/%E5%8F%B2%E4%B8%8A%E6%9C%80%E8%B2%B4%EF%BC%81%E9%8A%80%E5%83%B9%E9%A3%86-%E5%A4%AE%E8%A1%8C%E9%A6%AC%E5%B9%B4%E5%A5%97%E5%B9%A3%E6%AF%8F%E5%A5%972450%E5%85%83-015529312.html",
           "appIconUrl": "",
           "sourceUniqueId": "content_yahoo",
           "package": ""
@@ -146,9 +146,17 @@
       "link_type": "app",
       "data": [
         {
-          "text": "抓捕馬杜洛　赫格塞斯：近200美軍進入卡拉卡斯",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE95MUlpRHozSlJUMWxvdTNqZkN0cTRZUjRCd20wcVVDMjNKTlJLb1N4V1Q2TzNxZEJRLWh5OTc1RXJlY0FJRl9iX3NWWkxrLU12MFBXeE9KaGdva1hzMXFTd3FWTTBHd9IBa0FVX3lxTFBFTTRnTzFIc0czc2g3dHhCOEh3NGZ2OEh4VlI4UTN5Q2l0emNBWlR5b2tCM3NnZEpaZXo5eFJvZFVfQUNPdXlBcERld1NNVFVmRXlCMUZKNHF6SDc2cnlSa3lXeDhZdjJpbTFv?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE95MUlpRHozSlJUMWxvdTNqZkN0cTRZUjRCd20wcVVDMjNKTlJLb1N4V1Q2TzNxZEJRLWh5OTc1RXJlY0FJRl9iX3NWWkxrLU12MFBXeE9KaGdva1hzMXFTd3FWTTBHd9IBa0FVX3lxTFBFTTRnTzFIc0czc2g3dHhCOEh3NGZ2OEh4VlI4UTN5Q2l0emNBWlR5b2tCM3NnZEpaZXo5eFJvZFVfQUNPdXlBcERld1NNVFVmRXlCMUZKNHF6SDc2cnlSa3lXeDhZdjJpbTFv?oc=5",
+          "text": "急凍4天！　挑戰跌破5℃首波寒流",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1kTEw4VUkyazJtVjNUa0ZpTXZrUVZyU1NFaUJ2QXlWNlBqTXFEY3lCTndUclRlbERSWjNvejNiUDBqMEFKUTZNeFgzanVqUkRJeG5HRF9aUVQ5aVNuRkHSAWhBVV95cUxOak9SUkxQMXFBQ1dXZlJVNzZQR0tVT3VwcGJLb2VObjN4ekpJOUdaSEpRWnJsYnVrbWFHNm5qQUVfbk85TEFxTU42SGJta1FUamEzT19pTHdIU09Ddnc5Ulg0OVJSVGlRdQ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1kTEw4VUkyazJtVjNUa0ZpTXZrUVZyU1NFaUJ2QXlWNlBqTXFEY3lCTndUclRlbERSWjNvejNiUDBqMEFKUTZNeFgzanVqUkRJeG5HRF9aUVQ5aVNuRkHSAWhBVV95cUxOak9SUkxQMXFBQ1dXZlJVNzZQR0tVT3VwcGJLb2VObjN4ekpJOUdaSEpRWnJsYnVrbWFHNm5qQUVfbk85TEFxTU42SGJta1FUamEzT19pTHdIU09Ddnc5Ulg0OVJSVGlRdQ?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "全球資訊網 - 新聞與公告 - 區域動態 - 中共解放軍臺海周邊海、空域動態",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51aFR1NU5EWlV4MnlmTEtyZ2pzYnRJOHI4cmY3cGVjNHRMWDlQQTlvY09hZnFNZnhoNm1OUGg3ZkcxMnVYZjFVY3JKTWY3clUxWUE?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51aFR1NU5EWlV4MnlmTEtyZ2pzYnRJOHI4cmY3cGVjNHRMWDlQQTlvY09hZnFNZnhoNm1OUGg3ZkcxMnVYZjFVY3JKTWY3clUxWUE?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -162,33 +170,25 @@
           "package": ""
         },
         {
-          "text": "強冷空氣南下 吳德榮：7日起平地低溫探5度",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vaW1BTGRoZzJtY0hzd1dqUzhkZzVfT0trRUJSZWktTDMxdG9FQ21saFlKT1hLWTVPUWw1U1hXbnZIcVlMRjRUbkRuQk5RdDh2cVh5UnJOM21sMEVwRGVJ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vaW1BTGRoZzJtY0hzd1dqUzhkZzVfT0trRUJSZWktTDMxdG9FQ21saFlKT1hLWTVPUWw1U1hXbnZIcVlMRjRUbkRuQk5RdDh2cVh5UnJOM21sMEVwRGVJ?oc=5",
+          "text": "外送員專法三讀每筆訂單報酬保底45元隨最低工資調整",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBDcUtMUWhvWDBfdUpGWWk0ZFVuZG1wT3pTbkdCTnllR005VzZPaHd1aWE1cU81SkRSSDBXYWdvbUpzUWlzak5qVGd6Um5qMjRPUE1hUzU5dzlXenUxZXRz?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBDcUtMUWhvWDBfdUpGWWk0ZFVuZG1wT3pTbkdCTnllR005VzZPaHd1aWE1cU81SkRSSDBXYWdvbUpzUWlzak5qVGd6Um5qMjRPUE1hUzU5dzlXenUxZXRz?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "李在明會習近平模糊處理中日、台海等敏感議題",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE56Rms4ZHhkVnpLdzZjemZiVF9RdllSMnVlS2xCcEdZSC1UOFdVaUp5bno1WFdGN3R2cE9BbzhyTUdtYUdiaVdNeFl6SlpsSXZfSnpFT05HWnFXNVJlbDJ3?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE56Rms4ZHhkVnpLdzZjemZiVF9RdllSMnVlS2xCcEdZSC1UOFdVaUp5bno1WFdGN3R2cE9BbzhyTUdtYUdiaVdNeFl6SlpsSXZfSnpFT05HWnFXNVJlbDJ3?oc=5",
+          "text": "集集線1/5復駛兩階段通車！搭小火車重返南投療癒山城，沿途美食、住宿、景點順遊一次推薦",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9sejVHY3E5c0NvV2lEZng0S195V05KWDl2NmtCYTdEdTd4dFNsY1NVejZTcERDbEZRb2JIbjFadXZZTGMwMlViNnFwNUs3Unh3eHgyaA?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9sejVHY3E5c0NvV2lEZng0S195V05KWDl2NmtCYTdEdTd4dFNsY1NVejZTcERDbEZRb2JIbjFadXZZTGMwMlViNnFwNUs3Unh3eHgyaA?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "好市多會費今年4月起調整 估一年可多收費超過40億元",
-          "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxPaVphUkY1eE04ODJWUVVZalFqUXdPaHZ1Z1Z1N3RldEJWdE1hUWl5M1hiWU9fcW1LT1Rka1BnSXJTX0pZS0d5dUpNZ0hHbXM5SkRxOTFvZXFZcVdKcmdpUDdzZGVNNWhaSG5veHR2SHVTRXVyQjFleGM0RmVydFEtZW9jWElhLXRyNWVlT2N3cVBwVkYtOWpZaTFtQzdGWnFnc0tpelFMd2hQYnUwQWgxZWtoNDNzT2RjdDgxaTc5UHUxQ2JaVFFudkhXSnhfVmlzUW1vc0dxaVFhN09OYlF0Z1hDTC1OdTRaUnMxRDFETUlmeVJESUFFeVBIZ0JwcS04SXBKODR1YUNZUmYxUUZDQ2VFQW5WV2tReWFEdGtuOTMzUExaOUpMZDg5bENfMEVHTV91ZzYwX3JneWRkckZCSjJNSWx2RUZQYW9fX1JaczJFa083WV9zRjltZzZXSHhoR25VclF5RVg?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxPaVphUkY1eE04ODJWUVVZalFqUXdPaHZ1Z1Z1N3RldEJWdE1hUWl5M1hiWU9fcW1LT1Rka1BnSXJTX0pZS0d5dUpNZ0hHbXM5SkRxOTFvZXFZcVdKcmdpUDdzZGVNNWhaSG5veHR2SHVTRXVyQjFleGM0RmVydFEtZW9jWElhLXRyNWVlT2N3cVBwVkYtOWpZaTFtQzdGWnFnc0tpelFMd2hQYnUwQWgxZWtoNDNzT2RjdDgxaTc5UHUxQ2JaVFFudkhXSnhfVmlzUW1vc0dxaVFhN09OYlF0Z1hDTC1OdTRaUnMxRDFETUlmeVJESUFFeVBIZ0JwcS04SXBKODR1YUNZUmYxUUZDQ2VFQW5WV2tReWFEdGtuOTMzUExaOUpMZDg5bENfMEVHTV91ZzYwX3JneWRkckZCSjJNSWx2RUZQYW9fX1JaczJFa083WV9zRjltZzZXSHhoR25VclF5RVg?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "黃仁勳經典皮衣升級了！　「鱷魚皮外套」網熱議",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBXZGw4d2lvR1hPRXdKRTdwTXZJV3BRVXFwUXU3RTl2Y1BxbGNSMHp3UEtrclk1TFE1MzBNcHpPV25PZTNHeE9PMDFsQmFvOW5qdFpwSmFGTzRVTTRiVlHSAWhBVV95cUxPMU1OOUQ1ZWhlVkJvajRoZ2FCZ3VPM09vNVVBSnJqLWU4STdhMTV1Z3ZBQTRxeWg3WUM3VVJrdjBueDVsSXZCWkNFcF9DNFJkYVpkUmNBeUxQenRuc09XQkJUV0EtSzFlOQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBXZGw4d2lvR1hPRXdKRTdwTXZJV3BRVXFwUXU3RTl2Y1BxbGNSMHp3UEtrclk1TFE1MzBNcHpPV25PZTNHeE9PMDFsQmFvOW5qdFpwSmFGTzRVTTRiVlHSAWhBVV95cUxPMU1OOUQ1ZWhlVkJvajRoZ2FCZ3VPM09vNVVBSnJqLWU4STdhMTV1Z3ZBQTRxeWg3WUM3VVJrdjBueDVsSXZCWkNFcF9DNFJkYVpkUmNBeUxQenRuc09XQkJUV0EtSzFlOQ?oc=5",
+          "text": "新青安高所得戶破萬件 財部允檢討已展開第5波清查",
+          "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOcV8zVEt6dG5sdkU2ZlNNbm1TNVhaMzZVQWRiMEF1VzdIVG9kc3MwcjdEV25rTWhUNm02WWs3eUthNlRTZ3FWNFNkMEFWVldxaWFTMVhGbVI2X1BmOFlJRlBKM29ieGpFemcydDRNNHlTbWUxem1oV3BUMGp2QTRXRm1GWVBmamlxWVZUQUNRNGdFOFFybmIwSnRBT0w4Zkx3QzFINjNfb25BQ1J5cGxZc3psVDBCWXVqV1MzQ0ZkYlQ2WG5ncFFQZWtoR1FlSzhES1FKT2xGX0tadXljMXA1ZUhTTk5YcExtN2FzQ1dxSFZYYlp4UmNyUW1uOUVtMmZGZHVoTnFTZndEaFNyekdSa1FwTVhwNm5aMzNiNk1iMmFOOUJYOTdlQ1hHRktyb0dyVi1nMGlSdWZoZ2NLOXFRZEhtRHdPa0tzMERWR21aXzBXTGlUMjJkYXN2Zzk4RjZERnRSdUpR?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOcV8zVEt6dG5sdkU2ZlNNbm1TNVhaMzZVQWRiMEF1VzdIVG9kc3MwcjdEV25rTWhUNm02WWs3eUthNlRTZ3FWNFNkMEFWVldxaWFTMVhGbVI2X1BmOFlJRlBKM29ieGpFemcydDRNNHlTbWUxem1oV3BUMGp2QTRXRm1GWVBmamlxWVZUQUNRNGdFOFFybmIwSnRBT0w4Zkx3QzFINjNfb25BQ1J5cGxZc3psVDBCWXVqV1MzQ0ZkYlQ2WG5ncFFQZWtoR1FlSzhES1FKT2xGX0tadXljMXA1ZUhTTk5YcExtN2FzQ1dxSFZYYlp4UmNyUW1uOUVtMmZGZHVoTnFTZndEaFNyekdSa1FwTVhwNm5aMzNiNk1iMmFOOUJYOTdlQ1hHRktyb0dyVi1nMGlSdWZoZ2NLOXFRZEhtRHdPa0tzMERWR21aXzBXTGlUMjJkYXN2Zzk4RjZERnRSdUpR?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -202,33 +202,25 @@
           "package": ""
         },
         {
-          "text": "黃國昌斷點破功1／薪水微薄卻能投資凱思、求真千萬　李麗娟供詞漏洞百出",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11Q3lDMDNSNmwyNlJ0eVVqcWlIckUwMEVMYTJoUVVNRlhxSk9pMU15eXVJeW5nSUl1b0hWNEN6VVBjMEVHeE5zMUhzRmIzTElZU1pZWnJHb0R2RFnSAWBBVV95cUxPUkFtTzNZdGJrSUZUcnZERy1KQUdZcVo2b3JWcnVfWVlXX0xVeGJHTmxCcXF3TU5mVkhIZVFxV3FNRTJBRm1lZlJPMDVscEpJb04xNFo3Z2NFZUEtU3RaUjc?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11Q3lDMDNSNmwyNlJ0eVVqcWlIckUwMEVMYTJoUVVNRlhxSk9pMU15eXVJeW5nSUl1b0hWNEN6VVBjMEVHeE5zMUhzRmIzTElZU1pZWnJHb0R2RFnSAWBBVV95cUxPUkFtTzNZdGJrSUZUcnZERy1KQUdZcVo2b3JWcnVfWVlXX0xVeGJHTmxCcXF3TU5mVkhIZVFxV3FNRTJBRm1lZlJPMDVscEpJb04xNFo3Z2NFZUEtU3RaUjc?oc=5",
+          "text": "民調黃金交叉後再攀巔峰！許智傑有望再拉開領先差距",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5uWnBEZ1hpSmVfQWhOTkpkVTIwWmc1UjhGd0ExRTFPSEpHVF9rOXJhWm5fcUlQUVJrOGtRWnBLZEhQVXdFRm1HX1FZNzV6bG81?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5uWnBEZ1hpSmVfQWhOTkpkVTIwWmc1UjhGd0ExRTFPSEpHVF9rOXJhWm5fcUlQUVJrOGtRWnBLZEhQVXdFRm1HX1FZNzV6bG81?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "賴瑞隆喊「我才是國民黨最怕的人」 突暗諷韓國瑜網炸鍋- 政治",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5jTUFpU0VyNko0UTRCdDJFNEdrUF9VLVJOclJMZWRaUVVxYkdIWklFOHdZWUZwRWVYN0VobHk0RmhwV3NjSTROcDlHT2dHUXB6MjZzYlU2d1hKMEUyZ2NlWHZneDJISGNKUDZ5YUZ3?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5jTUFpU0VyNko0UTRCdDJFNEdrUF9VLVJOclJMZWRaUVVxYkdIWklFOHdZWUZwRWVYN0VobHk0RmhwV3NjSTROcDlHT2dHUXB6MjZzYlU2d1hKMEUyZ2NlWHZneDJISGNKUDZ5YUZ3?oc=5",
+          "text": "快訊／藍營轟高官性侵少女「未見陳其邁震怒」　高市府發聲明",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9jaU1CWG83VGdSSWgzendwMUNpT19WaWgtM21fY2Q5em9JMGtUR2RUVUZ6bGUzVTROdUxUcWpyLVNWWktOc2dKaWI5UlQxMkhxUVB1ZGp4c25rOHFQdFHSAWhBVV95cUxOa1BDTC1OTUJkbFNIdzNBMGhzb2xlbHlkZ2d4UTdTTkZ1Nmk2RG1JYXZudnZkc0lGbWhsbUtOcW1CTTV0SDRBY01PcjBWR2pSM1dzTTVPakVtd2dpd09yT2VCSWR6MzZFTw?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9jaU1CWG83VGdSSWgzendwMUNpT19WaWgtM21fY2Q5em9JMGtUR2RUVUZ6bGUzVTROdUxUcWpyLVNWWktOc2dKaWI5UlQxMkhxUVB1ZGp4c25rOHFQdFHSAWhBVV95cUxOa1BDTC1OTUJkbFNIdzNBMGhzb2xlbHlkZ2d4UTdTTkZ1Nmk2RG1JYXZudnZkc0lGbWhsbUtOcW1CTTV0SDRBY01PcjBWR2pSM1dzTTVPakVtd2dpd09yT2VCSWR6MzZFTw?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "轟「傅氏王朝」成花蓮政治堰塞湖！何啟聖宣布爭藍花蓮縣長提名",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE45UVUzUW5ZVUhKc28yeGp3MTlfb2RvUG9iSVd4QmNtS0ZFZDVuakxsT3RKVmRFc2d3S041cklWcUxMelBQVmdfVzcxVEVJMHRGT3JtN0tqMFNGaWlzampiOUhZLW1RUnh4VFHSAW9BVV95cUxPejFDMS1oeGt0N21CVDNMQzRUaGhsbDRGQzRSdDExYUJnZnY4VGdpLXV5YTlPaVJVQUhlY1pTN3B0c01yNV93Rmw1aXRnVlVNVGFaVEktM2pSSENFWUVJTXA3cGtxZlZTSnVzZ0xybE0?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE45UVUzUW5ZVUhKc28yeGp3MTlfb2RvUG9iSVd4QmNtS0ZFZDVuakxsT3RKVmRFc2d3S041cklWcUxMelBQVmdfVzcxVEVJMHRGT3JtN0tqMFNGaWlzampiOUhZLW1RUnh4VFHSAW9BVV95cUxPejFDMS1oeGt0N21CVDNMQzRUaGhsbDRGQzRSdDExYUJnZnY4VGdpLXV5YTlPaVJVQUhlY1pTN3B0c01yNV93Rmw1aXRnVlVNVGFaVEktM2pSSENFWUVJTXA3cGtxZlZTSnVzZ0xybE0?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "日本島根17分鐘連6震、福岡大阪也有感日氣象廳急開記者會| 世界萬象",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Hb2t3Y09odUhuRkh0eUhjOXMyNmcxMFRQTWp5QjRsYUt1a2tCWktPbF9OMmxWT080LThxVTBfNzU5M09SdGhVTldOUHAxLWd6?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Hb2t3Y09odUhuRkh0eUhjOXMyNmcxMFRQTWp5QjRsYUt1a2tCWktPbF9OMmxWT080LThxVTBfNzU5M09SdGhVTldOUHAxLWd6?oc=5",
+          "text": "快訊／何啟聖宣布選花蓮縣長 誓言切除「傅氏王朝」病灶",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE82LTVsa1F4SFR4TjJEd2RMc2NGbEF5RUR0cVZJWnF0b05RNzkxenJWdUN5VHdGTWRrb0pNd1VZNzlUU2xTZGtWeWw3UXBydw?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE82LTVsa1F4SFR4TjJEd2RMc2NGbEF5RUR0cVZJWnF0b05RNzkxenJWdUN5VHdGTWRrb0pNd1VZNzlUU2xTZGtWeWw3UXBydw?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -250,17 +242,25 @@
           "package": ""
         },
         {
-          "text": "台灣最危險？謝金河點名「1國家」 坦克難防！",
-          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPR0J0d3VESlhnay0wd3gwRUpkbmdEMU1nT1d2RUM1SFBKTXVxMDVEU2RydWZjLVhyNXg5d0RmakNTLUhhNmV1Y3pyQkVrWndJaGRtcmRHWXlMRXJPXzBXTWM3MURuR3NkVDZYS0djVzNIRW5GY1dyZkVJOG9EV0pLWkZoWlNFZkdpODNTbFBnREU5OG8yY25IUVJ3R2M3WVFqYlBTYjVFaXJ6cnQ5Z1RLRGg0cW53Y1lhVVV2RDNvYk5ZTGJWNTUwMkF6MUFDeFlZN2FfVnhxT2hIQzN3OTBSbUFfa2xjSkVOMlloRnQ0TTVJc2RzY0haX1MxSk90SnlOOC0yTzZwaElvcERIQl9PVFZCSVk0Wi1KN1dXYzJoSm0?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPR0J0d3VESlhnay0wd3gwRUpkbmdEMU1nT1d2RUM1SFBKTXVxMDVEU2RydWZjLVhyNXg5d0RmakNTLUhhNmV1Y3pyQkVrWndJaGRtcmRHWXlMRXJPXzBXTWM3MURuR3NkVDZYS0djVzNIRW5GY1dyZkVJOG9EV0pLWkZoWlNFZkdpODNTbFBnREU5OG8yY25IUVJ3R2M3WVFqYlBTYjVFaXJ6cnQ5Z1RLRGg0cW53Y1lhVVV2RDNvYk5ZTGJWNTUwMkF6MUFDeFlZN2FfVnhxT2hIQzN3OTBSbUFfa2xjSkVOMlloRnQ0TTVJc2RzY0haX1MxSk90SnlOOC0yTzZwaElvcERIQl9PVFZCSVk0Wi1KN1dXYzJoSm0?oc=5",
+          "text": "陸17歲男鑽退貨漏洞「狠賺1800萬元」　他坦承：退了1.1萬筆訂單",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HNlZVRVRzYy1aTG5CcVhXUjA5VmtfZDdNSlBQUzVZV1pfb0kxb0lXbzBNSFF6OEVFMmstbzA3endvSlFpbmV3UFBRcXJ1a2FTdTZZNkZuNjNHN3V4bnfSAWhBVV95cUxOdGZoSllOMk1FelQxQVBYYWtaRGNzQm4tVzVia1ZOTHkyMGRSUDNKWjZCa1lMN2UyRUJFbnZRNHpjYWpTajJMS3Y1aEhjSDlyeUFXVnJmWjJPMEFBc0dwOUZkdm5WelFnUg?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HNlZVRVRzYy1aTG5CcVhXUjA5VmtfZDdNSlBQUzVZV1pfb0kxb0lXbzBNSFF6OEVFMmstbzA3endvSlFpbmV3UFBRcXJ1a2FTdTZZNkZuNjNHN3V4bnfSAWhBVV95cUxOdGZoSllOMk1FelQxQVBYYWtaRGNzQm4tVzVia1ZOTHkyMGRSUDNKWjZCa1lMN2UyRUJFbnZRNHpjYWpTajJMS3Y1aEhjSDlyeUFXVnJmWjJPMEFBc0dwOUZkdm5WelFnUg?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "台股開盤》台積電熄火 南亞科、鴻海接棒 指數開低急拉翻紅",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5oZW5LYU1CamdscEZFb3UxQ3VybGdmdUVBampsTGFNUU5CUVVZMnFpWW9BbmJTbUtYVTkzZVBoelR3VXFnUWtfUmYtTUpoUlJDS1llSXI1TThHOTc5SFVz0gFkQVVfeXFMUFVEZVBIcG5yTHl1Mk5mRkhqOS1XbGhhM1ZWSkpxOHg2R0JLTDVESGtneWdVUTJEaFI2cnJQeWUyNThwVHdUeUtVc2JKQlg4R1J2ODhPR3MyUEU3YVVDZko3RWtWUg?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5oZW5LYU1CamdscEZFb3UxQ3VybGdmdUVBampsTGFNUU5CUVVZMnFpWW9BbmJTbUtYVTkzZVBoelR3VXFnUWtfUmYtTUpoUlJDS1llSXI1TThHOTc5SFVz0gFkQVVfeXFMUFVEZVBIcG5yTHl1Mk5mRkhqOS1XbGhhM1ZWSkpxOHg2R0JLTDVESGtneWdVUTJEaFI2cnJQeWUyNThwVHdUeUtVc2JKQlg4R1J2ODhPR3MyUEU3YVVDZko3RWtWUg?oc=5",
+          "text": "23歲大陸女導演「柬埔寨墜樓亡」！　作品曾入圍釜山電影節",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5KRlVNZzZvWm1rNmhhdmh6akFNbV81V0Q4eFlVT2QyR3BBV0NUTXd2NlpjaDd1X25XRS0tRVpBc0g5RmRYZW9vOUJNMWd2UdIBakFVX3lxTE9QcXpBeHdZQ1hici15dUp4ektvNGEwMENtQzhkVTFXQ0JPMTdwS1dYMlFtVXlPMHAxN1dLSWtaTFRreGV3Z1Vmb016LTBYOEJvZFpGcGd0dndUWENDemdjbHpsX2R0aXJJREE?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5KRlVNZzZvWm1rNmhhdmh6akFNbV81V0Q4eFlVT2QyR3BBV0NUTXd2NlpjaDd1X25XRS0tRVpBc0g5RmRYZW9vOUJNMWd2UdIBakFVX3lxTE9QcXpBeHdZQ1hici15dUp4ektvNGEwMENtQzhkVTFXQ0JPMTdwS1dYMlFtVXlPMHAxN1dLSWtaTFRreGV3Z1Vmb016LTBYOEJvZFpGcGd0dndUWENDemdjbHpsX2R0aXJJREE?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "史上最貴！銀價飆 央行馬年套幣每套2450元",
+          "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQZ0hqQjBrNEZfTTlJNkZfczhtVjFqWEEtNllmcHFPdzNqM3otRGlWeUswaHkycVZLb3pTa2x3Smh3VzYxVG95WFN6UmFybmdBR0Y2TFpQVllOMk01dGdoM25SZkdYbUY0dWVaSkxCb1FVQ2hRdGVZY0V2ZHpkQ2NNblh0Yl9xXzIyVjJhNTRoNThGTzRQYzNQUEZaQXVFSHhZNkFXbXBvWEUzbS1JREsxbzY3eXVQQmVnMkZZVTZnamR5VHNOUG1scW4yc2lZUFdIZ25EbFQ0SFl3YmVrMXpnb2Z3a09xM1doTjRwQTZnQl9pR0hWS0x4QTNqSWxhbWRMT183RU1ldUxnUE1lQ1JoR2pwNjdwaUlYc0FwMkw1VFRSRmdnT3Q0LTR6STVJUQ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQZ0hqQjBrNEZfTTlJNkZfczhtVjFqWEEtNllmcHFPdzNqM3otRGlWeUswaHkycVZLb3pTa2x3Smh3VzYxVG95WFN6UmFybmdBR0Y2TFpQVllOMk01dGdoM25SZkdYbUY0dWVaSkxCb1FVQ2hRdGVZY0V2ZHpkQ2NNblh0Yl9xXzIyVjJhNTRoNThGTzRQYzNQUEZaQXVFSHhZNkFXbXBvWEUzbS1JREsxbzY3eXVQQmVnMkZZVTZnamR5VHNOUG1scW4yc2lZUFdIZ25EbFQ0SFl3YmVrMXpnb2Z3a09xM1doTjRwQTZnQl9pR0hWS0x4QTNqSWxhbWRMT183RU1ldUxnUE1lQ1JoR2pwNjdwaUlYc0FwMkw1VFRSRmdnT3Q0LTR6STVJUQ?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -273,6 +273,6 @@
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 11,
+  "cost": 38,
   "status": 0
 }
