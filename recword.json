@@ -15,6 +15,14 @@
       "link_type": "app",
       "data": [
         {
+          "text": "Onitsuka Tiger",
+          "url": "https://tw.search.yahoo.com/search?p=Onitsuka+Tiger&amp;fr=ush-bt1",
+          "h5_url": "https://tw.search.yahoo.com/search?p=Onitsuka+Tiger&amp;fr=ush-bt1",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_yahoo",
+          "package": ""
+        },
+        {
           "text": "2026租金補貼懶人包",
           "url": "https://tw.news.yahoo.com/share/b514a5f9-7fa6-40ce-a78e-c93bb54f7a65",
           "h5_url": "https://tw.news.yahoo.com/share/b514a5f9-7fa6-40ce-a78e-c93bb54f7a65",
@@ -56,8 +64,8 @@
         },
         {
           "text": "軍方證實 F",
-          "url": "https://tw.news.yahoo.com/f-16%E9%A3%9B%E5%AE%98%E5%A4%B1%E4%BA%8B-%E7%A9%BA%E8%BB%8D%E5%8F%83%E8%AC%80%E9%95%B7%E5%9D%A6%E8%A8%80-%E5%A4%B1%E4%BA%8B%E5%89%8D2%E5%A4%A9egi%E6%95%85%E9%9A%9C-%E5%B0%87%E5%88%97%E8%AA%BF%E6%9F%A5%E9%87%8D%E9%BB%9E-082514222.html",
-          "h5_url": "https://tw.news.yahoo.com/f-16%E9%A3%9B%E5%AE%98%E5%A4%B1%E4%BA%8B-%E7%A9%BA%E8%BB%8D%E5%8F%83%E8%AC%80%E9%95%B7%E5%9D%A6%E8%A8%80-%E5%A4%B1%E4%BA%8B%E5%89%8D2%E5%A4%A9egi%E6%95%85%E9%9A%9C-%E5%B0%87%E5%88%97%E8%AA%BF%E6%9F%A5%E9%87%8D%E9%BB%9E-082514222.html",
+          "url": "https://tw.news.yahoo.com/%E7%A9%BA%E8%BB%8D%E8%AD%89%E5%AF%A6f-16v%E5%A4%B1%E4%BA%8B%E5%89%8D2%E5%A4%A9%E5%85%A8%E7%90%83%E5%AE%9A%E4%BD%8D%E8%88%87%E6%85%A3%E6%80%A7%E5%B0%8E%E8%88%AA%E6%95%85%E9%9A%9C%E7%B6%AD%E4%BF%AE-%E5%88%97%E8%AA%BF%E6%9F%A5%E9%87%8D%E9%BB%9E-102911789.html",
+          "h5_url": "https://tw.news.yahoo.com/%E7%A9%BA%E8%BB%8D%E8%AD%89%E5%AF%A6f-16v%E5%A4%B1%E4%BA%8B%E5%89%8D2%E5%A4%A9%E5%85%A8%E7%90%83%E5%AE%9A%E4%BD%8D%E8%88%87%E6%85%A3%E6%80%A7%E5%B0%8E%E8%88%AA%E6%95%85%E9%9A%9C%E7%B6%AD%E4%BF%AE-%E5%88%97%E8%AA%BF%E6%9F%A5%E9%87%8D%E9%BB%9E-102911789.html",
           "appIconUrl": "",
           "sourceUniqueId": "content_yahoo",
           "package": ""
@@ -125,14 +133,6 @@
           "appIconUrl": "",
           "sourceUniqueId": "content_yahoo",
           "package": ""
-        },
-        {
-          "text": "川普稱伊朗曾想談判 美不排除會面前出手",
-          "url": "https://tw.news.yahoo.com/%E5%B7%9D%E6%99%AE%EF%BC%9A%E4%BC%8A%E6%9C%97%E9%A0%98%E8%A2%96%E6%9B%BE%E8%87%B4%E9%9B%BB%E5%B0%8B%E6%B1%82%E8%AB%87%E5%88%A4-%E4%B8%8D%E6%8E%92%E9%99%A4%E6%9C%83%E9%9D%A2%E5%89%8D%E5%85%88%E6%8E%A1%E5%8F%96%E8%A1%8C%E5%8B%95-042806850.html",
-          "h5_url": "https://tw.news.yahoo.com/%E5%B7%9D%E6%99%AE%EF%BC%9A%E4%BC%8A%E6%9C%97%E9%A0%98%E8%A2%96%E6%9B%BE%E8%87%B4%E9%9B%BB%E5%B0%8B%E6%B1%82%E8%AB%87%E5%88%A4-%E4%B8%8D%E6%8E%92%E9%99%A4%E6%9C%83%E9%9D%A2%E5%89%8D%E5%85%88%E6%8E%A1%E5%8F%96%E8%A1%8C%E5%8B%95-042806850.html",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_yahoo",
-          "package": ""
         }
       ],
       "selectedStatus": false,
@@ -162,6 +162,14 @@
           "package": ""
         },
         {
+          "text": "台北市議員陳怡君收賄及詐領助理費共454萬元 遭重判7年10月",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1wcnBEVUVYNnZOT0RaV3NLS3J5QllMZVFMeUpuYWh4V0dMeUx6VXFmc25YWEVwTy1yaVRjZGdlOGxVMVhhc1NfQ0lVZE5VN3Z20gFWQVVfeXFMTVZrOEVyblkyMzB4Q3p0dnhER3ZVRDFCeHZlbEs0YTNJMm9nMVczZEs5ekNSdDFHTDRpbGVNN2NxTlkwRHM3RUg1c29zYUlPSlJpQXRMaXc?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1wcnBEVUVYNnZOT0RaV3NLS3J5QllMZVFMeUpuYWh4V0dMeUx6VXFmc25YWEVwTy1yaVRjZGdlOGxVMVhhc1NfQ0lVZE5VN3Z20gFWQVVfeXFMTVZrOEVyblkyMzB4Q3p0dnhER3ZVRDFCeHZlbEs0YTNJMm9nMVczZEs5ekNSdDFHTDRpbGVNN2NxTlkwRHM3RUg1c29zYUlPSlJpQXRMaXc?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
           "text": "為何外購子彈？顧立雄：近五年彈藥消耗量是過去2.5倍",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5UcTg4cEFWV0p3aXJXWnBRaVJBUGhkeGE1aU5IRzFMYWhJXzVTOXV5MVBTcHh4VXFqY2xUblZtdmhTWHdpcjVFQktyeEg3WHFySmfSAVdBVV95cUxQbkVxVk5zLW1rSV9CUkFwRFVndGo2QldfRkQxMFpkOC05T2VKajhneHQtV0FwakVfa2dQRl8zb0kwUHR5dTZjNlREQzgtWnNDam1MUkJvU2s?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5UcTg4cEFWV0p3aXJXWnBRaVJBUGhkeGE1aU5IRzFMYWhJXzVTOXV5MVBTcHh4VXFqY2xUblZtdmhTWHdpcjVFQktyeEg3WHFySmfSAVdBVV95cUxQbkVxVk5zLW1rSV9CUkFwRFVndGo2QldfRkQxMFpkOC05T2VKajhneHQtV0FwakVfa2dQRl8zb0kwUHR5dTZjNlREQzgtWnNDam1MUkJvU2s?oc=5",
@@ -186,17 +194,9 @@
           "package": ""
         },
         {
-          "text": "越南女逛101被櫃姐歧視「那很貴」！賈永婕海巡親回一句話 2萬人讚爆",
-          "url": "https://news.google.com/rss/articles/CBMiigNBVV95cUxOdi1sYjVZNFpDWE5QdFdDQW9ZbFVKbDRmLTNhSnFPWDNnbXYtOGFEVWJWYXhGQXNEbFNCRzRIM2lWaTMwY0VmQlBlZ0xzcE1OTUdYSFYzbzNQbS1aVGJBMUlONWxFdlVlcTZ3QTVzUUxTZ1F3ZVpnZlNfMHVpZTlDc2U0WXVIUkZla0QwZzZqNmNPb2o2WEJMb0tfWmo1MS0tTTBOcE1KcnpKR2sxMFRuMzZDY3kxYTQ3eFNHQ0JYWmtZYzA3eC02elJSZzVUTVdqZktERmFaamc4TWtucTZEMXVIRzhLRWVPSWIxcHU3Q1BmY1AtYmt3WVBSLUZ2WmsxcVJWY2ZuYUN1S0RlcEo0b044YmV1dUo4blJ6UGtGRVpYM2FSZmdUc2NZQkF3MVpZajBQOFc1VW9LdmozaEJ5MTJUdWFjaWNOR09rV1Z3TlR5ZzhjQVlxRUFfTnRaTmhaSDF5NUt5amVzUnVaVkw4YkRDUlN3SzNwc1VCNF9tbW9pTmZHOURfSVd3?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiigNBVV95cUxOdi1sYjVZNFpDWE5QdFdDQW9ZbFVKbDRmLTNhSnFPWDNnbXYtOGFEVWJWYXhGQXNEbFNCRzRIM2lWaTMwY0VmQlBlZ0xzcE1OTUdYSFYzbzNQbS1aVGJBMUlONWxFdlVlcTZ3QTVzUUxTZ1F3ZVpnZlNfMHVpZTlDc2U0WXVIUkZla0QwZzZqNmNPb2o2WEJMb0tfWmo1MS0tTTBOcE1KcnpKR2sxMFRuMzZDY3kxYTQ3eFNHQ0JYWmtZYzA3eC02elJSZzVUTVdqZktERmFaamc4TWtucTZEMXVIRzhLRWVPSWIxcHU3Q1BmY1AtYmt3WVBSLUZ2WmsxcVJWY2ZuYUN1S0RlcEo0b044YmV1dUo4blJ6UGtGRVpYM2FSZmdUc2NZQkF3MVpZajBQOFc1VW9LdmozaEJ5MTJUdWFjaWNOR09rV1Z3TlR5ZzhjQVlxRUFfTnRaTmhaSDF5NUt5amVzUnVaVkw4YkRDUlN3SzNwc1VCNF9tbW9pTmZHOURfSVd3?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "許淑華首談對手温世政！最後一句話藏玄機：希望他不要被帶壞",
-          "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQTnJRbTc0WFhkdnB5LXBCTi0yb29RbkowRUNVTmkzc3Q5eXRfWVdNR3doQm1JLW9GY29BemVOc1BEUjBqa3YwUEl1OXlBNFV3M1BpYXFhbW1nNnd2TzBWX3FNcjFpZ3pjU05zUUV6TEFPZi1ISHpXTDVfRHJWeUZhVG9Ka0I0NDF2OEY3eGtwbnNjRVV6STVZOVVWXzBiUmFwOS1lOWJLQ1FpQUxXRWowMENRamRQOVUza0FFcVlBYkZJQjB5MkllRWpPdjJ3ZFZ6ZzNvT0NHeTQxTGE0U2tRR3E3Z3VWZ1RBS2J4Wkh6VUVQV1hoaWpVTFN2TF9Zc2t2RUlLWVYtc1B2QzRaMlpzOG9iVFhIV19zSGh6cnJOcm9POU4yRy1BeUZwNERYczdCQVFxaXNRY3dwQ2xMRUNKLVp0OGdrTHNBZktUT3dZNWxYU2JKUjhncWtod1Noc2R4Qnd5YnBQcWY2WFVzSG1iNnNpeGkySk9Pd1R6WFVBNlpBS00?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQTnJRbTc0WFhkdnB5LXBCTi0yb29RbkowRUNVTmkzc3Q5eXRfWVdNR3doQm1JLW9GY29BemVOc1BEUjBqa3YwUEl1OXlBNFV3M1BpYXFhbW1nNnd2TzBWX3FNcjFpZ3pjU05zUUV6TEFPZi1ISHpXTDVfRHJWeUZhVG9Ka0I0NDF2OEY3eGtwbnNjRVV6STVZOVVWXzBiUmFwOS1lOWJLQ1FpQUxXRWowMENRamRQOVUza0FFcVlBYkZJQjB5MkllRWpPdjJ3ZFZ6ZzNvT0NHeTQxTGE0U2tRR3E3Z3VWZ1RBS2J4Wkh6VUVQV1hoaWpVTFN2TF9Zc2t2RUlLWVYtc1B2QzRaMlpzOG9iVFhIV19zSGh6cnJOcm9POU4yRy1BeUZwNERYczdCQVFxaXNRY3dwQ2xMRUNKLVp0OGdrTHNBZktUT3dZNWxYU2JKUjhncWtod1Noc2R4Qnd5YnBQcWY2WFVzSG1iNnNpeGkySk9Pd1R6WFVBNlpBS00?oc=5",
+          "text": "內幕》賴清德化身2026最強獵才官 親邀醫律精英組「清流戰隊」",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zajgxTnBza0Qwb3NnZGNnYjJ4OENqVEpNanFaVVpId1pGWUdmeUNXcE5JTEFMNTgxREYwQmZvemk0ek5HczlDeEE3cHBwVnlsb0xucGR1X0xlbjl3cHI3QjB6OVNRRHlfQ1HSAW9BVV95cUxPcFd3MkpHdDZSSmNaUHZ3WkNYa3BQTnRwakx5TjdkVXVVaEdSNWNkeS1qeGZfTTU2Z3NUNTdieTN1THVHMWhUZ3BXN2h6RzQwU0xucVItWU14XzZmeXpsTHowVTA2SFZIOFZsSnZPdlU?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zajgxTnBza0Qwb3NnZGNnYjJ4OENqVEpNanFaVVpId1pGWUdmeUNXcE5JTEFMNTgxREYwQmZvemk0ek5HczlDeEE3cHBwVnlsb0xucGR1X0xlbjl3cHI3QjB6OVNRRHlfQ1HSAW9BVV95cUxPcFd3MkpHdDZSSmNaUHZ3WkNYa3BQTnRwakx5TjdkVXVVaEdSNWNkeS1qeGZfTTU2Z3NUNTdieTN1THVHMWhUZ3BXN2h6RzQwU0xucVItWU14XzZmeXpsTHowVTA2SFZIOFZsSnZPdlU?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -210,33 +210,25 @@
           "package": ""
         },
         {
-          "text": "江啟臣楊瓊瓔都想選台中！黃暐瀚預測「這1人」出線：形勢明確",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE41azJWd3JmOXRnMm9samVxNjFBUm11XzhzUlF5Ql92c2Y1LXVrSkE2bkltcTNvQmp3VF9ya2M4Qks4RFA2SnlJcjNVVjFQd9IBX0FVX3lxTE1nMHlJVUZYdWNxSi1WbUVTMGdTSkRSSHkwU2dwMGk2RldOa25BVHdyal9ROUFTT2s2QzRxdXdVd0VubG1WWUUxaXZuMlVxcEVuOTNZZWpxM3Iyb09BR2Zn?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE41azJWd3JmOXRnMm9samVxNjFBUm11XzhzUlF5Ql92c2Y1LXVrSkE2bkltcTNvQmp3VF9ya2M4Qks4RFA2SnlJcjNVVjFQd9IBX0FVX3lxTE1nMHlJVUZYdWNxSi1WbUVTMGdTSkRSSHkwU2dwMGk2RldOa25BVHdyal9ROUFTT2s2QzRxdXdVd0VubG1WWUUxaXZuMlVxcEVuOTNZZWpxM3Iyb09BR2Zn?oc=5",
+          "text": "台北101爆疑歧視越南移工！店員酸「很貴」還無視 賈永婕發聲了",
+          "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxNTkg1cUtSYjhOUTZzdkVlZm9UclJNanUxeEg1b3ZSNTNUWG4yLVpkV3YxZlktdVRKU1Fveml6bWVYU3FuVlRtME9GU0JSc2pjV1o0QkZJVEdiZGZHUk9fZ1dKWklQWV91X1loZ2VjQzY5R3BEdXBfQW1WQ3Z1NW5Cd1dSS0YwR05JTW1Ka1RHY2ZmY1hWSUhJT2hlTmFNeGxLSl9IMWdfS3BjZHUwNmtVQU5zTlBucU5XRVFQcXRjTU13TXVvWXMxcWpweUFJekh1MTR2X0dtemhGVFNjWjl4OFN5Y3FfTG1FdmdIR2tGaUZIM2o4ZGRENHdTM1dDaEdiYnlmWXkxRmJhdmgtUHg2YVFrci1lX1hkeU5Uek1WQlRGcjhJWVp4Rm85OEdEQklWNExvbVVRNm0tU0ZkbGx4WHJnX0xpVVZXT19rOWJnT2lQVmZLdzRqWVYwSEVtV2RNSndmZGZsZHpoZXFGYzgzTFJvX2NrVHVXS1ptTw?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxNTkg1cUtSYjhOUTZzdkVlZm9UclJNanUxeEg1b3ZSNTNUWG4yLVpkV3YxZlktdVRKU1Fveml6bWVYU3FuVlRtME9GU0JSc2pjV1o0QkZJVEdiZGZHUk9fZ1dKWklQWV91X1loZ2VjQzY5R3BEdXBfQW1WQ3Z1NW5Cd1dSS0YwR05JTW1Ka1RHY2ZmY1hWSUhJT2hlTmFNeGxLSl9IMWdfS3BjZHUwNmtVQU5zTlBucU5XRVFQcXRjTU13TXVvWXMxcWpweUFJekh1MTR2X0dtemhGVFNjWjl4OFN5Y3FfTG1FdmdIR2tGaUZIM2o4ZGRENHdTM1dDaEdiYnlmWXkxRmJhdmgtUHg2YVFrci1lX1hkeU5Uek1WQlRGcjhJWVp4Rm85OEdEQklWNExvbVVRNm0tU0ZkbGx4WHJnX0xpVVZXT19rOWJnT2lQVmZLdzRqWVYwSEVtV2RNSndmZGZsZHpoZXFGYzgzTFJvX2NrVHVXS1ptTw?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "營養午餐成政治照妖鏡",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBsNWR0QTNSUFVCYnZJYjhzUi1wM0pSMElIYlNobzUzWm5MS2h1eGw3S3YxWTI2VXEwSEdLeXRJQ0hzT2I4VUttTkxaQy16LXBE0gFWQVVfeXFMTmNZcm15a2ZVMXNQelR0M2NpbVBsZ3MydUsyT29zUU5iTHJDdHY5eGRjOEYyVTctX1AtWkpRd0hkemlqNlJDWTlwSGFUVlhNMHVTNTVFWVE?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBsNWR0QTNSUFVCYnZJYjhzUi1wM0pSMElIYlNobzUzWm5MS2h1eGw3S3YxWTI2VXEwSEdLeXRJQ0hzT2I4VUttTkxaQy16LXBE0gFWQVVfeXFMTmNZcm15a2ZVMXNQelR0M2NpbVBsZ3MydUsyT29zUU5iTHJDdHY5eGRjOEYyVTctX1AtWkpRd0hkemlqNlJDWTlwSGFUVlhNMHVTNTVFWVE?oc=5",
+          "text": "柯文哲想推「陳佩琪選台北市長」？黃國昌：佩琪醫師能力大家有目共睹",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBHMmNTdzVIejc0N09oQUdsOExlelJYSXZtVmhZT2VVOGxxc1pud3ZERDgtMmZQdERzZUtvNWd4cV9pVkpJOUdVMmlpSi1XUdIBX0FVX3lxTE01c28wMXFIdHF2LVFXcS1WLUQzWEpmWDBVMGU4NE1xc0Z4NVBMUE8yZThmV0FUY0laTjhISXB5ODkwUWI1ZU1hOElBajJBS1NOV1FUckpHQ0M0Y3hMeFNN?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBHMmNTdzVIejc0N09oQUdsOExlelJYSXZtVmhZT2VVOGxxc1pud3ZERDgtMmZQdERzZUtvNWd4cV9pVkpJOUdVMmlpSi1XUdIBX0FVX3lxTE01c28wMXFIdHF2LVFXcS1WLUQzWEpmWDBVMGU4NE1xc0Z4NVBMUE8yZThmV0FUY0laTjhISXB5ODkwUWI1ZU1hOElBajJBS1NOV1FUckpHQ0M0Y3hMeFNN?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "北海道牆壁藏屍案開5台空氣清淨機遭察有異",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBSzMtOUhlYTl6TUk0ajBaR0lKNF9yQkNyeU9BNmowal80M3BVZmhKck1UYnc5WDVWZFc3Mzh0SjNmZjNuUHU3V2tfMXlMeGJQeTR0TUZFVnVwNHcxWTV3?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBSzMtOUhlYTl6TUk0ajBaR0lKNF9yQkNyeU9BNmowal80M3BVZmhKck1UYnc5WDVWZFc3Mzh0SjNmZjNuUHU3V2tfMXlMeGJQeTR0TUZFVnVwNHcxWTV3?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "突取消訪索馬利亞但與外長通話 陸外長：反對索馬利蘭勾結台灣謀獨",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1jcUhQWUs2UV9QS3VGOEVpZEJscUYwVDRHaEp2SF9RM0tEZU1pU3lvTnBzdFV5TFhDVDlHRkVXN3AwWmVESC1Qc25YRTJjWXNI0gFWQVVfeXFMUFl3Rl9tWlNodmpfMXUtcWhEbk8ybDE0MWFPWV9zbXE0Ums0TTdscGdfMEFEclJsbVY2SUhSQmxRVmozUGF0anlobUVTeUthVnY0bjRRNmc?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1jcUhQWUs2UV9QS3VGOEVpZEJscUYwVDRHaEp2SF9RM0tEZU1pU3lvTnBzdFV5TFhDVDlHRkVXN3AwWmVESC1Qc25YRTJjWXNI0gFWQVVfeXFMUFl3Rl9tWlNodmpfMXUtcWhEbk8ybDE0MWFPWV9zbXE0Ums0TTdscGdfMEFEclJsbVY2SUhSQmxRVmozUGF0anlobUVTeUthVnY0bjRRNmc?oc=5",
+          "text": "嚇人！北海道一餐館驚傳「女屍封牆」 店主從從容容營業中",
+          "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNdGc0b25SZHJKai1tQnhNbHJ2clJIZFF5Y2pHTE9aTUkwajNLN1ByS2pzTHA1d29WVXRSWHhrRXA3WG9qTjJBN1hCY21lcmhBQk5rS1o4UXdacjU5TXhjb2puR0Fxc3MwVWRNVTZ0aXI3REZHUkJDaVRsMnFwS2ZtcFFJcWNIdUZPcWVwMlV4YmtEQVNDTXZGcXlFTWdTb2ZGRmpNeWFoZHFOR21nSXFpc1pDdmtzWTkzdlBSdUQzdUJENTFZS3lWenliOEtrTXowMUxwNmZJVVp0VVRzSjh0REdxLVJNZkYyMHpvc3hJemtCeU1rcHE5ZTFKTWJpWFNSRWdyRFFNNFNaRDJWYmZoNV94azQ0OE5YQ1hVNUplTVd0M2FaUU9hS2NmMU5xQU96VzVyYkR0UmdhNWFVeTRHRGFTQ0RmaWFCMlk4Vm5QUm9hRUJPbGRHZm9xVG1VdC1m?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNdGc0b25SZHJKai1tQnhNbHJ2clJIZFF5Y2pHTE9aTUkwajNLN1ByS2pzTHA1d29WVXRSWHhrRXA3WG9qTjJBN1hCY21lcmhBQk5rS1o4UXdacjU5TXhjb2puR0Fxc3MwVWRNVTZ0aXI3REZHUkJDaVRsMnFwS2ZtcFFJcWNIdUZPcWVwMlV4YmtEQVNDTXZGcXlFTWdTb2ZGRmpNeWFoZHFOR21nSXFpc1pDdmtzWTkzdlBSdUQzdUJENTFZS3lWenliOEtrTXowMUxwNmZJVVp0VVRzSjh0REdxLVJNZkYyMHpvc3hJemtCeU1rcHE5ZTFKTWJpWFNSRWdyRFFNNFNaRDJWYmZoNV94azQ0OE5YQ1hVNUplTVd0M2FaUU9hS2NmMU5xQU96VzVyYkR0UmdhNWFVeTRHRGFTQ0RmaWFCMlk4Vm5QUm9hRUJPbGRHZm9xVG1VdC1m?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -250,6 +242,14 @@
           "package": ""
         },
         {
+          "text": "南非與中伊俄聯合軍演，對美緊張關係面臨新考驗",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBadFQtV2N6Y0pNTGQ2dTEza2dWd3FLMGx4RkxZSlZCUE9KY1o2R3BicnFiaXNaS1JpNS1vaUY1LUF0bU5mT1QzTjc4ejFhQkZ2T3hoM1NGVTBYSkdIcE15OTdEWWUxZ9IBa0FVX3lxTE9GUjJSbDl2UjlZa3E4MDBsS3lDWnA0UzJXUkYzOGxURFBzdDlMZm5RSXJ4V0JTMkNKaWUwQndPajhoU0p1dTlybWp0OHpEME1LQmhVemNWRndxSlo1eTJMVExXY1N6eGIzcGp3?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBadFQtV2N6Y0pNTGQ2dTEza2dWd3FLMGx4RkxZSlZCUE9KY1o2R3BicnFiaXNaS1JpNS1vaUY1LUF0bU5mT1QzTjc4ejFhQkZ2T3hoM1NGVTBYSkdIcE15OTdEWWUxZ9IBa0FVX3lxTE9GUjJSbDl2UjlZa3E4MDBsS3lDWnA0UzJXUkYzOGxURFBzdDlMZm5RSXJ4V0JTMkNKaWUwQndPajhoU0p1dTlybWp0OHpEME1LQmhVemNWRndxSlo1eTJMVExXY1N6eGIzcGp3?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
           "text": "硬幣為何多是圓形、邊緣刻痕從何而來？央行臉書揭密貨幣小知識",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5aTkNlODlscHQwbnUwMmV4VWV1RTRmWU5sVDVrdkIzNzZQalJqazg3RmJLdHRTRGhjUHRGekZYeGo3VHBBVnZnb05YOFNBbzNyMmlDem1KRWt2ekZidkVj0gFkQVVfeXFMT0pyb2dQcDZ3RlRkYldPVVV0T01JeG9WQm12UkJWYmRIU01USnhVN3lXekpjTXQwc0ZHb0xNZ3EtRDFyd0ZXMzhSVThtcDBsaFNVZlIxb19WTWN2aTlzWFRlOXY1dQ?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5aTkNlODlscHQwbnUwMmV4VWV1RTRmWU5sVDVrdkIzNzZQalJqazg3RmJLdHRTRGhjUHRGekZYeGo3VHBBVnZnb05YOFNBbzNyMmlDem1KRWt2ekZidkVj0gFkQVVfeXFMT0pyb2dQcDZ3RlRkYldPVVV0T01JeG9WQm12UkJWYmRIU01USnhVN3lXekpjTXQwc0ZHb0xNZ3EtRDFyd0ZXMzhSVThtcDBsaFNVZlIxb19WTWN2aTlzWFRlOXY1dQ?oc=5",
@@ -258,9 +258,9 @@
           "package": ""
         },
         {
-          "text": "女兒靠台積電在英國留學！不敗教主「幫買10張」：已賺1千多萬",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5SeFdMd1Y4bFZCNW8yZGpuOGVWZlA3QUsxS3hjV0NZRGxNd3J1Vm1FZDhHZFNPc3NQRVZkOTdRNFVMLVRvWVVIMVhGUkhFYlUxVDBqX01KX3VUdVdCaEE?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5SeFdMd1Y4bFZCNW8yZGpuOGVWZlA3QUsxS3hjV0NZRGxNd3J1Vm1FZDhHZFNPc3NQRVZkOTdRNFVMLVRvWVVIMVhGUkhFYlUxVDBqX01KX3VUdVdCaEE?oc=5",
+          "text": "富邦金上月只賺1.4億元原因出爐 去年每股獲利8.36元蟬聯17年獲利王",
+          "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxQSXZuTVJPdVY1SFQzRmN3M2JvSi0yc1pUVk5SVW9CNElHYkNaNnR3VHJ5amZmQllaUGR1bzlPbHFWWUZ4M05UNVNmNl90QXJPODdKNGhCTHc1X2wtSlIyeFh5V2RBc2p5ZVR6NDBORmw1Uk9YbUFRRVotZl9aMW81S3h1cnpmYTNEZ0Y5SHBqcFVrYUxhTVZRcERnQ0pPd0JTZXE0VjRQQy1HbzQwYUo0cE1RN0x2eFl0NXV2WmkxUTQ1R3BnTXdkYzVjMFpUSWlIUGtyWnRvUXA3NXR3S19aREhfbnE1aGV6R05MZU5ibW8wbW1UbWhDZXBFaVlBRVY5Szd5ODR5TzlqSmI3dnNXZjVrcnd4RUkzbS05Y0ZiRUhrcXoySFV5OVpWM09JSUN5YUlfLTB0NEh5WnNhSGU0RE5pUHVYcEM1S0FKQ3RoQzFfdFZNMlVLWElVTnUyalY0MG1EXzBlc0pWWlQtZTJxZmlVNzB6SW1ZR2xiYnRZUWc5N2g2c0w2S1AzcUdiQjhxck12UTJGaW9DOE5fWVE?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMingNBVV95cUxQSXZuTVJPdVY1SFQzRmN3M2JvSi0yc1pUVk5SVW9CNElHYkNaNnR3VHJ5amZmQllaUGR1bzlPbHFWWUZ4M05UNVNmNl90QXJPODdKNGhCTHc1X2wtSlIyeFh5V2RBc2p5ZVR6NDBORmw1Uk9YbUFRRVotZl9aMW81S3h1cnpmYTNEZ0Y5SHBqcFVrYUxhTVZRcERnQ0pPd0JTZXE0VjRQQy1HbzQwYUo0cE1RN0x2eFl0NXV2WmkxUTQ1R3BnTXdkYzVjMFpUSWlIUGtyWnRvUXA3NXR3S19aREhfbnE1aGV6R05MZU5ibW8wbW1UbWhDZXBFaVlBRVY5Szd5ODR5TzlqSmI3dnNXZjVrcnd4RUkzbS05Y0ZiRUhrcXoySFV5OVpWM09JSUN5YUlfLTB0NEh5WnNhSGU0RE5pUHVYcEM1S0FKQ3RoQzFfdFZNMlVLWElVTnUyalY0MG1EXzBlc0pWWlQtZTJxZmlVNzB6SW1ZR2xiYnRZUWc5N2g2c0w2S1AzcUdiQjhxck12UTJGaW9DOE5fWVE?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -273,6 +273,6 @@
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 29,
+  "cost": 39,
   "status": 0
 }
