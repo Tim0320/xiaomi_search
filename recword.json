@@ -137,11 +137,142 @@
       ],
       "selectedStatus": false,
       "rank_type": "rank_ahoo"
+    },
+    {
+      "track_id": "hq_google",
+      "title": "Google",
+      "title_icon_url": "",
+      "headImageUrl": "",
+      "link_type": "app",
+      "data": [
+        {
+          "text": "別被回暖騙！2地冷雨將飄整周 氣象粉專：夭壽濕冷",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ZUjE4RWhxYXdvYzZlZHVFTXRyLTh6ZVlfbXdIcHZUbUlXZmNzTW9RMlpqdmlHYzdnQ1FxNkVkQWxnVjBuM2o1QmNZRkxkNnhCRUZaUA?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ZUjE4RWhxYXdvYzZlZHVFTXRyLTh6ZVlfbXdIcHZUbUlXZmNzTW9RMlpqdmlHYzdnQ1FxNkVkQWxnVjBuM2o1QmNZRkxkNnhCRUZaUA?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "快新聞／高雄台塑林園廠傳工安意外 3員工桶槽內昏倒",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIeFBYcjl5MVo5UmNKVEN6bEdMUjJ2Z2RRUm9ZWG5DRkFHYmtLVFlVYTZLU1FLNWRqcFlaUHRCZTdvTURVOVh0aWVYTnFJdW50TWhzeW1JdTExaVhmVVBOcg?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIeFBYcjl5MVo5UmNKVEN6bEdMUjJ2Z2RRUm9ZWG5DRkFHYmtLVFlVYTZLU1FLNWRqcFlaUHRCZTdvTURVOVh0aWVYTnFJdW50TWhzeW1JdTExaVhmVVBOcg?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "藍白提新興預算逕付二讀「國防部僅一項」 周軒傻眼：沒了？",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nVUFldzlZRFhURzg4TUh6X1lQQnZIbjU3UG9GaXg3Xy1BR3dQYTUyeUtJd3VkMzNCbk44aHpaMHNtLWlob3pIR1hXUzhQVW5GRjhOLUZ6NjFpTEFpLXBJUUVseWlGMVZuSHfSAW9BVV95cUxQd1hHMllreXMwc1AxMnV5cGJrSnRucjhFZVNsSzJlVFo4Mi10T1BkMnZKZ2w0cGZVLWRDYkR0RVdqaWRQVVRHcTNJM0l5Y3Y2S2puczlTLTg5VENCOHFRYnFmSktRT3V6WkxCd1l5ZWc?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nVUFldzlZRFhURzg4TUh6X1lQQnZIbjU3UG9GaXg3Xy1BR3dQYTUyeUtJd3VkMzNCbk44aHpaMHNtLWlob3pIR1hXUzhQVW5GRjhOLUZ6NjFpTEFpLXBJUUVseWlGMVZuSHfSAW9BVV95cUxQd1hHMllreXMwc1AxMnV5cGJrSnRucjhFZVNsSzJlVFo4Mi10T1BkMnZKZ2w0cGZVLWRDYkR0RVdqaWRQVVRHcTNJM0l5Y3Y2S2puczlTLTg5VENCOHFRYnFmSktRT3V6WkxCd1l5ZWc?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "民進黨已執政17年　30歲年輕議員登記參選彰化市長：決定承擔大局",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LQ2p2Tmd2bmVCVlNzaEFtU29zSUdmMExvSGxwUk9OTHZIYnUwWEdwVEFnREhpbmI3UVRaczc3Qzk3aG1GNXczYkgzSXFWaDVPVGpPR25oQ2x3Si1LWnfSAWhBVV95cUxON0dUd0Y0bEstckk1aHhkYVNrSzBlbDEwNXpWZGNhVU5ydmhNSkpUQW9pcDQtb0lzZFNWUGhTRUpjQlFoektEeTJvQ0NncDQ5MGduUE5jcTNLa3I3amdIMmlYMF9NQ0Y5bg?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LQ2p2Tmd2bmVCVlNzaEFtU29zSUdmMExvSGxwUk9OTHZIYnUwWEdwVEFnREhpbmI3UVRaczc3Qzk3aG1GNXczYkgzSXFWaDVPVGpPR25oQ2x3Si1LWnfSAWhBVV95cUxON0dUd0Y0bEstckk1aHhkYVNrSzBlbDEwNXpWZGNhVU5ydmhNSkpUQW9pcDQtb0lzZFNWUGhTRUpjQlFoektEeTJvQ0NncDQ5MGduUE5jcTNLa3I3amdIMmlYMF9NQ0Y5bg?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "快崩潰！傳伊朗權貴轉移474億至這國 美財長證實有人跳船了",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1vS2k5UVFTd1UyUnpNVUVjX0MtaEJTOU9CMF80cWdCem41V0lKLUl2clpUeHZsU3FPajV0S3NDQTdyTWtNeGhfX2FyQVNxbnV6eVZ6UTY3ejlOYjZWc0JV0gFkQVVfeXFMTUVGNEV6MFZrUFE2YzlPUHFPbDlxd0tQSHV3TkxGY25nVDBVenc2MXJFd2NZUGNEbGdMOHFfR25wM2VZWHZKbFN3THBUamczU2ktMndYUEtDOTZPZHkzYWFJbXRGag?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1vS2k5UVFTd1UyUnpNVUVjX0MtaEJTOU9CMF80cWdCem41V0lKLUl2clpUeHZsU3FPajV0S3NDQTdyTWtNeGhfX2FyQVNxbnV6eVZ6UTY3ejlOYjZWc0JV0gFkQVVfeXFMTUVGNEV6MFZrUFE2YzlPUHFPbDlxd0tQSHV3TkxGY25nVDBVenc2MXJFd2NZUGNEbGdMOHFfR25wM2VZWHZKbFN3THBUamczU2ktMndYUEtDOTZPZHkzYWFJbXRGag?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "談崩了！歐洲多國聯軍進駐格陵蘭 阻川普「征服」野心",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBaRkxXVzNEXzIzUU1WZTZ6NjZ3TVpBeGt4UmtjMW9FMkxudkgweEhSTm9pNkw4cnl2T3VMeGJRN3k0dEFhcEdkU25NN2YxR1hEb3dZWGtiRENYcFpNb1VLZ3E0MWs0QdIBa0FVX3lxTE5YQTZET3dtS3h1WkxhMXNuRkRURGM1UnlISGNZYWQxcFJmV1hSZXNnQjRHWW15TW1MaldyZC01bkJoTlpNM0RnbEpmS1BheGlzWFBlRG5ybDRGdmFxa25tUF9RWTNWR24yRW44?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBaRkxXVzNEXzIzUU1WZTZ6NjZ3TVpBeGt4UmtjMW9FMkxudkgweEhSTm9pNkw4cnl2T3VMeGJRN3k0dEFhcEdkU25NN2YxR1hEb3dZWGtiRENYcFpNb1VLZ3E0MWs0QdIBa0FVX3lxTE5YQTZET3dtS3h1WkxhMXNuRkRURGM1UnlISGNZYWQxcFJmV1hSZXNnQjRHWW15TW1MaldyZC01bkJoTlpNM0RnbEpmS1BheGlzWFBlRG5ybDRGdmFxa25tUF9RWTNWR24yRW44?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "兩人都不讓！ 國民黨台中市長提名協調破局",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wdmpVZzN0U19tNmVTVGFxLU1TRm5na2lMZ00yeGxuNnhCTW5TU0l0SjBEMG9ZeHZPQ2tsOEo4WlBRUkR5NWg4bm5BOVhFXzMwQjFQQlE4QTFJUzA?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wdmpVZzN0U19tNmVTVGFxLU1TRm5na2lMZ00yeGxuNnhCTW5TU0l0SjBEMG9ZeHZPQ2tsOEo4WlBRUkR5NWg4bm5BOVhFXzMwQjFQQlE4QTFJUzA?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "黃國昌稱美方向他道歉 林智群諷：美國抓委內瑞拉總統都沒道歉了",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ObTRyWkR2ZHN6Wk5iZnhSd3ZIQW52blItTl9tQmNGc0h6NXRUREtrbVMwaTMxb2kwZGx1MEk5VF9MdlZLeUJMQlJudnZfTXJhYWZ5RXd4akdoekJ5cEVQSzRPWnMyYnlpMHfSAW9BVV95cUxNUEFHaUxRdEpIaG91aUtxN3JDSVBrdm56WDdoc1BCaFZwQXhqRm9DRGtRTVJNZjJjR190ZG5XWDN1VS03REJraHV3VG1ETjRNYzZUTXhnSlMxQkRkajJGV2k5NXJ0eG55c09paE5leDA?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ObTRyWkR2ZHN6Wk5iZnhSd3ZIQW52blItTl9tQmNGc0h6NXRUREtrbVMwaTMxb2kwZGx1MEk5VF9MdlZLeUJMQlJudnZfTXJhYWZ5RXd4akdoekJ5cEVQSzRPWnMyYnlpMHfSAW9BVV95cUxNUEFHaUxRdEpIaG91aUtxN3JDSVBrdm56WDdoc1BCaFZwQXhqRm9DRGtRTVJNZjJjR190ZG5XWDN1VS03REJraHV3VG1ETjRNYzZUTXhnSlMxQkRkajJGV2k5NXJ0eG55c09paE5leDA?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "就嗆你不敢！王鴻薇要賴清德比照日本首相：一起下台重選",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Ob2tkVDNlNDYtc3o4SXhnNXZVYjJkbUE2WXhyMW82d3BZRUtwdDJIdDBKVmF6eUVkTmg4alUwY2hadFliRENab3gwQ2FncENoU1BJ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Ob2tkVDNlNDYtc3o4SXhnNXZVYjJkbUE2WXhyMW82d3BZRUtwdDJIdDBKVmF6eUVkTmg4alUwY2hadFliRENab3gwQ2FncENoU1BJ?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "生日被沒收Switch 11歲童「一槍爆頭」殺了收養他7年的爸爸",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQb05VSTlZWXNwYjNEQ0hUVjlvbzBueXpadHhNQ2l4WTc4aktUMzJyUVZNY3FvdXVZUHRwbVZQYWsxU0g5Q19fU2VvZGNRMVJFRTZTUHhBQkMzYUd2NXpyOUxuZXBuclJvWWFUMURSZDBxb0I3cW1POHprUVdSS0JobzVTVWRLZjZPYkE?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQb05VSTlZWXNwYjNEQ0hUVjlvbzBueXpadHhNQ2l4WTc4aktUMzJyUVZNY3FvdXVZUHRwbVZQYWsxU0g5Q19fU2VvZGNRMVJFRTZTUHhBQkMzYUd2NXpyOUxuZXBuclJvWWFUMURSZDBxb0I3cW1POHprUVdSS0JobzVTVWRLZjZPYkE?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "明尼蘇達抗議升級 特朗普威脅動用反叛亂法",
+          "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPLVZrSjVkaldKNi1helJrMHhLSC1HaWZNeVI1UUthX1RzMUNKNUdvM2tKWHRXT2dmaDl5ckUyWVZGdV9hc1lQR1h5M2RjckR2dHJweDBjYTJUQVY3VTdLLVNzLU5DSldNc2ZVRHlxSnIxbHZyQ3ZBdktKaFFvRTJ0MDFfbE9ja0FhQlBwUHJwejl6NUg0QUdEMm1zbFhST0FCVE1veDRWenJIUVlBVUtOVmJWa216Q2hSRmU0QzNQMzZjV3FaRXhMRkI0Y3I4LTZIdGk1dTUzZ3Qtaks3YXBLY0hnNjhMREtpeUhQcXpWQzlRNUUtR1pVM2x3VTVJb3pLb2RINkMwbmZpblZkUDhrQ21SMkgzZ185bldPOVlKLWJJUlZlMGtUMTZxdEtWUjJHblpaY1MzY2E?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPLVZrSjVkaldKNi1helJrMHhLSC1HaWZNeVI1UUthX1RzMUNKNUdvM2tKWHRXT2dmaDl5ckUyWVZGdV9hc1lQR1h5M2RjckR2dHJweDBjYTJUQVY3VTdLLVNzLU5DSldNc2ZVRHlxSnIxbHZyQ3ZBdktKaFFvRTJ0MDFfbE9ja0FhQlBwUHJwejl6NUg0QUdEMm1zbFhST0FCVE1veDRWenJIUVlBVUtOVmJWa216Q2hSRmU0QzNQMzZjV3FaRXhMRkI0Y3I4LTZIdGk1dTUzZ3Qtaks3YXBLY0hnNjhMREtpeUhQcXpWQzlRNUUtR1pVM2x3VTVJb3pLb2RINkMwbmZpblZkUDhrQ21SMkgzZ185bldPOVlKLWJJUlZlMGtUMTZxdEtWUjJHblpaY1MzY2E?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "南韓首爾公車疑煞車失靈 衝上人行道撞入銀行釀13傷",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9fVncxS0JYNUpqNnF5QzdxT21seHlTMkhia1NheklZdG5GMktVRXAwbkE2THp3RzVRZVQ4dG55SmhLUjZlNGFVQ2d0X1pKNGRO0gFWQVVfeXFMTjN0ajZnZjFkZHptY3RaUE9RdHVjbHlWWGxFcVJrOWg3WW1ucGI3TnlwRWZyaFpfV3dpaEFudWxLaVFuSjVrRV9PaVhHVE9QdEdEQ1lXLVE?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9fVncxS0JYNUpqNnF5QzdxT21seHlTMkhia1NheklZdG5GMktVRXAwbkE2THp3RzVRZVQ4dG55SmhLUjZlNGFVQ2d0X1pKNGRO0gFWQVVfeXFMTjN0ajZnZjFkZHptY3RaUE9RdHVjbHlWWGxFcVJrOWg3WW1ucGI3TnlwRWZyaFpfV3dpaEFudWxLaVFuSjVrRV9PaVhHVE9QdEdEQ1lXLVE?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "川普真做對了？關稅未摧毀全球貿易 哈佛教授示警：白蟻效應在後頭",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9femxMdmNZa3VqX3FYN0gzd2NLcHRkS0ZzOFhsRWRLcEtmdHR0UW94R29LS0RFOThMSUQ4QXpvcFU4QU0wZ3JwbmQ4MDltNEtaLXlz0gFYQVVfeXFMUEc2NlczYUZCSHZyZXRsc2JIQUpENURYS21HUjRUUlI2YS1sQ3ZpUWNtSGtGQkFqWHZaU2UyYm91QURCS1NWbjN1TDV5SlZvM193TUoxZTVOQg?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9femxMdmNZa3VqX3FYN0gzd2NLcHRkS0ZzOFhsRWRLcEtmdHR0UW94R29LS0RFOThMSUQ4QXpvcFU4QU0wZ3JwbmQ4MDltNEtaLXlz0gFYQVVfeXFMUEc2NlczYUZCSHZyZXRsc2JIQUpENURYS21HUjRUUlI2YS1sQ3ZpUWNtSGtGQkFqWHZaU2UyYm91QURCS1NWbjN1TDV5SlZvM193TUoxZTVOQg?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "協助破解張文筆電加密軟體BitLocker？華碩澄清：並非事實| 焦點事件",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1PXzViQ0VCZzdRZE16MDhzVHJVREhObVFmdjlHb3lQNzRUTV9xSFJVUWxRbXVOYk1JdnRBdUVQb2RTcnI1a2RVcXY4N19qVWxS?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1PXzViQ0VCZzdRZE16MDhzVHJVREhObVFmdjlHb3lQNzRUTV9xSFJVUWxRbXVOYk1JdnRBdUVQb2RTcnI1a2RVcXY4N19qVWxS?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "買緯創不如買群創？Q4多1500億營收、EPS只增0.23元網哀怨「真的笑不出來」 法人揭1關鍵力挺- 上市櫃",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5OWpzSnY1UGRhUzQwOTQ1cWJnMkkxQTNqUVBnZzIwZk13UGJ3Vmtla25CNDVQcDNuUlJrUUVxYVl6RWg3NmN0eXpXRmVlRW1wZXhTU0IyRlRGRzQ1ZTJ2NGR4LTc1dHpoSFE?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5OWpzSnY1UGRhUzQwOTQ1cWJnMkkxQTNqUVBnZzIwZk13UGJ3Vmtla25CNDVQcDNuUlJrUUVxYVl6RWg3NmN0eXpXRmVlRW1wZXhTU0IyRlRGRzQ1ZTJ2NGR4LTc1dHpoSFE?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        }
+      ],
+      "selectedStatus": false,
+      "rank_type": "rank_google"
     }
   ],
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 43,
+  "cost": 48,
   "status": 0
 }
