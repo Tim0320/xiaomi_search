@@ -194,14 +194,6 @@
           "package": ""
         },
         {
-          "text": "柯文哲罵「營養午餐在騙」！北市府回應酸爆",
-          "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNVTBCLWl1OG8zLWNNOU40Y1FTMUg4Q0Y1OWdxa1p3VUlhLVc1Tk5vNHhncVFnczhMT1ZFRnEtSU15ZWVNQ1ZxM1NGU2JPLVIzTmJVaDBjanVwcTA1b0pKTC13WmRlTTh0TFd0N09mamZJaFZFY1JTRGUxUnVCNjdjLWtJTGZxejhCSk1ZRW5CT3hXbG95a2lCazNPYzVRcVozWkpBc0ZKcU1tek9RUDRRb25aaTRWSHR0b3RyRUI4XzVjZFRKd20yMC00UEJVTHZXS05jUGF3TkljdWVXMmU0aU9rQTdPbW5EcnVtaWIwS0FOdnJxRnVfd0t4cGtTU0ZsaFlLd3hxMG8xWm1icGJicExwZlltT0YybGpBOWp0X2FCZw?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNVTBCLWl1OG8zLWNNOU40Y1FTMUg4Q0Y1OWdxa1p3VUlhLVc1Tk5vNHhncVFnczhMT1ZFRnEtSU15ZWVNQ1ZxM1NGU2JPLVIzTmJVaDBjanVwcTA1b0pKTC13WmRlTTh0TFd0N09mamZJaFZFY1JTRGUxUnVCNjdjLWtJTGZxejhCSk1ZRW5CT3hXbG95a2lCazNPYzVRcVozWkpBc0ZKcU1tek9RUDRRb25aaTRWSHR0b3RyRUI4XzVjZFRKd20yMC00UEJVTHZXS05jUGF3TkljdWVXMmU0aU9rQTdPbW5EcnVtaWIwS0FOdnJxRnVfd0t4cGtTU0ZsaFlLd3hxMG8xWm1icGJicExwZlltT0YybGpBOWp0X2FCZw?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
           "text": "林保華觀點》黃國昌訪美之謎",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rQkhVMkN5MTYtUFA5RU0yN3N1bFViTGhHZUVBc3pPQVZVRHg3VzFSLTZ4dmlaVDBKMVFaZWVpNUU2aDVqY2RQWlA1YXBaTWw2MlRSZm5pTXhudTQ?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rQkhVMkN5MTYtUFA5RU0yN3N1bFViTGhHZUVBc3pPQVZVRHg3VzFSLTZ4dmlaVDBKMVFaZWVpNUU2aDVqY2RQWlA1YXBaTWw2MlRSZm5pTXhudTQ?oc=5",
@@ -221,6 +213,14 @@
           "text": "中共無人機闖東沙領空！已構成「第一擊」條件 國軍礙於這事「僅能廣播警告」 | 張曜麟",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBscHFwNEpiSURVb01DVFBLTl9pNWxPTVZMY2MxNm81NUg5UGtWRW5ZOE9kX2FVZUFkMExXclREeGdTVVJZMjdCN1VwN18zUQ?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBscHFwNEpiSURVb01DVFBLTl9pNWxPTVZMY2MxNm81NUg5UGtWRW5ZOE9kX2FVZUFkMExXclREeGdTVVJZMjdCN1VwN18zUQ?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "台中市長協調破局鄭麗文：黨內協調不成就初選",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPSmdiSkxDbWNQQ1hHY3FvbmtpTV9KSFRyUWljQ045dDRRelEyUzRqYnJ0V2o3OWFUMWJ1M0p1WWhNSVJWaFV5RF9ZcVN0RzV2Q19obUhPYkR4Yzg?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPSmdiSkxDbWNQQ1hHY3FvbmtpTV9KSFRyUWljQ045dDRRelEyUzRqYnJ0V2o3OWFUMWJ1M0p1WWhNSVJWaFV5RF9ZcVN0RzV2Q19obUhPYkR4Yzg?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -265,6 +265,6 @@
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 27,
+  "cost": 45,
   "status": 0
 }
