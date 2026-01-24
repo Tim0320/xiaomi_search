@@ -146,14 +146,6 @@
       "link_type": "app",
       "data": [
         {
-          "text": "美國多州宣布進入緊急狀態！　8000多架航班取消",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9SRXdqOEtHTXQtbWl2cWtWbGtkRFFqaXNlYUR0V3ZuNjgzVGVjTzI4NVNsOWhzb1dFeG8yME9YVHZyeFR0VkF6aV9idUxSRFR4QmJMemZ3TzhYRlVSLWfSAWhBVV95cUxNX0gwWXAzQVpMOHlOMEMxM3NHQ2t5NnpKMy12SFN1bDJuS0lDU3NQZ1U5UExFYkdHUEV4NkRqYzZDaWFqVFVMVTJaVVNVZUtRbW1tNFpkZ0JLdGt6Q1hoTFhlcmwzQjBmdQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9SRXdqOEtHTXQtbWl2cWtWbGtkRFFqaXNlYUR0V3ZuNjgzVGVjTzI4NVNsOWhzb1dFeG8yME9YVHZyeFR0VkF6aV9idUxSRFR4QmJMemZ3TzhYRlVSLWfSAWhBVV95cUxNX0gwWXAzQVpMOHlOMEMxM3NHQ2t5NnpKMy12SFN1bDJuS0lDU3NQZ1U5UExFYkdHUEV4NkRqYzZDaWFqVFVMVTJaVVNVZUtRbW1tNFpkZ0JLdGt6Q1hoTFhlcmwzQjBmdQ?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
           "text": "民進黨台北市長人選是鄭麗君？段宜康暗示：大家心裡有數",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvVEdtN0ctdmt4cEtqejRPczJzdWZLUU9OZ21wODAwcmFiR1F3M3BwdVRPbmtnVEJiRmVkMWNzRXAwVjN4YVBHQWdkX1hUWGFmNE9RWmU0WnNDcEE?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvVEdtN0ctdmt4cEtqejRPczJzdWZLUU9OZ21wODAwcmFiR1F3M3BwdVRPbmtnVEJiRmVkMWNzRXAwVjN4YVBHQWdkX1hUWGFmNE9RWmU0WnNDcEE?oc=5",
@@ -165,6 +157,14 @@
           "text": "快訊／4縣市大雨特報！水氣偏多雨強襲　最新警戒區曝",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8tZUQxNVh2X2JLUVIxdlBkeEdEQXZQU2llRlhOMmJlUEhwS2U0ZnpMUXgxclN5bkM5SXFRdHdUMjBjV2FDcElNZk5RWFRTMFZneEVqd05xOEFKRS1sVXfSAWhBVV95cUxPVW85Z1lSbHJaQkxUZXByY0lVVUlKSS1lSHM0ZGdaUkJQc1lOWldmb2JQMmd2N1B3R1RsN0l0TWNHeHBJQVY2Y1R4alJieGZ6czBZQkdlX2c0UFVDbTBRZnlQT1pBbWk1UQ?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8tZUQxNVh2X2JLUVIxdlBkeEdEQXZQU2llRlhOMmJlUEhwS2U0ZnpMUXgxclN5bkM5SXFRdHdUMjBjV2FDcElNZk5RWFRTMFZneEVqd05xOEFKRS1sVXfSAWhBVV95cUxPVW85Z1lSbHJaQkxUZXByY0lVVUlKSS1lSHM0ZGdaUkJQc1lOWldmb2JQMmd2N1B3R1RsN0l0TWNHeHBJQVY2Y1R4alJieGZ6czBZQkdlX2c0UFVDbTBRZnlQT1pBbWk1UQ?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "美國多州宣布進入緊急狀態！　8000多架航班取消",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9SRXdqOEtHTXQtbWl2cWtWbGtkRFFqaXNlYUR0V3ZuNjgzVGVjTzI4NVNsOWhzb1dFeG8yME9YVHZyeFR0VkF6aV9idUxSRFR4QmJMemZ3TzhYRlVSLWfSAWhBVV95cUxNX0gwWXAzQVpMOHlOMEMxM3NHQ2t5NnpKMy12SFN1bDJuS0lDU3NQZ1U5UExFYkdHUEV4NkRqYzZDaWFqVFVMVTJaVVNVZUtRbW1tNFpkZ0JLdGt6Q1hoTFhlcmwzQjBmdQ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9SRXdqOEtHTXQtbWl2cWtWbGtkRFFqaXNlYUR0V3ZuNjgzVGVjTzI4NVNsOWhzb1dFeG8yME9YVHZyeFR0VkF6aV9idUxSRFR4QmJMemZ3TzhYRlVSLWfSAWhBVV95cUxNX0gwWXAzQVpMOHlOMEMxM3NHQ2t5NnpKMy12SFN1bDJuS0lDU3NQZ1U5UExFYkdHUEV4NkRqYzZDaWFqVFVMVTJaVVNVZUtRbW1tNFpkZ0JLdGt6Q1hoTFhlcmwzQjBmdQ?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -189,6 +189,14 @@
           "text": "不再視中國威脅為優先要務川普2.0國防戰略大轉向",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EcHlhaE5Kby1TY0lkM1lZY1ZCWmRWajFzaXA5OTdydldMQzFZWU40amJlWmlBQnRUY1VnTVR2OXZ6UGYybTVqMDhXVGY3emR3WVRjZ2F5MUtuT2dFR0t3?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EcHlhaE5Kby1TY0lkM1lZY1ZCWmRWajFzaXA5OTdydldMQzFZWU40amJlWmlBQnRUY1VnTVR2OXZ6UGYybTVqMDhXVGY3emR3WVRjZ2F5MUtuT2dFR0t3?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "捷運站內勿用行動電源新規 北捷強調「宣導性質」非禁用",
+          "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxOT0t1ZWtpbzdIWmNiWEtQZUwwb0xGZG9GdHZBcHhud2ZfempwNENUcERTYWxNeHI0QkhnclJLTWt5dEZ1UnZUc1Q3OVFhVVBpM0ZFTHlJTHlONzBUWjVYRWp4bWstQUVVMG5uT1UxRlNnYXpUTzI0Zl9xUDlWbXhnVjNkMWRiMExvYzZTOThOdERNbnZHVWYyRWpEZEdnUENFWF9INVI2V3Z5eGlidWRvSmJrbEVVZW90MDJMTDFoRDJjR3hKbVFoUVJaRktaR1labTMzTnJkS3BhaW5YZWxUcXliZDY5X092TExTZXQ2SWNiWXl2ZXEwSkhqRHZscXlPcDRZZGZBSmFwUUZsU21scW14cXQ0MzRLdWVOcHVFLU9yVFlHTFlIRU1udTcybFQyS1UtOFVDdWdpekZMbjAtdTFIMzhpME8wQW14NVlRQTdaNERVdFkzeEpvUkZuZEthV2pfUk02QTNnalJpbEdjNWc1LW1IMWRmcHZtUEVzSjA?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMigANBVV95cUxOT0t1ZWtpbzdIWmNiWEtQZUwwb0xGZG9GdHZBcHhud2ZfempwNENUcERTYWxNeHI0QkhnclJLTWt5dEZ1UnZUc1Q3OVFhVVBpM0ZFTHlJTHlONzBUWjVYRWp4bWstQUVVMG5uT1UxRlNnYXpUTzI0Zl9xUDlWbXhnVjNkMWRiMExvYzZTOThOdERNbnZHVWYyRWpEZEdnUENFWF9INVI2V3Z5eGlidWRvSmJrbEVVZW90MDJMTDFoRDJjR3hKbVFoUVJaRktaR1labTMzTnJkS3BhaW5YZWxUcXliZDY5X092TExTZXQ2SWNiWXl2ZXEwSkhqRHZscXlPcDRZZGZBSmFwUUZsU21scW14cXQ0MzRLdWVOcHVFLU9yVFlHTFlIRU1udTcybFQyS1UtOFVDdWdpekZMbjAtdTFIMzhpME8wQW14NVlRQTdaNERVdFkzeEpvUkZuZEthV2pfUk02QTNnalJpbEdjNWc1LW1IMWRmcHZtUEVzSjA?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -234,33 +242,25 @@
           "package": ""
         },
         {
-          "text": "川普嘲諷盟軍「躲後方」 兩度赴阿富汗作戰的哈利發聲了",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBpWVhzcnY5Y3Y4TndNTVZnSThFeEw3NW1fYUV1WmhZcjVhSXpKUjNLLVJXMkViUnU3TzE3OTZ5U3lTaksyMjk0OURQd3ZISGlJ0gFWQVVfeXFMTXprc1dLenhNZXM3eHpWX2pmeWRjSnE0Nm5EbzI5d1U2RlctVHdzdE9HNlJUTmxOdG1LSm50WWpLOWZ6MWduX3RDbk9mcU9DNVpYRWZjNUE?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBpWVhzcnY5Y3Y4TndNTVZnSThFeEw3NW1fYUV1WmhZcjVhSXpKUjNLLVJXMkViUnU3TzE3OTZ5U3lTaksyMjk0OURQd3ZISGlJ0gFWQVVfeXFMTXprc1dLenhNZXM3eHpWX2pmeWRjSnE0Nm5EbzI5d1U2RlctVHdzdE9HNlJUTmxOdG1LSm50WWpLOWZ6MWduX3RDbk9mcU9DNVpYRWZjNUE?oc=5",
+          "text": "美航母打擊群駛往中東 伊朗官員：視任何攻擊為全面戰爭",
+          "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxPSEFmcExqY2RodUVHVWMzNDRlbVdYUXItOEZUd0RCcWRoUlRIcWJrQWdNY0sycElBcUpkUTBaejZ0NE1qSFdLUm5zamRKVmxuR0FUTFAyNTNEN0otMElVcnlQTFNKUHh0Zlh1c0JLeHlTUnRqWjVJeXpkdi0tU3cwQmx4a1VhMWdIWmdWb0FOZDM0NDU4SU9vZFdDNVRCdHhKUWhKNW5RcXJRSHFpVUU5dzJmcUJhSzR5T3RlWWVjVThlVVBQRTV0ME1FM21Ic1dldnZjQ3dKM2FDeGVMX2M5OVFDblNZaUtpVjlfZnRQdnNaR09Fd3dJOWtpTGhfb2tWMmZvRkI2RzlCbmFlWWpBaFVtbmpxSy0yNVBDWTloeHZ0dDh6UDdia1Z4YzFfRkE1MGp5bEZkM1I0aUpXSUhGWkVQTklocUFNVEUxekFRcXNnRmhDZmxwX0tnMXJfTVljOUZSY2k5bzBHU3pwS0ZSZ0dWUEtoV0hGdnl6b3BIbS0?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMigANBVV95cUxPSEFmcExqY2RodUVHVWMzNDRlbVdYUXItOEZUd0RCcWRoUlRIcWJrQWdNY0sycElBcUpkUTBaejZ0NE1qSFdLUm5zamRKVmxuR0FUTFAyNTNEN0otMElVcnlQTFNKUHh0Zlh1c0JLeHlTUnRqWjVJeXpkdi0tU3cwQmx4a1VhMWdIWmdWb0FOZDM0NDU4SU9vZFdDNVRCdHhKUWhKNW5RcXJRSHFpVUU5dzJmcUJhSzR5T3RlWWVjVThlVVBQRTV0ME1FM21Ic1dldnZjQ3dKM2FDeGVMX2M5OVFDblNZaUtpVjlfZnRQdnNaR09Fd3dJOWtpTGhfb2tWMmZvRkI2RzlCbmFlWWpBaFVtbmpxSy0yNVBDWTloeHZ0dDh6UDdia1Z4YzFfRkE1MGp5bEZkM1I0aUpXSUhGWkVQTklocUFNVEUxekFRcXNnRmhDZmxwX0tnMXJfTVljOUZSY2k5bzBHU3pwS0ZSZ0dWUEtoV0hGdnl6b3BIbS0?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "西班牙高鐵脫軌對撞45死！軌道長達40公分裂縫 疑為釀禍關鍵",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9wdkU0bWRvQ0hzNjBqbjl0YlQwWTVPNTF1VWhnTFRZYmd0S3B0cHFmcVhZSmU2WldEZ29tRjduSWk0d1dsQUhFdDUwUTdZYnBFZUJnNVBNMFk2MHBjU1BRUE56SzFYd9IBa0FVX3lxTE5hNFAwNEowTklyc2hDOTc4ODBsRTJ3Y1VtR0h6VWZQMXNFR0d3bGtBYm5KeFNiaHdLQ3VpdmdhcmtIOGtvLWNmTDRPbTQ1UmFFQXNyNG1relFhUmRHTGxfNTczazNRekF5Ym9V?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9wdkU0bWRvQ0hzNjBqbjl0YlQwWTVPNTF1VWhnTFRZYmd0S3B0cHFmcVhZSmU2WldEZ29tRjduSWk0d1dsQUhFdDUwUTdZYnBFZUJnNVBNMFk2MHBjU1BRUE56SzFYd9IBa0FVX3lxTE5hNFAwNEowTklyc2hDOTc4ODBsRTJ3Y1VtR0h6VWZQMXNFR0d3bGtBYm5KeFNiaHdLQ3VpdmdhcmtIOGtvLWNmTDRPbTQ1UmFFQXNyNG1relFhUmRHTGxfNTczazNRekF5Ym9V?oc=5",
+          "text": "特朗普的和平委員會會與聯合國形成競爭關系嗎？",
+          "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQOFJnSU9YQUFtMDRud1psaHMzc1ZlNmFuY1FMcUZiYWZ0X19ZVWtZZU54WHZDelZYYmhqQ1JrSzkwWkxpSFNCSmliZEFIVS1LWUtUeGI4bTNiM01DOUxCOVdvejVRUjFsWmdUX3lLelZZdkVJaVR2QjNYbnNCR0I2MzJvaGJta2JaUDA4U2RPSWpILTVSd21pbm9rZTVqRmtPSjA3MHZPTGpGcmlGcmRWYzRmai1qQ25DU0ZLSDFYWjJlOVBxRUk4SjBPLVdGRmZwaDUta1cxMzBib2tOWDJKazRxY2FHN2QyTEhrbTRGTTdFaUczX3JYNUJQQ1NNMHZqWHFZcUdVZVpNcWJtWEpKeWFpOVFRZndSVV9nMU81b1NucUhSWE5sNW9JR2xZMUJIU1VLUjhYLXpsMU52RW9SMGRFWm9GMl9PN0NUQVl0WQ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQOFJnSU9YQUFtMDRud1psaHMzc1ZlNmFuY1FMcUZiYWZ0X19ZVWtZZU54WHZDelZYYmhqQ1JrSzkwWkxpSFNCSmliZEFIVS1LWUtUeGI4bTNiM01DOUxCOVdvejVRUjFsWmdUX3lLelZZdkVJaVR2QjNYbnNCR0I2MzJvaGJta2JaUDA4U2RPSWpILTVSd21pbm9rZTVqRmtPSjA3MHZPTGpGcmlGcmRWYzRmai1qQ25DU0ZLSDFYWjJlOVBxRUk4SjBPLVdGRmZwaDUta1cxMzBib2tOWDJKazRxY2FHN2QyTEhrbTRGTTdFaUczX3JYNUJQQ1NNMHZqWHFZcUdVZVpNcWJtWEpKeWFpOVFRZndSVV9nMU81b1NucUhSWE5sNW9JR2xZMUJIU1VLUjhYLXpsMU52RW9SMGRFWm9GMl9PN0NUQVl0WQ?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "〈能源盤後〉油價跳漲近3% 美國派遣艦隊前往伊朗並實施新制裁",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ZTDRJb2NQZlo5a2FwTFNOMDJNYnFobndQaHJ1S1ZPSVo0cy02WVVPLXZTNVZucGYtbWEwM0FGYm1CdFNEOTJhXzY4TFJGQWs?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ZTDRJb2NQZlo5a2FwTFNOMDJNYnFobndQaHJ1S1ZPSVo0cy02WVVPLXZTNVZucGYtbWEwM0FGYm1CdFNEOTJhXzY4TFJGQWs?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "防日債危機外溢美債！市場揣測日美聯手干預匯市 日圓急升創數月新高",
-          "url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxNS3FWMjFpWVBsa0dzY1dYQ210VUZaejBUTElYNlI5d2dvb0FHTVlHdE1uaFpfa1VrLUd6eUtPdy1vbjR2UUJHcnpFck9JbWlXaXN2REpNeFk2RHdRTmFIVEducmNXVmdxSDNBLWFuQ0pNX2Z3bVRxN0R0V1BVZlpPZTBFd1pHYXJ3X19PaUlRZ2RUY29yZzhpcmZWQmd2VkoxTDlSdmhUeEJlNndRNVZjSTd5YlY4YkpWNXBVOFV2dFpfODFmMTNLTEVuQUt5Yk53QzQtdUlmVkxYNW5uRUp5Y1JBODR5UXZWeGs5V2VFTzNINVVkd2JXZ09mWkIxaWozYk9fQU1Jelo4T2dFcEM2MlJqdWtFN05jd1pzdVBtZUhSd1NIN0UzX1NURGFzcFU1VTNuTE5ZRU52TmlZd1dzOVRFTmFGLVkwWlJuZWRUYldvV3FRN3VNU1B5YVJZcWtXWjNBeTk3M1JESVFyZzZHWHN3MHFDcmtDNzRFdlVKMWZoY1FrM2wzR3JzNGd3dXZyM0FWUjVkbHZvaDdWQ3RFMkl3S2hkN0lZSEVUY2ZMYl9Sc1pPOHVaTVRUOVJSUQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxNS3FWMjFpWVBsa0dzY1dYQ210VUZaejBUTElYNlI5d2dvb0FHTVlHdE1uaFpfa1VrLUd6eUtPdy1vbjR2UUJHcnpFck9JbWlXaXN2REpNeFk2RHdRTmFIVEducmNXVmdxSDNBLWFuQ0pNX2Z3bVRxN0R0V1BVZlpPZTBFd1pHYXJ3X19PaUlRZ2RUY29yZzhpcmZWQmd2VkoxTDlSdmhUeEJlNndRNVZjSTd5YlY4YkpWNXBVOFV2dFpfODFmMTNLTEVuQUt5Yk53QzQtdUlmVkxYNW5uRUp5Y1JBODR5UXZWeGs5V2VFTzNINVVkd2JXZ09mWkIxaWozYk9fQU1Jelo4T2dFcEM2MlJqdWtFN05jd1pzdVBtZUhSd1NIN0UzX1NURGFzcFU1VTNuTE5ZRU52TmlZd1dzOVRFTmFGLVkwWlJuZWRUYldvV3FRN3VNU1B5YVJZcWtXWjNBeTk3M1JESVFyZzZHWHN3MHFDcmtDNzRFdlVKMWZoY1FrM2wzR3JzNGd3dXZyM0FWUjVkbHZvaDdWQ3RFMkl3S2hkN0lZSEVUY2ZMYl9Sc1pPOHVaTVRUOVJSUQ?oc=5",
+          "text": "三星2奈米良率不到40％？英特爾18A衝上60％ 全球晶圓代工「二哥」恐換人- 國際",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjZFBhU0tRSXlEQnl5czRyRVNYTGh4aEJyYm1GWnItVlVWU3FKOVpCWHoteVVrNkJsZkxtamJubkhqb2FNRXhmaXJHbXEyYjEtVi1JSXloU3cxUkdocjBB?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjZFBhU0tRSXlEQnl5czRyRVNYTGh4aEJyYm1GWnItVlVWU3FKOVpCWHoteVVrNkJsZkxtamJubkhqb2FNRXhmaXJHbXEyYjEtVi1JSXloU3cxUkdocjBB?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -273,6 +273,6 @@
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 16,
+  "cost": 36,
   "status": 0
 }
