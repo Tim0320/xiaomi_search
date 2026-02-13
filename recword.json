@@ -15,14 +15,6 @@
       "link_type": "app",
       "data": [
         {
-          "text": "500.Gov.Tw",
-          "url": "https://tw.search.yahoo.com/search?p=500.Gov.Tw&amp;fr=ush-bt1",
-          "h5_url": "https://tw.search.yahoo.com/search?p=500.Gov.Tw&amp;fr=ush-bt1",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_yahoo",
-          "package": ""
-        },
-        {
           "text": "Yahoo財經大人物",
           "url": "https://tw.news.yahoo.com/topic/CEO-interview",
           "h5_url": "https://tw.news.yahoo.com/topic/CEO-interview",
@@ -133,6 +125,14 @@
           "appIconUrl": "",
           "sourceUniqueId": "content_yahoo",
           "package": ""
+        },
+        {
+          "text": "小年夜前溫暖如春 除夕到初二局部濕涼",
+          "url": "https://tw.news.yahoo.com/%E9%81%8E%E5%B9%B49%E5%A4%A9%E9%80%A3%E5%81%87%E5%A4%A9%E6%B0%A3%E5%A6%82%E4%BD%95%EF%BC%9F%E6%B0%A3%E8%B1%A1%E7%BD%B2%EF%BC%9A%E5%B0%8F%E5%B9%B4%E5%A4%9C%E5%89%8D%E6%BA%AB%E6%9A%96%E5%A6%82%E6%98%A5-%E9%99%A4%E5%A4%95%E5%88%B0%E5%88%9D%E4%BA%8C%E9%8B%92%E9%9D%A2%E9%81%8E%E5%A2%83%E5%B1%80%E9%83%A8%E6%BF%95%E6%B6%BC-015219586.html",
+          "h5_url": "https://tw.news.yahoo.com/%E9%81%8E%E5%B9%B49%E5%A4%A9%E9%80%A3%E5%81%87%E5%A4%A9%E6%B0%A3%E5%A6%82%E4%BD%95%EF%BC%9F%E6%B0%A3%E8%B1%A1%E7%BD%B2%EF%BC%9A%E5%B0%8F%E5%B9%B4%E5%A4%9C%E5%89%8D%E6%BA%AB%E6%9A%96%E5%A6%82%E6%98%A5-%E9%99%A4%E5%A4%95%E5%88%B0%E5%88%9D%E4%BA%8C%E9%8B%92%E9%9D%A2%E9%81%8E%E5%A2%83%E5%B1%80%E9%83%A8%E6%BF%95%E6%B6%BC-015219586.html",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_yahoo",
+          "package": ""
         }
       ],
       "selectedStatus": false,
@@ -146,33 +146,9 @@
       "link_type": "app",
       "data": [
         {
-          "text": "都是人！桃園機場8AM「人、車都排爆」　他驚：出國的好多啊",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4tNWNmZXNCNy1BYVZHNmxlaFNHTjVoUkRNMWNrbkZvWmFoOGVYQ0xJUHEzTTVwWjF5N19QVnAwbjlJVlEyQU9TU1RYMDYyNkN1a2FLTUdzQUdVOWlGZFHSAWhBVV95cUxQSXdOWWk1c1c0cVI0M0FFeFF1aUxHLWk5Wm10Ry14eEJ2U2NWd1IxeUl2SjRfQzRyRU5DSUxpZS1PWFNGVFgzTVA3MHJtbjJwcld5Z01LNy1ncnJ5ZUE0T2tlajlMZ0pWZw?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4tNWNmZXNCNy1BYVZHNmxlaFNHTjVoUkRNMWNrbkZvWmFoOGVYQ0xJUHEzTTVwWjF5N19QVnAwbjlJVlEyQU9TU1RYMDYyNkN1a2FLTUdzQUdVOWlGZFHSAWhBVV95cUxQSXdOWWk1c1c0cVI0M0FFeFF1aUxHLWk5Wm10Ry14eEJ2U2NWd1IxeUl2SjRfQzRyRU5DSUxpZS1PWFNGVFgzTVA3MHJtbjJwcld5Z01LNy1ncnJ5ZUE0T2tlajlMZ0pWZw?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
           "text": "一堆人月薪3、4萬「每年爽出國玩」！竹科工程師嘆可悲：怎麼敢",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE04dVk0eC1TeHBIYVR5ckM5WmhpQUdvaFVRempnQnJ5ZG04WFMySWJZU05zM0dpMXlVWU9QWGxzQXhON2ppUUZYZlVUQ3RWX1FXdFdDVTJYRmNUSGxIZnfSAWhBVV95cUxPR05kbzhWYU9kcFRsbDA4T0c2M1lHcW5ZU0tUX2tNNlY4QURKNnp1TG95QVNFNjBKSk1wdUx3WEI2aVFoY1N0eThKbDluYkZfS1c5eFFWSko3dlR3Zko3alVDcUlnaDNSRg?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE04dVk0eC1TeHBIYVR5ckM5WmhpQUdvaFVRempnQnJ5ZG04WFMySWJZU05zM0dpMXlVWU9QWGxzQXhON2ppUUZYZlVUQ3RWX1FXdFdDVTJYRmNUSGxIZnfSAWhBVV95cUxPR05kbzhWYU9kcFRsbDA4T0c2M1lHcW5ZU0tUX2tNNlY4QURKNnp1TG95QVNFNjBKSk1wdUx3WEI2aVFoY1N0eThKbDluYkZfS1c5eFFWSko3dlR3Zko3alVDcUlnaDNSRg?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "後悔了？才說設台灣代表處「被火車撞」 立陶宛總理再發聲：改名台北不是大問題",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBBdXVGQ2poYWhaYUhoOTlCdDJNREN5NnhsNVNlV1dPYlZOQUtJQXozbGpqd19oRHItUGstc0lpMDlKZVprSlR5QUs0VmhJMjJ30gFWQVVfeXFMT0xqOUNXRUxGdVJfTEYxeGVOZ0Jja09aejlpdHRGcVNYMTdac3NzWUxJdEJncHFzTnVFUnlNSUFlQlJLMVExX19rc1ozbHg0TGozdElHQkE?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBBdXVGQ2poYWhaYUhoOTlCdDJNREN5NnhsNVNlV1dPYlZOQUtJQXozbGpqd19oRHItUGstc0lpMDlKZVprSlR5QUs0VmhJMjJ30gFWQVVfeXFMT0xqOUNXRUxGdVJfTEYxeGVOZ0Jja09aejlpdHRGcVNYMTdac3NzWUxJdEJncHFzTnVFUnlNSUFlQlJLMVExX19rc1ozbHg0TGozdElHQkE?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "1.25兆國防特別條例審議李文忠提5大刪減標準",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0UnhyYU1kYW5zYjk2cVo5cVlUREthSm5zZ18yWE5GdjNBOHhtRmx2QmlwSTVYWVVjaDM5aHF5QVVUMWVNdVdPZTJWd2s1SjExbkJCcDh6d2h6TEU?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0UnhyYU1kYW5zYjk2cVo5cVlUREthSm5zZ18yWE5GdjNBOHhtRmx2QmlwSTVYWVVjaDM5aHF5QVVUMWVNdVdPZTJWd2s1SjExbkJCcDh6d2h6TEU?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -186,41 +162,73 @@
           "package": ""
         },
         {
-          "text": "走訪義光教會挨轟「正事不幹」！賈永婕不忍了 3字直球回嗆名嘴",
-          "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxQQ0dETlZCdVpjOWdBV1EzcG95c2c5aFRLMUZoVHltc2dHUGl0RXk3QUd3T0hraXVaSlNhNWpQQ1duem9lS3Fvc1g1Ny1rUlZPLXhJb2xON3IxcElMMVFjdWhzU0UyVDVyUjk1U3ktVGIwU0NwbWJwZk1DSk8xeGJ1d3BPaUQyeURnaWg0c2JkUHBPMGdJWng3VUVwNExISGlpdnZpbW55Qnc3aWpQX3NWX0tQUS1NcENMRjdWaTY2U2xObzF2MHlvV3NiQnVPSXFTUV9DcWFNQmNtSGQ5RVVkRGlEX1NVbmY1d0JFMkM4UVBzX2pmNHA1M3BreHJ3UnZVRkdNdFZHbkM2WVBKemEzX0t3aXdJZUJZYlU4QktxN01YSk5GWXBLT1paM0dmM3hwVXpsWUcxWEJnZ0FJVTNId2VvcE9La2tDanlCaTRORnNmeU5OWi1mWFZVMVI3c3lCT3ZKb1pXS3MwM3pRRDM2MEFBeDFtODE3bVoyX3k5R2U4Yktm?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMihANBVV95cUxQQ0dETlZCdVpjOWdBV1EzcG95c2c5aFRLMUZoVHltc2dHUGl0RXk3QUd3T0hraXVaSlNhNWpQQ1duem9lS3Fvc1g1Ny1rUlZPLXhJb2xON3IxcElMMVFjdWhzU0UyVDVyUjk1U3ktVGIwU0NwbWJwZk1DSk8xeGJ1d3BPaUQyeURnaWg0c2JkUHBPMGdJWng3VUVwNExISGlpdnZpbW55Qnc3aWpQX3NWX0tQUS1NcENMRjdWaTY2U2xObzF2MHlvV3NiQnVPSXFTUV9DcWFNQmNtSGQ5RVVkRGlEX1NVbmY1d0JFMkM4UVBzX2pmNHA1M3BreHJ3UnZVRkdNdFZHbkM2WVBKemEzX0t3aXdJZUJZYlU4QktxN01YSk5GWXBLT1paM0dmM3hwVXpsWUcxWEJnZ0FJVTNId2VvcE9La2tDanlCaTRORnNmeU5OWi1mWFZVMVI3c3lCT3ZKb1pXS3MwM3pRRDM2MEFBeDFtODE3bVoyX3k5R2U4Yktm?oc=5",
+          "text": "都是人！桃園機場8AM「人、車都排爆」　他驚：出國的好多啊",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4tNWNmZXNCNy1BYVZHNmxlaFNHTjVoUkRNMWNrbkZvWmFoOGVYQ0xJUHEzTTVwWjF5N19QVnAwbjlJVlEyQU9TU1RYMDYyNkN1a2FLTUdzQUdVOWlGZFHSAWhBVV95cUxQSXdOWWk1c1c0cVI0M0FFeFF1aUxHLWk5Wm10Ry14eEJ2U2NWd1IxeUl2SjRfQzRyRU5DSUxpZS1PWFNGVFgzTVA3MHJtbjJwcld5Z01LNy1ncnJ5ZUE0T2tlajlMZ0pWZw?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4tNWNmZXNCNy1BYVZHNmxlaFNHTjVoUkRNMWNrbkZvWmFoOGVYQ0xJUHEzTTVwWjF5N19QVnAwbjlJVlEyQU9TU1RYMDYyNkN1a2FLTUdzQUdVOWlGZFHSAWhBVV95cUxQSXdOWWk1c1c0cVI0M0FFeFF1aUxHLWk5Wm10Ry14eEJ2U2NWd1IxeUl2SjRfQzRyRU5DSUxpZS1PWFNGVFgzTVA3MHJtbjJwcld5Z01LNy1ncnJ5ZUE0T2tlajlMZ0pWZw?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "立院肢體衝突10立委遭起訴 盧秀燕：司法不應成為國會糾察隊",
-          "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxPdGJDNzFnSUxqYkM1d0EtRzNEUHBoTW9weU9DdzlELUljeXAxZGZOZkFuUzZieTNIZFBmc0YxZlFuMDA5VENQb2RCWlE2UWhXN2dWVEpPM1ZyOFltbFBwdTNwQnN3VTdacWlmSlZLTmUyVFdQUjBRSE5kUUFhV3VvdERSWXQ4TFdxNXoxRHpBRzFQV2huelNQM1QzMXJLeUdoMTJISUdnb2VnTWRESmVxOXd2S2R5cG4yYU9tZGpiczA0MG9WdTRmWWR2QnpJZlNYV3NzbU0yWjJZODAwRGd4UW5BZFBLdXY4MXZlSFhoZlNwTW9hSjk2c0ZwOU9Ba1pRbi12eGJJeTZmNVUzeE9iM2FqWE8yVUlseGhiZ29USEtkSzR3NURpbTNDTnkxX2lFWXZnY2tqeEN4OWFOeDU1MzcwRXh6dzJjY0g3MEV0ZTFiNlJCci1rekJuMkIwbk9fX2h2VUZGT3NmV2w5ZHhQMlVaNWdfdnE4b0ZwREJRdjdad0IyX0hfUlNPZU90RTg?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxPdGJDNzFnSUxqYkM1d0EtRzNEUHBoTW9weU9DdzlELUljeXAxZGZOZkFuUzZieTNIZFBmc0YxZlFuMDA5VENQb2RCWlE2UWhXN2dWVEpPM1ZyOFltbFBwdTNwQnN3VTdacWlmSlZLTmUyVFdQUjBRSE5kUUFhV3VvdERSWXQ4TFdxNXoxRHpBRzFQV2huelNQM1QzMXJLeUdoMTJISUdnb2VnTWRESmVxOXd2S2R5cG4yYU9tZGpiczA0MG9WdTRmWWR2QnpJZlNYV3NzbU0yWjJZODAwRGd4UW5BZFBLdXY4MXZlSFhoZlNwTW9hSjk2c0ZwOU9Ba1pRbi12eGJJeTZmNVUzeE9iM2FqWE8yVUlseGhiZ29USEtkSzR3NURpbTNDTnkxX2lFWXZnY2tqeEN4OWFOeDU1MzcwRXh6dzJjY0g3MEV0ZTFiNlJCci1rekJuMkIwbk9fX2h2VUZGT3NmV2w5ZHhQMlVaNWdfdnE4b0ZwREJRdjdad0IyX0hfUlNPZU90RTg?oc=5",
+          "text": "日中緊張關係升高！日本扣押中國漁船 逮捕船長",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE00cEFtd1RyM2E1TEQyTUdiclJzMWhicnR6X0YxbGgzUzRoTjdFTFowQ3prT3VqcFRiazVEZ0RLQWc2S1FxTVBKZjUwNTVPWWo3S1VkM3F1cDdIbUluSWxfM1dsMVk1d9IBa0FVX3lxTFBkV0FJdGk1Z1dZRHE5MmczQzh3V0QteUU3aG1FbFp2QS1lbWNidFBEN0FGQTdoM1VUWHdwZFhVQmRkcHNfeUt1UmFqdUxmWlYxeExCTW1ZLVRpb05qaTlIR1l0dTNxd2lRelpR?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE00cEFtd1RyM2E1TEQyTUdiclJzMWhicnR6X0YxbGgzUzRoTjdFTFowQ3prT3VqcFRiazVEZ0RLQWc2S1FxTVBKZjUwNTVPWWo3S1VkM3F1cDdIbUluSWxfM1dsMVk1d9IBa0FVX3lxTFBkV0FJdGk1Z1dZRHE5MmczQzh3V0QteUU3aG1FbFp2QS1lbWNidFBEN0FGQTdoM1VUWHdwZFhVQmRkcHNfeUt1UmFqdUxmWlYxeExCTW1ZLVRpb05qaTlIR1l0dTNxd2lRelpR?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "快訊／李貞秀喊「授權陸委會辦理放棄國籍！」　梁文傑16:30出面回應",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KbGQxUVhTVDNROWpmSE44NUpnM3NlajZiM0x3ajlPc3pkdGQtZlpnYlY4SzNiVTkzcUlPanlMOEN5ckViSnN3dXc1QjFWTVJDY1lJRTlZazjSAV9BVV95cUxQbjkzRlF4SjUwQVVzZlJHcVYxSEpTVUN1THRPUWRNcUljVDFkZ29aRGtuX2E3cTRtdWlTVnpsa1lubHFEUjVob29hWlJFZldCMVk3cHFYbjlpd3l6UGdFSQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KbGQxUVhTVDNROWpmSE44NUpnM3NlajZiM0x3ajlPc3pkdGQtZlpnYlY4SzNiVTkzcUlPanlMOEN5ckViSnN3dXc1QjFWTVJDY1lJRTlZazjSAV9BVV95cUxQbjkzRlF4SjUwQVVzZlJHcVYxSEpTVUN1THRPUWRNcUljVDFkZ29aRGtuX2E3cTRtdWlTVnpsa1lubHFEUjVob29hWlJFZldCMVk3cHFYbjlpd3l6UGdFSQ?oc=5",
+          "text": "10立委互毆遭起訴7人是藍委王鴻薇控陽謀：目的是擋藍委參選",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16NGZGTmFiTWM4RVpuMndIeFhtbElCU0JtaVBWRTdGcFEwNDlCYlNEME9hQVhIdjVVWnVIaW9qNFlfMzhrQU9sOVdKOWY5SkV4ZXhRMTZOMENDeWs?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16NGZGTmFiTWM4RVpuMndIeFhtbElCU0JtaVBWRTdGcFEwNDlCYlNEME9hQVhIdjVVWnVIaW9qNFlfMzhrQU9sOVdKOWY5SkV4ZXhRMTZOMENDeWs?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "台灣最大Costco要來了！招牌掛上畫面曝光 開幕時間官方全說了",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE55a0VCWFVBaDFPd2NlVDFYMFRDX0ZFWG9WbGJQMjY4bUtzOWtJc3RGZVpnaHE4WmxjNDVCSk9GWkM2UDFxNmZmcHVMcWZKbDUyRkVEbnF5eHpmWUNDdVFF0gFkQVVfeXFMT1U3dGlrbUdxRmdHUzJEOWZ6NDR6dGtXeEJEX2FGeXQ3NG53SkNhSkttOVAyRlB0emVUTlZ3ZDVIVDVNZGxZWXNwZmt1VHNLSjhDMVpweVJNNi1RUkh4REZaUlJrMQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE55a0VCWFVBaDFPd2NlVDFYMFRDX0ZFWG9WbGJQMjY4bUtzOWtJc3RGZVpnaHE4WmxjNDVCSk9GWkM2UDFxNmZmcHVMcWZKbDUyRkVEbnF5eHpmWUNDdVFF0gFkQVVfeXFMT1U3dGlrbUdxRmdHUzJEOWZ6NDR6dGtXeEJEX2FGeXQ3NG53SkNhSkttOVAyRlB0emVUTlZ3ZDVIVDVNZGxZWXNwZmt1VHNLSjhDMVpweVJNNi1RUkh4REZaUlJrMQ?oc=5",
+          "text": "快訊／6縣市低溫特報！雲霄飛車降溫「跌破10度」",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBUZERHc0c4MnkzaFBuZkVMV3hhVXp1eDFiOHRwUVRJMGJIeXgwTktBWFdPQS03Rjh2bUp4RUEzYm5PcGtVdEtraGFhVlRhYy13Tkx2cjRYQVU0a0dfd2fSAWhBVV95cUxOb2VjSGJzS3d5N05zc1lHV08wMTFoZU1pZnNOWHFSSTFLeUlGcU8zQlJCZVliNktvNnZxNUVKSkI4STFhNGJkYXB5RmNiWDlnVjZ3Q0wwLXNMMU5FLXRiZXZMMTBUUU8zSA?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBUZERHc0c4MnkzaFBuZkVMV3hhVXp1eDFiOHRwUVRJMGJIeXgwTktBWFdPQS03Rjh2bUp4RUEzYm5PcGtVdEtraGFhVlRhYy13Tkx2cjRYQVU0a0dfd2fSAWhBVV95cUxOb2VjSGJzS3d5N05zc1lHV08wMTFoZU1pZnNOWHFSSTFLeUlGcU8zQlJCZVliNktvNnZxNUVKSkI4STFhNGJkYXB5RmNiWDlnVjZ3Q0wwLXNMMU5FLXRiZXZMMTBUUU8zSA?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "偶像夢碎！知名女僕咖啡廳欠薪500萬 員工：不付錢還說我是賠錢貨",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE45UE5KS2p5YnA0d1huRzh4OEtTc1lBYjZMSkpUTXJyX3NsRE44cDZkMl95VWJyRjRTOWI2MjRZMXVYZ1h4RzBsLUp2UGt1ZWo4aXo5UzZCYU5mcHBGVnNBUXFUdDbSAWpBVV95cUxPaTU3TjlCU0JYa2VXb2I4WmZSZDFhbGNWVnpFTktGMzZBM3ZzaFhSSXZqRGp2U2ZsLXJBLVJKLWI1bjFKVGJ1WXJ1WnI5R1RDWm8yREZ5bWhDX0hySmlkZFBUb293MU5FR09B?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE45UE5KS2p5YnA0d1huRzh4OEtTc1lBYjZMSkpUTXJyX3NsRE44cDZkMl95VWJyRjRTOWI2MjRZMXVYZ1h4RzBsLUp2UGt1ZWo4aXo5UzZCYU5mcHBGVnNBUXFUdDbSAWpBVV95cUxPaTU3TjlCU0JYa2VXb2I4WmZSZDFhbGNWVnpFTktGMzZBM3ZzaFhSSXZqRGp2U2ZsLXJBLVJKLWI1bjFKVGJ1WXJ1WnI5R1RDWm8yREZ5bWhDX0hySmlkZFBUb293MU5FR09B?oc=5",
+          "text": "台南正副議長選舉賄選案二審宣判 邱莉莉等被告全數無罪",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVZ0VwZTdqd0NHeEd5aFVSa1Fkd29kQWM1blFzUUc4blQwekhfenViT1VCOGk2bmEzekZaNi1aVUgwRmtKM1otZE1HU09RaFBidmNpNlRnWE5Wd2h2RmRFai1FQ2F1Mlk30gFuQVVfeXFMUDEtMkxhT2xJZ2ExSGhKcXJpUnF0c3dTTTFBR2Y1cGg3YVBrZm0yQ2xESC1KLU8wY2VHVVdTOTR6NllfQnlPdmN0OFlSdDR4WUt6RXJjeWloTHU2V3ZwZU5zcF9aTHlWUkEtSlBISmc?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVZ0VwZTdqd0NHeEd5aFVSa1Fkd29kQWM1blFzUUc4blQwekhfenViT1VCOGk2bmEzekZaNi1aVUgwRmtKM1otZE1HU09RaFBidmNpNlRnWE5Wd2h2RmRFai1FQ2F1Mlk30gFuQVVfeXFMUDEtMkxhT2xJZ2ExSGhKcXJpUnF0c3dTTTFBR2Y1cGg3YVBrZm0yQ2xESC1KLU8wY2VHVVdTOTR6NllfQnlPdmN0OFlSdDR4WUt6RXJjeWloTHU2V3ZwZU5zcF9aTHlWUkEtSlBISmc?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "賈永婕挺林義雄血案！被老公王兆杰罵內容曝光　她下秒反手不忍出賣",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1fNjRXdUMwTi02Q2dCWXFLSnNmczRGQWlPYmhiMmFGeUtqQnpYNm9fTXNyM0NZaktrX1l5djNtTW56dzRzMWN1WmFCN2RTYTFnYjlUWktmRG3SAV9BVV95cUxPbThrT3lhNHE5bXhnN0ZXeTdKTXJzMVRRM2VGdzNtNkpNZU1RbVIzUXFQX0c0NmxjOEQwWU9lYzFraHh5RmtfWXR5V2dDZkFLWXNuQkY0SlI4dTRieGtPcw?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1fNjRXdUMwTi02Q2dCWXFLSnNmczRGQWlPYmhiMmFGeUtqQnpYNm9fTXNyM0NZaktrX1l5djNtTW56dzRzMWN1WmFCN2RTYTFnYjlUWktmRG3SAV9BVV95cUxPbThrT3lhNHE5bXhnN0ZXeTdKTXJzMVRRM2VGdzNtNkpNZU1RbVIzUXFQX0c0NmxjOEQwWU9lYzFraHh5RmtfWXR5V2dDZkFLWXNuQkY0SlI4dTRieGtPcw?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "今起東北季風減弱！ 除夕鋒面報到 春節天氣一次看",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45azZ6NHFqYjc4YkptSF9Eb0pmeTJQS3dReEtYaFVLM0dJdktqbHlZTlJGY21XekxRVUxoU0dic2UzalFJbWQ4bTRjSmlybF9JMmtNUg?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45azZ6NHFqYjc4YkptSF9Eb0pmeTJQS3dReEtYaFVLM0dJdktqbHlZTlJGY21XekxRVUxoU0dic2UzalFJbWQ4bTRjSmlybF9JMmtNUg?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "壹蘋民調｜李四川、黃國昌、蘇巧慧搶新北市長，你最支持誰？",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMHJIb1ZUbDNTNlB4R2NDdDJtT0NNZ00xX1h0REVEVHdIbEQ0RE4tMFJrOGd4Y2h0UVJMM25HV1FvdWRMd3dzRmVSbW5SYXk2OC1hcVlUTTV0Y3IwRXVCSGFUYkxxVHhmZ0txN1RUdkdWamEtQ0hrRmNVTGVtN3ZpWFVRdw?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMHJIb1ZUbDNTNlB4R2NDdDJtT0NNZ00xX1h0REVEVHdIbEQ0RE4tMFJrOGd4Y2h0UVJMM25HV1FvdWRMd3dzRmVSbW5SYXk2OC1hcVlUTTV0Y3IwRXVCSGFUYkxxVHhmZ0txN1RUdkdWamEtQ0hrRmNVTGVtN3ZpWFVRdw?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "川普50％鋼鋁關稅大轉彎？擬鬆綁救期中選情",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uazhzSUVkdFVyaTRZdDl4QVpyMVUyVHk5S2o0c3RGN2R1RUQ3UFVXYUxqNENoZGhGX2Y0MTBZT0JqbmFZSktRNU1tdG41cTBNQXZDQUY1d1RwVkdwM0Fn0gFkQVVfeXFMTUhTVWNESmZGQm45Q3JnNXhYaHkxSDlaU29QQ1JYUTRxUG5vVzUwaDNrN1NYY0VOdWtLQW9CcDJURkR4RzFlSHJDV1U5TDlpY0lXTXV1TC1QZjBELVdqWkt6cE9RcA?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uazhzSUVkdFVyaTRZdDl4QVpyMVUyVHk5S2o0c3RGN2R1RUQ3UFVXYUxqNENoZGhGX2Y0MTBZT0JqbmFZSktRNU1tdG41cTBNQXZDQUY1d1RwVkdwM0Fn0gFkQVVfeXFMTUhTVWNESmZGQm45Q3JnNXhYaHkxSDlaU29QQ1JYUTRxUG5vVzUwaDNrN1NYY0VOdWtLQW9CcDJURkR4RzFlSHJDV1U5TDlpY0lXTXV1TC1QZjBELVdqWkt6cE9RcA?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -237,14 +245,6 @@
           "text": "韓國情報機關稱金正恩選定女兒為接班人——目前已知的金主愛背景",
           "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxOUFhBbzJzb1N6Wks1YjNZdW43UktlQThha2tVTk9aSndGbi1zWlI3dmJvM2xfdW1Nb1pjVTA3RDhreFl1ekZmSFVSamg2VVdILXRlOGg2WTJoZDFfRjlUR0NZbERHTWd3UEdwODh0NUlIUWR1XzloNmJlX3NzZEJhNkVPUHcybzFJQ21PNS1GNDJ6TjVRUS1sODJkNkhOaHlGb3FGNEluei1aMlI5bUdibjNPenVhVDNBOFRfQ1hGNFRWdFpzNV9MbC1xS2hreDMxRlBsbEIybnJpZ3FsSnJUSFNRdUgya0NSVjhQWU93YWRqYTBVazA2QkRkVVMwV1h3UVdtcjFUdXctZUhuTHlpbmZMdGdYeHJqNWJWSzNwWUp3WVRZMENXaF8tU1lDa2UwRUhmY1ItUzFFQ2VTdU5Hd2xUUlcxRUZVY2pjOFhhRUhOTGRUZ3EtSm5fQWRrdWVLWWF1YWEwakJ6LUpPLWw0bXpmbEkzNmFwcEZkclRIcm04a3lMNE85YTJoZzZTakhONm9EVXJEdXI3VHpGRzNINkcxUVA?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMipANBVV95cUxOUFhBbzJzb1N6Wks1YjNZdW43UktlQThha2tVTk9aSndGbi1zWlI3dmJvM2xfdW1Nb1pjVTA3RDhreFl1ekZmSFVSamg2VVdILXRlOGg2WTJoZDFfRjlUR0NZbERHTWd3UEdwODh0NUlIUWR1XzloNmJlX3NzZEJhNkVPUHcybzFJQ21PNS1GNDJ6TjVRUS1sODJkNkhOaHlGb3FGNEluei1aMlI5bUdibjNPenVhVDNBOFRfQ1hGNFRWdFpzNV9MbC1xS2hreDMxRlBsbEIybnJpZ3FsSnJUSFNRdUgya0NSVjhQWU93YWRqYTBVazA2QkRkVVMwV1h3UVdtcjFUdXctZUhuTHlpbmZMdGdYeHJqNWJWSzNwWUp3WVRZMENXaF8tU1lDa2UwRUhmY1ItUzFFQ2VTdU5Hd2xUUlcxRUZVY2pjOFhhRUhOTGRUZ3EtSm5fQWRrdWVLWWF1YWEwakJ6LUpPLWw0bXpmbEkzNmFwcEZkclRIcm04a3lMNE85YTJoZzZTakhONm9EVXJEdXI3VHpGRzNINkcxUVA?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "共和黨黨內造反…挑戰川普政策 眾院撤銷對加拿大徵關稅",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1CdFh2VUoxaVRzWFBsT2t4SW9aQWJsVE42bFh4RDF4c0ZCSTYxenlDZmJuVFJ5bERYUzNVTFBjYlVIb2hNTHZYcHF3MmZEb0JCVXlv0gFYQVVfeXFMTnQ3cy1MTEM5bS1lQWo4MFUzLVB2bXJycVM4aFlfc3V6dVpMVnBaQjdHc2o4dFZTNUhEdDhWRXlxN21jN1pTMWR5bGw5akZLZ1FlaDhkMW9fZQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1CdFh2VUoxaVRzWFBsT2t4SW9aQWJsVE42bFh4RDF4c0ZCSTYxenlDZmJuVFJ5bERYUzNVTFBjYlVIb2hNTHZYcHF3MmZEb0JCVXlv0gFYQVVfeXFMTnQ3cy1MTEM5bS1lQWo4MFUzLVB2bXJycVM4aFlfc3V6dVpMVnBaQjdHc2o4dFZTNUhEdDhWRXlxN21jN1pTMWR5bGw5akZLZ1FlaDhkMW9fZQ?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -273,6 +273,6 @@
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 30,
+  "cost": 14,
   "status": 0
 }
