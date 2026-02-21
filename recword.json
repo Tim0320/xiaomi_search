@@ -146,14 +146,6 @@
       "link_type": "app",
       "data": [
         {
-          "text": "白天暖熱到下週 週二後兩波鋒面來襲",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkNldLZU5iWXFBS2JvZEF0NkNsdnlmLWduQ1Q4R3BycllJc25RTjZLQ0VwVmNZaDNRMXFKZVI5TmNnTGFMam5ER3R2LTl2c1BseWxjUGx1NmpzUDdWVlBmem0yOHDSAWpBVV95cUxNNHpxVjNhYnJfQmJaWUdieHFrMkZqVHEwUV9WelUwb3JCMk9EZ1ZkaFFWZ2VqeUxhbldHTzFEWTc4UWtlQkxfbTNHb2lrUjFDNnV3NERfMDBIS3NqVXlZZEZCOHEzQks0bTFn?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkNldLZU5iWXFBS2JvZEF0NkNsdnlmLWduQ1Q4R3BycllJc25RTjZLQ0VwVmNZaDNRMXFKZVI5TmNnTGFMam5ER3R2LTl2c1BseWxjUGx1NmpzUDdWVlBmem0yOHDSAWpBVV95cUxNNHpxVjNhYnJfQmJaWUdieHFrMkZqVHEwUV9WelUwb3JCMk9EZ1ZkaFFWZ2VqeUxhbldHTzFEWTc4UWtlQkxfbTNHb2lrUjFDNnV3NERfMDBIS3NqVXlZZEZCOHEzQks0bTFn?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
           "text": "歌仔戲國寶王束花辭世！享耆壽91歲 文化部將頒旌揚狀",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9TR1JvLTJhU3FGMW0tMWwyaFpSbWhqZGV1d0JKTEE3R2lFZFNTQVV0VjBCSWlGdUJrR3BoUEUwaTdIVHlSS1dRalpMT0lqUUVULTNOSg?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9TR1JvLTJhU3FGMW0tMWwyaFpSbWhqZGV1d0JKTEE3R2lFZFNTQVV0VjBCSWlGdUJrR3BoUEUwaTdIVHlSS1dRalpMT0lqUUVULTNOSg?oc=5",
@@ -165,6 +157,14 @@
           "text": "比肥肉還傷肝！醫師點名喝「這杯」是頭號殺手　下肚瞬間累積",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KblVKY0hSWDFBbWdhX0QxdGRsVThGMERYd3owaWhBNHplUDExYUM0S3B0cTRiaFhhUVppS0hRSHBlcDU5NHFITGJPQURpREJTWGZoUVJhZDcybS14NEHSAWhBVV95cUxQb081WmxuZ3hpZXZ0NTA1bThZODd2Q1Q2b19CZmp5UVJSWjNPVXNVV0RpWGdSOUpfLWlWUWtlcDNucnBjTGlsWnRQLU45MVhNR2tudE9JMUx2SWhselZ0dklHaW1ZYUNLNA?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KblVKY0hSWDFBbWdhX0QxdGRsVThGMERYd3owaWhBNHplUDExYUM0S3B0cTRiaFhhUVppS0hRSHBlcDU5NHFITGJPQURpREJTWGZoUVJhZDcybS14NEHSAWhBVV95cUxQb081WmxuZ3hpZXZ0NTA1bThZODd2Q1Q2b19CZmp5UVJSWjNPVXNVV0RpWGdSOUpfLWlWUWtlcDNucnBjTGlsWnRQLU45MVhNR2tudE9JMUx2SWhselZ0dklHaW1ZYUNLNA?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "白天暖熱到下週 週二後兩波鋒面來襲",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkNldLZU5iWXFBS2JvZEF0NkNsdnlmLWduQ1Q4R3BycllJc25RTjZLQ0VwVmNZaDNRMXFKZVI5TmNnTGFMam5ER3R2LTl2c1BseWxjUGx1NmpzUDdWVlBmem0yOHDSAWpBVV95cUxNNHpxVjNhYnJfQmJaWUdieHFrMkZqVHEwUV9WelUwb3JCMk9EZ1ZkaFFWZ2VqeUxhbldHTzFEWTc4UWtlQkxfbTNHb2lrUjFDNnV3NERfMDBIS3NqVXlZZEZCOHEzQks0bTFn?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkNldLZU5iWXFBS2JvZEF0NkNsdnlmLWduQ1Q4R3BycllJc25RTjZLQ0VwVmNZaDNRMXFKZVI5TmNnTGFMam5ER3R2LTl2c1BseWxjUGx1NmpzUDdWVlBmem0yOHDSAWpBVV95cUxNNHpxVjNhYnJfQmJaWUdieHFrMkZqVHEwUV9WelUwb3JCMk9EZ1ZkaFFWZ2VqeUxhbldHTzFEWTc4UWtlQkxfbTNHb2lrUjFDNnV3NERfMDBIS3NqVXlZZEZCOHEzQks0bTFn?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -186,9 +186,17 @@
           "package": ""
         },
         {
-          "text": "川普訪中會習近平日期出爐！最高法院撤銷關稅打亂談判 貿易休兵現變數？",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5VVGJucVktMTJLWWM5SkV1ZnpwVWRmV2ZkclBWXzhXVzdzSUFfc1g1bnB4ZndidWVZcHlLOC1LNHlKb092bFhycDd3aC1OUlU?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5VVGJucVktMTJLWWM5SkV1ZnpwVWRmV2ZkclBWXzhXVzdzSUFfc1g1bnB4ZndidWVZcHlLOC1LNHlKb092bFhycDd3aC1OUlU?oc=5",
+          "text": "初五「送窮迎富」避5禁忌 「5生肖」財運旺到擋不住",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FSEhfNHNoV2FKRXliOTNYN2k4bjhnTC1veE1kQWM3TEZJZnpvZWd6OFFYQ0JWbmlkeEg3bnFmUXg4Ti1NRW9fMUVsblFBLVZMa195Y0RldkZxSjAt?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FSEhfNHNoV2FKRXliOTNYN2k4bjhnTC1veE1kQWM3TEZJZnpvZWd6OFFYQ0JWbmlkeEg3bnFmUXg4Ti1NRW9fMUVsblFBLVZMa195Y0RldkZxSjAt?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "松山霞海城隍廟抽出國家經濟上上籤 領錢母排長龍要走10分鐘",
+          "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxNMXFkQVdIS3FtNVlaM1JITUpDT2FCdkdxbmZfemtlaW5CRXhwbnc2SnktcWdFSFdJNTZHT0dkTGVaTWdIYTIyVk9EOGxwbjVBOGRJLXpyelVvTVJ5dWEwOGNibWkwdVhueHgwMktHbnVVUTBfcEExdnM3STNhU200czVzamtqbUI3dG14WXBvTU0xSTd1clhrLXNqSW9SWHc0NUJYajdoTm5MbWNKeFJrVmg5X3FMdXhhdlRDZFBhT3lsZ2lRSE9fYWhLQzFDRHpvTU1BQjNUYlhJMXd5dktjV3lMOXhSajJndDNvYTRhNngxalVjaGMyUFAzRmVEcHpoZW11dFFuRFRRX0xEY0FLTGJsUUp3a2d2aDNnNVRLcXo5YkV6d01NZGdlZUE3MHJzbUlQcDUxM29FTFVkUTFvVGd3bzQ0MFoyNEFTZmJVNi1Wd2gwel9EcVFJRlJ0Xzl0eU1EdWxhek1UY1NhS2xWWkFKbUEyYzR2anlPckl0a3JRcWE4cTFpYXhjY2ZXVjA?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxNMXFkQVdIS3FtNVlaM1JITUpDT2FCdkdxbmZfemtlaW5CRXhwbnc2SnktcWdFSFdJNTZHT0dkTGVaTWdIYTIyVk9EOGxwbjVBOGRJLXpyelVvTVJ5dWEwOGNibWkwdVhueHgwMktHbnVVUTBfcEExdnM3STNhU200czVzamtqbUI3dG14WXBvTU0xSTd1clhrLXNqSW9SWHc0NUJYajdoTm5MbWNKeFJrVmg5X3FMdXhhdlRDZFBhT3lsZ2lRSE9fYWhLQzFDRHpvTU1BQjNUYlhJMXd5dktjV3lMOXhSajJndDNvYTRhNngxalVjaGMyUFAzRmVEcHpoZW11dFFuRFRRX0xEY0FLTGJsUUp3a2d2aDNnNVRLcXo5YkV6d01NZGdlZUE3MHJzbUlQcDUxM29FTFVkUTFvVGd3bzQ0MFoyNEFTZmJVNi1Wd2gwel9EcVFJRlJ0Xzl0eU1EdWxhek1UY1NhS2xWWkFKbUEyYzR2anlPckl0a3JRcWE4cTFpYXhjY2ZXVjA?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -202,6 +210,14 @@
           "package": ""
         },
         {
+          "text": "小年夜燒到初五！南投林火兩度「跳火」燒毀30公頃 原因待查",
+          "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOYmI1dGxDZjNaWmw1YVlOM2owVjlmY21vXzh2SEtzUjl0NWxfSDFRN0ZnSkltRW5xTzlEbVRhZ1dRUE96TEpzaUhoWDJZOElkRnRFN2hYay1hZktCWkowNTFCSUcwcFg3WDNlNEpRMC1ESUoyTWZBM2pqZG1YcUNTUDV2RDFZZ2trOGFvbDVhOVRLU1dCUElCb3lweXlHSjBTVVN3MXFuSGM5U21lR1dNN3oxY0VGVDEyLWY0Vlp0aGI2SFE5TmJXWjFiTGVHRXJydFdXaVlheFJmTVhNSDNKS3NIQTF6YkFqSHg3NTI3aUQ1SlJOTXlKMnpUYlpKcFlRVHNCaXM1N2lyNFJTTnBYYzYwQUZXRTV2bEdNVUhzSWNvYWdvaGZBcFZSU1BicjJJWE51c2lyaFBPMG9yNEFyYzlETmFCLWlzU2p2elV3b1k3WlVsdkhkMHkwdEVEcThzZGpva3JpUk1MM0c3cUdN?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOYmI1dGxDZjNaWmw1YVlOM2owVjlmY21vXzh2SEtzUjl0NWxfSDFRN0ZnSkltRW5xTzlEbVRhZ1dRUE96TEpzaUhoWDJZOElkRnRFN2hYay1hZktCWkowNTFCSUcwcFg3WDNlNEpRMC1ESUoyTWZBM2pqZG1YcUNTUDV2RDFZZ2trOGFvbDVhOVRLU1dCUElCb3lweXlHSjBTVVN3MXFuSGM5U21lR1dNN3oxY0VGVDEyLWY0Vlp0aGI2SFE5TmJXWjFiTGVHRXJydFdXaVlheFJmTVhNSDNKS3NIQTF6YkFqSHg3NTI3aUQ1SlJOTXlKMnpUYlpKcFlRVHNCaXM1N2lyNFJTTnBYYzYwQUZXRTV2bEdNVUhzSWNvYWdvaGZBcFZSU1BicjJJWE51c2lyaFBPMG9yNEFyYzlETmFCLWlzU2p2elV3b1k3WlVsdkhkMHkwdEVEcThzZGpva3JpUk1MM0c3cUdN?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
           "text": "拚重返非洲豬瘟非疫區 農業部向WOAH遞交自我聲明申請",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBuUHZURjBud2hJaThySEZqVHZCWXZiSWdjZG1sdHdQbld5aWtmcVNKd1RDbVdnek1lNU9jRzN4dEdSWUtqemlVa0IzTkRha2VvNFdFQ0I2TG9iU1U1X3NBYU52NELSAWpBVV95cUxNSTVsX1JOSTFJbUtHVWRmcy1pY1lWZl9qVXJpVlZCVldMa3ZzdzdHbGtTRUJ3Sm1CbU9od3dubjAtZFVuYWtiMDhveU5ZajZZenMyVEFET3dLTzgyNkJtUkFqQjk1ZGhTM0d3?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBuUHZURjBud2hJaThySEZqVHZCWXZiSWdjZG1sdHdQbld5aWtmcVNKd1RDbVdnek1lNU9jRzN4dEdSWUtqemlVa0IzTkRha2VvNFdFQ0I2TG9iU1U1X3NBYU52NELSAWpBVV95cUxNSTVsX1JOSTFJbUtHVWRmcy1pY1lWZl9qVXJpVlZCVldMa3ZzdzdHbGtTRUJ3Sm1CbU9od3dubjAtZFVuYWtiMDhveU5ZajZZenMyVEFET3dLTzgyNkJtUkFqQjk1ZGhTM0d3?oc=5",
@@ -210,17 +226,9 @@
           "package": ""
         },
         {
-          "text": "慘！台中知名吃到飽爆食安疑慮 全家上吐下瀉送急診",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBwRVdEZ1dtX3E0eHhWLTZJMTBOX1JOdXNkUzRieDY3bkEzMkZkZTFRRUx6SUxIQmxCZG9LdzJHVDZEdndRNUZOS0NjclRIb1Q5UVFMeQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBwRVdEZ1dtX3E0eHhWLTZJMTBOX1JOdXNkUzRieDY3bkEzMkZkZTFRRUx6SUxIQmxCZG9LdzJHVDZEdndRNUZOS0NjclRIb1Q5UVFMeQ?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "初五開工日北市仁愛路醫美診所遭開槍 老闆及女員工中彈",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5TX3J6SmgxT1VYZzhpV1lhNWYzcFdKMl8zMTJIV3ZjR0hkWGJDdGNEeVc2aXpWdUZHR1p6M2Z0UXhEUHNfQ0R2VU15NmtTZjVo0gFWQVVfeXFMUGxOYnhoZW5TS1kyTXhlaF90bUNzdEl4NHdrck1HemY1ZkM3Y1dvZGxBdkFJb2g0YjRtZk5ucHJMYllBWFhrS3o5emdqelEweVJHVXpHalE?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5TX3J6SmgxT1VYZzhpV1lhNWYzcFdKMl8zMTJIV3ZjR0hkWGJDdGNEeVc2aXpWdUZHR1p6M2Z0UXhEUHNfQ0R2VU15NmtTZjVo0gFWQVVfeXFMUGxOYnhoZW5TS1kyTXhlaF90bUNzdEl4NHdrck1HemY1ZkM3Y1dvZGxBdkFJb2g0YjRtZk5ucHJMYllBWFhrS3o5emdqelEweVJHVXpHalE?oc=5",
+          "text": "日本幼猴Panchi遭拖行 抱緊猩猩玩偶尋安慰 園方：屬融入猴群生活所需方式【短片】 (18:53) - 20260220 - 熱點",
+          "url": "https://news.google.com/rss/articles/CBMipwRBVV95cUxPSnZ5dUZyWk1tUDNROVdlbzJpemx5dHB3bXVocWlWcWh0SDQ1bHdBMmxCb2lURVFwXzAtSy03eC1ZQ2ppLUJHRE1fbGhtYVd1QnJzWTNvX2JGTi0tWDRBMGdLb1NiOWNWYW45c1dYbmZaWlJUQTNPQWZOcVVReUhHZ0lyNnhLT3VIM1pJOFRYZU9nR1k1d3lwUlhVTkRWWmYtVnhfdERUUng0eTVGY2NHSkZoZkhORXRRenA2aXV6eHJoaVBWUTlsYmZYeWdNXzFoSE1iVUVodDU4eVJwOU5nQURjbXVBYXdydkh6RG9KS3haNmp1UFZWWVVlckFjM05lVW1fd1ZHN1FiSWxTck1temhiUEhaM1RPUWlxT3lfWms3b3d6ZmVwOU9SM0FCNzVRbmJGMlN6dWRFUVZCS1lJS1V0SHB4bkR4R3c2N0FrTUx0NEdlcmRpWmVmalJ2T3Z4VEFZVnA5ZHlhd0hOdzhFc2Q2aktvNEtxWlFuV2t5YWNpRkl3MEk3YkxKX0xoejk5alBacEhZWXhreDFXc1VHenF0UDZQQzRJcEsxVm55SlV3b09NLTBPQjhpN0tOVEp0T012azQzOTYxMU9CWUQ2WVp6WnBwOXJxQWp4SUZLRzNxWXpfaDlkQS1YOTNaNDB2a09ISjVOalozeWZuM1UwWDlvWUZOMUlSck5oN01uZjRWX2JDMlpzV1ZfYVR2WG1ZLWNaS3Fpcw?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMipwRBVV95cUxPSnZ5dUZyWk1tUDNROVdlbzJpemx5dHB3bXVocWlWcWh0SDQ1bHdBMmxCb2lURVFwXzAtSy03eC1ZQ2ppLUJHRE1fbGhtYVd1QnJzWTNvX2JGTi0tWDRBMGdLb1NiOWNWYW45c1dYbmZaWlJUQTNPQWZOcVVReUhHZ0lyNnhLT3VIM1pJOFRYZU9nR1k1d3lwUlhVTkRWWmYtVnhfdERUUng0eTVGY2NHSkZoZkhORXRRenA2aXV6eHJoaVBWUTlsYmZYeWdNXzFoSE1iVUVodDU4eVJwOU5nQURjbXVBYXdydkh6RG9KS3haNmp1UFZWWVVlckFjM05lVW1fd1ZHN1FiSWxTck1temhiUEhaM1RPUWlxT3lfWms3b3d6ZmVwOU9SM0FCNzVRbmJGMlN6dWRFUVZCS1lJS1V0SHB4bkR4R3c2N0FrTUx0NEdlcmRpWmVmalJ2T3Z4VEFZVnA5ZHlhd0hOdzhFc2Q2aktvNEtxWlFuV2t5YWNpRkl3MEk3YkxKX0xoejk5alBacEhZWXhreDFXc1VHenF0UDZQQzRJcEsxVm55SlV3b09NLTBPQjhpN0tOVEp0T012azQzOTYxMU9CWUQ2WVp6WnBwOXJxQWp4SUZLRzNxWXpfaDlkQS1YOTNaNDB2a09ISjVOalozeWZuM1UwWDlvWUZOMUlSck5oN01uZjRWX2JDMlpzV1ZfYVR2WG1ZLWNaS3Fpcw?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -234,14 +242,6 @@
           "package": ""
         },
         {
-          "text": "內亂罪一審判無期 南韓前總統尹錫悅：戒嚴為救國、未改初衷",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBjZ3N0aEEyUVM0eURpNFVnZXBvbWxGZHNJMHRIU0RCaEJYQ1BWQnNKaHhDMGZHdWNSNUhKNk5Ec3h4YldMYjRTZDZRcVFmRE9QdTF30gFYQVVfeXFMT19lbGpocFhFR3NTSGVhMjZCbUJCa0xGZVVjZWhURjlnU05KTzNqTG4wUWNVNkp6bTFrQlBRNVcwNUFYWTFIc0NmTDAwVGVHSmd6TjAzV3FhLQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBjZ3N0aEEyUVM0eURpNFVnZXBvbWxGZHNJMHRIU0RCaEJYQ1BWQnNKaHhDMGZHdWNSNUhKNk5Ec3h4YldMYjRTZDZRcVFmRE9QdTF30gFYQVVfeXFMT19lbGpocFhFR3NTSGVhMjZCbUJCa0xGZVVjZWhURjlnU05KTzNqTG4wUWNVNkp6bTFrQlBRNVcwNUFYWTFIc0NmTDAwVGVHSmd6TjAzV3FhLQ?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
           "text": "梅爾茨敲定2月24日到26日訪陸 將與習近平會晤並共進晚餐",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9jUWZvQVNtVGV6TzhxeHJZSVlaZWxYcGNuSjJxMTFtaGp1eW5lVGJEdFlROEtNY1hYOXBWQ1QxbUFna1BRaFpvUkoxSy1CRFdB0gFWQVVfeXFMUGZ5a3FVNkxBNjRTNnRqeHlaNnJ4VnFZQ2RDeENNNHVmQXNvdEhqU2NJY1NCbEF1Q3FRX210MS1ZcDVuVXR0SDF6QTVULTNZNFZXb21OaUE?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9jUWZvQVNtVGV6TzhxeHJZSVlaZWxYcGNuSjJxMTFtaGp1eW5lVGJEdFlROEtNY1hYOXBWQ1QxbUFna1BRaFpvUkoxSy1CRFdB0gFWQVVfeXFMUGZ5a3FVNkxBNjRTNnRqeHlaNnJ4VnFZQ2RDeENNNHVmQXNvdEhqU2NJY1NCbEF1Q3FRX210MS1ZcDVuVXR0SDF6QTVULTNZNFZXb21OaUE?oc=5",
@@ -250,17 +250,17 @@
           "package": ""
         },
         {
-          "text": "聯大討論安理會席次問題 傅聰重申：日本沒資格成為常任理事國",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5BR0dUN2dIOHl1Tlo5RjYteHc1dl9HanhmdFFiZWxIaDgwU09OZzlhMS13VlN3OEhzZmZkWFpQd1U1Vm9BOXB3c0FjZFRadkRB0gFWQVVfeXFMTkFPRVA5bzRnWTJhaHVoZzNOMXpxdW54YVV4djg0QWFWcmNhQXFPM01uR08zUnRQaVNPMnd6VmJOdVpUc01Qc2VscnBXcGlzWDNFRF9QZGc?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5BR0dUN2dIOHl1Tlo5RjYteHc1dl9HanhmdFFiZWxIaDgwU09OZzlhMS13VlN3OEhzZmZkWFpQd1U1Vm9BOXB3c0FjZFRadkRB0gFWQVVfeXFMTkFPRVA5bzRnWTJhaHVoZzNOMXpxdW54YVV4djg0QWFWcmNhQXFPM01uR08zUnRQaVNPMnd6VmJOdVpUc01Qc2VscnBXcGlzWDNFRF9QZGc?oc=5",
+          "text": "內亂罪一審判無期 南韓前總統尹錫悅：戒嚴為救國、未改初衷",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBjZ3N0aEEyUVM0eURpNFVnZXBvbWxGZHNJMHRIU0RCaEJYQ1BWQnNKaHhDMGZHdWNSNUhKNk5Ec3h4YldMYjRTZDZRcVFmRE9QdTF30gFYQVVfeXFMT19lbGpocFhFR3NTSGVhMjZCbUJCa0xGZVVjZWhURjlnU05KTzNqTG4wUWNVNkp6bTFrQlBRNVcwNUFYWTFIc0NmTDAwVGVHSmd6TjAzV3FhLQ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBjZ3N0aEEyUVM0eURpNFVnZXBvbWxGZHNJMHRIU0RCaEJYQ1BWQnNKaHhDMGZHdWNSNUhKNk5Ec3h4YldMYjRTZDZRcVFmRE9QdTF30gFYQVVfeXFMT19lbGpocFhFR3NTSGVhMjZCbUJCa0xGZVVjZWhURjlnU05KTzNqTG4wUWNVNkp6bTFrQlBRNVcwNUFYWTFIc0NmTDAwVGVHSmd6TjAzV3FhLQ?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "鴻海合資印度半導體封測廠 總理莫迪今參加動土典禮",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5IbE9WYkdzOVdhOWZWSVZvOGhSLUREZlM4b1NLSzdpNXlobl94cVF5bEE3cTFRcUkzY3VhVlR2cDd1NHEwWkpNdGR5cXpwSUR2VmhVTWxpZUl0aU5XcE1Z0gFkQVVfeXFMT3BwZWFfVDlIQTZJcUN6bUlINFRWNzg5eDNOR0h2cXhVREFaTUdoZHpzT3VLdkxtQm4tZHkzT0ZSdG1US0NGTFBJWGV4dTJSYnBuekFCbWQ1MXYzSjFHc2NZMFpnYg?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5IbE9WYkdzOVdhOWZWSVZvOGhSLUREZlM4b1NLSzdpNXlobl94cVF5bEE3cTFRcUkzY3VhVlR2cDd1NHEwWkpNdGR5cXpwSUR2VmhVTWxpZUl0aU5XcE1Z0gFkQVVfeXFMT3BwZWFfVDlIQTZJcUN6bUlINFRWNzg5eDNOR0h2cXhVREFaTUdoZHpzT3VLdkxtQm4tZHkzT0ZSdG1US0NGTFBJWGV4dTJSYnBuekFCbWQ1MXYzSjFHc2NZMFpnYg?oc=5",
+          "text": "這檔崩60％淪「AI最慘輸家」 黃仁勳永動機失靈？一場殺戮震撼華爾街",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBNZFplNHo4WnZvVXQxNGZlZWVtTkl5V2lZNVVJb2w4aUtWSHNIS1FqWTJObzJaaWxEdk5yVDloT04tbUFFSzlKWkljd281YWFLcHpUUlRJSC1kRmF0ajBLNUxrUmhCREhNczZHSlF3?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBNZFplNHo4WnZvVXQxNGZlZWVtTkl5V2lZNVVJb2w4aUtWSHNIS1FqWTJObzJaaWxEdk5yVDloT04tbUFFSzlKWkljd281YWFLcHpUUlRJSC1kRmF0ajBLNUxrUmhCREhNczZHSlF3?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -273,6 +273,6 @@
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 21,
+  "cost": 10,
   "status": 0
 }
