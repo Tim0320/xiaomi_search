@@ -146,7 +146,7 @@
       "link_type": "app",
       "data": [
         {
-          "text": "伊朗革命衛隊展開報復攻擊卡達、巴林等中東4國美軍基地| 美以轟炸伊朗| 全球",
+          "text": "伊朗革命衛隊展開報復攻擊卡達、巴林等中東4國美軍基地| 美以轟炸伊朗",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBuSEdzcjJrbVpVekdLZ1RhVE8wOEpPb0d1aVJhXy1yZzR1U1I3V2Q2bDJfb1ZweEg3TW1hZmR5TFFGelFmVUxGQmtUWDhpdUMtRnF3?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBuSEdzcjJrbVpVekdLZ1RhVE8wOEpPb0d1aVJhXy1yZzR1U1I3V2Q2bDJfb1ZweEg3TW1hZmR5TFFGelFmVUxGQmtUWDhpdUMtRnF3?oc=5",
           "appIconUrl": "",
@@ -186,17 +186,9 @@
           "package": ""
         },
         {
-          "text": "巴基斯坦宣布與阿富汗「公開戰爭」 路透：衝突背後有2大原因",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9sOGthejRpZ1p4cEZzU3pHYVZ6amJ6cDFBd29aLXVaX2NGcUpqWjRyVnRuVWVVcmR3MjFncWpnSDl4UmtYeHNlOW9hLW9Ua0hqNl9MLUkwSEV3dXdUeUgzekRhZU1pd9IBa0FVX3lxTE5OWk81UnRBQWZXcU53N1VFQWRqb3JiSF9nX1VPYXp3N2c5ZWNjaHB0bHlWVmg5a25kbFF5bktIZ3h3QmVINmNFNWtOamhTb28td3pLVUF3bC1TaUdScHo4TkpGWThUaTRXRVpJ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9sOGthejRpZ1p4cEZzU3pHYVZ6amJ6cDFBd29aLXVaX2NGcUpqWjRyVnRuVWVVcmR3MjFncWpnSDl4UmtYeHNlOW9hLW9Ua0hqNl9MLUkwSEV3dXdUeUgzekRhZU1pd9IBa0FVX3lxTE5OWk81UnRBQWZXcU53N1VFQWRqb3JiSF9nX1VPYXp3N2c5ZWNjaHB0bHlWVmg5a25kbFF5bktIZ3h3QmVINmNFNWtOamhTb28td3pLVUF3bC1TaUdScHo4TkpGWThUaTRXRVpJ?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "台北燈節主燈「不會動」民眾批空虛 北市觀傳局這樣解釋",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ad3Q3SDJEdE9HeGNfZlg3cUptU2xrU0IycUdmTTRrSnhrTE9wdy03WlRxeUtQcGdWODJBV3dZSnMwRXR2OWVTWHZhckRPQmRjLTVsdEs1SVhfcTZUWVYwaWcyUWPSAWpBVV95cUxOLVZpdWt0aDByekdtOFc1X0JJVFFCTjZPUWpfZGpueG55bml2WjVqTFJnWEtUaGFxaGhaTjRteDJoTW5yZEFRYk1KU2pIdTlIaE5RQjZEZFVwOGJJXzV3WnBsWUF4dlJzdmlB?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ad3Q3SDJEdE9HeGNfZlg3cUptU2xrU0IycUdmTTRrSnhrTE9wdy03WlRxeUtQcGdWODJBV3dZSnMwRXR2OWVTWHZhckRPQmRjLTVsdEs1SVhfcTZUWVYwaWcyUWPSAWpBVV95cUxOLVZpdWt0aDByekdtOFc1X0JJVFFCTjZPUWpfZGpueG55bml2WjVqTFJnWEtUaGFxaGhaTjRteDJoTW5yZEFRYk1KU2pIdTlIaE5RQjZEZFVwOGJJXzV3WnBsWUF4dlJzdmlB?oc=5",
+          "text": "影／47年恩怨一次解決？川普宣布對伊朗展開「大規模作戰行動」",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wQTF0UmtGTGFxNU5ibjJXSlhNb0huMWI1Q3d2MWNNS1B3ZWl1dWRwaFhCdHdXbmdYajU4bDl6UXlQdUJabXhuX0JVRnlqUVhtajZB?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wQTF0UmtGTGFxNU5ibjJXSlhNb0huMWI1Q3d2MWNNS1B3ZWl1dWRwaFhCdHdXbmdYajU4bDl6UXlQdUJabXhuX0JVRnlqUVhtajZB?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -210,17 +202,33 @@
           "package": ""
         },
         {
-          "text": "228連假首日國道已72起事故 明18路段易壅塞",
-          "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOd3JmTFZaQXdINEtlN1I0SEFCNVZqSG9JYWl2R1hGa21pT0kxMUx2a1BsUFBTYUpNbGE4US1PME1qRlJseU5jZmQzVVFFcHhQRHoxVE4wOU8tN2FyNlJRa3dzdVNHWkRLYy1TOTJ5RkFRLTg1cE1pMUNDUXY0OVZnbk1DaTNzSkU3SHVlamYxa29DNEI3cDBfUjJGckxrU3BSUzA2WE90bkJiVXpXNXh3X1RnV3JyY1pZSFJQUVlmMnVIa0h0ejRBdHhJTm55NzVxaUU1SGNvMExJcUxrNFlEUFpLeUFVWUdEb3J4WjJpbURTcU5DUE4wdGxHX2I2UGlXTFRTcV9GcVFfeFNJSEFPcDViYlR0S0UybzE0V2xn?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOd3JmTFZaQXdINEtlN1I0SEFCNVZqSG9JYWl2R1hGa21pT0kxMUx2a1BsUFBTYUpNbGE4US1PME1qRlJseU5jZmQzVVFFcHhQRHoxVE4wOU8tN2FyNlJRa3dzdVNHWkRLYy1TOTJ5RkFRLTg1cE1pMUNDUXY0OVZnbk1DaTNzSkU3SHVlamYxa29DNEI3cDBfUjJGckxrU3BSUzA2WE90bkJiVXpXNXh3X1RnV3JyY1pZSFJQUVlmMnVIa0h0ejRBdHhJTm55NzVxaUU1SGNvMExJcUxrNFlEUFpLeUFVWUdEb3J4WjJpbURTcU5DUE4wdGxHX2I2UGlXTFRTcV9GcVFfeFNJSEFPcDViYlR0S0UybzE0V2xn?oc=5",
+          "text": "228連假首日濃霧來亂！馬祖霧茫茫 中部以北留意能見度",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BdUVULUdxOVJEZ0x3QXlxY0JrSlBRUy1kMUFCTF94NWlmVFI1Vzk2d1EzbFpqek9BSDkzYXFnRXdfQ0xMcHVCRjlqUjQxWUJYdGM3bWQ4OXRsMnBVT1JQci0waDPSAWpBVV95cUxNS0laV0U1X1o2RjZjN3ZFbWlLU3NsX2M2VWd3RTFSMnVlTFBGT3R2V2tDbXR2SDExc2FYVzNFOGpUS2ZEZDBZY1N1RWF6Z1V5R0FBaEMwemJBMkliUFhlZTJJVG9WREY3SURR?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BdUVULUdxOVJEZ0x3QXlxY0JrSlBRUy1kMUFCTF94NWlmVFI1Vzk2d1EzbFpqek9BSDkzYXFnRXdfQ0xMcHVCRjlqUjQxWUJYdGM3bWQ4OXRsMnBVT1JQci0waDPSAWpBVV95cUxNS0laV0U1X1o2RjZjN3ZFbWlLU3NsX2M2VWd3RTFSMnVlTFBGT3R2V2tDbXR2SDExc2FYVzNFOGpUS2ZEZDBZY1N1RWF6Z1V5R0FBaEMwemJBMkliUFhlZTJJVG9WREY3SURR?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "228連假首日濃霧來亂！馬祖霧茫茫 中部以北留意能見度",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BdUVULUdxOVJEZ0x3QXlxY0JrSlBRUy1kMUFCTF94NWlmVFI1Vzk2d1EzbFpqek9BSDkzYXFnRXdfQ0xMcHVCRjlqUjQxWUJYdGM3bWQ4OXRsMnBVT1JQci0waDPSAWpBVV95cUxNS0laV0U1X1o2RjZjN3ZFbWlLU3NsX2M2VWd3RTFSMnVlTFBGT3R2V2tDbXR2SDExc2FYVzNFOGpUS2ZEZDBZY1N1RWF6Z1V5R0FBaEMwemJBMkliUFhlZTJJVG9WREY3SURR?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BdUVULUdxOVJEZ0x3QXlxY0JrSlBRUy1kMUFCTF94NWlmVFI1Vzk2d1EzbFpqek9BSDkzYXFnRXdfQ0xMcHVCRjlqUjQxWUJYdGM3bWQ4OXRsMnBVT1JQci0waDPSAWpBVV95cUxNS0laV0U1X1o2RjZjN3ZFbWlLU3NsX2M2VWd3RTFSMnVlTFBGT3R2V2tDbXR2SDExc2FYVzNFOGpUS2ZEZDBZY1N1RWF6Z1V5R0FBaEMwemJBMkliUFhlZTJJVG9WREY3SURR?oc=5",
+          "text": "避免惹火習近平讓「川習會」告吹 川普政府擱置130億美元對台軍售",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB5MVBKd3pFaHNHV08xTEo3alA5SUlVUnFUaGc5WFJRT0tIYWF0SW91TUhCUkdzQ3k3OTdfb1Ftd0VTUkhGVVJfZnctRTNaOTdT0gFWQVVfeXFMTl9pMHpjQ2NsSzVVZGRWYkFVRkpCbFNDRi1lSlhyN1dHU2hyMVpyaVBOdmZkcS1MNDExcmJnYWNObkpLTW1LM3pmWEV5M3pHV1RXdzFZQ3c?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB5MVBKd3pFaHNHV08xTEo3alA5SUlVUnFUaGc5WFJRT0tIYWF0SW91TUhCUkdzQ3k3OTdfb1Ftd0VTUkhGVVJfZnctRTNaOTdT0gFWQVVfeXFMTl9pMHpjQ2NsSzVVZGRWYkFVRkpCbFNDRi1lSlhyN1dHU2hyMVpyaVBOdmZkcS1MNDExcmJnYWNObkpLTW1LM3pmWEV5M3pHV1RXdzFZQ3c?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "今彩539頭獎「開出3注」！　3000萬落在3縣市",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Nb01EdlJWOThYVXF1d0Z4dk9tU01KLWFGQXctOVQ2elNDdUNjb1VWbHFDdndBdTNya1FacDdsSEVZM1JYUi1qa3NWei02M0ExZ2pjbm1GcEp4U0JKaWfSAWhBVV95cUxQT1phMFF4X0JaMS10Tnhrenl3MHZLZXpWYUFMMm8xV2xEQTZNQnNhV3RuNUNyZW1iWjhZUGNTN3Z6TXY0UmdTNGRIWWVabWVzSlFSTTNJakd4MjVsV3A2eHIzUlZGaTlWSg?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Nb01EdlJWOThYVXF1d0Z4dk9tU01KLWFGQXctOVQ2elNDdUNjb1VWbHFDdndBdTNya1FacDdsSEVZM1JYUi1qa3NWei02M0ExZ2pjbm1GcEp4U0JKaWfSAWhBVV95cUxQT1phMFF4X0JaMS10Tnhrenl3MHZLZXpWYUFMMm8xV2xEQTZNQnNhV3RuNUNyZW1iWjhZUGNTN3Z6TXY0UmdTNGRIWWVabWVzSlFSTTNJakd4MjVsV3A2eHIzUlZGaTlWSg?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "巴基斯坦宣布與阿富汗「公開戰爭」 路透：衝突背後有2大原因",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9sOGthejRpZ1p4cEZzU3pHYVZ6amJ6cDFBd29aLXVaX2NGcUpqWjRyVnRuVWVVcmR3MjFncWpnSDl4UmtYeHNlOW9hLW9Ua0hqNl9MLUkwSEV3dXdUeUgzekRhZU1pd9IBa0FVX3lxTE5OWk81UnRBQWZXcU53N1VFQWRqb3JiSF9nX1VPYXp3N2c5ZWNjaHB0bHlWVmg5a25kbFF5bktIZ3h3QmVINmNFNWtOamhTb28td3pLVUF3bC1TaUdScHo4TkpGWThUaTRXRVpJ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9sOGthejRpZ1p4cEZzU3pHYVZ6amJ6cDFBd29aLXVaX2NGcUpqWjRyVnRuVWVVcmR3MjFncWpnSDl4UmtYeHNlOW9hLW9Ua0hqNl9MLUkwSEV3dXdUeUgzekRhZU1pd9IBa0FVX3lxTE5OWk81UnRBQWZXcU53N1VFQWRqb3JiSF9nX1VPYXp3N2c5ZWNjaHB0bHlWVmg5a25kbFF5bktIZ3h3QmVINmNFNWtOamhTb28td3pLVUF3bC1TaUdScHo4TkpGWThUaTRXRVpJ?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -250,14 +258,6 @@
           "package": ""
         },
         {
-          "text": "COVID-19是武漢實驗室洩漏？譚德塞不藏了曝習近平反應",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUM3pKa1I4MWlvMnBNNV9Fd1pjYWRyYVBEaDdIV25DY2o4R0V1M09iaVhBcVpTSVF4R2ZaMFVEX3YxZlBnd2FoQjJEODg5cksybUVTbThDSThnb0VVRWxJ0gFkQVVfeXFMTzNTdkl0VlB0eGpRT1pyVW5iTUtCWkhKakFmMG1DLWl6OU9KSmdFRlpXeHdzc1VYeGE3YjZKREcwZzZiU2JLazhaTHpYNkVpR21McHBPOXpnS2JSOFBLRTNDbXBkdQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUM3pKa1I4MWlvMnBNNV9Fd1pjYWRyYVBEaDdIV25DY2o4R0V1M09iaVhBcVpTSVF4R2ZaMFVEX3YxZlBnd2FoQjJEODg5cksybUVTbThDSThnb0VVRWxJ0gFkQVVfeXFMTzNTdkl0VlB0eGpRT1pyVW5iTUtCWkhKakFmMG1DLWl6OU9KSmdFRlpXeHdzc1VYeGE3YjZKREcwZzZiU2JLazhaTHpYNkVpR21McHBPOXpnS2JSOFBLRTNDbXBkdQ?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
           "text": "快訊／伊朗遭襲擊超大油輪日租上看30萬美元　昨未戰就已達26萬美元",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAyYjQ5VU1US1NjYVlXRW9lQzE2aHJ4RnRpUENqd0p3LUtrZFRic01CTmo4bXZzOUZONmROWnQ0UnZmN0JqMU02Q2pKdlRDX0U3MmfSAW5BVV95cUxOcWVGMl9TRU5VWmh3cU9hNDA2SUVhRFJRd21JQ2dJdGV5dzZJLWk2c09ITlhsdGI5SS1LdnpMakEySEZxZkkyajhfRWZyYjRQQmJMRmpDcUpRV1k5X2l6NzZIbE5sb2RRVmlpQXB3UQ?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAyYjQ5VU1US1NjYVlXRW9lQzE2aHJ4RnRpUENqd0p3LUtrZFRic01CTmo4bXZzOUZONmROWnQ0UnZmN0JqMU02Q2pKdlRDX0U3MmfSAW5BVV95cUxOcWVGMl9TRU5VWmh3cU9hNDA2SUVhRFJRd21JQ2dJdGV5dzZJLWk2c09ITlhsdGI5SS1LdnpMakEySEZxZkkyajhfRWZyYjRQQmJMRmpDcUpRV1k5X2l6NzZIbE5sb2RRVmlpQXB3UQ?oc=5",
@@ -273,6 +273,6 @@
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 37,
+  "cost": 39,
   "status": 0
 }
