@@ -15,14 +15,6 @@
       "link_type": "app",
       "data": [
         {
-          "text": "00981A配息月份",
-          "url": "https://tw.search.yahoo.com/search?p=00981A%E9%85%8D%E6%81%AF%E6%9C%88%E4%BB%BD&amp;fr=ush-bt1",
-          "h5_url": "https://tw.search.yahoo.com/search?p=00981A%E9%85%8D%E6%81%AF%E6%9C%88%E4%BB%BD&amp;fr=ush-bt1",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_yahoo",
-          "package": ""
-        },
-        {
           "text": "Yahoo財經大人物",
           "url": "https://tw.news.yahoo.com/topic/CEO-interview",
           "h5_url": "https://tw.news.yahoo.com/topic/CEO-interview",
@@ -133,6 +125,14 @@
           "appIconUrl": "",
           "sourceUniqueId": "content_yahoo",
           "package": ""
+        },
+        {
+          "text": "川普對哈米尼接班人選說法不一 德黑蘭政局難料",
+          "url": "https://tw.news.yahoo.com/%E5%B7%9D%E6%99%AE%E5%B0%8D%E4%BC%8A%E6%9C%97%E6%8E%A5%E7%8F%AD%E4%BA%BA%E9%81%B8%E8%AA%AA%E6%B3%95%E4%B8%8D-%E5%BE%B7%E9%BB%91%E8%98%AD%E6%94%BF%E5%B1%80%E8%B5%B0%E5%8B%A2%E9%9B%A3%E6%96%99-053604108.html",
+          "h5_url": "https://tw.news.yahoo.com/%E5%B7%9D%E6%99%AE%E5%B0%8D%E4%BC%8A%E6%9C%97%E6%8E%A5%E7%8F%AD%E4%BA%BA%E9%81%B8%E8%AA%AA%E6%B3%95%E4%B8%8D-%E5%BE%B7%E9%BB%91%E8%98%AD%E6%94%BF%E5%B1%80%E8%B5%B0%E5%8B%A2%E9%9B%A3%E6%96%99-053604108.html",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_yahoo",
+          "package": ""
         }
       ],
       "selectedStatus": false,
@@ -145,6 +145,14 @@
       "headImageUrl": "",
       "link_type": "app",
       "data": [
+        {
+          "text": "川普自曝伊朗戰後2種可能安排！專家憂「美軍恐正消耗協防台灣彈藥」",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE04cXRxaEdhTXdDMnZIOHJpVlp5TTUydVBYbzgtVzFZcnZuRTVSZ2E3VVVEcGpnQWRtTG9XRlhtOGxLMWpkZThmUHlpSnBFa04x0gFWQVVfeXFMTzJtZUNOVWZVWFZXYlNUNHJ6VXNEMnN0SEs0eFo4MEFGZWwxYUdSN2doclZoemZlMkRNekNTcGpfdzhUMkhXWkc4Si05d1h6OExDXzRyV3c?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE04cXRxaEdhTXdDMnZIOHJpVlp5TTUydVBYbzgtVzFZcnZuRTVSZ2E3VVVEcGpnQWRtTG9XRlhtOGxLMWpkZThmUHlpSnBFa04x0gFWQVVfeXFMTzJtZUNOVWZVWFZXYlNUNHJ6VXNEMnN0SEs0eFo4MEFGZWwxYUdSN2doclZoemZlMkRNekNTcGpfdzhUMkhXWkc4Si05d1h6OExDXzRyV3c?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
         {
           "text": "習近平的錢沒了！中國在伊朗上兆投資恐血本無歸",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBkR3pWeXpRLTRNeGczTW5QaExCc0g3dUhtTGtwWHRMdGRWSGZxVzJPd25GWDlJQUxkVnM1MnhJekl4eU1KMXhCZGZkUWpFRk1PUUpvT3B2aVNDSTBDNWlF0gFkQVVfeXFMTTZ3aXhRMFp0YllqNU5Gbjh6elZMdTFIVjJWTU11T0ZicU1VNGJJNEVwOUFIbk9RMEhhQWtZaHZncUpRM2lITjRIZzY0NTQ1emdUbVZWLUNxaGhyWmI4ZXl3UUZLYw?oc=5",
@@ -165,14 +173,6 @@
           "text": "美伊開戰2萬旅客滯留！阿聯酋政府霸氣喊：國家全買單",
           "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPTlZNbXlWeUV3RlBkSkxCYzFUODhtYTRJQTM1Y2dNdXJQZmE1aW1sMDNIeTU0YzZrVVd1M0N6T2VTQkRLSzhDY3NvR0dNS3B1QnlxTU1NWnA5SFh1WlVoS0lZNllOcEpYbl9IN0F4NEFLbHpHQWRzTlI4dkpMYVhIaVZ4Q1BOcHhBVTZZdGx4bHdmNExyRGV3Ymc4dTZYa3ZmUjBnV0lTXy1vNGJ5aTV6UXRBcTgzd1M5YU5lWmtxZXUyXzVRYTFnWTdWbUJMSGxDMnNWRVh4T2pUM3NaRGJMZU1GT05xc0RmQ3dHR2ZtRjJhM19iUU1NTmFhbEJQNmNtQjYxSExuT2o1cHRwNkRqZEpLTkJudVU2UkdWcVhsYmVoekdtY2hORkc2ZTB5TUdIdnN6Vl8yQmptTXcwMzFTcjNkNVVWaUFsd2R4TUlRTlZCZXRnOUd3b2NGRThhSms?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPTlZNbXlWeUV3RlBkSkxCYzFUODhtYTRJQTM1Y2dNdXJQZmE1aW1sMDNIeTU0YzZrVVd1M0N6T2VTQkRLSzhDY3NvR0dNS3B1QnlxTU1NWnA5SFh1WlVoS0lZNllOcEpYbl9IN0F4NEFLbHpHQWRzTlI4dkpMYVhIaVZ4Q1BOcHhBVTZZdGx4bHdmNExyRGV3Ymc4dTZYa3ZmUjBnV0lTXy1vNGJ5aTV6UXRBcTgzd1M5YU5lWmtxZXUyXzVRYTFnWTdWbUJMSGxDMnNWRVh4T2pUM3NaRGJMZU1GT05xc0RmQ3dHR2ZtRjJhM19iUU1NTmFhbEJQNmNtQjYxSExuT2o1cHRwNkRqZEpLTkJudVU2UkdWcVhsYmVoekdtY2hORkc2ZTB5TUdIdnN6Vl8yQmptTXcwMzFTcjNkNVVWaUFsd2R4TUlRTlZCZXRnOUd3b2NGRThhSms?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "伊朗「飛彈雨」攻擊波灣多國！傳美駐科威特大使館遇襲 影片曝光",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FX3U3YXRBOGl2M2NVVG9ENk9yWGpuRllrMm5IV0ctM1JIVG9RU1FjWnItanFiN3ZrcGE2cnVTa3JWWDZIRlQtbk40NHc0b0l5V2RF0gFYQVVfeXFMTVVubHBRV3RkRmNBQlVpVDNsVzVWbTZuQTZzVkhCX3dKelNsR3dSd1poQ3V4QnNtdHVGMzFra01XZVdIeDdNdjVRTG4zQmJmaGlxZE9GSGxnaw?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FX3U3YXRBOGl2M2NVVG9ENk9yWGpuRllrMm5IV0ctM1JIVG9RU1FjWnItanFiN3ZrcGE2cnVTa3JWWDZIRlQtbk40NHc0b0l5V2RF0gFYQVVfeXFMTVVubHBRV3RkRmNBQlVpVDNsVzVWbTZuQTZzVkhCX3dKelNsR3dSd1poQ3V4QnNtdHVGMzFra01XZVdIeDdNdjVRTG4zQmJmaGlxZE9GSGxnaw?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -210,33 +210,25 @@
           "package": ""
         },
         {
-          "text": "台東炸寒單登場！29歲客「30%灼傷」 醫院急診流程公告「先做1件事」",
-          "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPa2s1R0Vvcm1OSHR5bi1TLU1zMEdNbUFuODlCdDZTQ01EcEFqZDZ6UmhyWmIzNC1ud0IxMnV1djhud0wzdTdlT0JGRWdGYzhick9aaHZfcTVNTTRCenpIdlV0c1NoOWxZV3NaOGplYmpKbnFnTllDcEU1M3RHU29OYnU2enJPVUxZS1VnLXg3Vmg2R2hCSjYtWWc4c2ZUeXFkTkh2UVVYLWdhLVQwSl8zMVNtc0tyb3JWXzNSZnY2WXZORFRDVEh0NVpQRkJQYWlCcGJkYUlCTzdRWElRdmM5M2VyOEx0YVBHcU5pQW05UE4wVmxvdEZJMGljQm8xTWgxVnV3STNfblJoa3ppNkl1VkctaDl4clFsdmFtdE5pdXZDbXZiOFdqS3R5N1ZKRGhOQl9MNVlsRDNfTUJqZktfN3l3?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPa2s1R0Vvcm1OSHR5bi1TLU1zMEdNbUFuODlCdDZTQ01EcEFqZDZ6UmhyWmIzNC1ud0IxMnV1djhud0wzdTdlT0JGRWdGYzhick9aaHZfcTVNTTRCenpIdlV0c1NoOWxZV3NaOGplYmpKbnFnTllDcEU1M3RHU29OYnU2enJPVUxZS1VnLXg3Vmg2R2hCSjYtWWc4c2ZUeXFkTkh2UVVYLWdhLVQwSl8zMVNtc0tyb3JWXzNSZnY2WXZORFRDVEh0NVpQRkJQYWlCcGJkYUlCTzdRWElRdmM5M2VyOEx0YVBHcU5pQW05UE4wVmxvdEZJMGljQm8xTWgxVnV3STNfblJoa3ppNkl1VkctaDl4clFsdmFtdE5pdXZDbXZiOFdqS3R5N1ZKRGhOQl9MNVlsRDNfTUJqZktfN3l3?oc=5",
+          "text": "錯過再等46年！元宵節恰逢月全食 天文館曝時間：今年追「血月」免熬夜",
+          "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxQanlHenp2ZXVBeHR1LXJyT0xNTHcxVXdLc2JuenREV3YwbVBqZmNZSWw3NUdjdkpnYkFqSTRPTHRuV2drc3pDcHV2VkhCZFpoWlNvdERsUzBqb2VVX2U3VWxiWnJlRk5QczZDQzVZTmJ0R0U4U3lBbTgyQUVtYXVwRVdHcVEyNUJGZURFNXhYdGRDeFJheTVjWjVRQlBaNWVtOWVZSjRsaGpQZ1Y1TmhBc1c3Q0RjOUF3dWlCNGItRmZ0YjZSeXR0ZmZ3N1NjVUlrMXVJcC1mRmRsNnFMNk9FZ0h0OEJfNTFzS1dpeHdzNjlNSDhIN2VnS3kwd2dqYXZqbGVjb0VUUmp5dFFxaHN6ai1CWjE2OE9OX0MwV205d2w0OVRPRlJteGE0Y1VDVktLUjRZclRmcnI4bWt6a3BtZ3RMQ1ZmNUlnZjc4UUFBTlpJb19PUVd3MGJrVkJaQWtRdUxGWkNqYS1wcHVwSmNvcFE4NzJURmFUSjMyM2VlMUpBeDZFQ3Nv?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxQanlHenp2ZXVBeHR1LXJyT0xNTHcxVXdLc2JuenREV3YwbVBqZmNZSWw3NUdjdkpnYkFqSTRPTHRuV2drc3pDcHV2VkhCZFpoWlNvdERsUzBqb2VVX2U3VWxiWnJlRk5QczZDQzVZTmJ0R0U4U3lBbTgyQUVtYXVwRVdHcVEyNUJGZURFNXhYdGRDeFJheTVjWjVRQlBaNWVtOWVZSjRsaGpQZ1Y1TmhBc1c3Q0RjOUF3dWlCNGItRmZ0YjZSeXR0ZmZ3N1NjVUlrMXVJcC1mRmRsNnFMNk9FZ0h0OEJfNTFzS1dpeHdzNjlNSDhIN2VnS3kwd2dqYXZqbGVjb0VUUmp5dFFxaHN6ai1CWjE2OE9OX0MwV205d2w0OVRPRlJteGE0Y1VDVktLUjRZclRmcnI4bWt6a3BtZ3RMQ1ZmNUlnZjc4UUFBTlpJb19PUVd3MGJrVkJaQWtRdUxGWkNqYS1wcHVwSmNvcFE4NzJURmFUSjMyM2VlMUpBeDZFQ3Nv?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "快訊／4縣市「藍白合」！鄭麗文、黃國昌敲定13日攜手發表共同政見",
-          "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPYURaYnduSWQ3Q3VUMWNwOF84LXNtTExqMmtOZld3NXB4VzItUVNOY1Q3b2l5bEF2dmZEdm90Z2tFNUVtbUFxYVJKNjBtdkpRb0QtXzkxWDlwNHpFN1NrR1J0QWtIc1dmcVdXZk9aTUs5NW5aaC1nemMtRnhBM1M1M3M2SGJ6VFVtNnRlWXJ2Yml1U3pGT0JTX1RkenJLTlAzTnE0MzBvY1hDUUp1TWJRdVF1WHZPZ2NBZXZzNWpfeUNQdEo4RS14UW1BVnBvdGJMWWtrcTd1dTY0ZmIwbHpuWUZqZjI1WTVaUTlScFBnMjhlaXFhd0VCMG80Y1cySS1RUFBuOW9CTmdpLTRDTlVHYl9XanV1aklxQXRyWTNIaDgzMHJwdDVNb01JYXFZWHVTLTVfaWhpU3YwVUZVRUk0WTNtZ1ZIX1EyU1h4OXRhQTNqU3FPQzhfcE5iczBBSlF5QnRVVE9fVnBQU1JZdkJ2TkVwTjNoNmwzaXh5SQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPYURaYnduSWQ3Q3VUMWNwOF84LXNtTExqMmtOZld3NXB4VzItUVNOY1Q3b2l5bEF2dmZEdm90Z2tFNUVtbUFxYVJKNjBtdkpRb0QtXzkxWDlwNHpFN1NrR1J0QWtIc1dmcVdXZk9aTUs5NW5aaC1nemMtRnhBM1M1M3M2SGJ6VFVtNnRlWXJ2Yml1U3pGT0JTX1RkenJLTlAzTnE0MzBvY1hDUUp1TWJRdVF1WHZPZ2NBZXZzNWpfeUNQdEo4RS14UW1BVnBvdGJMWWtrcTd1dTY0ZmIwbHpuWUZqZjI1WTVaUTlScFBnMjhlaXFhd0VCMG80Y1cySS1RUFBuOW9CTmdpLTRDTlVHYl9XanV1aklxQXRyWTNIaDgzMHJwdDVNb01JYXFZWHVTLTVfaWhpU3YwVUZVRUk0WTNtZ1ZIX1EyU1h4OXRhQTNqU3FPQzhfcE5iczBBSlF5QnRVVE9fVnBQU1JZdkJ2TkVwTjNoNmwzaXh5SQ?oc=5",
+          "text": "北捷行天宮站傳男子揚言「殺人」 大批警力趕抵未發現",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBaaW5nM0N0MUVOZGNLYjFaQldtN3dVNElIQTRQUE1fUEN3bHg0MThFSDkwekthNkhoUHdKRHBzWWpvejlkQWEtbms2VnBhVUpZ0gFWQVVfeXFMT0J5azZzd0staHY5UUlQQ09lTTM4YjlxR3VxSWZwbV9SVFByV0JDOUtNbFJUTG5vMVVlUk1CaDJhVVVkWmJGeVVWX1prTmhEOTVYNV9yOFE?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBaaW5nM0N0MUVOZGNLYjFaQldtN3dVNElIQTRQUE1fUEN3bHg0MThFSDkwekthNkhoUHdKRHBzWWpvejlkQWEtbms2VnBhVUpZ0gFWQVVfeXFMT0J5azZzd0staHY5UUlQQ09lTTM4YjlxR3VxSWZwbV9SVFByV0JDOUtNbFJUTG5vMVVlUk1CaDJhVVVkWmJGeVVWX1prTmhEOTVYNV9yOFE?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "科威特國防部：數架美軍戰機墜毀境內 確認所有機上人員生還",
-          "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxPcUUtXzdib1ZFMUhMVDRxMWE4dVp5Y2xTSTI3RllLX2s4Mmc1Z1hyS0dra0FuSlFfU3BPZGMxQThmLTNydkxwVWYyb1RheHMxbjQ5NnhqZkZJQWdUcGFraGt4TlNPbl9ETXBNX0RRSVA5b2xQN0pXOUtlakkySnBTaDdkek1PZkFBYWJKYlZ3U1VYUE14emt2VTlxRWNVNEVOQl9yWm92WWdlRWhXa2JpcFhvNGQ2NTZCeTNPeFFydS1tSy1kM1laajkzNTdYUTR6dE1wRnZuUEd5ejlkVFhxMUZpUm5ueUVwdHcxSktTeFZEZE1CdFFKUDFtNlJKVW5Sb0Z5TzV6NnU0eTdJOHB1TVZET2RySlBiRVNzc2NpMnBOelZCMU9BUEl1RUs2LWtqck55a3U5QjM4QUItUzM4dC1RYXhWV2RRc1NOamVFVHBQUDQ1T2RfejhrMDkyRGtVTzJrbjVnOWJadmRpMHl6VnpEaVJJUVYyOHRZemdCYlRVdTlzYVQzVkVHQmtySHk4UlNlcnlod08?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMimANBVV95cUxPcUUtXzdib1ZFMUhMVDRxMWE4dVp5Y2xTSTI3RllLX2s4Mmc1Z1hyS0dra0FuSlFfU3BPZGMxQThmLTNydkxwVWYyb1RheHMxbjQ5NnhqZkZJQWdUcGFraGt4TlNPbl9ETXBNX0RRSVA5b2xQN0pXOUtlakkySnBTaDdkek1PZkFBYWJKYlZ3U1VYUE14emt2VTlxRWNVNEVOQl9yWm92WWdlRWhXa2JpcFhvNGQ2NTZCeTNPeFFydS1tSy1kM1laajkzNTdYUTR6dE1wRnZuUEd5ejlkVFhxMUZpUm5ueUVwdHcxSktTeFZEZE1CdFFKUDFtNlJKVW5Sb0Z5TzV6NnU0eTdJOHB1TVZET2RySlBiRVNzc2NpMnBOelZCMU9BUEl1RUs2LWtqck55a3U5QjM4QUItUzM4dC1RYXhWV2RRc1NOamVFVHBQUDQ1T2RfejhrMDkyRGtVTzJrbjVnOWJadmRpMHl6VnpEaVJJUVYyOHRZemdCYlRVdTlzYVQzVkVHQmtySHk4UlNlcnlod08?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "水手留意！美伊衝突升溫老牌投顧火速喊買長榮、陽明最新目標價曝光：揭「1原因」不推萬海- 上市櫃",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9hWDR4M2hWcVRCNXp0RHUwQmc2cmY3cG1BdFdNSXd6MTFiVGZTM1NtdFBIaUdXZEc0S2dPWUMxajQxQlV2NXgwN293SGFwcTVPU2w3WVRQMkx6NVJteDViQ3pPVWRMYzBvZ3c?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9hWDR4M2hWcVRCNXp0RHUwQmc2cmY3cG1BdFdNSXd6MTFiVGZTM1NtdFBIaUdXZEc0S2dPWUMxajQxQlV2NXgwN293SGFwcTVPU2w3WVRQMkx6NVJteDViQ3pPVWRMYzBvZ3c?oc=5",
+          "text": "伊朗最高國安首長拉里賈尼：不與美國談判 川普「錯覺幻想」會有更多美軍傷亡",
+          "url": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxOb1Y4T1JfcWdXdlZfUXcwSU56Q2hHdnAwM1kwSERKTDBjQ0ROZXBWMFJDMG5HbWlvQmxqeFJmVWw3REcxVy1MNlljQkp3aE5VMDJrME02dTZaVldQOTM3T3V5VjVOU3lab21oR09mSmVOQllibjRDZTlMYjNiSnA1dWhEelhnZE5lQzUyRUs2UUEwV1NjSEFBZ0E5emZ3bDRranJTMWoza2wzY2JvY0M3c2tzWXRVSTBiVDlxYlFQakJhMFQ2YXZaOUszMUdOdkpxTWZiU2Z2N0pvdTEza3FTT3NfeVhCS0s5cTBWQlJ3QnYwaFloWW95SjZuTXVseEExSEN0SGtEMkh0Y2NnWGplblJEM0lITHVJUnRVeU04ZXpRSDA1RDVwYzI2a0NwR3I2SmdiakpxeEhZNXJQaTN1RHVqc1FRWHdScm9GbWFXWEk4alRPZ3JTN2FabDFTMmVOOXNZMmozTVkzVXl3RE9OSzZYc2sxcGp5REEySGJBWi1McW04U3pubjhqOGN0TmdKUElrUXEtYnRLNWlZTmhOZjBicENrS29iQzREUWo1Vk1zMlZBUXlNWlIwQWJ4ZWo3bnpJM0laSlRVTDdXNXB5b2N6MldZVFBUdXoyNHRuUVZJTl9LZE9fX2k3b0VhYThsUjFKNFRiZ3g?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxOb1Y4T1JfcWdXdlZfUXcwSU56Q2hHdnAwM1kwSERKTDBjQ0ROZXBWMFJDMG5HbWlvQmxqeFJmVWw3REcxVy1MNlljQkp3aE5VMDJrME02dTZaVldQOTM3T3V5VjVOU3lab21oR09mSmVOQllibjRDZTlMYjNiSnA1dWhEelhnZE5lQzUyRUs2UUEwV1NjSEFBZ0E5emZ3bDRranJTMWoza2wzY2JvY0M3c2tzWXRVSTBiVDlxYlFQakJhMFQ2YXZaOUszMUdOdkpxTWZiU2Z2N0pvdTEza3FTT3NfeVhCS0s5cTBWQlJ3QnYwaFloWW95SjZuTXVseEExSEN0SGtEMkh0Y2NnWGplblJEM0lITHVJUnRVeU04ZXpRSDA1RDVwYzI2a0NwR3I2SmdiakpxeEhZNXJQaTN1RHVqc1FRWHdScm9GbWFXWEk4alRPZ3JTN2FabDFTMmVOOXNZMmozTVkzVXl3RE9OSzZYc2sxcGp5REEySGJBWi1McW04U3pubjhqOGN0TmdKUElrUXEtYnRLNWlZTmhOZjBicENrS29iQzREUWo1Vk1zMlZBUXlNWlIwQWJ4ZWo3bnpJM0laSlRVTDdXNXB5b2N6MldZVFBUdXoyNHRuUVZJTl9LZE9fX2k3b0VhYThsUjFKNFRiZ3g?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -258,9 +250,17 @@
           "package": ""
         },
         {
-          "text": "GTC+工具機展助攻，上銀領軍機器人族群升溫- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOazh5dmtEX0R2MFVyZ01ESVh2cTg3ME0wREtpSHFWUmg3cHF1WElDdzkwWm0tYzFMbzVjVzBoRVhHS3NESWt1emlRQTdrV3dLeWtWZVgtaU90Wi1OXzZiZUhWblQwaGhFdGs5Z2l3QjNjRkQwOUlTREJtUXpFNVhTRmVQUlZ6dWhhRlBNTGZlQUFWdw?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOazh5dmtEX0R2MFVyZ01ESVh2cTg3ME0wREtpSHFWUmg3cHF1WElDdzkwWm0tYzFMbzVjVzBoRVhHS3NESWt1emlRQTdrV3dLeWtWZVgtaU90Wi1OXzZiZUhWblQwaGhFdGs5Z2l3QjNjRkQwOUlTREJtUXpFNVhTRmVQUlZ6dWhhRlBNTGZlQUFWdw?oc=5",
+          "text": "00919預估配息史上新高！119萬股民眼睛亮了留意最後買進日- 理財",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAwc3ZaTmZzeGNDb19oa3pTYURhbVUxOWJrN3E4T0x4OEdvTURybFlRb1QtQmhpSzI0LWFGbDc0UU1QbVZVa1VwbFNmNkVLOFFuRFJKb0xLUk1lcXJCOFo4?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAwc3ZaTmZzeGNDb19oa3pTYURhbVUxOWJrN3E4T0x4OEdvTURybFlRb1QtQmhpSzI0LWFGbDc0UU1QbVZVa1VwbFNmNkVLOFFuRFJKb0xLUk1lcXJCOFo4?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "1月獲利年增131%、EPS衝3.35元！「機器人這檔」連8漲飆天價 上銀、志聖同亮紅燈",
+          "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOcGZSYjVhTXBKWkl0cUF6X1M4b3RUcmJwdG5yWmk3cWVUbGhWQnctcHpSbUZFVnBHWERjZ3ZWc3ZLQy1lSi1qWmRZMGdjb09RNEdadmZjclNXVm5yVzdfakcxdHFXQzhVcU5fbHVzeWdNYkhCRFBmT3ZsM1lJb0s4Y1hTa0RvcjBYYW9GMTc4dE9yOVNIa0ZVSnJDa1RQMXNSanROS0JBdWRRR0diTzl5U0E3bkotaVVxb01DUURXd1dpMHd1cVE5QWRTWXgyUmxZeFhEaUtjX1M2NWVTek1QamZLVjh4VHNnWTZMNVpGMFBFdDJCdG41RWNPRU5iRlpsM2d2NTlsbkJRQUJIRHdrNnpybnRsekxHTDExT3RlRnl2Y3d1ajh2eTY4eUtZUVN0LVZhLWdjR1pyM00?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOcGZSYjVhTXBKWkl0cUF6X1M4b3RUcmJwdG5yWmk3cWVUbGhWQnctcHpSbUZFVnBHWERjZ3ZWc3ZLQy1lSi1qWmRZMGdjb09RNEdadmZjclNXVm5yVzdfakcxdHFXQzhVcU5fbHVzeWdNYkhCRFBmT3ZsM1lJb0s4Y1hTa0RvcjBYYW9GMTc4dE9yOVNIa0ZVSnJDa1RQMXNSanROS0JBdWRRR0diTzl5U0E3bkotaVVxb01DUURXd1dpMHd1cVE5QWRTWXgyUmxZeFhEaUtjX1M2NWVTek1QamZLVjh4VHNnWTZMNVpGMFBFdDJCdG41RWNPRU5iRlpsM2d2NTlsbkJRQUJIRHdrNnpybnRsekxHTDExT3RlRnl2Y3d1ajh2eTY4eUtZUVN0LVZhLWdjR1pyM00?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -273,6 +273,6 @@
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 43,
+  "cost": 36,
   "status": 0
 }
