@@ -15,14 +15,6 @@
       "link_type": "app",
       "data": [
         {
-          "text": "iPhone 17e",
-          "url": "https://tw.search.yahoo.com/search?p=iPhone+17e&amp;fr=ush-bt1",
-          "h5_url": "https://tw.search.yahoo.com/search?p=iPhone+17e&amp;fr=ush-bt1",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_yahoo",
-          "package": ""
-        },
-        {
           "text": "Yahoo財經大人物",
           "url": "https://tw.news.yahoo.com/topic/CEO-interview",
           "h5_url": "https://tw.news.yahoo.com/topic/CEO-interview",
@@ -133,6 +125,14 @@
           "appIconUrl": "",
           "sourceUniqueId": "content_yahoo",
           "package": ""
+        },
+        {
+          "text": "「先學會不輸」阮慕驊籲投資人認清三關鍵",
+          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E9%82%84%E6%9C%83%E8%B7%8C-%E9%98%AE%E6%85%95%E9%A9%8A%E7%A4%BA%E8%AD%A6-%E5%88%A5%E5%B9%BB%E6%83%B3-%E5%BF%AB%E5%81%9A1%E4%BB%B6%E4%BA%8B-082500075.html",
+          "h5_url": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E9%82%84%E6%9C%83%E8%B7%8C-%E9%98%AE%E6%85%95%E9%A9%8A%E7%A4%BA%E8%AD%A6-%E5%88%A5%E5%B9%BB%E6%83%B3-%E5%BF%AB%E5%81%9A1%E4%BB%B6%E4%BA%8B-082500075.html",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_yahoo",
+          "package": ""
         }
       ],
       "selectedStatus": false,
@@ -146,17 +146,9 @@
       "link_type": "app",
       "data": [
         {
-          "text": "以色列大規模空襲德黑蘭！F-35首度擊落伊朗俄製戰機",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBVWFR6NHRZUG1EUVpsWFB6amllT1NvY256QmNtc2VXQTVwdlo4djNLQklQS05fR3NLTWk2Sjc2N25tNVFvZFdBWlM2VEMwOGFLbjc4ZWtkYzhFM2I4aTBBSS1wallxd9IBa0FVX3lxTE1Hd2IxSjlVYy1iUnBWd0VtSEo0cVVtbk9qbEQ5WGQ4R1M1cTZ2WkMtc1dFcnFqaGFwUmY4bzlqU2FoMmNJOGs3Sk44UnZGR29VRG1WSl9xVU5FbmIwLUk2R1g5Ql9rOVp6M193?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBVWFR6NHRZUG1EUVpsWFB6amllT1NvY256QmNtc2VXQTVwdlo4djNLQklQS05fR3NLTWk2Sjc2N25tNVFvZFdBWlM2VEMwOGFLbjc4ZWtkYzhFM2I4aTBBSS1wallxd9IBa0FVX3lxTE1Hd2IxSjlVYy1iUnBWd0VtSEo0cVVtbk9qbEQ5WGQ4R1M1cTZ2WkMtc1dFcnFqaGFwUmY4bzlqU2FoMmNJOGs3Sk44UnZGR29VRG1WSl9xVU5FbmIwLUk2R1g5Ql9rOVp6M193?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "趙少康轟鄭麗文「太不像話！」　徐巧芯爆還沒看過黨版軍購條例",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE90LW1uMkt6U20wenU1bnJoWVl2ODdoajEzQUNnWldyd3Uza1hoaHB6YWlRbUNMR29QRXg2VWo3c3c3b2dhQWNvV0pSLWQtXzIybUduNzF2Y2I1M192V2fSAWhBVV95cUxNa0pUWW8yQkZwUktjLURzWWpsQ0dvWXFBNTNTVGx2MGU2dmxaaThOLVdMSE9SOGxBWHdmaFgydC1sZndMYURpOHZzVDFzeDZqanlvclEtQU8yWThQSjFyR2xQY2NZUERKTw?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE90LW1uMkt6U20wenU1bnJoWVl2ODdoajEzQUNnWldyd3Uza1hoaHB6YWlRbUNMR29QRXg2VWo3c3c3b2dhQWNvV0pSLWQtXzIybUduNzF2Y2I1M192V2fSAWhBVV95cUxNa0pUWW8yQkZwUktjLURzWWpsQ0dvWXFBNTNTVGx2MGU2dmxaaThOLVdMSE9SOGxBWHdmaFgydC1sZndMYURpOHZzVDFzeDZqanlvclEtQU8yWThQSjFyR2xQY2NZUERKTw?oc=5",
+          "text": "幕後／朱盧趙相繼出手 鄭麗文主導藍大老背後助攻定調軍購最終版本",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sS0M2X09RX0RxZHp4WXVGSTZrSjZmVG1QTEVGaGhNOVB5bS1BT2ZOLThfY3V5Vng1WVZybG1vbUZvU1hBVDFJUWdTV3gzQThJLVHSAVdBVV95cUxNVi1LX0lJUFZkMktleTVZWjlyRU9iMVVSQ2xnUnZHMko1aXZwcTNsclA0QUg5U0ZjLVJFaW1SNm9OaVRzWm16NE1mMUlDNE1tSGJLenJvSVk?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sS0M2X09RX0RxZHp4WXVGSTZrSjZmVG1QTEVGaGhNOVB5bS1BT2ZOLThfY3V5Vng1WVZybG1vbUZvU1hBVDFJUWdTV3gzQThJLVHSAVdBVV95cUxNVi1LX0lJUFZkMktleTVZWjlyRU9iMVVSQ2xnUnZHMko1aXZwcTNsclA0QUg5U0ZjLVJFaW1SNm9OaVRzWm16NE1mMUlDNE1tSGJLenJvSVk?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -170,9 +162,9 @@
           "package": ""
         },
         {
-          "text": "伊朗巡防艦在斯里蘭卡遭美軍潛艦擊沉180官兵恐僅32人生還",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0wR05YMFZvR1IyMXJ4WG9wNlFtOW91QWZpNTZwMEJwa1dtbnJ3M0x6Um95aFVQazJBdkZfQ0UzbktQd3JtMjZSa09Da29ja1RyWXJra3pfWEFUTEtt?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0wR05YMFZvR1IyMXJ4WG9wNlFtOW91QWZpNTZwMEJwa1dtbnJ3M0x6Um95aFVQazJBdkZfQ0UzbktQd3JtMjZSa09Da29ja1RyWXJra3pfWEFUTEtt?oc=5",
+          "text": "美以伊戰爭第四天焦點：以色列大規模空襲德黑蘭、貝魯特「軍事目標」",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tRTRjTGlIb3hyRUU2VUdBVFhsX3h1aUI3ZHp4UFRrb2YyOWdxdGd0eVkyQlJoOXRoMzhCX2w5b0NwcWRScm1QNTl3U2IzS3JkZEZvZUUyMDQ5QWFBdDJZdHRzQVh2QdIBa0FVX3lxTE9yb1U5WVZXTFc0azA5NGdpdlQyOHRKYTFKWnNlTUF5anpVMEJad2o4RU1qelc1dnJHb3FKVHE3Q3FUSFRySDMyUllwLUdJak5LcWVEWEU4S1BCX2RPdmJzbGZ2Ul83N3JmQmFV?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tRTRjTGlIb3hyRUU2VUdBVFhsX3h1aUI3ZHp4UFRrb2YyOWdxdGd0eVkyQlJoOXRoMzhCX2w5b0NwcWRScm1QNTl3U2IzS3JkZEZvZUUyMDQ5QWFBdDJZdHRzQVh2QdIBa0FVX3lxTE9yb1U5WVZXTFc0azA5NGdpdlQyOHRKYTFKWnNlTUF5anpVMEJad2o4RU1qelc1dnJHb3FKVHE3Q3FUSFRySDMyUllwLUdJak5LcWVEWEU4S1BCX2RPdmJzbGZ2Ul83N3JmQmFV?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -194,9 +186,9 @@
           "package": ""
         },
         {
-          "text": "未來1周2波冷空氣影響周五起北東濕冷低溫僅16度 | 生活新聞| 生活",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5CSUtSSVhTZlV4Nm90YkV2bTNPSmpqY3p5X3UzUENSemcwbUZmenZsYXA5ckFvRkhjckp6RVBWeTROZVJOdnJjSnNnbVcxeXNr?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5CSUtSSVhTZlV4Nm90YkV2bTNPSmpqY3p5X3UzUENSemcwbUZmenZsYXA5ckFvRkhjckp6RVBWeTROZVJOdnJjSnNnbVcxeXNr?oc=5",
+          "text": "雨綿綿！明全台濕冷低溫下探14度 下波東北季風時間曝",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5RMnMtWVRwMUlzbDVRVklFWkxHV3VzNE9mTWViTUtkOE95dmFBSXQ1SzhzLWJIMnFNWlAwRURaalRkWGxESEFTVFcxaUtXSkxGcm1Rb1NSSk5SbER1Wlg2dGxjSULSAWpBVV95cUxPeUpKS1dQWmx3TEY5UV9BdDNjS1hRemJZMTM5WjBlV3NULUlxVVY4blg3WTZnbWdUSW5SbE1zdEVsZl9MMUsza1l0U2JuUHFpRERBdE55cmxmQVNBdTRIWlNvUmFNRTZsUEJB?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5RMnMtWVRwMUlzbDVRVklFWkxHV3VzNE9mTWViTUtkOE95dmFBSXQ1SzhzLWJIMnFNWlAwRURaalRkWGxESEFTVFcxaUtXSkxGcm1Rb1NSSk5SbER1Wlg2dGxjSULSAWpBVV95cUxPeUpKS1dQWmx3TEY5UV9BdDNjS1hRemJZMTM5WjBlV3NULUlxVVY4blg3WTZnbWdUSW5SbE1zdEVsZl9MMUsza1l0U2JuUHFpRERBdE55cmxmQVNBdTRIWlNvUmFNRTZsUEJB?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -210,6 +202,14 @@
           "package": ""
         },
         {
+          "text": "綠委質詢突轉頭問「以關稅談判團隊為榮？」 韓國瑜機智回一句",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1LYmtTdVNoLVF3STRKQ3JLSXFoeUpOWWlyQkRTZHlnNkhsU2pIOHotSE1Sdk1haUdqSjhXMzY1a0FvN2tfUDdLV0Y5dFlYN0U5RHEzVWtOMmFxdXpoVmVmZDBJWTYzTmN2VXRqZGhn?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1LYmtTdVNoLVF3STRKQ3JLSXFoeUpOWWlyQkRTZHlnNkhsU2pIOHotSE1Sdk1haUdqSjhXMzY1a0FvN2tfUDdLV0Y5dFlYN0U5RHEzVWtOMmFxdXpoVmVmZDBJWTYzTmN2VXRqZGhn?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
           "text": "美伊開戰後共機不來台海靜悄悄？黑熊學院示警：中共開啟省電模式",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EdVhhU1V2cV9LeGxKZlp5b0IwdHI4b2Vvd2NxWTNYajExalQ2UTZITFJ1c254TlNpX3dDLWRCR296SmxaTUZKXzd2YUFHTnN4TVB3VU1iOVhka1U?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EdVhhU1V2cV9LeGxKZlp5b0IwdHI4b2Vvd2NxWTNYajExalQ2UTZITFJ1c254TlNpX3dDLWRCR296SmxaTUZKXzd2YUFHTnN4TVB3VU1iOVhka1U?oc=5",
@@ -218,17 +218,25 @@
           "package": ""
         },
         {
-          "text": "怕李貞秀遭「當選無效」藍白1招狂卡！他一看「恐遭反噬」笑瘋了",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50NHFPcUdyT2ZMNmlGMVFDWVNFY3k4Qk5pY0pMMEJFenRZWG8xU053RWNENlJ4NGowU003MVdkaGJaWHBlSDVZZFR1VE5DdVlVeFlNaC1jSE1oV3AyclpySA?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50NHFPcUdyT2ZMNmlGMVFDWVNFY3k4Qk5pY0pMMEJFenRZWG8xU053RWNENlJ4NGowU003MVdkaGJaWHBlSDVZZFR1VE5DdVlVeFlNaC1jSE1oV3AyclpySA?oc=5",
+          "text": "李貞秀遞補案公告無效 選務人士：中選會認錯 提訴訟恐遭打臉",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YQ0IyaHBqSVkteU9GM0p3SnJjM2kxYjZpOXBwSkhmMXpqZEhfU0E0YjEwVnlpd1h0a0tRQmhjbjUtaElRS0JHTklGUlF5QmN5OUVqUmIwN3k3bVFsM0NELW5Gb2JSYzk5SHfSAW9BVV95cUxQSmxHa1NTQVl0Nk8tZjBqcG9KU0FLTU5FVTExOHktZmQ0dHlyY01VcDl5U19fdTY5V0Q2RXZFY1E1bXpqaV90SWdZWnFDTFBOeE00YTRENjVsaFN3Wk85YUZUZUY4RTQtMXB3d05JZUk?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YQ0IyaHBqSVkteU9GM0p3SnJjM2kxYjZpOXBwSkhmMXpqZEhfU0E0YjEwVnlpd1h0a0tRQmhjbjUtaElRS0JHTklGUlF5QmN5OUVqUmIwN3k3bVFsM0NELW5Gb2JSYzk5SHfSAW9BVV95cUxQSmxHa1NTQVl0Nk8tZjBqcG9KU0FLTU5FVTExOHktZmQ0dHlyY01VcDl5U19fdTY5V0Q2RXZFY1E1bXpqaV90SWdZWnFDTFBOeE00YTRENjVsaFN3Wk85YUZUZUY4RTQtMXB3d05JZUk?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "中東戰火升溫！她曬「台灣居民居住證」大讚好用 釣出中國人神回覆......",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5UZVZocWxKLU15eHFqR1dLcHZyMF9Lb3BDNGJKMTBXNGE4dVE4NWNqVUY1a2JwZVB3cURLeGZydXBxRndCLVNmLWJZNy1ZdmRVZlU5UmFBN1E5Q1ZZeVVSMXZfT3V4Mm9zU0HSAW9BVV95cUxNSjFaZHZQWVlrNEpTbU9CWlFXLUVjNlBHRVRUeWhBWU9uNUxNcV9WQ01OS0JSbnF3Rk1nQ09fc0xaTy1BTmZidmtSSUdyaC1VUHE4QVJHb1NzR3VyUUw1WHB0TDNNTWxQTjRzdGN0Tk0?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5UZVZocWxKLU15eHFqR1dLcHZyMF9Lb3BDNGJKMTBXNGE4dVE4NWNqVUY1a2JwZVB3cURLeGZydXBxRndCLVNmLWJZNy1ZdmRVZlU5UmFBN1E5Q1ZZeVVSMXZfT3V4Mm9zU0HSAW9BVV95cUxNSjFaZHZQWVlrNEpTbU9CWlFXLUVjNlBHRVRUeWhBWU9uNUxNcV9WQ01OS0JSbnF3Rk1nQ09fc0xaTy1BTmZidmtSSUdyaC1VUHE4QVJHb1NzR3VyUUw1WHB0TDNNTWxQTjRzdGN0Tk0?oc=5",
+          "text": "中東戰火美預告「放蔣出籠」 賴清德籲：國人避免前往衝突地區",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kd2VBOTlPLVVWczUzMXpIZkJGZEY1a0lpM040QnFFVGd6Q2sxZjVzbmdmTVRwQjB4M1VKUHl0TjZrem9zSkd1eXBQZ2xrU2hhcmxQOVNEVzViVHZ5VlVMZk5qajhBX2o3anfSAW9BVV95cUxOdVpTVzhnV0VDY3pqVk9VMGhSZDBIWEtKQzFkSV9WQXIwa0lJY1dRRkFOeUVNUnNIX1ZIb0NIRjV1TFM0VUR1S2ZqSmZSRUQ2XzN1c3pqeTAtTUJfcWNYeGpoaGN4YTFKWlVhZ3dkcFk?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kd2VBOTlPLVVWczUzMXpIZkJGZEY1a0lpM040QnFFVGd6Q2sxZjVzbmdmTVRwQjB4M1VKUHl0TjZrem9zSkd1eXBQZ2xrU2hhcmxQOVNEVzViVHZ5VlVMZk5qajhBX2o3anfSAW9BVV95cUxOdVpTVzhnV0VDY3pqVk9VMGhSZDBIWEtKQzFkSV9WQXIwa0lJY1dRRkFOeUVNUnNIX1ZIb0NIRjV1TFM0VUR1S2ZqSmZSRUQ2XzN1c3pqeTAtTUJfcWNYeGpoaGN4YTFKWlVhZ3dkcFk?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "魯比歐嗆伊朗要小心「我們要放蔣介石出場」？ 典故源自於麥克阿瑟",
+          "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxPcmFvSWxxNGYyRklJZzlwSXVZaWZLeVhlVE13WGdLVXJSYm9kZC1FQ0NITHBBbGY4a1g5YnFvTk5kd2tZZVlMLUJuYzFCZk1IOE8xb2JFUmN6SHRsS2JuS2FtT2tQcHBHdWlKVnIyRDJpQTRPTktxZlUxTXQ4eEI0M3VqajRjZHR0RmZZWThDNFEtcEZTQklMOGhDZTRaYjd1aEZuNzJoY1VpQ3p4dll6UUlyVUY3LVlfT3l0dDFKYTZJU09adzJtUmN6NEM4Uld6RG13cUpWN1JLVkMxMncySE9UVEhQaXdrd0tLdjVOdm5HbXNBVFZFaFNCUDVQQU5WNnVmMnluRmNCUzRrYjkwQkEweDBoUDdGZDRxaTMtalNoRWxUaklxN0tCal8xOVRRSEk3YkR1U21tY2RnekF3U0pBLXB6aWRvZThybWVyNnJKdUM4azBLeUViMHJiSmcwUS1tM21iejFnVlhUVElnRFdBUElTQlpKUEpsQkdWN25oT1M4eHpMbTdodVQ3dVRhaXR6NFNBeWthUFZjdzJIeVZFcURGb1VpemcyX3lTdUFOS0gzUlkwcXZxT28?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMivANBVV95cUxPcmFvSWxxNGYyRklJZzlwSXVZaWZLeVhlVE13WGdLVXJSYm9kZC1FQ0NITHBBbGY4a1g5YnFvTk5kd2tZZVlMLUJuYzFCZk1IOE8xb2JFUmN6SHRsS2JuS2FtT2tQcHBHdWlKVnIyRDJpQTRPTktxZlUxTXQ4eEI0M3VqajRjZHR0RmZZWThDNFEtcEZTQklMOGhDZTRaYjd1aEZuNzJoY1VpQ3p4dll6UUlyVUY3LVlfT3l0dDFKYTZJU09adzJtUmN6NEM4Uld6RG13cUpWN1JLVkMxMncySE9UVEhQaXdrd0tLdjVOdm5HbXNBVFZFaFNCUDVQQU5WNnVmMnluRmNCUzRrYjkwQkEweDBoUDdGZDRxaTMtalNoRWxUaklxN0tCal8xOVRRSEk3YkR1U21tY2RnekF3U0pBLXB6aWRvZThybWVyNnJKdUM4azBLeUViMHJiSmcwUS1tM21iejFnVlhUVElnRFdBUElTQlpKUEpsQkdWN25oT1M4eHpMbTdodVQ3dVRhaXR6NFNBeWthUFZjdzJIeVZFcURGb1VpemcyX3lTdUFOS0gzUlkwcXZxT28?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -250,17 +258,9 @@
           "package": ""
         },
         {
-          "text": "哈米尼被斬首內幕曝光！習近平恐下令路口監視器全拆",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB6SGxCbjN2OFRkSndROVlKdHI1QU9Za1MzZGNkZDludFlBZ3NqX1JuXzNQcDctZ3NrWmQxZ3NUajZMMnQzc2plMWtmWXUwY0QzNFcxOF9rSjFlNElVc0xyaEgyenVSd9IBa0FVX3lxTE5lQ2QtT3lyU3BoR0o2MTBORnlsWUhReUVxdl9lS0NKMHdfRGxjSjRJNWZSMTBtR0ZxdVdyc01CWXQ0VVZ3LVQzOVJybkRvTWdsWjhRMzRvdndKUU5XUmhqdzJ2eVN4SS1iLTZZ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB6SGxCbjN2OFRkSndROVlKdHI1QU9Za1MzZGNkZDludFlBZ3NqX1JuXzNQcDctZ3NrWmQxZ3NUajZMMnQzc2plMWtmWXUwY0QzNFcxOF9rSjFlNElVc0xyaEgyenVSd9IBa0FVX3lxTE5lQ2QtT3lyU3BoR0o2MTBORnlsWUhReUVxdl9lS0NKMHdfRGxjSjRJNWZSMTBtR0ZxdVdyc01CWXQ0VVZ3LVQzOVJybkRvTWdsWjhRMzRvdndKUU5XUmhqdzJ2eVN4SS1iLTZZ?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "伊朗想談和了？比特幣回升 一度強漲逾5% 美股期指止血 美元反轉走跌",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tUlZZa1ZVWHN6U2pNa0F3M29xbE1zV2NIajdPaXJrYVd6SS1Td1V2LW1nZ1BwbkpDRXJ4aWZLUzJVN3B1QXdyMFBNdTQ4WXZUV2x1Ymk1cVFoUdIBX0FVX3lxTE9WSnNVODRMYXA0T0VnSUxzNVNHLXdDalFMRHdlbGJkT0JiaEVFTmhSQXJJeHhvRXBfcXFjX29Bd25YRUFITGtlU2hPOEpTZm0wMnBPQklUVkhEcWktU2FF?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tUlZZa1ZVWHN6U2pNa0F3M29xbE1zV2NIajdPaXJrYVd6SS1Td1V2LW1nZ1BwbkpDRXJ4aWZLUzJVN3B1QXdyMFBNdTQ4WXZUV2x1Ymk1cVFoUdIBX0FVX3lxTE9WSnNVODRMYXA0T0VnSUxzNVNHLXdDalFMRHdlbGJkT0JiaEVFTmhSQXJJeHhvRXBfcXFjX29Bd25YRUFITGtlU2hPOEpTZm0wMnBPQklUVkhEcWktU2FF?oc=5",
+          "text": "傳伊朗有意停火！美股道瓊開高翻黑震盪、那斯達克漲百點 台積電ADR漲1.1%",
+          "url": "https://news.google.com/rss/articles/CBMitwNBVV95cUxOckhabVJGdExTU2ZPTE5PTVl0SnpwQi1jWlZNSG5oVG04UWZ3NHl6NUQ2cmNnQzI5X0Z5cFJOeUloeWM3RjRzWjFTRnlGVGluTjlVNkgzTnFvMGpQUWQ0SEtEbHZCSnM4WVF4SmhvQ2M0Y3ZTTzJGc0RJdTBGcW1EdUJxbGg3akFHLWI1dFhSenAxRmxrRk4tVGRqS1pVSXVaaWNObl8zY2F4N0RXalFvaEtrc3NXdXg2b04wZkNQZ0hHcXBGMG40QW9QRWctN0dkLTR5VF9aX3ZtWUlFaHl5TmFjOWJNY2NzRkdraGlwSUhkel83WnNpMVRJN25ZdFRnZjdESnJRREZKczQ0OGdBVTNXWHpQdVhwU2ZzU1l4bTdMUzdxYVp2SDh3OUI1amR6N1dtSXJhMFBBMHNRVnJTWDRPazBqbVo1V0c0aWU2YW5jVEZaeFJka2cwTm13MmNuT2hGTzhnY1hlVXcwcGJnejZ5dGlOV0tnbHNHSGFVNzlpWHhWSHhRdkJ5SkNkVHJwYWlHS1owMjcyRzBPRmEzYzk1aUIzeWl4WUFnV1NSc0QwQWt0OEJn?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMitwNBVV95cUxOckhabVJGdExTU2ZPTE5PTVl0SnpwQi1jWlZNSG5oVG04UWZ3NHl6NUQ2cmNnQzI5X0Z5cFJOeUloeWM3RjRzWjFTRnlGVGluTjlVNkgzTnFvMGpQUWQ0SEtEbHZCSnM4WVF4SmhvQ2M0Y3ZTTzJGc0RJdTBGcW1EdUJxbGg3akFHLWI1dFhSenAxRmxrRk4tVGRqS1pVSXVaaWNObl8zY2F4N0RXalFvaEtrc3NXdXg2b04wZkNQZ0hHcXBGMG40QW9QRWctN0dkLTR5VF9aX3ZtWUlFaHl5TmFjOWJNY2NzRkdraGlwSUhkel83WnNpMVRJN25ZdFRnZjdESnJRREZKczQ0OGdBVTNXWHpQdVhwU2ZzU1l4bTdMUzdxYVp2SDh3OUI1amR6N1dtSXJhMFBBMHNRVnJTWDRPazBqbVo1V0c0aWU2YW5jVEZaeFJka2cwTm13MmNuT2hGTzhnY1hlVXcwcGJnejZ5dGlOV0tnbHNHSGFVNzlpWHhWSHhRdkJ5SkNkVHJwYWlHS1owMjcyRzBPRmEzYzk1aUIzeWl4WUFnV1NSc0QwQWt0OEJn?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -273,6 +273,6 @@
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 29,
+  "cost": 47,
   "status": 0
 }
