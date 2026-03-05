@@ -146,9 +146,9 @@
       "link_type": "app",
       "data": [
         {
-          "text": "天氣／雨還沒完！明起再猛炸6天 「這時」才放晴",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA3NE8xSDdMUVU2dmNVcVNYVXltenNfem9DWHpld3B4aWpqOHJFUWRNVW1zWmRjVzBXSnhDWk10ZW5XLTdKOHRQYU5aOGpoUQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA3NE8xSDdMUVU2dmNVcVNYVXltenNfem9DWHpld3B4aWpqOHJFUWRNVW1zWmRjVzBXSnhDWk10ZW5XLTdKOHRQYU5aOGpoUQ?oc=5",
+          "text": "關稅退款打拖延戰？美司法部喊千億美元要退很久 法官「1句話」打臉",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9IYVVNUFlaT1dVaGhFMjMyTENaTmVvWW9CMzNET0UtbXIxcjVTa0diTmNyZzJWTzJPSkt0Smc1YWp0bm53SG1zTUdvMGVCd0hNaFBpcDA3Yk92VV85aHRr0gFkQVVfeXFMTldIYV9nQ1I0VzNaeFNtUDNrZnNhQVlhWW84NVlpejFnSk44ZW5pbU9QSG5TbGpuU0h5ZVhYSDNTVEptdm5pV1JZeHExZ0ZsRURucmR5dUs3N0dNTGR1TXZONWUyUw?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9IYVVNUFlaT1dVaGhFMjMyTENaTmVvWW9CMzNET0UtbXIxcjVTa0diTmNyZzJWTzJPSkt0Smc1YWp0bm53SG1zTUdvMGVCd0hNaFBpcDA3Yk92VV85aHRr0gFkQVVfeXFMTldIYV9nQ1I0VzNaeFNtUDNrZnNhQVlhWW84NVlpejFnSk44ZW5pbU9QSG5TbGpuU0h5ZVhYSDNTVEptdm5pV1JZeHExZ0ZsRURucmR5dUs3N0dNTGR1TXZONWUyUw?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -157,6 +157,14 @@
           "text": "幕後／朱盧趙相繼出手 鄭麗文主導藍大老背後助攻定調軍購最終版本",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sS0M2X09RX0RxZHp4WXVGSTZrSjZmVG1QTEVGaGhNOVB5bS1BT2ZOLThfY3V5Vng1WVZybG1vbUZvU1hBVDFJUWdTV3gzQThJLVHSAVdBVV95cUxNVi1LX0lJUFZkMktleTVZWjlyRU9iMVVSQ2xnUnZHMko1aXZwcTNsclA0QUg5U0ZjLVJFaW1SNm9OaVRzWm16NE1mMUlDNE1tSGJLenJvSVk?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sS0M2X09RX0RxZHp4WXVGSTZrSjZmVG1QTEVGaGhNOVB5bS1BT2ZOLThfY3V5Vng1WVZybG1vbUZvU1hBVDFJUWdTV3gzQThJLVHSAVdBVV95cUxNVi1LX0lJUFZkMktleTVZWjlyRU9iMVVSQ2xnUnZHMko1aXZwcTNsclA0QUg5U0ZjLVJFaW1SNm9OaVRzWm16NE1mMUlDNE1tSGJLenJvSVk?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "中東戰火釀台灣「斷氣」危機？桃園副市長曝6年前神預言：到了現在也不用修改 | 張大任",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5yMFdhOXVpRzdTN090X3ktb2pxUExtSVFxRUl4ZkVUQ3J4bm91bHpjNkkxeUFsaWU0TW1nUFpTbUtYNmZtMUZGdWdpRXpVUQ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5yMFdhOXVpRzdTN090X3ktb2pxUExtSVFxRUl4ZkVUQ3J4bm91bHpjNkkxeUFsaWU0TW1nUFpTbUtYNmZtMUZGdWdpRXpVUQ?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -178,25 +186,17 @@
           "package": ""
         },
         {
-          "text": "快訊／伊朗報復！稱在波斯灣「襲擊美國油輪」 現場起火燃燒",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1fRXRDZEdkWmxfOXBBVElrZ1V1TGtneHVGOWxtOG9LWWtSQnhON19ETlR5NV9mbVdMRUZMUkNfV0R1VWRDd0FuR2dhYmhJNVU?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1fRXRDZEdkWmxfOXBBVElrZ1V1TGtneHVGOWxtOG9LWWtSQnhON19ETlR5NV9mbVdMRUZMUkNfV0R1VWRDd0FuR2dhYmhJNVU?oc=5",
+          "text": "民進黨高市議員第十選區初選民調放榜 跌破眼鏡",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaTkVTbXNYN2tpWDVPWjFNZzY2VS1NQ1BjeXFONVN1TjlaejFiSk55c1pXRjVyUWZsdERQajlOd25sdzJod1FOWmxEZjN0XzYtTzZraTRYOFF3NTFUZEd6Z3ZDZTd4a3VERmfSAW9BVV95cUxQbTRUb3Fvcm9LaW9fdW1QdGNRcnJwVDUzQnhycDJXbmhzOGZPdTB3eDY5ZVFGNFZVeW01ZkRmaEQ0NVJsbV9JR1YyVlV4Z0loUWkwdmxTUmFFZ1BHM3VuckVOb2thc0ZScDNQYkc3elk?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaTkVTbXNYN2tpWDVPWjFNZzY2VS1NQ1BjeXFONVN1TjlaejFiSk55c1pXRjVyUWZsdERQajlOd25sdzJod1FOWmxEZjN0XzYtTzZraTRYOFF3NTFUZEd6Z3ZDZTd4a3VERmfSAW9BVV95cUxQbTRUb3Fvcm9LaW9fdW1QdGNRcnJwVDUzQnhycDJXbmhzOGZPdTB3eDY5ZVFGNFZVeW01ZkRmaEQ0NVJsbV9JR1YyVlV4Z0loUWkwdmxTUmFFZ1BHM3VuckVOb2thc0ZScDNQYkc3elk?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "關稅退款打拖延戰？美司法部喊千億美元要退很久 法官「1句話」打臉",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9IYVVNUFlaT1dVaGhFMjMyTENaTmVvWW9CMzNET0UtbXIxcjVTa0diTmNyZzJWTzJPSkt0Smc1YWp0bm53SG1zTUdvMGVCd0hNaFBpcDA3Yk92VV85aHRr0gFkQVVfeXFMTldIYV9nQ1I0VzNaeFNtUDNrZnNhQVlhWW84NVlpejFnSk44ZW5pbU9QSG5TbGpuU0h5ZVhYSDNTVEptdm5pV1JZeHExZ0ZsRURucmR5dUs3N0dNTGR1TXZONWUyUw?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9IYVVNUFlaT1dVaGhFMjMyTENaTmVvWW9CMzNET0UtbXIxcjVTa0diTmNyZzJWTzJPSkt0Smc1YWp0bm53SG1zTUdvMGVCd0hNaFBpcDA3Yk92VV85aHRr0gFkQVVfeXFMTldIYV9nQ1I0VzNaeFNtUDNrZnNhQVlhWW84NVlpejFnSk44ZW5pbU9QSG5TbGpuU0h5ZVhYSDNTVEptdm5pV1JZeHExZ0ZsRURucmR5dUs3N0dNTGR1TXZONWUyUw?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "直奔東京挺中華隊！賈永婕嗨過頭「護照忘在飛機上」過海關前才發現",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAtVndzczlCbW9OQmc5WExaODFYMzlnYk5SUlVObXI5am1PT0tJdXpVakJId0R6eDVGcnA5UTZsMVFVVzZXLURQT2Fldi1YVFBPZU9vTnA0TG9heW8tck4xMU9XdDg5WDRYQ1RDWEoySTFReFXSAV9BVV95cUxNSDd4UDNQUWR5VVdlYkVjSnFiekhRa2huaHdndjVwbzlDQ1lhbTJ4d19nRm0ya056NXZOREdEbVQwbV9heFlyZWpfY3hUdU1iWkt0LUtsa2pQRi1ZVnRCMA?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAtVndzczlCbW9OQmc5WExaODFYMzlnYk5SUlVObXI5am1PT0tJdXpVakJId0R6eDVGcnA5UTZsMVFVVzZXLURQT2Fldi1YVFBPZU9vTnA0TG9heW8tck4xMU9XdDg5WDRYQ1RDWEoySTFReFXSAV9BVV95cUxNSDd4UDNQUWR5VVdlYkVjSnFiekhRa2huaHdndjVwbzlDQ1lhbTJ4d19nRm0ya056NXZOREdEbVQwbV9heFlyZWpfY3hUdU1iWkt0LUtsa2pQRi1ZVnRCMA?oc=5",
+          "text": "蘇澳「又淹了」…豪雨狂炸宜蘭 台鐵永樂站與蘇澳新站單線通行",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9DWXN3ZUNJd2MyN2hTcUNtbUcyQzdmd1VXOTEyZWpiMjlWVm5HU0JTMWFlREVYQWtPWWVDSGlYbTZnc04ycE1neUQwallGOWpv0gFWQVVfeXFMT0NqNHowSjdNd0hrSXlrZ2dNZHRGQzNjRXJPXzJlWFd5cW1sUVNUQTM0OEN0TlcyM1JRamV6ZFBUU2I5dG9IOXBVUnlrR1ZQNzE3ZXFMY3c?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9DWXN3ZUNJd2MyN2hTcUNtbUcyQzdmd1VXOTEyZWpiMjlWVm5HU0JTMWFlREVYQWtPWWVDSGlYbTZnc04ycE1neUQwallGOWpv0gFWQVVfeXFMT0NqNHowSjdNd0hrSXlrZ2dNZHRGQzNjRXJPXzJlWFd5cW1sUVNUQTM0OEN0TlcyM1JRamV6ZFBUU2I5dG9IOXBVUnlrR1ZQNzE3ZXFMY3c?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -210,57 +210,57 @@
           "package": ""
         },
         {
-          "text": "勞動部發錢砸1.4億「補助申請條件快看」 5/1新制上路",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ySVpqekdiWVRrenpuQWFqR1ZFdjljMHcxakdrN2ZfcHZBQ2hiQ2ZZOW9UM09uNmhZUUFJcDRRWVNVVk55S2diWmhHNm5xZw?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ySVpqekdiWVRrenpuQWFqR1ZFdjljMHcxakdrN2ZfcHZBQ2hiQ2ZZOW9UM09uNmhZUUFJcDRRWVNVVk55S2diWmhHNm5xZw?oc=5",
+          "text": "台東元宵節64人炮傷 尚有3人住院",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOTW8tVG9rR1M4SDlrNERJZmpLUFRQQjE5OTMtMHA3aEVOQkVMY1FZRXBfU2JoLWlsYzNpMk81ZkJXSTJnSUQ5SFBzWGRSZFNRY0JUWW9INWNzWGxZNjY3bzVqaGVkYlBrLTNScFV3djZKMjVzdUpZMHFSNjh5S0QwRGdlZTBEdkdOc2Z5UVltVm9Wb0YzNUNqNVl5SDNkRno5ckxmazVyNXhfTm83dWZLckt5ZTBONWxzdjJkaXB6bUdacF96OWlFMEFYa2tiaXUxUmJ6OWJHbnRxcnpyektlT0wydWFtaFJXQ1lUU2ZpOHhRelpq?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOTW8tVG9rR1M4SDlrNERJZmpLUFRQQjE5OTMtMHA3aEVOQkVMY1FZRXBfU2JoLWlsYzNpMk81ZkJXSTJnSUQ5SFBzWGRSZFNRY0JUWW9INWNzWGxZNjY3bzVqaGVkYlBrLTNScFV3djZKMjVzdUpZMHFSNjh5S0QwRGdlZTBEdkdOc2Z5UVltVm9Wb0YzNUNqNVl5SDNkRno5ckxmazVyNXhfTm83dWZLckt5ZTBONWxzdjJkaXB6bUdacF96OWlFMEFYa2tiaXUxUmJ6OWJHbnRxcnpyektlT0wydWFtaFJXQ1lUU2ZpOHhRelpq?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "全球藥源8成產自中印 我國擬推「國藥國造」確保國內用藥不斷鏈",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rNFd2a181WjlwQ3kyLUs5VUZ6cHcyVFBQckVkNV9ZYm1lWW9vQlV1WXloN3lFc1BUd0haYzJ1d29CaWNDSzI3OEx3VUhSNmZXX0JneU02MFVmbjZZb0VhWW11YlXSAWpBVV95cUxOd1FUZkthTWFUYjdaZWU4c3FoWlRPMk9ZdW5LQW5EVkxOMERvOEJYNWJMWlRPbkZ3M0hXVDRlTmNicU1FNWtLdVc2OGtrSl92SDVWNXkzQ0NhQjQtZm5EbFBkN0JlekphYzl3?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rNFd2a181WjlwQ3kyLUs5VUZ6cHcyVFBQckVkNV9ZYm1lWW9vQlV1WXloN3lFc1BUd0haYzJ1d29CaWNDSzI3OEx3VUhSNmZXX0JneU02MFVmbjZZb0VhWW11YlXSAWpBVV95cUxOd1FUZkthTWFUYjdaZWU4c3FoWlRPMk9ZdW5LQW5EVkxOMERvOEJYNWJMWlRPbkZ3M0hXVDRlTmNicU1FNWtLdVc2OGtrSl92SDVWNXkzQ0NhQjQtZm5EbFBkN0JlekphYzl3?oc=5",
+          "text": "獲徵召就鬧事！ 藍動員千人擠車站迎接游淑貞 作家傻眼：這是21世紀台灣嗎？",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGX01ESndzUzFpSjFWVW1Jajhkd3JSa3M3bHd0YXl2RDNybTBDT21xYnNfLVhSUV9uSzhTRnF5Y29zNVQxUEY3LS0yYzZTal9rVktlNnItTnh3eVk?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGX01ESndzUzFpSjFWVW1Jajhkd3JSa3M3bHd0YXl2RDNybTBDT21xYnNfLVhSUV9uSzhTRnF5Y29zNVQxUEY3LS0yYzZTal9rVktlNnItTnh3eVk?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "日本北海道上富良野岳雪崩 台灣登山客受困獲救意識不清送醫",
-          "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxPUmRaYzc1Nkl0YTlKTGs4SzVoWXZPckVxTTlQQWRUaG9nTlhQeXZwTUxkSnEyaGRMUk9lRnhWS2xCM3N1N3d0UmNQcVlaWWdoZ000b3p2V3VUVFRiWF9QVHc5T1lyU2NvbUJIdFh5M09tSnluOE54OFZNbDA2eS1tNW83STZlMzRnVjZ4cjlDM3I3UEtuQjRQMmpra2NFZTJvLTdrVFNGUUJieE10eVp5TDdMbXZFUTluRS12QnhwZmNRVUx3WnFDQ1g3Vm0tWnk3bDVBMFNwY0FwRkVha3VFUktxVkd1N3ZYVXF4UHA2MTIwR05RSEZIWWJZeTFnQWk2VGRmdm0xTGpoMjM4V28zWDlIUUptN1VLWVVqVlFvbGhNb0FpR05HVW05c0U1YUxVSHlKWkpnczZudUs3b2RobDZxQXJTVUswZUZWcFQxX1lXRll1U1lnWmtrNzl5OXNxR2xoVFc0bHd5VU1zck1pdVc1WTNiQnh5eTBERHFnVk1HTnRaNzg3V0xOeUlvLWhhamFRVEc3X1k?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMimANBVV95cUxPUmRaYzc1Nkl0YTlKTGs4SzVoWXZPckVxTTlQQWRUaG9nTlhQeXZwTUxkSnEyaGRMUk9lRnhWS2xCM3N1N3d0UmNQcVlaWWdoZ000b3p2V3VUVFRiWF9QVHc5T1lyU2NvbUJIdFh5M09tSnluOE54OFZNbDA2eS1tNW83STZlMzRnVjZ4cjlDM3I3UEtuQjRQMmpra2NFZTJvLTdrVFNGUUJieE10eVp5TDdMbXZFUTluRS12QnhwZmNRVUx3WnFDQ1g3Vm0tWnk3bDVBMFNwY0FwRkVha3VFUktxVkd1N3ZYVXF4UHA2MTIwR05RSEZIWWJZeTFnQWk2VGRmdm0xTGpoMjM4V28zWDlIUUptN1VLWVVqVlFvbGhNb0FpR05HVW05c0U1YUxVSHlKWkpnczZudUs3b2RobDZxQXJTVUswZUZWcFQxX1lXRll1U1lnWmtrNzl5OXNxR2xoVFc0bHd5VU1zck1pdVc1WTNiQnh5eTBERHFnVk1HTnRaNzg3V0xOeUlvLWhhamFRVEc3X1k?oc=5",
+          "text": "伊朗地下「無人機大軍」曝光！隧道內懸掛哈米尼肖像",
+          "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxOUTY5Wm5mRzU3V1pfZ3IwdlBwTkxmc2RiMk1oUlhpaG1QWmtWZXNWZ2llWDY1elhIWk1IRXZUSzU1dGNJbUVBU2NNS29VbUtfa3dyVE1uajZseVpLODZrbGNtdm9feUdXVE5qUDBaSXBZMktsaE9ITEtPeEtKN2g2UUtxb2daNUdpTW9nYkNVSzd0amN1SGQzX3hUTFJ0bHRmQllwdTdWcUt0TzlCV3M1UndhXzJCd2dvcG5XbGNacFhwSHdqT1hJbkRNVElnRXpReWZxeC16cGF0UFNyNXoxYUs0aVRBVnlpUFUzUXhuLXpReTROeHg3b1paXzlQTE4yU3ZfWVk2am40R0cwaS0wYXJZMXRkUlNfTXZpSS11dUZaNjRFQWQ5REVCY0w2YmItd2dkUzRUNGM1emY5OHM1eEk0NnM3RVBIdGs5ZkRlYjJIYW8?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxOUTY5Wm5mRzU3V1pfZ3IwdlBwTkxmc2RiMk1oUlhpaG1QWmtWZXNWZ2llWDY1elhIWk1IRXZUSzU1dGNJbUVBU2NNS29VbUtfa3dyVE1uajZseVpLODZrbGNtdm9feUdXVE5qUDBaSXBZMktsaE9ITEtPeEtKN2g2UUtxb2daNUdpTW9nYkNVSzd0amN1SGQzX3hUTFJ0bHRmQllwdTdWcUt0TzlCV3M1UndhXzJCd2dvcG5XbGNacFhwSHdqT1hJbkRNVElnRXpReWZxeC16cGF0UFNyNXoxYUs0aVRBVnlpUFUzUXhuLXpReTROeHg3b1paXzlQTE4yU3ZfWVk2am40R0cwaS0wYXJZMXRkUlNfTXZpSS11dUZaNjRFQWQ5REVCY0w2YmItd2dkUzRUNGM1emY5OHM1eEk0NnM3RVBIdGs5ZkRlYjJIYW8?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "中東戰火釀台灣「斷氣」危機？桃園副市長曝6年前神預言：到了現在也不用修改 | 張大任",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5yMFdhOXVpRzdTN090X3ktb2pxUExtSVFxRUl4ZkVUQ3J4bm91bHpjNkkxeUFsaWU0TW1nUFpTbUtYNmZtMUZGdWdpRXpVUQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5yMFdhOXVpRzdTN090X3ktb2pxUExtSVFxRUl4ZkVUQ3J4bm91bHpjNkkxeUFsaWU0TW1nUFpTbUtYNmZtMUZGdWdpRXpVUQ?oc=5",
+          "text": "史上新高！王品超額配股息16.11元 配發率破100%",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNMlpIdHpNMGNTZU5ETkYweVFlLUdfeVhpeHBiNlhCWEt0WEI5WkI0NW5MTk1uRzd4eHpfOGVtY1c1QVFnMUhiYjgxejVMa3J4RlpGMFhOU011dGJraVBmZ0k1N3JXTlIxOUdjSXZtSENOSEIxMWdleFcxaEdJb2dEbDhrQzJLZTFnczF2STNxeGJscXM1SzJwVnBpUEtYbFNYZlhxa3JVbXd4cHBTZXpwZDV2SFZ4bUtiRnMzRm02TzlTY29YczNhLWlMZUI0T0NqQVE1V2xzMG5EZk1QQmJIeFdHQTNkemZqWEY2aUstamV5Tll6RGpvMExpRm9nTkNXd3NBbmJoaFg5OTBOblJiOTVmTUVFbVFqbWZwZXFsTDVraXF2Uy00czl6d0YxMERsdkE?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNMlpIdHpNMGNTZU5ETkYweVFlLUdfeVhpeHBiNlhCWEt0WEI5WkI0NW5MTk1uRzd4eHpfOGVtY1c1QVFnMUhiYjgxejVMa3J4RlpGMFhOU011dGJraVBmZ0k1N3JXTlIxOUdjSXZtSENOSEIxMWdleFcxaEdJb2dEbDhrQzJLZTFnczF2STNxeGJscXM1SzJwVnBpUEtYbFNYZlhxa3JVbXd4cHBTZXpwZDV2SFZ4bUtiRnMzRm02TzlTY29YczNhLWlMZUI0T0NqQVE1V2xzMG5EZk1QQmJIeFdHQTNkemZqWEY2aUstamV5Tll6RGpvMExpRm9nTkNXd3NBbmJoaFg5OTBOblJiOTVmTUVFbVFqbWZwZXFsTDVraXF2Uy00czl6d0YxMERsdkE?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "驚蟄+天赦日！今日「最強轉運日」命理師曝求財必做2事：成為天選之人",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9VM0pTLWNhXzlVc2FnbWZKR0NYZi05dFU0SUVlTW5ZSzNpTVpLZVJxNFZXTG15U2gwUUdzTWY0c0lEYVZFUERDV1J4Z0dUTmto0gFWQVVfeXFMT1RlTWx4YjBBNTgwT25nbGdFdkV5bXV4SS03UGNTb2xzNV9nc1FqQ0lGbzNCQ19NdjhFck03eVZMbzJIeFRvcHplRWtuOW5yVmZrTlg4NGc?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9VM0pTLWNhXzlVc2FnbWZKR0NYZi05dFU0SUVlTW5ZSzNpTVpLZVJxNFZXTG15U2gwUUdzTWY0c0lEYVZFUERDV1J4Z0dUTmto0gFWQVVfeXFMT1RlTWx4YjBBNTgwT25nbGdFdkV5bXV4SS03UGNTb2xzNV9nc1FqQ0lGbzNCQ19NdjhFck03eVZMbzJIeFRvcHplRWtuOW5yVmZrTlg4NGc?oc=5",
+          "text": "歷史經驗解析：戰爭衝擊下黃金、油價、股市一個月內反應",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1QZE16bGdQT0EyZEwxSTMybmU5cWx6Q2F1VGdYelJ6M21ORjR0ckpvUG1KMF9kN3piUkxrWEp0WEoydlIwTFNLOHhiR3ZnNjg?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1QZE16bGdQT0EyZEwxSTMybmU5cWx6Q2F1VGdYelJ6M21ORjR0ckpvUG1KMF9kN3piUkxrWEp0WEoydlIwTFNLOHhiR3ZnNjg?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "外資又倒貨台股逾500億元 央行出手「管理」新台幣匯價",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9KYXhqNlpYdUdxWHZ0ZFFwbWg3NWFMdDlCcUgxaUdMRk1kbDEzc19udUNXbnBOTUVTRldDSWt0LWFWbF9meG1oQ0FrbEl1dUFB0gFWQVVfeXFMUDZkM05kZkJUQ1ZwbU5NWjU2QnN3Y3VmSVJmNTFFSHlISzYzUGl2M0tkeHQybFllcnRvclJDakNUNjB3bEJ3S1dtNXFPR1lReUhHWDMyU1E?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9KYXhqNlpYdUdxWHZ0ZFFwbWg3NWFMdDlCcUgxaUdMRk1kbDEzc19udUNXbnBOTUVTRldDSWt0LWFWbF9meG1oQ0FrbEl1dUFB0gFWQVVfeXFMUDZkM05kZkJUQ1ZwbU5NWjU2QnN3Y3VmSVJmNTFFSHlISzYzUGl2M0tkeHQybFllcnRvclJDakNUNjB3bEJ3S1dtNXFPR1lReUhHWDMyU1E?oc=5",
+          "text": "韓股暴跌 「韓版矽谷」工程師集體恐慌 排隊躲廁所只為一事",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBucUFmdkxYSWRMSkNOZ3lwSWJ1WFVBanpneWUxeXUtdjdOUzRtU1YxWHZOWDdHeG40OXZNOVNPbklHZW9TdUsybloyamVkaU9F0gFWQVVfeXFMUHYtOFBFU1NyVVZsTVF3ZVFpTGJlQW43Zjl2aG03a0x4ajdrY05zZ0Fia21BWEtqeW5obk9Wb0V6TVpMQTdKLTZuYTRTRXJyYUlxeEVsanc?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBucUFmdkxYSWRMSkNOZ3lwSWJ1WFVBanpneWUxeXUtdjdOUzRtU1YxWHZOWDdHeG40OXZNOVNPbklHZW9TdUsybloyamVkaU9F0gFWQVVfeXFMUHYtOFBFU1NyVVZsTVF3ZVFpTGJlQW43Zjl2aG03a0x4ajdrY05zZ0Fia21BWEtqeW5obk9Wb0V6TVpMQTdKLTZuYTRTRXJyYUlxeEVsanc?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "H200晶片不玩了？輝達傳將台積電代工產能轉給Vera Rubin",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBOdmd0X3o3VUxzUWlhS0FOVDdhX2xEbUNGYndYd3JUekZEOTBsUndLb0tnYjZRbUsxZXhnMlFYUzFaRDdkdGp2bDFCdTd6eHpVTnVFdGFFczdLTk52TVRr?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBOdmd0X3o3VUxzUWlhS0FOVDdhX2xEbUNGYndYd3JUekZEOTBsUndLb0tnYjZRbUsxZXhnMlFYUzFaRDdkdGp2bDFCdTd6eHpVTnVFdGFFczdLTk52TVRr?oc=5",
+          "text": "記憶卡哇！南亞科、旺宏、華邦電...亮燈漲停「這檔」外資大升評目標價315→650元：並肩台積電- 上市櫃",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1WNHljX284czhma01Ja0Z0WmVkZWZQUlVna2M3NHpBUWJCU3pvOVNIV21MT1dLdHdtb1daVWJUWVEya2lWei10N1I4aGhIYWpyV094MUtjc1UxdzBHYkx0akJzemVSWmhUT3c?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1WNHljX284czhma01Ja0Z0WmVkZWZQUlVna2M3NHpBUWJCU3pvOVNIV21MT1dLdHdtb1daVWJUWVEya2lWei10N1I4aGhIYWpyV094MUtjc1UxdzBHYkx0akJzemVSWmhUT3c?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -273,6 +273,6 @@
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 17,
+  "cost": 14,
   "status": 0
 }
