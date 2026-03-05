@@ -146,6 +146,22 @@
       "link_type": "app",
       "data": [
         {
+          "text": "天氣／雨還沒完！明起再猛炸6天 「這時」才放晴",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA3NE8xSDdMUVU2dmNVcVNYVXltenNfem9DWHpld3B4aWpqOHJFUWRNVW1zWmRjVzBXSnhDWk10ZW5XLTdKOHRQYU5aOGpoUQ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA3NE8xSDdMUVU2dmNVcVNYVXltenNfem9DWHpld3B4aWpqOHJFUWRNVW1zWmRjVzBXSnhDWk10ZW5XLTdKOHRQYU5aOGpoUQ?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "幕後／朱盧趙相繼出手 鄭麗文主導藍大老背後助攻定調軍購最終版本",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sS0M2X09RX0RxZHp4WXVGSTZrSjZmVG1QTEVGaGhNOVB5bS1BT2ZOLThfY3V5Vng1WVZybG1vbUZvU1hBVDFJUWdTV3gzQThJLVHSAVdBVV95cUxNVi1LX0lJUFZkMktleTVZWjlyRU9iMVVSQ2xnUnZHMko1aXZwcTNsclA0QUg5U0ZjLVJFaW1SNm9OaVRzWm16NE1mMUlDNE1tSGJLenJvSVk?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sS0M2X09RX0RxZHp4WXVGSTZrSjZmVG1QTEVGaGhNOVB5bS1BT2ZOLThfY3V5Vng1WVZybG1vbUZvU1hBVDFJUWdTV3gzQThJLVHSAVdBVV95cUxNVi1LX0lJUFZkMktleTVZWjlyRU9iMVVSQ2xnUnZHMko1aXZwcTNsclA0QUg5U0ZjLVJFaW1SNm9OaVRzWm16NE1mMUlDNE1tSGJLenJvSVk?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
           "text": "確定被提名時「保有中國籍」李貞秀恐被提當選無效？梁文傑最新回應了",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9QT0FfWDVOeVVmNG1yT2hRdkhsWUdDMDNHV2VFdmVSRUVWRmtLY3lYdXRQbnlzaXZ4NnVXeWFaM2dabVMxOFFUZHQwendNYThub01xNUNCY0rSAV9BVV95cUxONmZnUGFBaDlNTEQ5dEJUTmdUc09pVkpkU1dvYmNxZktremYzUXNOdG5lZzR5N2hmUHcybUFpbXlaalJhYmNXYm1VU0F3WlZOVkY3OUNFQ2ZmOXRaVGpfYw?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9QT0FfWDVOeVVmNG1yT2hRdkhsWUdDMDNHV2VFdmVSRUVWRmtLY3lYdXRQbnlzaXZ4NnVXeWFaM2dabVMxOFFUZHQwendNYThub01xNUNCY0rSAV9BVV95cUxONmZnUGFBaDlNTEQ5dEJUTmdUc09pVkpkU1dvYmNxZktremYzUXNOdG5lZzR5N2hmUHcybUFpbXlaalJhYmNXYm1VU0F3WlZOVkY3OUNFQ2ZmOXRaVGpfYw?oc=5",
@@ -170,41 +186,9 @@
           "package": ""
         },
         {
-          "text": "幕後／朱盧趙相繼出手 鄭麗文主導藍大老背後助攻定調軍購最終版本",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sS0M2X09RX0RxZHp4WXVGSTZrSjZmVG1QTEVGaGhNOVB5bS1BT2ZOLThfY3V5Vng1WVZybG1vbUZvU1hBVDFJUWdTV3gzQThJLVHSAVdBVV95cUxNVi1LX0lJUFZkMktleTVZWjlyRU9iMVVSQ2xnUnZHMko1aXZwcTNsclA0QUg5U0ZjLVJFaW1SNm9OaVRzWm16NE1mMUlDNE1tSGJLenJvSVk?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sS0M2X09RX0RxZHp4WXVGSTZrSjZmVG1QTEVGaGhNOVB5bS1BT2ZOLThfY3V5Vng1WVZybG1vbUZvU1hBVDFJUWdTV3gzQThJLVHSAVdBVV95cUxNVi1LX0lJUFZkMktleTVZWjlyRU9iMVVSQ2xnUnZHMko1aXZwcTNsclA0QUg5U0ZjLVJFaW1SNm9OaVRzWm16NE1mMUlDNE1tSGJLenJvSVk?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
           "text": "關稅退款打拖延戰？美司法部喊千億美元要退很久 法官「1句話」打臉",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9IYVVNUFlaT1dVaGhFMjMyTENaTmVvWW9CMzNET0UtbXIxcjVTa0diTmNyZzJWTzJPSkt0Smc1YWp0bm53SG1zTUdvMGVCd0hNaFBpcDA3Yk92VV85aHRr0gFkQVVfeXFMTldIYV9nQ1I0VzNaeFNtUDNrZnNhQVlhWW84NVlpejFnSk44ZW5pbU9QSG5TbGpuU0h5ZVhYSDNTVEptdm5pV1JZeHExZ0ZsRURucmR5dUs3N0dNTGR1TXZONWUyUw?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9IYVVNUFlaT1dVaGhFMjMyTENaTmVvWW9CMzNET0UtbXIxcjVTa0diTmNyZzJWTzJPSkt0Smc1YWp0bm53SG1zTUdvMGVCd0hNaFBpcDA3Yk92VV85aHRr0gFkQVVfeXFMTldIYV9nQ1I0VzNaeFNtUDNrZnNhQVlhWW84NVlpejFnSk44ZW5pbU9QSG5TbGpuU0h5ZVhYSDNTVEptdm5pV1JZeHExZ0ZsRURucmR5dUs3N0dNTGR1TXZONWUyUw?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "不忍了 面對伊朗大使挑釁 前綠扁帽部隊美國大使這麼做了",
-          "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPZHFmZzBaSVh1OWtCZzk0YUZub1FZUDdveHdpVjQzMTBrYzJYRXpzeWtlNllFRS1CYlFERTlKNW5WaVl1S245TXhFcG5xVlQyNXJqSXVZbUw1U1U4SjkyY2JZTzJOY1hzeUZEdUlkZnU3ZFdTV1Y0cmR2LWhyY01aaVlLSWNhNjdpZTFZc3BYdzBUTUhKMGRibmpkaXJNUy0wWDVobGg0dFdvdHppeWp5aHliSlJSQnVsT3dIb0tBZXl6enltY2p2M1U1VDk1WjB1aHNsRmllQ3NvZGZ6Z3ExeUYzUFh5cE40OHFMTVNoSDFYanpSWUc5MFNyU0JHWEV6R3RvSUxPM3hvT2M4SlAyeVQ3TE9KZURMbFpQdjJ1MGxqNVd6dTNPR0g0c3lqR0NNS0JNb2NEbVF3WXNod0t6c3JwNnNUblV4eXpQeWdYRUJHaUxyWHphZGVSUEJldUlhdnh2VXFIZHloYWhpM0FPbGxGaUxUOXd3YXYtaEJjLU9GZw?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPZHFmZzBaSVh1OWtCZzk0YUZub1FZUDdveHdpVjQzMTBrYzJYRXpzeWtlNllFRS1CYlFERTlKNW5WaVl1S245TXhFcG5xVlQyNXJqSXVZbUw1U1U4SjkyY2JZTzJOY1hzeUZEdUlkZnU3ZFdTV1Y0cmR2LWhyY01aaVlLSWNhNjdpZTFZc3BYdzBUTUhKMGRibmpkaXJNUy0wWDVobGg0dFdvdHppeWp5aHliSlJSQnVsT3dIb0tBZXl6enltY2p2M1U1VDk1WjB1aHNsRmllQ3NvZGZ6Z3ExeUYzUFh5cE40OHFMTVNoSDFYanpSWUc5MFNyU0JHWEV6R3RvSUxPM3hvT2M4SlAyeVQ3TE9KZURMbFpQdjJ1MGxqNVd6dTNPR0g0c3lqR0NNS0JNb2NEbVF3WXNod0t6c3JwNnNUblV4eXpQeWdYRUJHaUxyWHphZGVSUEJldUlhdnh2VXFIZHloYWhpM0FPbGxGaUxUOXd3YXYtaEJjLU9GZw?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "影／蘇澳「又淹了」…豪雨狂炸宜蘭 台鐵永樂站與蘇澳新站單線通行",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9DWXN3ZUNJd2MyN2hTcUNtbUcyQzdmd1VXOTEyZWpiMjlWVm5HU0JTMWFlREVYQWtPWWVDSGlYbTZnc04ycE1neUQwallGOWpv0gFWQVVfeXFMT0NqNHowSjdNd0hrSXlrZ2dNZHRGQzNjRXJPXzJlWFd5cW1sUVNUQTM0OEN0TlcyM1JRamV6ZFBUU2I5dG9IOXBVUnlrR1ZQNzE3ZXFMY3c?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9DWXN3ZUNJd2MyN2hTcUNtbUcyQzdmd1VXOTEyZWpiMjlWVm5HU0JTMWFlREVYQWtPWWVDSGlYbTZnc04ycE1neUQwallGOWpv0gFWQVVfeXFMT0NqNHowSjdNd0hrSXlrZ2dNZHRGQzNjRXJPXzJlWFd5cW1sUVNUQTM0OEN0TlcyM1JRamV6ZFBUU2I5dG9IOXBVUnlrR1ZQNzE3ZXFMY3c?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "連續6天0共機擾台！網笑美軍偷襲伊朗嚇死中國 分析人士搖頭曝實情",
-          "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxQZDFTUWVLNF96cW9TUmRzdEtVSHBBZWxubjlZbDFOTDc0Yzg4ZUxPTmcwOWh2LUo3WjNpSzFiNzlJUTFVRXo1LVA3cmNwM2g3VV9xRnB3ZmljQjQ5blNyUmt5aExMck0wTVgwOXlYRDBWSGFoWEZ0VXFLN1JKU3dtQWVuWWUxX3REbzE4ZExqd29fMXZqVFNuaWpUWnNYMzJTSjJWS2x5Sl9vcHpJdk9DcDhKTFpMaG4yU1RhdU54Q1phTzRsOXBjcWtvNEFmbWFfSnM1enVQekQwbWd1UXBzWEJHWnlxZ0o3MVBmZ3BLclJuNnotcmZKTktxSHlqa2xmZkdCZVdXNjBZSTRRTkRtbDNpSmh4aEdiR0hCdDBhSWpLZF95cjAxOWJ1bzhMeXJwNElfanNVWGtRVVY3VGNqeWxJc0lZS2daNWZNZzdCVVVuNTVwN3RHeHFDMGNmdkU4MVJPcHBPQmVES3NlYThaaDA2dXUwb2stbkt4QXJjaUZpZUsxT19IektibFA0Sk9mNko1RW9idnRFZ0lscEd1dGdsa2did0dn?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxQZDFTUWVLNF96cW9TUmRzdEtVSHBBZWxubjlZbDFOTDc0Yzg4ZUxPTmcwOWh2LUo3WjNpSzFiNzlJUTFVRXo1LVA3cmNwM2g3VV9xRnB3ZmljQjQ5blNyUmt5aExMck0wTVgwOXlYRDBWSGFoWEZ0VXFLN1JKU3dtQWVuWWUxX3REbzE4ZExqd29fMXZqVFNuaWpUWnNYMzJTSjJWS2x5Sl9vcHpJdk9DcDhKTFpMaG4yU1RhdU54Q1phTzRsOXBjcWtvNEFmbWFfSnM1enVQekQwbWd1UXBzWEJHWnlxZ0o3MVBmZ3BLclJuNnotcmZKTktxSHlqa2xmZkdCZVdXNjBZSTRRTkRtbDNpSmh4aEdiR0hCdDBhSWpLZF95cjAxOWJ1bzhMeXJwNElfanNVWGtRVVY3VGNqeWxJc0lZS2daNWZNZzdCVVVuNTVwN3RHeHFDMGNmdkU4MVJPcHBPQmVES3NlYThaaDA2dXUwb2stbkt4QXJjaUZpZUsxT19IektibFA0Sk9mNko1RW9idnRFZ0lscEd1dGdsa2did0dn?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -226,6 +210,22 @@
           "package": ""
         },
         {
+          "text": "勞動部發錢砸1.4億「補助申請條件快看」 5/1新制上路",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ySVpqekdiWVRrenpuQWFqR1ZFdjljMHcxakdrN2ZfcHZBQ2hiQ2ZZOW9UM09uNmhZUUFJcDRRWVNVVk55S2diWmhHNm5xZw?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ySVpqekdiWVRrenpuQWFqR1ZFdjljMHcxakdrN2ZfcHZBQ2hiQ2ZZOW9UM09uNmhZUUFJcDRRWVNVVk55S2diWmhHNm5xZw?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "全球藥源8成產自中印 我國擬推「國藥國造」確保國內用藥不斷鏈",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rNFd2a181WjlwQ3kyLUs5VUZ6cHcyVFBQckVkNV9ZYm1lWW9vQlV1WXloN3lFc1BUd0haYzJ1d29CaWNDSzI3OEx3VUhSNmZXX0JneU02MFVmbjZZb0VhWW11YlXSAWpBVV95cUxOd1FUZkthTWFUYjdaZWU4c3FoWlRPMk9ZdW5LQW5EVkxOMERvOEJYNWJMWlRPbkZ3M0hXVDRlTmNicU1FNWtLdVc2OGtrSl92SDVWNXkzQ0NhQjQtZm5EbFBkN0JlekphYzl3?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rNFd2a181WjlwQ3kyLUs5VUZ6cHcyVFBQckVkNV9ZYm1lWW9vQlV1WXloN3lFc1BUd0haYzJ1d29CaWNDSzI3OEx3VUhSNmZXX0JneU02MFVmbjZZb0VhWW11YlXSAWpBVV95cUxOd1FUZkthTWFUYjdaZWU4c3FoWlRPMk9ZdW5LQW5EVkxOMERvOEJYNWJMWlRPbkZ3M0hXVDRlTmNicU1FNWtLdVc2OGtrSl92SDVWNXkzQ0NhQjQtZm5EbFBkN0JlekphYzl3?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
           "text": "日本北海道上富良野岳雪崩 台灣登山客受困獲救意識不清送醫",
           "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxPUmRaYzc1Nkl0YTlKTGs4SzVoWXZPckVxTTlQQWRUaG9nTlhQeXZwTUxkSnEyaGRMUk9lRnhWS2xCM3N1N3d0UmNQcVlaWWdoZ000b3p2V3VUVFRiWF9QVHc5T1lyU2NvbUJIdFh5M09tSnluOE54OFZNbDA2eS1tNW83STZlMzRnVjZ4cjlDM3I3UEtuQjRQMmpra2NFZTJvLTdrVFNGUUJieE10eVp5TDdMbXZFUTluRS12QnhwZmNRVUx3WnFDQ1g3Vm0tWnk3bDVBMFNwY0FwRkVha3VFUktxVkd1N3ZYVXF4UHA2MTIwR05RSEZIWWJZeTFnQWk2VGRmdm0xTGpoMjM4V28zWDlIUUptN1VLWVVqVlFvbGhNb0FpR05HVW05c0U1YUxVSHlKWkpnczZudUs3b2RobDZxQXJTVUswZUZWcFQxX1lXRll1U1lnWmtrNzl5OXNxR2xoVFc0bHd5VU1zck1pdVc1WTNiQnh5eTBERHFnVk1HTnRaNzg3V0xOeUlvLWhhamFRVEc3X1k?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMimANBVV95cUxPUmRaYzc1Nkl0YTlKTGs4SzVoWXZPckVxTTlQQWRUaG9nTlhQeXZwTUxkSnEyaGRMUk9lRnhWS2xCM3N1N3d0UmNQcVlaWWdoZ000b3p2V3VUVFRiWF9QVHc5T1lyU2NvbUJIdFh5M09tSnluOE54OFZNbDA2eS1tNW83STZlMzRnVjZ4cjlDM3I3UEtuQjRQMmpra2NFZTJvLTdrVFNGUUJieE10eVp5TDdMbXZFUTluRS12QnhwZmNRVUx3WnFDQ1g3Vm0tWnk3bDVBMFNwY0FwRkVha3VFUktxVkd1N3ZYVXF4UHA2MTIwR05RSEZIWWJZeTFnQWk2VGRmdm0xTGpoMjM4V28zWDlIUUptN1VLWVVqVlFvbGhNb0FpR05HVW05c0U1YUxVSHlKWkpnczZudUs3b2RobDZxQXJTVUswZUZWcFQxX1lXRll1U1lnWmtrNzl5OXNxR2xoVFc0bHd5VU1zck1pdVc1WTNiQnh5eTBERHFnVk1HTnRaNzg3V0xOeUlvLWhhamFRVEc3X1k?oc=5",
@@ -242,17 +242,17 @@
           "package": ""
         },
         {
-          "text": "外資又倒貨台股逾500億元 央行出手「管理」新台幣匯價",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9KYXhqNlpYdUdxWHZ0ZFFwbWg3NWFMdDlCcUgxaUdMRk1kbDEzc19udUNXbnBOTUVTRldDSWt0LWFWbF9meG1oQ0FrbEl1dUFB0gFWQVVfeXFMUDZkM05kZkJUQ1ZwbU5NWjU2QnN3Y3VmSVJmNTFFSHlISzYzUGl2M0tkeHQybFllcnRvclJDakNUNjB3bEJ3S1dtNXFPR1lReUhHWDMyU1E?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9KYXhqNlpYdUdxWHZ0ZFFwbWg3NWFMdDlCcUgxaUdMRk1kbDEzc19udUNXbnBOTUVTRldDSWt0LWFWbF9meG1oQ0FrbEl1dUFB0gFWQVVfeXFMUDZkM05kZkJUQ1ZwbU5NWjU2QnN3Y3VmSVJmNTFFSHlISzYzUGl2M0tkeHQybFllcnRvclJDakNUNjB3bEJ3S1dtNXFPR1lReUhHWDMyU1E?oc=5",
+          "text": "驚蟄+天赦日！今日「最強轉運日」命理師曝求財必做2事：成為天選之人",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9VM0pTLWNhXzlVc2FnbWZKR0NYZi05dFU0SUVlTW5ZSzNpTVpLZVJxNFZXTG15U2gwUUdzTWY0c0lEYVZFUERDV1J4Z0dUTmto0gFWQVVfeXFMT1RlTWx4YjBBNTgwT25nbGdFdkV5bXV4SS03UGNTb2xzNV9nc1FqQ0lGbzNCQ19NdjhFck03eVZMbzJIeFRvcHplRWtuOW5yVmZrTlg4NGc?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9VM0pTLWNhXzlVc2FnbWZKR0NYZi05dFU0SUVlTW5ZSzNpTVpLZVJxNFZXTG15U2gwUUdzTWY0c0lEYVZFUERDV1J4Z0dUTmto0gFWQVVfeXFMT1RlTWx4YjBBNTgwT25nbGdFdkV5bXV4SS03UGNTb2xzNV9nc1FqQ0lGbzNCQ19NdjhFck03eVZMbzJIeFRvcHplRWtuOW5yVmZrTlg4NGc?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "鴻海再寫同期最強！前2月營收1兆3259億元 年增21%",
-          "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPYUl4MjNwLVhJam5ueGVWb05HLVhweWZmNG5DWFdQQVY2RW9XUF9mVG11WDJJZzNOVU9HU2pSZkZLb25neF9RSFZQTE9adFl1N2dMeGEzODhtRUxNTnhMNDJ4c1FzQjhrLWk0ZGtyN2ZqUThFMFE3ZVN3bkdKZExQQjdCNWNQX2pUc1dhWHhFTmU0djVfU3ZqVTkzc2lPaldPSEZ6MU9heWpRWERTeDVTYUgtcVFsd0FRTGRRUjNyQjZCRHFPTjktQ21keDlTN0VPcS1xakw0QUM3U284cU5tNGdCUEZLMkc5RE5EdWcwMGMwajRMZTdtdExQcU9pQ0JoeE1kYlhzb1hQY2l1OHFuT1R5LVZVNVJZZzFYUHNFOWp4anRScGlIRGsteDVZUmt5dFVnZUw5ck5CRWdRbl93?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPYUl4MjNwLVhJam5ueGVWb05HLVhweWZmNG5DWFdQQVY2RW9XUF9mVG11WDJJZzNOVU9HU2pSZkZLb25neF9RSFZQTE9adFl1N2dMeGEzODhtRUxNTnhMNDJ4c1FzQjhrLWk0ZGtyN2ZqUThFMFE3ZVN3bkdKZExQQjdCNWNQX2pUc1dhWHhFTmU0djVfU3ZqVTkzc2lPaldPSEZ6MU9heWpRWERTeDVTYUgtcVFsd0FRTGRRUjNyQjZCRHFPTjktQ21keDlTN0VPcS1xakw0QUM3U284cU5tNGdCUEZLMkc5RE5EdWcwMGMwajRMZTdtdExQcU9pQ0JoeE1kYlhzb1hQY2l1OHFuT1R5LVZVNVJZZzFYUHNFOWp4anRScGlIRGsteDVZUmt5dFVnZUw5ck5CRWdRbl93?oc=5",
+          "text": "外資又倒貨台股逾500億元 央行出手「管理」新台幣匯價",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9KYXhqNlpYdUdxWHZ0ZFFwbWg3NWFMdDlCcUgxaUdMRk1kbDEzc19udUNXbnBOTUVTRldDSWt0LWFWbF9meG1oQ0FrbEl1dUFB0gFWQVVfeXFMUDZkM05kZkJUQ1ZwbU5NWjU2QnN3Y3VmSVJmNTFFSHlISzYzUGl2M0tkeHQybFllcnRvclJDakNUNjB3bEJ3S1dtNXFPR1lReUhHWDMyU1E?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9KYXhqNlpYdUdxWHZ0ZFFwbWg3NWFMdDlCcUgxaUdMRk1kbDEzc19udUNXbnBOTUVTRldDSWt0LWFWbF9meG1oQ0FrbEl1dUFB0gFWQVVfeXFMUDZkM05kZkJUQ1ZwbU5NWjU2QnN3Y3VmSVJmNTFFSHlISzYzUGl2M0tkeHQybFllcnRvclJDakNUNjB3bEJ3S1dtNXFPR1lReUhHWDMyU1E?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -273,6 +273,6 @@
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 46,
+  "cost": 17,
   "status": 0
 }
