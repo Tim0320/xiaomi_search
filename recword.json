@@ -15,6 +15,14 @@
       "link_type": "app",
       "data": [
         {
+          "text": "Macbook Neo",
+          "url": "https://tw.search.yahoo.com/search?p=Macbook+Neo&amp;fr=ush-bt1",
+          "h5_url": "https://tw.search.yahoo.com/search?p=Macbook+Neo&amp;fr=ush-bt1",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_yahoo",
+          "package": ""
+        },
+        {
           "text": "中華vs澳洲 賽事回顧",
           "url": "https://tw.sports.yahoo.com/share/5157a943-28fc-4f37-b8de-baffa817aa23",
           "h5_url": "https://tw.sports.yahoo.com/share/5157a943-28fc-4f37-b8de-baffa817aa23",
@@ -47,15 +55,7 @@
           "package": ""
         },
         {
-          "text": "攻擊伊朗後 川普點名下一個目標",
-          "url": "https://tw.news.yahoo.com/%E4%B8%8B%E5%80%8B%E7%9B%AE%E6%A8%99%E5%B0%B1%E6%98%AF%E5%8F%A4%E5%B7%B4-%E5%B7%9D%E6%99%AE-%E5%B0%8D%E4%BB%98%E5%AE%83%E5%8F%AA%E6%98%AF%E6%99%82%E9%96%93%E4%B8%8A%E7%9A%84%E5%95%8F%E9%A1%8C-055800586.html",
-          "h5_url": "https://tw.news.yahoo.com/%E4%B8%8B%E5%80%8B%E7%9B%AE%E6%A8%99%E5%B0%B1%E6%98%AF%E5%8F%A4%E5%B7%B4-%E5%B7%9D%E6%99%AE-%E5%B0%8D%E4%BB%98%E5%AE%83%E5%8F%AA%E6%98%AF%E6%99%82%E9%96%93%E4%B8%8A%E7%9A%84%E5%95%8F%E9%A1%8C-055800586.html",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_yahoo",
-          "package": ""
-        },
-        {
-          "text": "集氣！今晚抗日 中華隊變換隊形",
+          "text": "集氣！台日大戰即時賽況更新",
           "url": "https://tw.sports.yahoo.com/news/2026wbc-jp-ct-0306-074132936.html",
           "h5_url": "https://tw.sports.yahoo.com/news/2026wbc-jp-ct-0306-074132936.html",
           "appIconUrl": "",
@@ -66,6 +66,22 @@
           "text": "史無前例 立院僅同意動支718億",
           "url": "https://tw.news.yahoo.com/%E7%AB%8B%E9%99%A2%E5%90%8C%E6%84%8F%E5%8B%95%E6%94%AF718%E5%84%84%E6%96%B0%E8%88%88%E8%A8%88%E7%95%AB-%E6%94%BF%E9%99%A2-%E7%84%A1%E5%89%8D%E4%BE%8B-080440192.html",
           "h5_url": "https://tw.news.yahoo.com/%E7%AB%8B%E9%99%A2%E5%90%8C%E6%84%8F%E5%8B%95%E6%94%AF718%E5%84%84%E6%96%B0%E8%88%88%E8%A8%88%E7%95%AB-%E6%94%BF%E9%99%A2-%E7%84%A1%E5%89%8D%E4%BE%8B-080440192.html",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_yahoo",
+          "package": ""
+        },
+        {
+          "text": "攻擊伊朗後 川普點名下一個目標",
+          "url": "https://tw.news.yahoo.com/%E4%B8%8B%E5%80%8B%E7%9B%AE%E6%A8%99%E5%B0%B1%E6%98%AF%E5%8F%A4%E5%B7%B4-%E5%B7%9D%E6%99%AE-%E5%B0%8D%E4%BB%98%E5%AE%83%E5%8F%AA%E6%98%AF%E6%99%82%E9%96%93%E4%B8%8A%E7%9A%84%E5%95%8F%E9%A1%8C-055800586.html",
+          "h5_url": "https://tw.news.yahoo.com/%E4%B8%8B%E5%80%8B%E7%9B%AE%E6%A8%99%E5%B0%B1%E6%98%AF%E5%8F%A4%E5%B7%B4-%E5%B7%9D%E6%99%AE-%E5%B0%8D%E4%BB%98%E5%AE%83%E5%8F%AA%E6%98%AF%E6%99%82%E9%96%93%E4%B8%8A%E7%9A%84%E5%95%8F%E9%A1%8C-055800586.html",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_yahoo",
+          "package": ""
+        },
+        {
+          "text": "五進五出 0050成分股大洗牌",
+          "url": "https://tw.news.yahoo.com/%E5%BF%AB%E8%A8%8A-%E6%AE%98%E9%85%B7%E8%88%9E%E5%8F%B0-0050%E6%88%90%E5%88%86%E8%82%A1%E5%A4%A7%E6%B4%97%E7%89%8C-5%E9%80%B25%E5%87%BA%E5%90%8D%E5%96%AE%E5%85%A8%E5%85%AC%E9%96%8B-094200092.html",
+          "h5_url": "https://tw.news.yahoo.com/%E5%BF%AB%E8%A8%8A-%E6%AE%98%E9%85%B7%E8%88%9E%E5%8F%B0-0050%E6%88%90%E5%88%86%E8%82%A1%E5%A4%A7%E6%B4%97%E7%89%8C-5%E9%80%B25%E5%87%BA%E5%90%8D%E5%96%AE%E5%85%A8%E5%85%AC%E9%96%8B-094200092.html",
           "appIconUrl": "",
           "sourceUniqueId": "content_yahoo",
           "package": ""
@@ -117,22 +133,6 @@
           "appIconUrl": "",
           "sourceUniqueId": "content_yahoo",
           "package": ""
-        },
-        {
-          "text": "毆傷同居女友「舉重精靈」判拘",
-          "url": "https://tw.news.yahoo.com/%E8%88%89%E9%87%8D%E7%B2%BE%E9%9D%88-%E6%96%B9%E8%8E%9E%E9%9D%88%E8%A2%AB%E6%8E%A7%E5%AE%B6%E6%9A%B4-%E9%85%92%E5%BE%8C%E6%8E%8C%E6%91%91%E5%89%8D%E5%A5%B3%E5%8F%8B%E9%82%84%E8%85%B3%E8%B8%B9%E8%83%B8%E8%85%B9%E5%88%A4%E6%8B%98%E5%BD%B9-051807477.html",
-          "h5_url": "https://tw.news.yahoo.com/%E8%88%89%E9%87%8D%E7%B2%BE%E9%9D%88-%E6%96%B9%E8%8E%9E%E9%9D%88%E8%A2%AB%E6%8E%A7%E5%AE%B6%E6%9A%B4-%E9%85%92%E5%BE%8C%E6%8E%8C%E6%91%91%E5%89%8D%E5%A5%B3%E5%8F%8B%E9%82%84%E8%85%B3%E8%B8%B9%E8%83%B8%E8%85%B9%E5%88%A4%E6%8B%98%E5%BD%B9-051807477.html",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_yahoo",
-          "package": ""
-        },
-        {
-          "text": "駐韓美軍調動愛國者飛彈 料將派往中東",
-          "url": "https://tw.news.yahoo.com/%E5%8D%97%E9%9F%93%E6%81%90%E6%8D%B2%E5%85%A5%E6%88%B0%E7%81%AB-%E9%9F%93%E5%AA%92-%E9%A7%90%E9%9F%93%E7%BE%8E%E8%BB%8D-%E6%84%9B%E5%9C%8B%E8%80%85%E9%A3%9B%E5%BD%88-%E8%AA%BF%E5%8B%95-063437880.html",
-          "h5_url": "https://tw.news.yahoo.com/%E5%8D%97%E9%9F%93%E6%81%90%E6%8D%B2%E5%85%A5%E6%88%B0%E7%81%AB-%E9%9F%93%E5%AA%92-%E9%A7%90%E9%9F%93%E7%BE%8E%E8%BB%8D-%E6%84%9B%E5%9C%8B%E8%80%85%E9%A3%9B%E5%BD%88-%E8%AA%BF%E5%8B%95-063437880.html",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_yahoo",
-          "package": ""
         }
       ],
       "selectedStatus": false,
@@ -146,14 +146,6 @@
       "link_type": "app",
       "data": [
         {
-          "text": "政院版、國民黨版國防特別條例草案付委審查 朝野無異議",
-          "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxPSDFLMU9IbWFmU2tqWnpTa21jNXJNM3NuNkZkS3FfVTBZcm9KMjE2NzlUbkpQT0dGM3VJeDJ0ZF9yQmhlRHlQckNjOGtNcHVXdHR0MHQzTXJzZi1nbl8tWFhnNTNKYmlYQXl2SG96OTBjaFNBUXlqby1kYnh1WVVQeGZrN0ZfcWR4SGlwSEw2ZDlCNlBjaUVLZG9LWW96bXBZUWZWU2x5eFFpUi1hUk1KTTRFZENhRXlYRzlZTDR6WVVjYi12d3RoYTl0VW83TlNLUXBDMUNmTWdLVFctRU5uRjJMekd1NS0xSklGM19PUWJLMEZGV2FZOThpazY0dlJLLTFTdWN3b3E5SHc4X0FZYWJINGg4VTNPMlgwWGNJOF9NdWNQRnpaSzVnUGxWbkVFYkNlOGxBM0RYeEUtRlBFXy1wa2dSQ04zSWFoSkg0Ri1VN090c3hadW9fTVpKcnZrbHNVS012SlBRYnFnOEE3MW4yZEJXSFRaY1FQUW5VYWE?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMigANBVV95cUxPSDFLMU9IbWFmU2tqWnpTa21jNXJNM3NuNkZkS3FfVTBZcm9KMjE2NzlUbkpQT0dGM3VJeDJ0ZF9yQmhlRHlQckNjOGtNcHVXdHR0MHQzTXJzZi1nbl8tWFhnNTNKYmlYQXl2SG96OTBjaFNBUXlqby1kYnh1WVVQeGZrN0ZfcWR4SGlwSEw2ZDlCNlBjaUVLZG9LWW96bXBZUWZWU2x5eFFpUi1hUk1KTTRFZENhRXlYRzlZTDR6WVVjYi12d3RoYTl0VW83TlNLUXBDMUNmTWdLVFctRU5uRjJMekd1NS0xSklGM19PUWJLMEZGV2FZOThpazY0dlJLLTFTdWN3b3E5SHc4X0FZYWJINGg4VTNPMlgwWGNJOF9NdWNQRnpaSzVnUGxWbkVFYkNlOGxBM0RYeEUtRlBFXy1wa2dSQ04zSWFoSkg0Ri1VN090c3hadW9fTVpKcnZrbHNVS012SlBRYnFnOEE3MW4yZEJXSFRaY1FQUW5VYWE?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
           "text": "「舉重精靈」方莞靈被控家暴 酒後掌摑前女友還腳踹胸腹判拘役",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Pc01HMk9BYlVSTlpzSDhTSlNwWkpDWTMtMWM1TEZoRklFYUR4TTJaRDNYc0hVbUlSREl0Uk1ZOXZabERpdFJZbzA4ak9wLVhk0gFWQVVfeXFMT0ZuYkE5aUhidzkyTG0xQk5tMEVMS0l5OTBlWlB6cVEtc2ZGTzZYNzV1aktVbjVoQnF1Uy1vY1I0OFJWM29Td1dfdkNiMTh3WmlyZ3VSckE?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Pc01HMk9BYlVSTlpzSDhTSlNwWkpDWTMtMWM1TEZoRklFYUR4TTJaRDNYc0hVbUlSREl0Uk1ZOXZabERpdFJZbzA4ak9wLVhk0gFWQVVfeXFMT0ZuYkE5aUhidzkyTG0xQk5tMEVMS0l5OTBlWlB6cVEtc2ZGTzZYNzV1aktVbjVoQnF1Uy1vY1I0OFJWM29Td1dfdkNiMTh3WmlyZ3VSckE?oc=5",
@@ -162,17 +154,25 @@
           "package": ""
         },
         {
-          "text": "3天逃離中東戰火！台灣遊客曝親身經歷：慎選旅行社比政府可靠",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1pRmpGcXJ5UEtEU0JnNk91Wlg0R0RnUjJpV0JiMjJDQ2dtVmY3THRib0RCdERvbmpXYTd4N3U1MDF0WWxocW9TdTB0TUpBRkdh0gFWQVVfeXFMTkhmWWdMZUJ1b0drWW5XTkd2eVMwXzdWV25Kbm5hVzdtX1VKSHJhVUk3dlN5Zk5FVTlSN09ZVFpZOGp1MjJHdlFiUHA1c1ZKSUNudmFBQmc?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1pRmpGcXJ5UEtEU0JnNk91Wlg0R0RnUjJpV0JiMjJDQ2dtVmY3THRib0RCdERvbmpXYTd4N3U1MDF0WWxocW9TdTB0TUpBRkdh0gFWQVVfeXFMTkhmWWdMZUJ1b0drWW5XTkd2eVMwXzdWV25Kbm5hVzdtX1VKSHJhVUk3dlN5Zk5FVTlSN09ZVFpZOGp1MjJHdlFiUHA1c1ZKSUNudmFBQmc?oc=5",
+          "text": "政院版、國民黨版國防特別條例草案付委審查 朝野無異議",
+          "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxPSDFLMU9IbWFmU2tqWnpTa21jNXJNM3NuNkZkS3FfVTBZcm9KMjE2NzlUbkpQT0dGM3VJeDJ0ZF9yQmhlRHlQckNjOGtNcHVXdHR0MHQzTXJzZi1nbl8tWFhnNTNKYmlYQXl2SG96OTBjaFNBUXlqby1kYnh1WVVQeGZrN0ZfcWR4SGlwSEw2ZDlCNlBjaUVLZG9LWW96bXBZUWZWU2x5eFFpUi1hUk1KTTRFZENhRXlYRzlZTDR6WVVjYi12d3RoYTl0VW83TlNLUXBDMUNmTWdLVFctRU5uRjJMekd1NS0xSklGM19PUWJLMEZGV2FZOThpazY0dlJLLTFTdWN3b3E5SHc4X0FZYWJINGg4VTNPMlgwWGNJOF9NdWNQRnpaSzVnUGxWbkVFYkNlOGxBM0RYeEUtRlBFXy1wa2dSQ04zSWFoSkg0Ri1VN090c3hadW9fTVpKcnZrbHNVS012SlBRYnFnOEE3MW4yZEJXSFRaY1FQUW5VYWE?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMigANBVV95cUxPSDFLMU9IbWFmU2tqWnpTa21jNXJNM3NuNkZkS3FfVTBZcm9KMjE2NzlUbkpQT0dGM3VJeDJ0ZF9yQmhlRHlQckNjOGtNcHVXdHR0MHQzTXJzZi1nbl8tWFhnNTNKYmlYQXl2SG96OTBjaFNBUXlqby1kYnh1WVVQeGZrN0ZfcWR4SGlwSEw2ZDlCNlBjaUVLZG9LWW96bXBZUWZWU2x5eFFpUi1hUk1KTTRFZENhRXlYRzlZTDR6WVVjYi12d3RoYTl0VW83TlNLUXBDMUNmTWdLVFctRU5uRjJMekd1NS0xSklGM19PUWJLMEZGV2FZOThpazY0dlJLLTFTdWN3b3E5SHc4X0FZYWJINGg4VTNPMlgwWGNJOF9NdWNQRnpaSzVnUGxWbkVFYkNlOGxBM0RYeEUtRlBFXy1wa2dSQ04zSWFoSkg0Ri1VN090c3hadW9fTVpKcnZrbHNVS012SlBRYnFnOEE3MW4yZEJXSFRaY1FQUW5VYWE?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "確定被提名時「保有中國籍」李貞秀恐被提當選無效？梁文傑最新回應了",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9QT0FfWDVOeVVmNG1yT2hRdkhsWUdDMDNHV2VFdmVSRUVWRmtLY3lYdXRQbnlzaXZ4NnVXeWFaM2dabVMxOFFUZHQwendNYThub01xNUNCY0rSAV9BVV95cUxONmZnUGFBaDlNTEQ5dEJUTmdUc09pVkpkU1dvYmNxZktremYzUXNOdG5lZzR5N2hmUHcybUFpbXlaalJhYmNXYm1VU0F3WlZOVkY3OUNFQ2ZmOXRaVGpfYw?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9QT0FfWDVOeVVmNG1yT2hRdkhsWUdDMDNHV2VFdmVSRUVWRmtLY3lYdXRQbnlzaXZ4NnVXeWFaM2dabVMxOFFUZHQwendNYThub01xNUNCY0rSAV9BVV95cUxONmZnUGFBaDlNTEQ5dEJUTmdUc09pVkpkU1dvYmNxZktremYzUXNOdG5lZzR5N2hmUHcybUFpbXlaalJhYmNXYm1VU0F3WlZOVkY3OUNFQ2ZmOXRaVGpfYw?oc=5",
+          "text": "史詩怒火4天噴百億美元 五角大廈急籌錢補彈藥庫存",
+          "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPVXFHVGF6UTN2cEpGLV9tZGpBbWRsQW0tY0M2R2lYVGs1aTJ5N0I5OFBuMEFXNTFyb1lBZlFVWDFlWjgxcUkwQnAyT1RzRzFoUnZCd0JnQW9ZcnNPcWI5SWwzMTA1M0hhc3VWQ195RF94N2lnaTVac3RXVnpsMnZKSVJpVzAtZHItOEtmcWQtVWVJb1RqZm5mN3ptLW15SGZRYXdsaEV5N3NMQUhKOS1TbFRIM0ZDbGE3X1NCNVRJaXdNSXp4c1V2Z1gyUjBIOV9HY1NjU1JhUlUxU3hGa3FleHNnZGFzYUZ0ekpyNml2a2xrZ3NHQzhhRlhDWHB1NXdDNExCZW55akhxbnR6UklpZWNiYjhnaHRyS2pjRDk1aVR3YnUtQ0JYb2FLeEZOODYwV3djdDFNal9EeVM5UHVIcmo0NVBja055bTZJWG5tMFh2ckoyM09vT2tRTVN6dw?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPVXFHVGF6UTN2cEpGLV9tZGpBbWRsQW0tY0M2R2lYVGs1aTJ5N0I5OFBuMEFXNTFyb1lBZlFVWDFlWjgxcUkwQnAyT1RzRzFoUnZCd0JnQW9ZcnNPcWI5SWwzMTA1M0hhc3VWQ195RF94N2lnaTVac3RXVnpsMnZKSVJpVzAtZHItOEtmcWQtVWVJb1RqZm5mN3ptLW15SGZRYXdsaEV5N3NMQUhKOS1TbFRIM0ZDbGE3X1NCNVRJaXdNSXp4c1V2Z1gyUjBIOV9HY1NjU1JhUlUxU3hGa3FleHNnZGFzYUZ0ekpyNml2a2xrZ3NHQzhhRlhDWHB1NXdDNExCZW55akhxbnR6UklpZWNiYjhnaHRyS2pjRDk1aVR3YnUtQ0JYb2FLeEZOODYwV3djdDFNal9EeVM5UHVIcmo0NVBja055bTZJWG5tMFh2ckoyM09vT2tRTVN6dw?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "3天逃離中東戰火！台灣遊客曝親身經歷：慎選旅行社比政府可靠",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1pRmpGcXJ5UEtEU0JnNk91Wlg0R0RnUjJpV0JiMjJDQ2dtVmY3THRib0RCdERvbmpXYTd4N3U1MDF0WWxocW9TdTB0TUpBRkdh0gFWQVVfeXFMTkhmWWdMZUJ1b0drWW5XTkd2eVMwXzdWV25Kbm5hVzdtX1VKSHJhVUk3dlN5Zk5FVTlSN09ZVFpZOGp1MjJHdlFiUHA1c1ZKSUNudmFBQmc?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1pRmpGcXJ5UEtEU0JnNk91Wlg0R0RnUjJpV0JiMjJDQ2dtVmY3THRib0RCdERvbmpXYTd4N3U1MDF0WWxocW9TdTB0TUpBRkdh0gFWQVVfeXFMTkhmWWdMZUJ1b0drWW5XTkd2eVMwXzdWV25Kbm5hVzdtX1VKSHJhVUk3dlN5Zk5FVTlSN09ZVFpZOGp1MjJHdlFiUHA1c1ZKSUNudmFBQmc?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -194,25 +194,25 @@
           "package": ""
         },
         {
+          "text": "綠營台南選情凶險？陳亭妃、謝龍介最新民調差距曝光 賴清德支持者跑了",
+          "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxPbjZ2YXVrZnpiTGxmYTZTWUNrcHRfaTZlSndfYnNGZFR6dGpYcWliaVFIOWN1VzV1TkhtUHNHZ2VBVW9vaWtRU0tsdTdyTmNsVHlYWWZqTk82QTFGR0xKdm5WM0pGVC1heldiREsxNHJ1dHc3NHBrbXBwUTg1QnNxemx0dmlpWWJiZjI3Qmdid1VXQVU2dlc3SFF0MFAzT3luQkJvekluTFFIOUVsLVN5Tk5zNFhRR3d6OEF3VTM0XzJ4SVRSVFpIQS1OZzBDOEljVy01bzB1V1RZN3RiSHhfUzM4TE42SGw3RE9Za3U3ZmdZcXVYQzNaYUtwU2xBWHVFUndVVnNxY2lGUGxibG9Ic2tJNGlGeDl3Nkk2cnUtZ1NxRE11U2Q5RFhEVmlmN0E0N1BvMzlkOG84SmNaMk9WWUJuazJhQ3JUMnJnNzUwaXVOYVZWcGpYT29maGlGRzZVb2l4VXZ2Y0lURjBfT0NVbmZ1RU9NU2Y0Z0VYSUVaZ3lrbklZRkpnRVVvRWdOWEZsanRYSEthdkZkNDV3YWxxWkNnMWNXQks4N2c0VGZ2NEExWlFWeDR3MVJYN0VpOHc?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxPbjZ2YXVrZnpiTGxmYTZTWUNrcHRfaTZlSndfYnNGZFR6dGpYcWliaVFIOWN1VzV1TkhtUHNHZ2VBVW9vaWtRU0tsdTdyTmNsVHlYWWZqTk82QTFGR0xKdm5WM0pGVC1heldiREsxNHJ1dHc3NHBrbXBwUTg1QnNxemx0dmlpWWJiZjI3Qmdid1VXQVU2dlc3SFF0MFAzT3luQkJvekluTFFIOUVsLVN5Tk5zNFhRR3d6OEF3VTM0XzJ4SVRSVFpIQS1OZzBDOEljVy01bzB1V1RZN3RiSHhfUzM4TE42SGw3RE9Za3U3ZmdZcXVYQzNaYUtwU2xBWHVFUndVVnNxY2lGUGxibG9Ic2tJNGlGeDl3Nkk2cnUtZ1NxRE11U2Q5RFhEVmlmN0E0N1BvMzlkOG84SmNaMk9WWUJuazJhQ3JUMnJnNzUwaXVOYVZWcGpYT29maGlGRzZVb2l4VXZ2Y0lURjBfT0NVbmZ1RU9NU2Y0Z0VYSUVaZ3lrbklZRkpnRVVvRWdOWEZsanRYSEthdkZkNDV3YWxxWkNnMWNXQks4N2c0VGZ2NEExWlFWeDR3MVJYN0VpOHc?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "切割青鳥？沈伯洋：只有部分是支持者",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBVaDlzQU43b051ODRJNFM2MTJybTJadGhrOG5abVV3Q3BLYUhISkh3MDBTTUUwRXBYdzMyNW9fRTU0NUdHUlRTZkIzeWE3T1FY0gFWQVVfeXFMTjVtbUtrWm5iSWdPbVNCWkRuX0RYbmFJbmJmMGFfcFNsc1ZMcDhRbFcxSmt6YkxxUDZTQlRCa2JnclVnOVNZVzJmUDJ4ekN2ZkxfQkMxNXc?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBVaDlzQU43b051ODRJNFM2MTJybTJadGhrOG5abVV3Q3BLYUhISkh3MDBTTUUwRXBYdzMyNW9fRTU0NUdHUlRTZkIzeWE3T1FY0gFWQVVfeXFMTjVtbUtrWm5iSWdPbVNCWkRuX0RYbmFJbmJmMGFfcFNsc1ZMcDhRbFcxSmt6YkxxUDZTQlRCa2JnclVnOVNZVzJmUDJ4ekN2ZkxfQkMxNXc?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
           "text": "恐違健保法！賴清德要暫停藥價調查3年 醫界獻3對策：行使行政裁量權",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1zaVpsV0tJZmNheU1IZXJseDJiTGhJMTNiMzhuaXZjUURIb01mMmt6dnFjRkR2aHEtWmY2Q2pLcmQ4Qk9oUTRwU0lzRXI4NXRa0gFWQVVfeXFMUDFkaDdpSGhiQ3NnSnVudHdTQXBWZU9HY1FfbUg4RWljdUw2dlNIeV9CaVQ4VGJQb2JTenJPTGRnV1N5UTJzaXJIdzRRaGF2ak56bzctNGc?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1zaVpsV0tJZmNheU1IZXJseDJiTGhJMTNiMzhuaXZjUURIb01mMmt6dnFjRkR2aHEtWmY2Q2pLcmQ4Qk9oUTRwU0lzRXI4NXRa0gFWQVVfeXFMUDFkaDdpSGhiQ3NnSnVudHdTQXBWZU9HY1FfbUg4RWljdUw2dlNIeV9CaVQ4VGJQb2JTenJPTGRnV1N5UTJzaXJIdzRRaGF2ak56bzctNGc?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "TPASS等718億元新興計畫先行動支案 藍白挾人數優勢表決通過",
-          "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxOLUVtVWhScHhwM1lCRlByV1RUV0swYjJfclY4eE9NTEU2SFBwT3pDY1FSQkdxeEp2aHBJeVBjMmhteWNOYzRkRnV0M2hDWl9jQWhUUERPajZCLXNjQVh3OHhvMG5lMW1RNm04ZGpVQWRpX3BzWWJqbEcwRTg5VS02UmdSNlBiSXBzaURwN0xrZW1hb1ZuR0xSUTV6YjFsV1I5NnRpeXZCQ20yZFdHbU5QdVFEVDU1SXBncUJvQ1NfanZGX3RXU2Y2NWlPUlhUaFpja0J3cHpZa2QwZFdLdEhKNXo5akZpWUlKMEowSVNPakhCMnNIUVVFVFlBVFk4c29BVVpSTnAxZVNyVUh6TGQteTNrc1hDZ205UmtWeHVHaXRZOVdlWUkyZ3Z1WHFSRTZMWVpKT1RtOUM1V0hIblpHMFV2aTlMaVpseFQ0TjF4dEZwVVljb215OGUzMUFxMHNBWHphcGt3LUZ0YXJnOExpeU9Oaw?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxOLUVtVWhScHhwM1lCRlByV1RUV0swYjJfclY4eE9NTEU2SFBwT3pDY1FSQkdxeEp2aHBJeVBjMmhteWNOYzRkRnV0M2hDWl9jQWhUUERPajZCLXNjQVh3OHhvMG5lMW1RNm04ZGpVQWRpX3BzWWJqbEcwRTg5VS02UmdSNlBiSXBzaURwN0xrZW1hb1ZuR0xSUTV6YjFsV1I5NnRpeXZCQ20yZFdHbU5QdVFEVDU1SXBncUJvQ1NfanZGX3RXU2Y2NWlPUlhUaFpja0J3cHpZa2QwZFdLdEhKNXo5akZpWUlKMEowSVNPakhCMnNIUVVFVFlBVFk4c29BVVpSTnAxZVNyVUh6TGQteTNrc1hDZ205UmtWeHVHaXRZOVdlWUkyZ3Z1WHFSRTZMWVpKT1RtOUM1V0hIblpHMFV2aTlMaVpseFQ0TjF4dEZwVVljb215OGUzMUFxMHNBWHphcGt3LUZ0YXJnOExpeU9Oaw?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "「21%賴清德支持者跑了」 最新民調謝龍介支持度40%竟只差陳亭妃5%",
-          "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxNRUpMQWQ3ZHVMNnhPRlBTZWtoX1dyTW8yN1dpQjFqdGtZdkhiTlI1VHVldExjbnE2ZVlfNzRWSnRmR29uZTZzVjhTQVUxeFZ4LW1rTkQtYVBhaVVVaTVOTTcyTGRKYVMzYmZxOHVpQ1ZDZ040dkN5b2p1VHhzVVI3WHpFRVZzRnRoRGNjQi13RGRXd3RtTU9GZzJEaEVDTUh2Y1VjRUFTYkV1b1NicU95LTNvaDM4R0V5RFptZFp4R0RyWHVDR0xIYXM2OHVjaE1SMWV3QUpQam1JRUZuQldZTDdtTTVvMmVDV3E5SHpPclFRVlVVX3JNQVlWX290bldvZHZwemV1aDl4dFNjU2x3c3lvenpVYWRWbjFyQmdFSmpqSzEyTHp1M21IenBSaEFxVl8td3d1Y0hKckxjVENrZThqeW5pc0xnRGFBaUhTMWNSWWZWRnBjeVNjRjVPSmlLa2FwWWVQdW1oYWdCSWVwdWdNX1Zrb3I1TnFvY3RB?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxNRUpMQWQ3ZHVMNnhPRlBTZWtoX1dyTW8yN1dpQjFqdGtZdkhiTlI1VHVldExjbnE2ZVlfNzRWSnRmR29uZTZzVjhTQVUxeFZ4LW1rTkQtYVBhaVVVaTVOTTcyTGRKYVMzYmZxOHVpQ1ZDZ040dkN5b2p1VHhzVVI3WHpFRVZzRnRoRGNjQi13RGRXd3RtTU9GZzJEaEVDTUh2Y1VjRUFTYkV1b1NicU95LTNvaDM4R0V5RFptZFp4R0RyWHVDR0xIYXM2OHVjaE1SMWV3QUpQam1JRUZuQldZTDdtTTVvMmVDV3E5SHpPclFRVlVVX3JNQVlWX290bldvZHZwemV1aDl4dFNjU2x3c3lvenpVYWRWbjFyQmdFSmpqSzEyTHp1M21IenBSaEFxVl8td3d1Y0hKckxjVENrZThqeW5pc0xnRGFBaUhTMWNSWWZWRnBjeVNjRjVPSmlLa2FwWWVQdW1oYWdCSWVwdWdNX1Zrb3I1TnFvY3RB?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -226,33 +226,33 @@
           "package": ""
         },
         {
-          "text": "影／F-35首度擊落有人戰機！以伊戰機德黑蘭空戰畫面曝光",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvWmpDVmxBWXMxWU5RdjkxQXgxRldLRU1rSkhLYzM2ekdiU1BMTGc2T1U4MXdXMHhBSnlVS1FETVJ3S2wtOXNFTVRRbkxIR1g3aXRZ0gFYQVVfeXFMUDZzQlZQcjByY0VhMDRocE5jVkNxX0ZqSDFkOEJtQVN2N0pJR2xLdWFvX0NVWllpQlV1QkhaMURCS01xc1hwMDFzUnZiWDBtdFFJM1BSVnV5Tw?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvWmpDVmxBWXMxWU5RdjkxQXgxRldLRU1rSkhLYzM2ekdiU1BMTGc2T1U4MXdXMHhBSnlVS1FETVJ3S2wtOXNFTVRRbkxIR1g3aXRZ0gFYQVVfeXFMUDZzQlZQcjByY0VhMDRocE5jVkNxX0ZqSDFkOEJtQVN2N0pJR2xLdWFvX0NVWllpQlV1QkhaMURCS01xc1hwMDFzUnZiWDBtdFFJM1BSVnV5Tw?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "伊朗空襲成功？最新衛星影像曝光 美軍5億美元薩德雷達恐已遭摧毀",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01dWVzQldfbGJQaFp0b1VuWFBTODQ3U3JUTWQ4MHZHT2pFVi1JMWVnX204MHBhVTUzdXYwYlhYbEw4cVhiT3VuNmlmN215M2pYNTN30gFYQVVfeXFMTzlTU3VwUU83UTIzR3NrQ0h0VTZyc1RRdVhqOUtVMnJjWTdIR1NiU09TUTFoQlNWUmI4bEFoeWxha2VWVVBEcWo2SkkwMkZWdWNJdEkwVkltUw?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01dWVzQldfbGJQaFp0b1VuWFBTODQ3U3JUTWQ4MHZHT2pFVi1JMWVnX204MHBhVTUzdXYwYlhYbEw4cVhiT3VuNmlmN215M2pYNTN30gFYQVVfeXFMTzlTU3VwUU83UTIzR3NrQ0h0VTZyc1RRdVhqOUtVMnJjWTdIR1NiU09TUTFoQlNWUmI4bEFoeWxha2VWVVBEcWo2SkkwMkZWdWNJdEkwVkltUw?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "中東航運風險升級！日本船隻在阿曼灣遇襲、遭不明墜落物擊中",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0QmhjTFJ3Smo1ckMyb2hCRThrbTRodFhUSkVTc0Jpa29WV3plZXBXbFdtYWFJcWR5MGVSc0t3cjlROGtPbEhHVmZrTi1hRjByRld1OVAyTHE0aHkwdE9Z0gFkQVVfeXFMTmVlN2RCeUI1aEhTbkxKcnBoOERXcndPWE1ybmpud1pmTTVRS2d2LXRpRVBSUGlqeF81XzVCaVVjWHlFbVlnZnAzYjAwTVBMa2x4QlpzNXU1X29xTldvV0FCRndlTA?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0QmhjTFJ3Smo1ckMyb2hCRThrbTRodFhUSkVTc0Jpa29WV3plZXBXbFdtYWFJcWR5MGVSc0t3cjlROGtPbEhHVmZrTi1hRjByRld1OVAyTHE0aHkwdE9Z0gFkQVVfeXFMTmVlN2RCeUI1aEhTbkxKcnBoOERXcndPWE1ybmpud1pmTTVRS2d2LXRpRVBSUGlqeF81XzVCaVVjWHlFbVlnZnAzYjAwTVBMa2x4QlpzNXU1X29xTldvV0FCRndlTA?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
           "text": "戰火燒高油價怎麼辦？菲律賓出大招：考慮周休三日 省能源",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9jNTd4RFdtcmNJZGk5bkU0S2psNHFHU0d0U2thbWtWX1ktMEloVjZwWlJzdzIwR3c1Zk5mZjVGR3pySENOLWJCekIzQkNoVVFE0gFWQVVfeXFMTXJqejk4WktaeWIxQkEzZjdwb3hlNHJxZXIzM3ZoMTJNeHNGRVR2TGE1UFFISjBMVnFZek9TanY0YXhtRjJXc0JoNFZSSGRjeTJmaEhHdXc?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9jNTd4RFdtcmNJZGk5bkU0S2psNHFHU0d0U2thbWtWX1ktMEloVjZwWlJzdzIwR3c1Zk5mZjVGR3pySENOLWJCekIzQkNoVVFE0gFWQVVfeXFMTXJqejk4WktaeWIxQkEzZjdwb3hlNHJxZXIzM3ZoMTJNeHNGRVR2TGE1UFFISjBMVnFZek9TanY0YXhtRjJXc0JoNFZSSGRjeTJmaEhHdXc?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "杜拜遭攻擊動搖信心 亞洲富豪加速資產轉往新加坡",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBFU1phQUJUTjNZcEl5UlMxaXlKR1puNVhYUE5UMWdDaU1xVVYxNndsb1NEQnkzai1oZnpWLXFKZFlMNzRxOFljVFdick9panhwUG1nVkNWTVpERGFtSDlr0gFkQVVfeXFMT1Vvb2gxLWxfYjJpdzQwSVdia2drVEZxVUpYUVJPamlmbDQ3YXNSUGNoVzVmYmEwbmtkVklPNTg1TGRVTEItTllHWElFek9ZalU3VVR2bVM4WWMwYWlVVElUQzVJRw?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBFU1phQUJUTjNZcEl5UlMxaXlKR1puNVhYUE5UMWdDaU1xVVYxNndsb1NEQnkzai1oZnpWLXFKZFlMNzRxOFljVFdick9panhwUG1nVkNWTVpERGFtSDlr0gFkQVVfeXFMT1Vvb2gxLWxfYjJpdzQwSVdia2drVEZxVUpYUVJPamlmbDQ3YXNSUGNoVzVmYmEwbmtkVklPNTg1TGRVTEItTllHWElFek9ZalU3VVR2bVM4WWMwYWlVVElUQzVJRw?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "這國元首恐成下個「斬首對象」？",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9iUFBOc3BCTTByWnlBaXkzeEJvRlpNMndPN050bklCVWhNSWIxNzV4WWhvcUZjdXlKbFl3MjFWQzBxNm1pbU1DYkFVYmZzMjJlTjRJ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9iUFBOc3BCTTByWnlBaXkzeEJvRlpNMndPN050bklCVWhNSWIxNzV4WWhvcUZjdXlKbFl3MjFWQzBxNm1pbU1DYkFVYmZzMjJlTjRJ?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "春節年假干擾台塑四寶2月營收悉數走跌台化表現相對勝出- 產業",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBxQ2x5b1FJWVdjYV9KeVd4b2tnZW96czhtc2hZVmZ5S3BQMkp3WG1NdTZ6Z2M1d2xSMUhLeVQwdXFsVzUyUkd6Yy1SX1lOQkt2eERxUHFaR0o4dURrVHNr?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBxQ2x5b1FJWVdjYV9KeVd4b2tnZW96czhtc2hZVmZ5S3BQMkp3WG1NdTZ6Z2M1d2xSMUhLeVQwdXFsVzUyUkd6Yy1SX1lOQkt2eERxUHFaR0o4dURrVHNr?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -273,6 +273,6 @@
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 39,
+  "cost": 48,
   "status": 0
 }
