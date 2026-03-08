@@ -146,14 +146,6 @@
       "link_type": "app",
       "data": [
         {
-          "text": "倒春寒！　又要跌破10℃",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1BODdGdW8xR0xBamF6d0ZTUjUyS283NlN6ZlpJeWNYd2VVRFlWMEU3NjhnZDFjLUVVSjkxTEJnb2VpaWtKa0R1SXpoUU5McER5SW9xbmdGNUxxcTdic3fSAWhBVV95cUxOb0E2UnB5aFI2UUFXQ3NfdGRJdThQandWRTJTZjVrVG9VUmd6eU5Fck15YVVhYmlUVEpyWGFvYVlNVEdHemZ2WmlWRGpfcmlFX1M0bzBGVUt1aDZfRHhIQU90MzNuN0xHdg?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1BODdGdW8xR0xBamF6d0ZTUjUyS283NlN6ZlpJeWNYd2VVRFlWMEU3NjhnZDFjLUVVSjkxTEJnb2VpaWtKa0R1SXpoUU5McER5SW9xbmdGNUxxcTdic3fSAWhBVV95cUxOb0E2UnB5aFI2UUFXQ3NfdGRJdThQandWRTJTZjVrVG9VUmd6eU5Fck15YVVhYmlUVEpyWGFvYVlNVEdHemZ2WmlWRGpfcmlFX1M0bzBGVUt1aDZfRHhIQU90MzNuN0xHdg?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
           "text": "影／以色列夜襲伊朗油庫！血紅火球畫面曝 目擊者驚「黑夜秒變白天」",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5PMXYxOWd1RkdaSGJ2RUtSUkNrTXZvY0ZnbmV0Zjg2d1NzTThTd0pxS2FacGVJY0tlSmQtV3NkT0wwTF8wX1VWaVNIa3U2UFJDNm9r0gFYQVVfeXFMTWJZdlZLS09DMHNrbUpwVEMydnB6a2hqeW5ydnNRR0FIMDZHWnZLeTRST3Rsck9IZTFBWmk2cFpaVGdiZkxuUy1kRzNBUE5vbUVKdTlXM09SYg?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5PMXYxOWd1RkdaSGJ2RUtSUkNrTXZvY0ZnbmV0Zjg2d1NzTThTd0pxS2FacGVJY0tlSmQtV3NkT0wwTF8wX1VWaVNIa3U2UFJDNm9r0gFYQVVfeXFMTWJZdlZLS09DMHNrbUpwVEMydnB6a2hqeW5ydnNRR0FIMDZHWnZLeTRST3Rsck9IZTFBWmk2cFpaVGdiZkxuUy1kRzNBUE5vbUVKdTlXM09SYg?oc=5",
@@ -170,17 +162,9 @@
           "package": ""
         },
         {
-          "text": "搭機逃離中東安全嗎？她起飛前先交代後事 專家：真正風險不在飛機",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LMkc3QzhHVGpiNkpmTy11RXozN3VhZEVfdU9oRkxrRG1NeW9mckcxYVcwN21vZzM4MEZlS2JqU1RoUVJjeUtkdEp1TlFiWDFCTWJJ0gFYQVVfeXFMUGVmVEtPLWczQWNXYm9VX3NaYkJHLWkyVFNEYXE4am1obW5aNWdMSGhnc1NOLTRlNXNtTUpvQngza053SjhDOFdMaXNBejRUb0pObEFZaS1CbA?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LMkc3QzhHVGpiNkpmTy11RXozN3VhZEVfdU9oRkxrRG1NeW9mckcxYVcwN21vZzM4MEZlS2JqU1RoUVJjeUtkdEp1TlFiWDFCTWJJ0gFYQVVfeXFMUGVmVEtPLWczQWNXYm9VX3NaYkJHLWkyVFNEYXE4am1obW5aNWdMSGhnc1NOLTRlNXNtTUpvQngza053SjhDOFdMaXNBejRUb0pObEFZaS1CbA?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "伊朗軍艦被擊沉87死61失蹤 傳「美軍2度警告撤離」但艦長不准",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBFZVNxdWhFekZ4ZWN3bGxmczhLQ1JiSks4ZHdzblBnaWRDYUZxaDBhVDlWR00wT3RWVHZmNTBfWHZTcGdhRUYwVVhGNEZ6dzNkcDl4bHBSdEI0SXloTjRBODlSSUpEZ9IBa0FVX3lxTFBVS1cwc091SE9DdWdMMGVoWDg0eFlQUDR1TnkxUDhiY1lGR0hERTcxVGh4WmFKTTFkZmx0WUdBek5hZjF5UGp4YzJIeDQ5ajRIRklWY0pTNEVfSVVTejNmbUpqZm1veGh4bko4?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBFZVNxdWhFekZ4ZWN3bGxmczhLQ1JiSks4ZHdzblBnaWRDYUZxaDBhVDlWR00wT3RWVHZmNTBfWHZTcGdhRUYwVVhGNEZ6dzNkcDl4bHBSdEI0SXloTjRBODlSSUpEZ9IBa0FVX3lxTFBVS1cwc091SE9DdWdMMGVoWDg0eFlQUDR1TnkxUDhiY1lGR0hERTcxVGh4WmFKTTFkZmx0WUdBek5hZjF5UGp4YzJIeDQ5ajRIRklWY0pTNEVfSVVTejNmbUpqZm1veGh4bko4?oc=5",
+          "text": "伊朗總統道歉後仍開火！無人機轟炸杜拜 阿聯酋宣布進戰爭狀態",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ieHpXbmhHLWhlNHVjNm5MSU9rRWkzcGNHcm5vVnRoUk9veXNOVE1uZXVaVjQ4QklqOWZ4TTVNSGdnWWgyZjBNR1V4OS1hNHM?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ieHpXbmhHLWhlNHVjNm5MSU9rRWkzcGNHcm5vVnRoUk9veXNOVE1uZXVaVjQ4QklqOWZ4TTVNSGdnWWgyZjBNR1V4OS1hNHM?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -194,9 +178,17 @@
           "package": ""
         },
         {
-          "text": "台中深夜連2震！再喚「彰化斷層」奪千條人命恐懼",
-          "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPMlRiT0tackh1VDhzeDNsVnJZZEphWm4yay1FVTlsbEhMR05nMDl5R0N3WEtmUnBWUjBYajluYUpuRVpaa3E3a19pSzJ0LXR0U1I5bE94TE5wWVJPMno4ZGxVZjBBLTZ1aG1xV0d5TWhvM3lQaFc5UUprVEZ2VlIxb09tY3p1c2h6RVJRN3dyNllTT293RTNRbFIzdldtNUhuNHFxeGVzVzg0amk0bmt5bG0zdDRWSkhUaEJGMFJ3YUZ3OWNYTFk5Z3FXRFc3UlZaRGtGTDd2d1VkWlhleWQxM2I4ajRTbnhXcjRxRHRua0xmOXpydU1STVJYN0s5aWVqOG1VT01FMGpCamUtRFZuaGE0N0VaVzRWQmhsY0dKYnB4Wjk2TWpTeklfaUt5WmFQbkVmREtScGpZSy1K?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPMlRiT0tackh1VDhzeDNsVnJZZEphWm4yay1FVTlsbEhMR05nMDl5R0N3WEtmUnBWUjBYajluYUpuRVpaa3E3a19pSzJ0LXR0U1I5bE94TE5wWVJPMno4ZGxVZjBBLTZ1aG1xV0d5TWhvM3lQaFc5UUprVEZ2VlIxb09tY3p1c2h6RVJRN3dyNllTT293RTNRbFIzdldtNUhuNHFxeGVzVzg0amk0bmt5bG0zdDRWSkhUaEJGMFJ3YUZ3OWNYTFk5Z3FXRFc3UlZaRGtGTDd2d1VkWlhleWQxM2I4ajRTbnhXcjRxRHRua0xmOXpydU1STVJYN0s5aWVqOG1VT01FMGpCamUtRFZuaGE0N0VaVzRWQmhsY0dKYnB4Wjk2TWpTeklfaUt5WmFQbkVmREtScGpZSy1K?oc=5",
+          "text": "伊朗軍艦被擊沉87死61失蹤 傳「美軍2度警告撤離」但艦長不准",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBFZVNxdWhFekZ4ZWN3bGxmczhLQ1JiSks4ZHdzblBnaWRDYUZxaDBhVDlWR00wT3RWVHZmNTBfWHZTcGdhRUYwVVhGNEZ6dzNkcDl4bHBSdEI0SXloTjRBODlSSUpEZ9IBa0FVX3lxTFBVS1cwc091SE9DdWdMMGVoWDg0eFlQUDR1TnkxUDhiY1lGR0hERTcxVGh4WmFKTTFkZmx0WUdBek5hZjF5UGp4YzJIeDQ5ajRIRklWY0pTNEVfSVVTejNmbUpqZm1veGh4bko4?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBFZVNxdWhFekZ4ZWN3bGxmczhLQ1JiSks4ZHdzblBnaWRDYUZxaDBhVDlWR00wT3RWVHZmNTBfWHZTcGdhRUYwVVhGNEZ6dzNkcDl4bHBSdEI0SXloTjRBODlSSUpEZ9IBa0FVX3lxTFBVS1cwc091SE9DdWdMMGVoWDg0eFlQUDR1TnkxUDhiY1lGR0hERTcxVGh4WmFKTTFkZmx0WUdBek5hZjF5UGp4YzJIeDQ5ajRIRklWY0pTNEVfSVVTejNmbUpqZm1veGh4bko4?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "台中男子帶女友看夜景 倒車不慎翻覆壓死自己",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9xWGdhTXdyWHY1TUFWMDM4RmdKNzMtU1NZdGJIcThrZzVsb1BNRlRxd25QMjlpVlRXdzVhSnJTX3Q3OUJ0TFJENXBVWnNYWlBt0gFWQVVfeXFMT1MyTFlNeUdaNU9xVURNU05WMUpFVFZtYlJ6OXV5RTdiN2V4UkR3ZEktenNUbmpmbndHWi1TVUJFU3IzTUpUU0tkWW9IV2NCQU1idG0xSHc?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9xWGdhTXdyWHY1TUFWMDM4RmdKNzMtU1NZdGJIcThrZzVsb1BNRlRxd25QMjlpVlRXdzVhSnJTX3Q3OUJ0TFJENXBVWnNYWlBt0gFWQVVfeXFMT1MyTFlNeUdaNU9xVURNU05WMUpFVFZtYlJ6OXV5RTdiN2V4UkR3ZEktenNUbmpmbndHWi1TVUJFU3IzTUpUU0tkWW9IV2NCQU1idG0xSHc?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -210,17 +202,25 @@
           "package": ""
         },
         {
-          "text": "傳外籍船舶集結屏東枋山海域要破壞海底電線？海巡署這樣說",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MOXhsTlRJMDFIOUYtcW4wRm5OcU5mVTJSNUJHYXBzZGZRVDB2QzZOaGczd292bnRzdFFHQUtOZkFYWVVpVzRuY21FYTJBM1gz0gFWQVVfeXFMUEJsOHZidVZ3Ykp2eUxtNExra0JrVThuUERVNkNLWFNPa1k3V1hCb1ZJSHVpZnE5UnpwcEtScjBZNHVycHlzYzB4YURpckxHVWpZSG5kbUE?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MOXhsTlRJMDFIOUYtcW4wRm5OcU5mVTJSNUJHYXBzZGZRVDB2QzZOaGczd292bnRzdFFHQUtOZkFYWVVpVzRuY21FYTJBM1gz0gFWQVVfeXFMUEJsOHZidVZ3Ykp2eUxtNExra0JrVThuUERVNkNLWFNPa1k3V1hCb1ZJSHVpZnE5UnpwcEtScjBZNHVycHlzYzB4YURpckxHVWpZSG5kbUE?oc=5",
+          "text": "呂坤修密訪菲律賓談援助美軍基地？ 陸軍司令部駁斥非事實",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1fTFNabWFxQXJsS096eVlRbWVnbnBwLUJLVVk1QWZ2LW4tSFJ4UkxoMXVubU1idWhnV1pOSmsxWV9iQWJRUjRvaDByU1MyMUV4M1oxYzVPNXZkVU01OTFLRTRwel9jWHZ2UDVlWGdB?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1fTFNabWFxQXJsS096eVlRbWVnbnBwLUJLVVk1QWZ2LW4tSFJ4UkxoMXVubU1idWhnV1pOSmsxWV9iQWJRUjRvaDByU1MyMUV4M1oxYzVPNXZkVU01OTFLRTRwel9jWHZ2UDVlWGdB?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "傳鄭麗君選台北市長只差「他點頭」 王世堅、吳怡農反應曝光",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVExCaWdHZG9PNS1la2tpQjNCVDVpb3dreng2SmZ5LWJpZ3B6Rk5BOFUxWUNaeDM0QzU1THN0SHI0LUh5SS0xZEw4QWtzVHRDQmk2RVplWGVTMHh3bVk1ZTZLV1JqTlNJS1JGWTN1UTJCN2xEVkZfRWYyRG9xdlh6VFFGbw?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVExCaWdHZG9PNS1la2tpQjNCVDVpb3dreng2SmZ5LWJpZ3B6Rk5BOFUxWUNaeDM0QzU1THN0SHI0LUh5SS0xZEw4QWtzVHRDQmk2RVplWGVTMHh3bVk1ZTZLV1JqTlNJS1JGWTN1UTJCN2xEVkZfRWYyRG9xdlh6VFFGbw?oc=5",
+          "text": "台灣人「用鈔票習慣」在日本惹怒店員 網點頭：每次都被瞪",
+          "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNVEJIRE56dkN4My15TE0xTWR2LUZDT2x4TnNMMm5wRUItQnIyWW9nV05rWDhEWEVqZF90bGNuRC1Jdk9oRlJlZzNJZ2FxbjVoYkI0ZEEwbk96LTFrdjVQcm9nd09Sc2x0V3lHczRUbFdXNjVpUng0VU41eVg3M3lEenBnajNKc1I1VkdtZGphOVJvODNRS3o5TjcxdDJUSnJydFRpTmF4a2lKa19SbVZ0eEwzVkMwVEVhb2JNckFicWZ6YUExcU9PRUkyOGJNUDBjRFNweUVrbTNfaFdKZ1dfOXJBX1JFX19KT1hIU1p5SDU0eTFncTZXV3I3YmdwTVRNUWQyN3RlMk05WENLZjVyX29qNWg1djZxMktUbEQ4UmFmZWRuQ1JlZHBxLS1za0lUaDlGRWJUQ1JOWXZQaFNzQVZEYmxXd1hsR1lUeTBMTzdCbS1YNU5ZYzY1c2htbmN5amYtVlJmWjZxbVpH?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNVEJIRE56dkN4My15TE0xTWR2LUZDT2x4TnNMMm5wRUItQnIyWW9nV05rWDhEWEVqZF90bGNuRC1Jdk9oRlJlZzNJZ2FxbjVoYkI0ZEEwbk96LTFrdjVQcm9nd09Sc2x0V3lHczRUbFdXNjVpUng0VU41eVg3M3lEenBnajNKc1I1VkdtZGphOVJvODNRS3o5TjcxdDJUSnJydFRpTmF4a2lKa19SbVZ0eEwzVkMwVEVhb2JNckFicWZ6YUExcU9PRUkyOGJNUDBjRFNweUVrbTNfaFdKZ1dfOXJBX1JFX19KT1hIU1p5SDU0eTFncTZXV3I3YmdwTVRNUWQyN3RlMk05WENLZjVyX29qNWg1djZxMktUbEQ4UmFmZWRuQ1JlZHBxLS1za0lUaDlGRWJUQ1JOWXZQaFNzQVZEYmxXd1hsR1lUeTBMTzdCbS1YNU5ZYzY1c2htbmN5amYtVlJmWjZxbVpH?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "宋濤：大陸對臺壓倒性優勢持續擴大「 十五五」更加有力推進統一進程",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE95RlVPN2ZlSGs2aWVXNVU4UkNSRzgxLWV5RzlIMVhZWHJQWGJiLVlWUGdaWERKZTlZUGxLeHJFdU10azVQenYyMm5vZW9iOTh60gFWQVVfeXFMTXFCZjNiREdLQnBIOVBkYXJXZDlfZDFJZFI1M0lGLUhPMWJ1X2hDWUFyNDZMc0llVm40VHZaYVN0cWNhU3ZEenI5UWozSEFiZVZvaEpFdmc?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE95RlVPN2ZlSGs2aWVXNVU4UkNSRzgxLWV5RzlIMVhZWHJQWGJiLVlWUGdaWERKZTlZUGxLeHJFdU10azVQenYyMm5vZW9iOTh60gFWQVVfeXFMTXFCZjNiREdLQnBIOVBkYXJXZDlfZDFJZFI1M0lGLUhPMWJ1X2hDWUFyNDZMc0llVm40VHZaYVN0cWNhU3ZEenI5UWozSEFiZVZvaEpFdmc?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -234,33 +234,33 @@
           "package": ""
         },
         {
-          "text": "再攻擊就倒戈！《路透社》曝沙國警告伊朗：不准再炸能源設施",
-          "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQbjZsVjBmejZYMzlJZXlWUjVQMFdKR0c1ZnJWWXQ2aTNPZkVpdGpwZzBka0sydkEwSDI3Znl0RHI1dFVBOWNOTXd6aVNVSFVWRFRPSFl3OXpfSUMzbURWYnhuTF9qSk9DTHlWX0syangxVzhCUnBEWEptX3ozUUtUU19YcXBuWnQxUGNFS2tlbUJPV3lPWG11YTh1Wm5LNG9pTFpCUExORTY1cUo3cDFRRWhkS21kRWdrMm9UaTMxRklfRnVsR0p5d0stYkhheUN2MVowRE05Rk9aTGhXek9hLWxTa2tnYThMNEVja0tMbnFHLVdwUTJiaC1DUGZMelo1bUxXOGpTOFBCbl9Ja2JRd0VrbV80WUIxZWdvTDdUei1UOGJXdjlTMkJmZEliUV9SYzEta0Y4YlYzTGVGVldYVlRESzcwRGJvUUlPaXdCVXk5V1RyaHZKZV9lck9oNEwxZTd4blk4bzVzaUFtS055bEVIa3V0SDQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQbjZsVjBmejZYMzlJZXlWUjVQMFdKR0c1ZnJWWXQ2aTNPZkVpdGpwZzBka0sydkEwSDI3Znl0RHI1dFVBOWNOTXd6aVNVSFVWRFRPSFl3OXpfSUMzbURWYnhuTF9qSk9DTHlWX0syangxVzhCUnBEWEptX3ozUUtUU19YcXBuWnQxUGNFS2tlbUJPV3lPWG11YTh1Wm5LNG9pTFpCUExORTY1cUo3cDFRRWhkS21kRWdrMm9UaTMxRklfRnVsR0p5d0stYkhheUN2MVowRE05Rk9aTGhXek9hLWxTa2tnYThMNEVja0tMbnFHLVdwUTJiaC1DUGZMelo1bUxXOGpTOFBCbl9Ja2JRd0VrbV80WUIxZWdvTDdUei1UOGJXdjlTMkJmZEliUV9SYzEta0Y4YlYzTGVGVldYVlRESzcwRGJvUUlPaXdCVXk5V1RyaHZKZV9lck9oNEwxZTd4blk4bzVzaUFtS055bEVIa3V0SDQ?oc=5",
+          "text": "精準狙殺！以色列轟黎巴嫩飯店「1個房間」 滅伊朗革命衛隊指揮官",
+          "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxPa1dzYnVRRnl3dFpFd3ZPNmlYRERJTVJWc0FzNENKcXV0Y0ZwaXAzbHMteHNoZHVYVVlQVm1heFVtQ0h1Y05rQzBCTVhtNjctZ3dsTUJlWjJUa1pFcnpjOXl0WlhjakJ6ellYVkdTNmkyWHBaVnNYSkhsRGtqTC10dXRIUW5Ud3pBU3k4X0sxa1F0N3Fwb1hXR3FubjVtVFFiY3pPdjRMT2hSSUh0QmtpZkVoWTJROUtlXzY3eEktUTZNYTVpOUxXeEFiSTVaZlVsRmxXVW1uYlY0SFlGdEswYTlKblBvZmlsZ0tKNDAwRnRhbjNLT1dhTkVOVTB6ZnY2TEZ0c2JMcFhNV0x1WTZHWGFFc3FoS2dhSEpreUVhanFYUTZwRnR5LVVjeW1LT1hzZ3pCY3hKWU95VXFseEwwTlhPQzV0X2JnMDAxYnpaRURqYzQ1Skg0QmIxcmtFQW5hWHFiVldSQkRnQlhqVURpVFNSZTdfMnRGVDIwc2dmMTIxN2ExRU44aFFhelZhUHZV?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMikANBVV95cUxPa1dzYnVRRnl3dFpFd3ZPNmlYRERJTVJWc0FzNENKcXV0Y0ZwaXAzbHMteHNoZHVYVVlQVm1heFVtQ0h1Y05rQzBCTVhtNjctZ3dsTUJlWjJUa1pFcnpjOXl0WlhjakJ6ellYVkdTNmkyWHBaVnNYSkhsRGtqTC10dXRIUW5Ud3pBU3k4X0sxa1F0N3Fwb1hXR3FubjVtVFFiY3pPdjRMT2hSSUh0QmtpZkVoWTJROUtlXzY3eEktUTZNYTVpOUxXeEFiSTVaZlVsRmxXVW1uYlY0SFlGdEswYTlKblBvZmlsZ0tKNDAwRnRhbjNLT1dhTkVOVTB6ZnY2TEZ0c2JMcFhNV0x1WTZHWGFFc3FoS2dhSEpreUVhanFYUTZwRnR5LVVjeW1LT1hzZ3pCY3hKWU95VXFseEwwTlhPQzV0X2JnMDAxYnpaRURqYzQ1Skg0QmIxcmtFQW5hWHFiVldSQkRnQlhqVURpVFNSZTdfMnRGVDIwc2dmMTIxN2ExRU44aFFhelZhUHZV?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "最大「內鬼」逃往以? 被處決? 網傳伊朗聖城旅指揮官卡尼涉摩薩德間諜案",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9LOUwyN3JpSEg1dUpGczZuUHV5eWw4UUFWZmN5OG54OUlJd2J3XzlPRFRJMnQwLWpyYlplTVN6R0JncXJhOVNIWHlvRzZzcEpTUm83RmN0NGtSY0U?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9LOUwyN3JpSEg1dUpGczZuUHV5eWw4UUFWZmN5OG54OUlJd2J3XzlPRFRJMnQwLWpyYlplTVN6R0JncXJhOVNIWHlvRzZzcEpTUm83RmN0NGtSY0U?oc=5",
+          "text": "聯合報社論／中東戰火與AI電荒夾擊，台灣能源韌性呢？",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlNEVWQzFVYkR2bkI3R3dZc1Y1TzB2T29CbUdPb3A3a3FnMTE0QkNmM3U4QzZBbThDY1dHdmxfYXh2MmRvZTk3ZnhzVmVla3Zz0gFWQVVfeXFMTWt3a29kekFueEE5V1otNkczY2Rpeko4TDJTYzJhc2d2UTR1NGlWQ0tYVTRhR2dyNVVJM1kxaW9qMXdZWFBVanBSTU83eF9HM2RnSDdleVE?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlNEVWQzFVYkR2bkI3R3dZc1Y1TzB2T29CbUdPb3A3a3FnMTE0QkNmM3U4QzZBbThDY1dHdmxfYXh2MmRvZTk3ZnhzVmVla3Zz0gFWQVVfeXFMTWt3a29kekFueEE5V1otNkczY2Rpeko4TDJTYzJhc2d2UTR1NGlWQ0tYVTRhR2dyNVVJM1kxaW9qMXdZWFBVanBSTU83eF9HM2RnSDdleVE?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "以軍特種部隊突襲黎巴嫩小鎮 激烈交火當地至少41死",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5TaUlLU3BqSlZBdE5HM2UtbzR4UXkxOVJQZ2dEa0dYWWZfblAycEZVa1dFSTJWeUZsdkF3RkVjcUFDcWNZVHdxZkRsMEJ5MFgzT0xVaHZhN0NUaGZKVExhQ3VJSm1VZ9IBa0FVX3lxTE5iV0dpVmgtbDNJblZuUnZJVnZBZUxoX28yZ2VZVVFYb25Rb0ZWSWNqMWpBd1ZnWmRlYkNPYldxSEswN3dxRG03V3lPWlowUjBIa09qb25ISGpsM1hsUVd0M3N6aVJPTmNZTTdj?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5TaUlLU3BqSlZBdE5HM2UtbzR4UXkxOVJQZ2dEa0dYWWZfblAycEZVa1dFSTJWeUZsdkF3RkVjcUFDcWNZVHdxZkRsMEJ5MFgzT0xVaHZhN0NUaGZKVExhQ3VJSm1VZ9IBa0FVX3lxTE5iV0dpVmgtbDNJblZuUnZJVnZBZUxoX28yZ2VZVVFYb25Rb0ZWSWNqMWpBd1ZnWmRlYkNPYldxSEswN3dxRG03V3lPWlowUjBIa09qb25ISGpsM1hsUVd0M3N6aVJPTmNZTTdj?oc=5",
+          "text": "WBC中華隊「克韓」寫奇蹟！4大超商優惠快搶",
+          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOQzFvY3Rvb0RzSUtfOWxYYjl4ci1TS2hYTk5hNWlxVHdaSFI1V05pMnBoeW9Wa1FweWRZMDlibVB2XzBkZVhfcGhBaXoxTG9ZcngxbTFwdGNRTXdObUFKc2x0OXNyR1dwYUx1QlFYZ2RoLTBjSnB3a1dTdWJaSl83ZWx5VEp2RXdwMW5pSUU5YVRZV2hodzVPSVhCMTlqYnlqdFNQUjlMbE5xRXBtbHJ4WFVhLUYyYUw5QmpDVlAwTXNpVDB0TUQxNjN4TDF6ektoc3RJbkxKMGlQX0tIWENyTWhxRHNWYmVhWVZ5SkRsTWROcXV0dUcxTUZ0WmNZZU5INTR0eFYxNDFwQ05IYzhXNw?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOQzFvY3Rvb0RzSUtfOWxYYjl4ci1TS2hYTk5hNWlxVHdaSFI1V05pMnBoeW9Wa1FweWRZMDlibVB2XzBkZVhfcGhBaXoxTG9ZcngxbTFwdGNRTXdObUFKc2x0OXNyR1dwYUx1QlFYZ2RoLTBjSnB3a1dTdWJaSl83ZWx5VEp2RXdwMW5pSUU5YVRZV2hodzVPSVhCMTlqYnlqdFNQUjlMbE5xRXBtbHJ4WFVhLUYyYUw5QmpDVlAwTXNpVDB0TUQxNjN4TDF6ektoc3RJbkxKMGlQX0tIWENyTWhxRHNWYmVhWVZ5SkRsTWROcXV0dUcxTUZ0WmNZZU5INTR0eFYxNDFwQ05IYzhXNw?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "台積電上榜！外媒點名「這3檔」未來10年有望成長10倍",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BLWdzWEo2enB0VHFDb3NJWTA2aGtSTDYxY0NEXzFQSzlRMDFQTDA0UEVjTHRTTjIyRGRWSzF2WXFQNUl6VF9oV1RvVlR5MlBnOTBiR21UOWRTYW5tMWtn0gFkQVVfeXFMUDltaGcySl9rRlhFOEc3dWNSM0F4RVV5blppTEtSQTM0WWJyNjQwanUzVDlnRFFkd1l5YW4ta0d6akdzdTdjWjA0dlZBSjVMVFJCeGtlOS1GWUlKVmxIa3U2blhWcg?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BLWdzWEo2enB0VHFDb3NJWTA2aGtSTDYxY0NEXzFQSzlRMDFQTDA0UEVjTHRTTjIyRGRWSzF2WXFQNUl6VF9oV1RvVlR5MlBnOTBiR21UOWRTYW5tMWtn0gFkQVVfeXFMUDltaGcySl9rRlhFOEc3dWNSM0F4RVV5blppTEtSQTM0WWJyNjQwanUzVDlnRFFkd1l5YW4ta0d6akdzdTdjWjA0dlZBSjVMVFJCeGtlOS1GWUlKVmxIa3U2blhWcg?oc=5",
+          "text": "川普又揮刀？下週迎「4大未爆彈」、長線看多有護身符：這幾大族群接棒",
+          "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxOMzc2bkJ1amFUY3d3NjdfQ2hXeWNwR2ZMWDNPSFVLZGhOVEF3azAzX3NacWFYRzZrTUk0M2Y3SmlhWFYzU3RGYWpIOUl0T3dRbTZ0STU4cW11V0kxajZad0pHNm5DQXB2QUpyN1hQLWtsVHhHRXRScUpEUmEwMWExa1ZMbUNJNGRPd1RKWmd6dGNRMDBrX2ZpcWJ1d0czWlJuclc3SHduelNCZ0tIX1pkbElZaW15dGpVZzFvaDZQUndNZmJtVGZXOHVrbldQcGcwNlMzNlotMC02VFdtd1hGbDQ0Mnh4QTJqbWRtMjRDWFdrOFc0YThHQlFmTHFlVlc2WkpCZ0w1VlFRX0VSdkVMZ0FYY1RTU1I0S1dCVkc4LU1HckZNNm44Tzg0elhYSG40QWd6bFp3YXc5ZUpEUHJScERwNW5vUENtRFBWdDZObWV1Rk1oOGZsdHNDSjZHV3lPVXVXSDVsYjJ0Zm1XemxLc0JXVEJFREYybzBpWkl2UFdRVFdYMm1XeGsxTVMwcTBTNlJsVFpTTWZfOERtdFE?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMingNBVV95cUxOMzc2bkJ1amFUY3d3NjdfQ2hXeWNwR2ZMWDNPSFVLZGhOVEF3azAzX3NacWFYRzZrTUk0M2Y3SmlhWFYzU3RGYWpIOUl0T3dRbTZ0STU4cW11V0kxajZad0pHNm5DQXB2QUpyN1hQLWtsVHhHRXRScUpEUmEwMWExa1ZMbUNJNGRPd1RKWmd6dGNRMDBrX2ZpcWJ1d0czWlJuclc3SHduelNCZ0tIX1pkbElZaW15dGpVZzFvaDZQUndNZmJtVGZXOHVrbldQcGcwNlMzNlotMC02VFdtd1hGbDQ0Mnh4QTJqbWRtMjRDWFdrOFc0YThHQlFmTHFlVlc2WkpCZ0w1VlFRX0VSdkVMZ0FYY1RTU1I0S1dCVkc4LU1HckZNNm44Tzg0elhYSG40QWd6bFp3YXc5ZUpEUHJScERwNW5vUENtRFBWdDZObWV1Rk1oOGZsdHNDSjZHV3lPVXVXSDVsYjJ0Zm1XemxLc0JXVEJFREYybzBpWkl2UFdRVFdYMm1XeGsxTVMwcTBTNlJsVFpTTWZfOERtdFE?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -273,6 +273,6 @@
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 29,
+  "cost": 28,
   "status": 0
 }
