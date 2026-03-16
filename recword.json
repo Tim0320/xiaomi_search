@@ -15,14 +15,6 @@
       "link_type": "app",
       "data": [
         {
-          "text": "Lady M杜拜巧克力",
-          "url": "https://tw.search.yahoo.com/search?p=Lady+M%E6%9D%9C%E6%8B%9C%E5%B7%A7%E5%85%8B%E5%8A%9B&amp;fr=ush-bt1",
-          "h5_url": "https://tw.search.yahoo.com/search?p=Lady+M%E6%9D%9C%E6%8B%9C%E5%B7%A7%E5%85%8B%E5%8A%9B&amp;fr=ush-bt1",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_yahoo",
-          "package": ""
-        },
-        {
           "text": "Yahoo財經大人物",
           "url": "https://tw.news.yahoo.com/topic/CEO-interview",
           "h5_url": "https://tw.news.yahoo.com/topic/CEO-interview",
@@ -133,6 +125,14 @@
           "appIconUrl": "",
           "sourceUniqueId": "content_yahoo",
           "package": ""
+        },
+        {
+          "text": "駁死訊 以總理曬喝咖啡影片「這不是AI」",
+          "url": "https://tw.news.yahoo.com/%E4%BB%A5%E8%89%B2%E5%88%97%E7%B8%BD%E7%90%86%E5%B0%BC%E5%9D%A6%E9%9B%85%E8%83%A1%E8%87%AA%E6%8B%8D%E7%89%87-%E7%A0%B4%E8%A7%A3%E9%81%AD%E7%A9%BA%E8%A5%B2%E8%80%8C%E6%AD%BB%E5%82%B3%E8%81%9E-052720625.html",
+          "h5_url": "https://tw.news.yahoo.com/%E4%BB%A5%E8%89%B2%E5%88%97%E7%B8%BD%E7%90%86%E5%B0%BC%E5%9D%A6%E9%9B%85%E8%83%A1%E8%87%AA%E6%8B%8D%E7%89%87-%E7%A0%B4%E8%A7%A3%E9%81%AD%E7%A9%BA%E8%A5%B2%E8%80%8C%E6%AD%BB%E5%82%B3%E8%81%9E-052720625.html",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_yahoo",
+          "package": ""
         }
       ],
       "selectedStatus": false,
@@ -154,6 +154,22 @@
           "package": ""
         },
         {
+          "text": "川普施壓北約中國協助疏通荷莫茲海峽不排除延後川習會",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE93RF9FNHpQWXZfNHRlX196N1BXdjhKNTZuOTZ3MG9FbHFtUzVPbFNSWmduaEtYc2FWLXQ2TXczVzVDRW01d2w1cTJPbDJmWTM0OHpGbGNWODZrdW02QmNj?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE93RF9FNHpQWXZfNHRlX196N1BXdjhKNTZuOTZ3MG9FbHFtUzVPbFNSWmduaEtYc2FWLXQ2TXczVzVDRW01d2w1cTJPbDJmWTM0OHpGbGNWODZrdW02QmNj?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "黃國昌逛夜市吃鳥蛋「咬過後拿去刷醬」引眾怒　受害店家發聲道歉了",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qSGdtTWd4REQxSkNvNXpSZmlPN1BzbUNndXNFdWRmeEFXcmNGVENqNWNGbUpER1AxeHRRRTFwbzU1SWVnemp0MENDRXBiU3RlY2lYM3pWRndvY3fSAWBBVV95cUxNWG9YVDBXMzZfWklrNUpnSnBlZGdsdlVWTk5FYTJHMzJPQ0ZNUnZ5R2dRZl81VzJsRlNLTFFhQkRualFxOWwwOTB1UkszT3FIelFlaVpPekctLXROTzYtS1U?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qSGdtTWd4REQxSkNvNXpSZmlPN1BzbUNndXNFdWRmeEFXcmNGVENqNWNGbUpER1AxeHRRRTFwbzU1SWVnemp0MENDRXBiU3RlY2lYM3pWRndvY3fSAWBBVV95cUxNWG9YVDBXMzZfWklrNUpnSnBlZGdsdlVWTk5FYTJHMzJPQ0ZNUnZ5R2dRZl81VzJsRlNLTFFhQkRualFxOWwwOTB1UkszT3FIelFlaVpPekctLXROTzYtS1U?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
           "text": "被稱「李女士」又遭拒備詢李貞秀怒轟劉世芳：侮辱台灣民主、竄逃離席",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvWm1jcGptMmpEamltQlNIRlJDVTI1REVrMEVsTnRpQXY4dFp3MUR4RllhdG9yd1BxSGZnYmstVjlUYzZfbjVDLWhacUxTWTYtVWlDUm5EM0FrdEk?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvWm1jcGptMmpEamltQlNIRlJDVTI1REVrMEVsTnRpQXY4dFp3MUR4RllhdG9yd1BxSGZnYmstVjlUYzZfbjVDLWhacUxTWTYtVWlDUm5EM0FrdEk?oc=5",
@@ -165,22 +181,6 @@
           "text": "若不護航將推遲訪華！川普施壓陸促解封荷莫茲…陸外交部回應了",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE92TFhQREQzM0N3bEUzdnloT1NyNlZxUlpMVHhVbm1ldm9lSERMdmVvdDN1d0tzcVlFdFJxR0duRnlmTkk4ZVVzWG54bGl2aWoy0gFWQVVfeXFMTmpFOXZFWlRfajlIbFp2Z013XzJ2OEw0Wlc0TDBqajY2dXhjcU1XYmZkdlF6clB0R240RGhjUDFDdThxSkZOeE1VejdIbmNtYlBxd2hkNHc?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE92TFhQREQzM0N3bEUzdnloT1NyNlZxUlpMVHhVbm1ldm9lSERMdmVvdDN1d0tzcVlFdFJxR0duRnlmTkk4ZVVzWG54bGl2aWoy0gFWQVVfeXFMTmpFOXZFWlRfajlIbFp2Z013XzJ2OEw0Wlc0TDBqajY2dXhjcU1XYmZkdlF6clB0R240RGhjUDFDdThxSkZOeE1VejdIbmNtYlBxd2hkNHc?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "川普施壓北約中國協助疏通荷莫茲海峽不排除延後川習會",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE93RF9FNHpQWXZfNHRlX196N1BXdjhKNTZuOTZ3MG9FbHFtUzVPbFNSWmduaEtYc2FWLXQ2TXczVzVDRW01d2w1cTJPbDJmWTM0OHpGbGNWODZrdW02QmNj?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE93RF9FNHpQWXZfNHRlX196N1BXdjhKNTZuOTZ3MG9FbHFtUzVPbFNSWmduaEtYc2FWLXQ2TXczVzVDRW01d2w1cTJPbDJmWTM0OHpGbGNWODZrdW02QmNj?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "案情大逆轉！伊朗領袖傳「死去復活」嗆聲了",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05QmdxN2hzdTBmZTdPRjRzVlFzZnlfRzhIeVJfakhsYzlKeGVwT21TVjQ3RTNrdWdVcjVJN3BhU1BRSGM2aXVsZE8ycDd0LVU?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05QmdxN2hzdTBmZTdPRjRzVlFzZnlfRzhIeVJfakhsYzlKeGVwT21TVjQ3RTNrdWdVcjVJN3BhU1BRSGM2aXVsZE8ycDd0LVU?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -202,14 +202,6 @@
           "package": ""
         },
         {
-          "text": "獨家／王義川婉拒　賴清德鎖定蔣萬安同學出戰桃園市長",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pTGFyZXQxclJnMnJpQ3N3czRaU3YxMFhOemNERlgwd0FZUGpQQlVUT042d1RuMjBXWWttaEtLRVlhUFpQQ005bUlPTXpqNWZOLWJDTmJ4VHUyRUXSAWBBVV95cUxNOHlpTU11TlhvMzg0UmI2dEZ2LS1pa1RqcVE2RlY3UDMweHRfWDl4MXVUcDJWNHQ5NTZzTUtNRTVHS2NCb0JPY2NqOTBVRGVSOC1iVlo5T0lteDJZMlZETlY?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pTGFyZXQxclJnMnJpQ3N3czRaU3YxMFhOemNERlgwd0FZUGpQQlVUT042d1RuMjBXWWttaEtLRVlhUFpQQ005bUlPTXpqNWZOLWJDTmJ4VHUyRUXSAWBBVV95cUxNOHlpTU11TlhvMzg0UmI2dEZ2LS1pa1RqcVE2RlY3UDMweHRfWDl4MXVUcDJWNHQ5NTZzTUtNRTVHS2NCb0JPY2NqOTBVRGVSOC1iVlo5T0lteDJZMlZETlY?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
           "text": "賴清德嗆「國民黨統治不如日本殖民」 趙少康無奈：我意外也不意外",
           "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxPdERTR0pUY2k3WUZTMFp6Mk5QLUFNWWdISG9uREJaVi1fUkprRjhQbkp4Vi1tYjFFWjdjUWxUOUdaQlFMVl83b3ZfSDFvOGZYZGJISkZXRjJvRUx5NkJmOTI0cEM3TmVoQ0tVX1Ftb0t5RnEyWVd4YXJqeUNnZlhadmZfaHJOZFlTakZ1akhoV18zYVFHQjI2YlhrckFQZ3FHc0hrLURjcmQ1dmxwX2UzRmRnMzFMTEhUckhfeUducWFfemlOaEhxLUM1RmVhNVptbFI0OEtrLWFtMElJWjVJSVFyMmV6cHNLU1lHN0c4WjYzNFd0UlRLMnBhc2xKOEVJUS1ZaktXWWFHSzREVXRSRGVpYjYtS1NncjBjc2p6S1F6U05OTG9JRk1qcUVjUlNtQWd0ZG1TTjZuOGxJMHl3NW5fQllmT3AzLWlsaFFKbGEwUzhwa010ODBqaEFmcGRzaE5HR3pRV3M2OG5hTFRWMTdsNUptN1Q2d0VFa2RWcDJweDAxVmRsWWh4bWhFdjJrbFFVZVpWbUlqY3M?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxPdERTR0pUY2k3WUZTMFp6Mk5QLUFNWWdISG9uREJaVi1fUkprRjhQbkp4Vi1tYjFFWjdjUWxUOUdaQlFMVl83b3ZfSDFvOGZYZGJISkZXRjJvRUx5NkJmOTI0cEM3TmVoQ0tVX1Ftb0t5RnEyWVd4YXJqeUNnZlhadmZfaHJOZFlTakZ1akhoV18zYVFHQjI2YlhrckFQZ3FHc0hrLURjcmQ1dmxwX2UzRmRnMzFMTEhUckhfeUducWFfemlOaEhxLUM1RmVhNVptbFI0OEtrLWFtMElJWjVJSVFyMmV6cHNLU1lHN0c4WjYzNFd0UlRLMnBhc2xKOEVJUS1ZaktXWWFHSzREVXRSRGVpYjYtS1NncjBjc2p6S1F6U05OTG9JRk1qcUVjUlNtQWd0ZG1TTjZuOGxJMHl3NW5fQllmT3AzLWlsaFFKbGEwUzhwa010ODBqaEFmcGRzaE5HR3pRV3M2OG5hTFRWMTdsNUptN1Q2d0VFa2RWcDJweDAxVmRsWWh4bWhFdjJrbFFVZVpWbUlqY3M?oc=5",
@@ -218,9 +210,17 @@
           "package": ""
         },
         {
-          "text": "黃國昌逛夜市吃鳥蛋「咬過後拿去刷醬」引眾怒　受害店家發聲道歉了",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qSGdtTWd4REQxSkNvNXpSZmlPN1BzbUNndXNFdWRmeEFXcmNGVENqNWNGbUpER1AxeHRRRTFwbzU1SWVnemp0MENDRXBiU3RlY2lYM3pWRndvY3fSAWBBVV95cUxNWG9YVDBXMzZfWklrNUpnSnBlZGdsdlVWTk5FYTJHMzJPQ0ZNUnZ5R2dRZl81VzJsRlNLTFFhQkRualFxOWwwOTB1UkszT3FIelFlaVpPekctLXROTzYtS1U?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qSGdtTWd4REQxSkNvNXpSZmlPN1BzbUNndXNFdWRmeEFXcmNGVENqNWNGbUpER1AxeHRRRTFwbzU1SWVnemp0MENDRXBiU3RlY2lYM3pWRndvY3fSAWBBVV95cUxNWG9YVDBXMzZfWklrNUpnSnBlZGdsdlVWTk5FYTJHMzJPQ0ZNUnZ5R2dRZl81VzJsRlNLTFFhQkRualFxOWwwOTB1UkszT3FIelFlaVpPekctLXROTzYtS1U?oc=5",
+          "text": "1360萬人次參觀台灣燈會！締316億產值 翁章梁：嘉義終被看見",
+          "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxNUHVNRkNXbXI1R2xFYlpndndGczRhZWhzZm5TRGxjUTdYcWtZcFpnaHptd0F0bDZ3OXJSWExrZTRZV2IzN04zVDREUEJOeU4yaGNoeVdSdFo0dDYwbzVvUklORU1RX0gzNExwRnUxeUNzVzcyVkJDaFFNZGlsTVVpdTlNNzQ1V2Q5MnZ3Qm5MalZHU0o1aTNYNnFpZU5GVjhUbVRDUHJHa0xXWUt6Yy1OcmRLcUppSUE5eE1BMUx0VEJSdktEVkVsY3BBNVJXcWZTTGI5ck9Kd2lRNDMzRWJYUm1uM2d3VGFVS0xhY2dBTGhTZ0dQbXpaV0E0aVRKeGhVSmE1VTFDQmhaSnNMSlRwSU80NFVYVFZPZU5wYk5faDI4cDQ2TWk4bUtfdEFRX3VIb1JXX0taZXp6ckdCc1U4b2ZJRHlHbi1JR2RxLW1tZF8wNWFZalhOWXFYYmNvMUxXelk5eVJUZk8?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxNUHVNRkNXbXI1R2xFYlpndndGczRhZWhzZm5TRGxjUTdYcWtZcFpnaHptd0F0bDZ3OXJSWExrZTRZV2IzN04zVDREUEJOeU4yaGNoeVdSdFo0dDYwbzVvUklORU1RX0gzNExwRnUxeUNzVzcyVkJDaFFNZGlsTVVpdTlNNzQ1V2Q5MnZ3Qm5MalZHU0o1aTNYNnFpZU5GVjhUbVRDUHJHa0xXWUt6Yy1OcmRLcUppSUE5eE1BMUx0VEJSdktEVkVsY3BBNVJXcWZTTGI5ck9Kd2lRNDMzRWJYUm1uM2d3VGFVS0xhY2dBTGhTZ0dQbXpaV0E0aVRKeGhVSmE1VTFDQmhaSnNMSlRwSU80NFVYVFZPZU5wYk5faDI4cDQ2TWk4bUtfdEFRX3VIb1JXX0taZXp6ckdCc1U4b2ZJRHlHbi1JR2RxLW1tZF8wNWFZalhOWXFYYmNvMUxXelk5eVJUZk8?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "水情拉警報！苗栗3水庫蓄水量腰斬 永和山再現「希臘神殿」景象",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1UdDR1eUN3VnIwbnVUWkdhSzk1dUlWbHEzNDY4S0ZpdUZrTGZweUk1a09XZURieTRfWnl1bHZQQ0NFRGlsNjQzVEF1aG1pbHJJTy1KZjhqTnNuekhLOUJGbTAyZXfSAWpBVV95cUxNaFZzTTU5STFxNGRZSF9JeW5rYm5ieGd0aXhDUUxNUmVIX1FKMnFVbGJhS0lXNWh6d2VhQ3hnaEtKUDczdkhhQUgxVFJzX1hGak9XZVZNNG9Yd296TzUzbG1yYmxpd2tsXzVn?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1UdDR1eUN3VnIwbnVUWkdhSzk1dUlWbHEzNDY4S0ZpdUZrTGZweUk1a09XZURieTRfWnl1bHZQQ0NFRGlsNjQzVEF1aG1pbHJJTy1KZjhqTnNuekhLOUJGbTAyZXfSAWpBVV95cUxNaFZzTTU5STFxNGRZSF9JeW5rYm5ieGd0aXhDUUxNUmVIX1FKMnFVbGJhS0lXNWh6d2VhQ3hnaEtKUDczdkhhQUgxVFJzX1hGak9XZVZNNG9Yd296TzUzbG1yYmxpd2tsXzVn?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -234,17 +234,9 @@
           "package": ""
         },
         {
-          "text": "杜拜機場傳無人機事故！暫停航班起降 燃料槽起火驚魂",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5qUmoySzFYVFhyalF1OGl6clVaN05FRWNybHotQUdOZ3luc1AtVWE3cVZmM1kyNUh2U2ZPbHJiQ1FjVUlPYlhJbWFtQmM2TDZqVHBnZlR6ZHhDZUFMYTdWcmRpWkdlQdIBa0FVX3lxTFBqS1J3aXQxMDV0UGJMQ1JwVnZjRmVQWlRiOWFBaTdaRTdoay1aYmJ6THV0WGh2Yk52ZFlZT2RYWjRsdFZTY3UzZ1pXN1dfUy1lTjJjbU1nMk1pN3B0VmU1dGY3ZUdBakFPWk9Z?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5qUmoySzFYVFhyalF1OGl6clVaN05FRWNybHotQUdOZ3luc1AtVWE3cVZmM1kyNUh2U2ZPbHJiQ1FjVUlPYlhJbWFtQmM2TDZqVHBnZlR6ZHhDZUFMYTdWcmRpWkdlQdIBa0FVX3lxTFBqS1J3aXQxMDV0UGJMQ1JwVnZjRmVQWlRiOWFBaTdaRTdoay1aYmJ6THV0WGh2Yk52ZFlZT2RYWjRsdFZTY3UzZ1pXN1dfUy1lTjJjbU1nMk1pN3B0VmU1dGY3ZUdBakFPWk9Z?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "貝森特何立峰會談6小時 涉及哪些議題",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rbE9TUVZMNjF5NGlxdWJ1b2lpbjE0dmgzTl9BY2ZNUV9ralhzRnBydHpXVUZQb3hlMTYwT29MNmV4dGNTdUZPQ1hSa3RKaTV3Vk1kakZ2aDliX1Qtd0ZqZtIBZkFVX3lxTE9xWW9ackItYXc1WndaRTRUdVJqUUppQ3IwZF8ybC03UFRWUFlSc3dRSmY0aFB3UXZSUi1fUDU3QWxBdDJCbXc0bFlFVkxoTlVoT3dVRDFGZW44UGxLU2taYzlWS04tQQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rbE9TUVZMNjF5NGlxdWJ1b2lpbjE0dmgzTl9BY2ZNUV9ralhzRnBydHpXVUZQb3hlMTYwT29MNmV4dGNTdUZPQ1hSa3RKaTV3Vk1kakZ2aDliX1Qtd0ZqZtIBZkFVX3lxTE9xWW9ackItYXc1WndaRTRUdVJqUUppQ3IwZF8ybC03UFRWUFlSc3dRSmY0aFB3UXZSUi1fUDU3QWxBdDJCbXc0bFlFVkxoTlVoT3dVRDFGZW44UGxLU2taYzlWS04tQQ?oc=5",
+          "text": "無人機襲擊杜拜機場「燃料槽起火」 航班暫停起降",
+          "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNZGw4eXFNUHY2RXZ3N0IwcFdCdlVVb3AycGQtc3RrQW1wMXY4NUQ5eldDN0pQQkhJT2pscGc5cUFXOWhTR1dlYW5PT0x2RUI0Z1dtMjNmSnRDZmxWTi1kbjQ3aU91ZmY1QVNDTi1wcDJkRkQ5ZkVXSUNWak1LcmVRU25NWFFWdGhyLUduVlB5OUlJelEyNU5US0xRbmV1cHVqVUdIOS1YUVJ6QWZqRl92RDZWbW05R2U1MmN0UHI4TjdxaFJUWE1xX3J1MVRkUUt5aWowdWxaRXlqTk5rQ1JtTE8wQmpRc2NhQmRCSkhTbkZvSll0d2dva2FRd1FXc3Bqc1dWQTRBVlR1N0o0Y2Mzel9ieW5ydVN0OWdVQldtUkdqMkR0aHBXTldhSm8xMTlINkNwcW5KSVhsYklOejRrX2M2X3VJUQ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNZGw4eXFNUHY2RXZ3N0IwcFdCdlVVb3AycGQtc3RrQW1wMXY4NUQ5eldDN0pQQkhJT2pscGc5cUFXOWhTR1dlYW5PT0x2RUI0Z1dtMjNmSnRDZmxWTi1kbjQ3aU91ZmY1QVNDTi1wcDJkRkQ5ZkVXSUNWak1LcmVRU25NWFFWdGhyLUduVlB5OUlJelEyNU5US0xRbmV1cHVqVUdIOS1YUVJ6QWZqRl92RDZWbW05R2U1MmN0UHI4TjdxaFJUWE1xX3J1MVRkUUt5aWowdWxaRXlqTk5rQ1JtTE8wQmpRc2NhQmRCSkhTbkZvSll0d2dva2FRd1FXc3Bqc1dWQTRBVlR1N0o0Y2Mzel9ieW5ydVN0OWdVQldtUkdqMkR0aHBXTldhSm8xMTlINkNwcW5KSVhsYklOejRrX2M2X3VJUQ?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -258,9 +250,17 @@
           "package": ""
         },
         {
-          "text": "〈美股早盤〉科技股領漲、油價回落提振市場情緒 主要指數開高",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1lUnpIZkw5SV93Nk9rT3JESWlVV2xsQTUzNEttZ3dMSS1lalBkdmZfUkZlNEozaUhRSTBzbUVSTW9Yd2duaE5uWktJd0luRHc?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1lUnpIZkw5SV93Nk9rT3JESWlVV2xsQTUzNEttZ3dMSS1lalBkdmZfUkZlNEozaUhRSTBzbUVSTW9Yd2duaE5uWktJd0luRHc?oc=5",
+          "text": "貝森特何立峰會談6小時 涉及哪些議題",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rbE9TUVZMNjF5NGlxdWJ1b2lpbjE0dmgzTl9BY2ZNUV9ralhzRnBydHpXVUZQb3hlMTYwT29MNmV4dGNTdUZPQ1hSa3RKaTV3Vk1kakZ2aDliX1Qtd0ZqZtIBZkFVX3lxTE9xWW9ackItYXc1WndaRTRUdVJqUUppQ3IwZF8ybC03UFRWUFlSc3dRSmY0aFB3UXZSUi1fUDU3QWxBdDJCbXc0bFlFVkxoTlVoT3dVRDFGZW44UGxLU2taYzlWS04tQQ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rbE9TUVZMNjF5NGlxdWJ1b2lpbjE0dmgzTl9BY2ZNUV9ralhzRnBydHpXVUZQb3hlMTYwT29MNmV4dGNTdUZPQ1hSa3RKaTV3Vk1kakZ2aDliX1Qtd0ZqZtIBZkFVX3lxTE9xWW9ackItYXc1WndaRTRUdVJqUUppQ3IwZF8ybC03UFRWUFlSc3dRSmY0aFB3UXZSUi1fUDU3QWxBdDJCbXc0bFlFVkxoTlVoT3dVRDFGZW44UGxLU2taYzlWS04tQQ?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "輝達GTC大會登場 黃仁勳將發表新一代晶片與軟體",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LZzFPWWIxTFQ2NzlMYklkcWJVWTNvTm5jZW1nWkdFNW90REZRdXlxSFp1cjZLNkxGOVVZNkx1X2puX3dvSE9qQ3VRVGNUVUpTQ19PQ3RtSXA0VjFMSUlj0gFkQVVfeXFMTlRWTmJ1TEJOMzlBM0VKZTVTWGpmU3hiN1ZCM2JteWdEVVhhRENVR244U01SVERJYXlBNmE4VG1OcGtMNHQxLTV0bnVDRUM3cG9Eb0dLWXdnWFdXb09GanNPTGZ2Uw?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LZzFPWWIxTFQ2NzlMYklkcWJVWTNvTm5jZW1nWkdFNW90REZRdXlxSFp1cjZLNkxGOVVZNkx1X2puX3dvSE9qQ3VRVGNUVUpTQ19PQ3RtSXA0VjFMSUlj0gFkQVVfeXFMTlRWTmJ1TEJOMzlBM0VKZTVTWGpmU3hiN1ZCM2JteWdEVVhhRENVR244U01SVERJYXlBNmE4VG1OcGtMNHQxLTV0bnVDRUM3cG9Eb0dLWXdnWFdXb09GanNPTGZ2Uw?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -273,6 +273,6 @@
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 26,
+  "cost": 38,
   "status": 0
 }
