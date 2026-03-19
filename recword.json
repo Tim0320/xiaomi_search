@@ -146,14 +146,6 @@
       "link_type": "app",
       "data": [
         {
-          "text": "南北兩樣情！週四北部降5度濕答答 南部大多晴朗",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE91X0xYY3VoX24wanlXU3lrZlc5ZVNSWEpVa183ekQ1S09JQm5BaTlGdmRDcjE5bFVQd0sxel9haUpHci10T1FobWlVR1pDM3NzMGNGSWc2Zk4taDFJUWZBV0EzYlDSAWpBVV95cUxQN1Y5OVBNWXlweUEzczgwamRIWVJ6UlZpMUlER1FZS1pyOGVqazhJWENoaTZyLXRDSmp2NVFaV2NPc2phTHBTWE9hRzAxZDlIR2ZMMWpVNUpqRVlYUzVqQjVpUG0tS3NuM0tB?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE91X0xYY3VoX24wanlXU3lrZlc5ZVNSWEpVa183ekQ1S09JQm5BaTlGdmRDcjE5bFVQd0sxel9haUpHci10T1FobWlVR1pDM3NzMGNGSWc2Zk4taDFJUWZBV0EzYlDSAWpBVV95cUxQN1Y5OVBNWXlweUEzczgwamRIWVJ6UlZpMUlER1FZS1pyOGVqazhJWENoaTZyLXRDSmp2NVFaV2NPc2phTHBTWE9hRzAxZDlIR2ZMMWpVNUpqRVlYUzVqQjVpUG0tS3NuM0tB?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
           "text": "川普撂人護荷姆茲，台灣該幫護航？作家「肯定」獻策名嘴：賴清德可率艦親征 | 李瑋萱",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4ZUJVMTBtSjh2all2b3hoblRGZS1TdllhSC1zdjZ3Ml9TcERVR2hwY1FWcGxBRFA4NmIzOUJaZlc0UVVYeEFrajBueEh3QQ?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4ZUJVMTBtSjh2all2b3hoblRGZS1TdllhSC1zdjZ3Ml9TcERVR2hwY1FWcGxBRFA4NmIzOUJaZlc0UVVYeEFrajBueEh3QQ?oc=5",
@@ -194,6 +186,14 @@
           "package": ""
         },
         {
+          "text": "南北兩樣情！週四北部降5度濕答答 南部大多晴朗",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE91X0xYY3VoX24wanlXU3lrZlc5ZVNSWEpVa183ekQ1S09JQm5BaTlGdmRDcjE5bFVQd0sxel9haUpHci10T1FobWlVR1pDM3NzMGNGSWc2Zk4taDFJUWZBV0EzYlDSAWpBVV95cUxQN1Y5OVBNWXlweUEzczgwamRIWVJ6UlZpMUlER1FZS1pyOGVqazhJWENoaTZyLXRDSmp2NVFaV2NPc2phTHBTWE9hRzAxZDlIR2ZMMWpVNUpqRVlYUzVqQjVpUG0tS3NuM0tB?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE91X0xYY3VoX24wanlXU3lrZlc5ZVNSWEpVa183ekQ1S09JQm5BaTlGdmRDcjE5bFVQd0sxel9haUpHci10T1FobWlVR1pDM3NzMGNGSWc2Zk4taDFJUWZBV0EzYlDSAWpBVV95cUxQN1Y5OVBNWXlweUEzczgwamRIWVJ6UlZpMUlER1FZS1pyOGVqazhJWENoaTZyLXRDSmp2NVFaV2NPc2phTHBTWE9hRzAxZDlIR2ZMMWpVNUpqRVlYUzVqQjVpUG0tS3NuM0tB?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
           "text": "【重磅快評】卓榮泰打迷糊仗 綠官挑戰愛因斯坦的極限",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1zOVNqS3dfREtZdG9MTkFRcC15ZWUxak54YWJiWVR6NHhvaW5iVGh3ZDBtTjY5Y1NtUDRfMk53bEs0dlFTaXRiZWpucG1kZnBZ0gFWQVVfeXFMTmhHMTRyQkxDR2dsSmhGQ1ZmdThmb05tazZLRkRLUmtXVENLWE1fa0tadF8yWTJIb1FMMFlrSE9zeFI4WmtaTmozNnhsM2xLWmhkenh5YVE?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1zOVNqS3dfREtZdG9MTkFRcC15ZWUxak54YWJiWVR6NHhvaW5iVGh3ZDBtTjY5Y1NtUDRfMk53bEs0dlFTaXRiZWpucG1kZnBZ0gFWQVVfeXFMTmhHMTRyQkxDR2dsSmhGQ1ZmdThmb05tazZLRkRLUmtXVENLWE1fa0tadF8yWTJIb1FMMFlrSE9zeFI4WmtaTmozNnhsM2xLWmhkenh5YVE?oc=5",
@@ -202,17 +202,17 @@
           "package": ""
         },
         {
-          "text": "獨家》涉貪2700多萬 前中油執行長徐漢一審判決前棄保潛逃",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9wcmJhSUl3bUl4Vy0wVm5pVUI5MHBMcy12TVFCZnh2d09jQmhxX1JBcEFRY0lRRjZMN1dLM1Z1dkVNS2szX0ExX1U1aERfcjBvbGlEMXZKS2hiWm5ZTGpCdnlOVEViY20y0gFuQVVfeXFMUFp2MEkycWVYLWFSXzNUZm9SdnNUeGZXUmNGUy10QnI5WlhETkRmWGtZREFLU2R1WE13R3dFM2U2a1BwV3dYS01XamczUzE5R081VGhPMU9PekY1RzNqWWc0anlqLVFZOHhUQ3F0RXc?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9wcmJhSUl3bUl4Vy0wVm5pVUI5MHBMcy12TVFCZnh2d09jQmhxX1JBcEFRY0lRRjZMN1dLM1Z1dkVNS2szX0ExX1U1aERfcjBvbGlEMXZKS2hiWm5ZTGpCdnlOVEViY20y0gFuQVVfeXFMUFp2MEkycWVYLWFSXzNUZm9SdnNUeGZXUmNGUy10QnI5WlhETkRmWGtZREFLU2R1WE13R3dFM2U2a1BwV3dYS01XamczUzE5R081VGhPMU9PekY1RzNqWWc0anlqLVFZOHhUQ3F0RXc?oc=5",
+          "text": "繁星放榜「台大1科系掛零、7系沒補滿」 網揭隱憂：恐被取代",
+          "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxPdzgtcnRmOWF1elAtb08tQTVlTGpuOHU3WHpoSXd1ZklYRWNXck9GdTMyb0JQSlQyYzA3aG15dG1ZUDVhMHZPU0xIY08yYWRrTzBBZUxJS3JGbC1MaERrODFxMWplaEkyWVJRci1qQ21nNWN4RF9NWmt3cDlrR3kwV3ZNVmNOUktaclRqNGczM1NRNEN2bkF3WnZLeTJkVHA0MkljUk9pcHZkeUctN0VtaThncklEQjRGLVFXbzBiLUM1a2NmZ0JOMGhKTE83Z2FxV0twaHotajNrYUlKZ3k5RUVaa3MyY0E4a0JuWmkwbXFsT0Q3RGttWWlxdzlrbGhUQzhmQ1gzbm1aU2lEOVVLY2RmdzJIcVFCYWhkdjBNRFNUYjRWWWJBUmxpY0hsLTViMnM3QlZ6N1llUzBoc242cWd3bXZDRFRBUXAxSWJYaTE1Z2VVcjUxTE9NT1lFamdMbjBV?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxPdzgtcnRmOWF1elAtb08tQTVlTGpuOHU3WHpoSXd1ZklYRWNXck9GdTMyb0JQSlQyYzA3aG15dG1ZUDVhMHZPU0xIY08yYWRrTzBBZUxJS3JGbC1MaERrODFxMWplaEkyWVJRci1qQ21nNWN4RF9NWmt3cDlrR3kwV3ZNVmNOUktaclRqNGczM1NRNEN2bkF3WnZLeTJkVHA0MkljUk9pcHZkeUctN0VtaThncklEQjRGLVFXbzBiLUM1a2NmZ0JOMGhKTE83Z2FxV0twaHotajNrYUlKZ3k5RUVaa3MyY0E4a0JuWmkwbXFsT0Q3RGttWWlxdzlrbGhUQzhmQ1gzbm1aU2lEOVVLY2RmdzJIcVFCYWhkdjBNRFNUYjRWWWJBUmxpY0hsLTViMnM3QlZ6N1llUzBoc242cWd3bXZDRFRBUXAxSWJYaTE1Z2VVcjUxTE9NT1lFamdMbjBV?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "繁星放榜「台大1科系掛零、7系沒補滿」 網揭隱憂：恐被取代",
-          "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxPdzgtcnRmOWF1elAtb08tQTVlTGpuOHU3WHpoSXd1ZklYRWNXck9GdTMyb0JQSlQyYzA3aG15dG1ZUDVhMHZPU0xIY08yYWRrTzBBZUxJS3JGbC1MaERrODFxMWplaEkyWVJRci1qQ21nNWN4RF9NWmt3cDlrR3kwV3ZNVmNOUktaclRqNGczM1NRNEN2bkF3WnZLeTJkVHA0MkljUk9pcHZkeUctN0VtaThncklEQjRGLVFXbzBiLUM1a2NmZ0JOMGhKTE83Z2FxV0twaHotajNrYUlKZ3k5RUVaa3MyY0E4a0JuWmkwbXFsT0Q3RGttWWlxdzlrbGhUQzhmQ1gzbm1aU2lEOVVLY2RmdzJIcVFCYWhkdjBNRFNUYjRWWWJBUmxpY0hsLTViMnM3QlZ6N1llUzBoc242cWd3bXZDRFRBUXAxSWJYaTE1Z2VVcjUxTE9NT1lFamdMbjBV?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxPdzgtcnRmOWF1elAtb08tQTVlTGpuOHU3WHpoSXd1ZklYRWNXck9GdTMyb0JQSlQyYzA3aG15dG1ZUDVhMHZPU0xIY08yYWRrTzBBZUxJS3JGbC1MaERrODFxMWplaEkyWVJRci1qQ21nNWN4RF9NWmt3cDlrR3kwV3ZNVmNOUktaclRqNGczM1NRNEN2bkF3WnZLeTJkVHA0MkljUk9pcHZkeUctN0VtaThncklEQjRGLVFXbzBiLUM1a2NmZ0JOMGhKTE83Z2FxV0twaHotajNrYUlKZ3k5RUVaa3MyY0E4a0JuWmkwbXFsT0Q3RGttWWlxdzlrbGhUQzhmQ1gzbm1aU2lEOVVLY2RmdzJIcVFCYWhkdjBNRFNUYjRWWWJBUmxpY0hsLTViMnM3QlZ6N1llUzBoc242cWd3bXZDRFRBUXAxSWJYaTE1Z2VVcjUxTE9NT1lFamdMbjBV?oc=5",
+          "text": "陳水扁憶319槍擊案！公開「槍傷照」揭心聲",
+          "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQbmNhRlZrcHVFOUVhSF8xSHdCRGM2UzJscnplUFI0TFlMUzI4LVNnYU9qU3NKenRsX216QjBYNlVIanBTTHRQcV9NQlpLZFl4RE1xZXlrZ2hKNTFXWTJpVVlwcDVNQ0M4NTNoZ1hfNjdsaEhVRlZNT1hZLXFhSmtuNG95YWpwOW12cDh2YlZTUWtDU1Z0c2pZSEtFeGNqb2haZGNHZVBvdXNMNm1lMC1ENmxaakZ0eC1nXzJ5QjU3d1E2NWROSzl3S2xpZ19Wc2lqQW15bVFGR2Fqd3ZvbDRCY2VWVDh1NVJEdnFyNlB6NHdhYTA4Y2luSThrbm5VOTgwVzRuWk9vZnJMY0RCMG9N?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQbmNhRlZrcHVFOUVhSF8xSHdCRGM2UzJscnplUFI0TFlMUzI4LVNnYU9qU3NKenRsX216QjBYNlVIanBTTHRQcV9NQlpLZFl4RE1xZXlrZ2hKNTFXWTJpVVlwcDVNQ0M4NTNoZ1hfNjdsaEhVRlZNT1hZLXFhSmtuNG95YWpwOW12cDh2YlZTUWtDU1Z0c2pZSEtFeGNqb2haZGNHZVBvdXNMNm1lMC1ENmxaakZ0eC1nXzJ5QjU3d1E2NWROSzl3S2xpZ19Wc2lqQW15bVFGR2Fqd3ZvbDRCY2VWVDh1NVJEdnFyNlB6NHdhYTA4Y2luSThrbm5VOTgwVzRuWk9vZnJMY0RCMG9N?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -234,14 +234,6 @@
           "package": ""
         },
         {
-          "text": "影子戰爭轉為公開衝突美以擊殺伊朗軍政高層一覽",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5EVWJWeVdZU1JfQ0FEam1rWl9oOTM1OS10TjFibko3TzNsU2F1WW9NTTJhaWR5MDU4QjcyZkhFS0tMT1RMTXhqbU5GQmxrY2hDakp3bEYtaEtUbWRFcG5B?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5EVWJWeVdZU1JfQ0FEam1rWl9oOTM1OS10TjFibko3TzNsU2F1WW9NTTJhaWR5MDU4QjcyZkhFS0tMT1RMTXhqbU5GQmxrY2hDakp3bEYtaEtUbWRFcG5B?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
           "text": "川普對伊朗開戰又要2000億美元？傳國防部向國會要錢 恐難過關",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5HQVJBSGhaQS1qQm84UDlZOUVLZHhnRUstZTZJbThJZk16QU9GX29NVUZhY2w2ejNiaWVtOUxoYkxzTk9mZER4cEV4S0txVnlEd3U40gFYQVVfeXFMTXhtdlpBaGZGMk9rSlBUdnQ3ejZJWTV0UzZtVFpxM001Zk5ZQ25sSExtT2t1UW9QbUtfMzQwRFZ1SWx4VTB3ZHBrOXpGSzBIc1AzeVctc05ycw?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5HQVJBSGhaQS1qQm84UDlZOUVLZHhnRUstZTZJbThJZk16QU9GX29NVUZhY2w2ejNiaWVtOUxoYkxzTk9mZER4cEV4S0txVnlEd3U40gFYQVVfeXFMTXhtdlpBaGZGMk9rSlBUdnQ3ejZJWTV0UzZtVFpxM001Zk5ZQ25sSExtT2t1UW9QbUtfMzQwRFZ1SWx4VTB3ZHBrOXpGSzBIc1AzeVctc05ycw?oc=5",
@@ -250,17 +242,25 @@
           "package": ""
         },
         {
-          "text": "運輸全球20%石油與天然氣路透指伊朗擬對荷莫茲海峽收過境費| 美以轟炸伊朗",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkTDN4YzFVX3hpcFJ4cWsyS0NnY1BxTmxIVklxRXZvMDgxN0x5TEIzOW0wUEtxWXJyRGFPcE54SVdVcjlkal9OSG04VzU0SWJYN0Nj?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkTDN4YzFVX3hpcFJ4cWsyS0NnY1BxTmxIVklxRXZvMDgxN0x5TEIzOW0wUEtxWXJyRGFPcE54SVdVcjlkal9OSG04VzU0SWJYN0Nj?oc=5",
+          "text": "影子戰爭轉為公開衝突美以擊殺伊朗軍政高層一覽",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5EVWJWeVdZU1JfQ0FEam1rWl9oOTM1OS10TjFibko3TzNsU2F1WW9NTTJhaWR5MDU4QjcyZkhFS0tMT1RMTXhqbU5GQmxrY2hDakp3bEYtaEtUbWRFcG5B?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5EVWJWeVdZU1JfQ0FEam1rWl9oOTM1OS10TjFibko3TzNsU2F1WW9NTTJhaWR5MDU4QjcyZkhFS0tMT1RMTXhqbU5GQmxrY2hDakp3bEYtaEtUbWRFcG5B?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "「兆元宴」美國登場！輝達GTC黃仁勳宴請台廠供應鏈 鴻海劉揚偉等人現身",
-          "url": "https://news.google.com/rss/articles/CBMiswNBVV95cUxOWGEtaUhSWU1MVTI3WDVZWXdhYjlnTmhFTkZjQWd6dEJiY2k2SzB4d3JuMDM3RDVFZjM1NGFkVWR0cFZiMWZNTjJjVjBiWG1QTllfUUFlQld4RWhvTzlsSUtjT3RGZlhoQVNZLXE3MFc5U3FNZkpIZlI2emxJRm4wbHV5LTJPelpJYWRGS2tFQWNrVUhoSWRfWTRzVnRZUHdnSjlCc1NoMGJCZ3RWWXJwLTdDRlRRVU05Zkp5VHFyaTJwU2o3QUxNN2tuM1k5b1hsY1pqT09CN0Iwdm9CbXpWVThHRlVBUUZRajJFTmJiREFrUGRXWE5odHlzSmY5ZDVnbXVvZmpWbDg5aEFteUJ4ak9JdHNoS0hqWFJINE03MjhmNS1McjFqLW51NkhfU0lrOXFOMG9JZnZWY2hvQWNjM0tjOTFzN3dNREo0bzB5WmpHZU1vUWFEOG5ETUw5YURQNDBzWEhlRmEyVnlNWWdZTlh1dld5ZzVmTUd3eHpsUmZOTk03RzBSQWExTXQ3UVh5OEtrWHZCdnVmUWNiY1VTVWNkc1pBSURnak40UlU1SDYzcTA?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiswNBVV95cUxOWGEtaUhSWU1MVTI3WDVZWXdhYjlnTmhFTkZjQWd6dEJiY2k2SzB4d3JuMDM3RDVFZjM1NGFkVWR0cFZiMWZNTjJjVjBiWG1QTllfUUFlQld4RWhvTzlsSUtjT3RGZlhoQVNZLXE3MFc5U3FNZkpIZlI2emxJRm4wbHV5LTJPelpJYWRGS2tFQWNrVUhoSWRfWTRzVnRZUHdnSjlCc1NoMGJCZ3RWWXJwLTdDRlRRVU05Zkp5VHFyaTJwU2o3QUxNN2tuM1k5b1hsY1pqT09CN0Iwdm9CbXpWVThHRlVBUUZRajJFTmJiREFrUGRXWE5odHlzSmY5ZDVnbXVvZmpWbDg5aEFteUJ4ak9JdHNoS0hqWFJINE03MjhmNS1McjFqLW51NkhfU0lrOXFOMG9JZnZWY2hvQWNjM0tjOTFzN3dNREo0bzB5WmpHZU1vUWFEOG5ETUw5YURQNDBzWEhlRmEyVnlNWWdZTlh1dld5ZzVmTUd3eHpsUmZOTk03RzBSQWExTXQ3UVh5OEtrWHZCdnVmUWNiY1VTVWNkc1pBSURnak40UlU1SDYzcTA?oc=5",
+          "text": "「蝦」外交？中國狂買「這國」蝦子、進口爆增72％",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9PZ2dMR3h4RjN3WWpkM2JOSkYwNmNCNGJXeXkybzZtakYxRWtMQ3RIQmNuX0trRk9PZzg5VmFBTjhPdWt1YjRpazk3Mm8wQURXaWEzVkJsWnN6VTVzV09Z0gFkQVVfeXFMTnB3V1RyeEpvSlFvSUxhZm5JbXQ4djVYU2xydGhMWDZMLWRWbTl4MmlCWjdXZloyenF4dmNZakF3SWl2STRPS0ZoeThZTUdMQWN4c2RVZnBxUFQzb3c0SU9CR0twVA?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9PZ2dMR3h4RjN3WWpkM2JOSkYwNmNCNGJXeXkybzZtakYxRWtMQ3RIQmNuX0trRk9PZzg5VmFBTjhPdWt1YjRpazk3Mm8wQURXaWEzVkJsWnN6VTVzV09Z0gFkQVVfeXFMTnB3V1RyeEpvSlFvSUxhZm5JbXQ4djVYU2xydGhMWDZMLWRWbTl4MmlCWjdXZloyenF4dmNZakF3SWl2STRPS0ZoeThZTUdMQWN4c2RVZnBxUFQzb3c0SU9CR0twVA?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "輝達引爆算力革命！瑞銀按讚「記憶體四天王」、唯一台廠入列",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EZUZhdkNuUjBxTExYaU1CdW9sYzR3VmRZS0t0MHQxdUMyS1JDbUlXVE9PMmNtMkxvcWZEZW9IQkl2THZZNlBYNWU2UURVV2JPajM5UTk5c2RnQdIBX0FVX3lxTE5ndmR6Uzk2ZHE0N0k3OVRqaXl1Z2l3Qjc2MkV1b05ELS1jUDFua3Y2VGotUTBhOXhiQVdmUC10SUNRZ2drVWNlM2JTY0VmRS0tb0x4NGJOeFhxVGN5cDRF?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EZUZhdkNuUjBxTExYaU1CdW9sYzR3VmRZS0t0MHQxdUMyS1JDbUlXVE9PMmNtMkxvcWZEZW9IQkl2THZZNlBYNWU2UURVV2JPajM5UTk5c2RnQdIBX0FVX3lxTE5ndmR6Uzk2ZHE0N0k3OVRqaXl1Z2l3Qjc2MkV1b05ELS1jUDFua3Y2VGotUTBhOXhiQVdmUC10SUNRZ2drVWNlM2JTY0VmRS0tb0x4NGJOeFhxVGN5cDRF?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -273,6 +273,6 @@
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 39,
+  "cost": 29,
   "status": 0
 }
