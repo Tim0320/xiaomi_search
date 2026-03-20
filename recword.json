@@ -146,17 +146,9 @@
       "link_type": "app",
       "data": [
         {
-          "text": "快訊／極淺層地震！花東地區地牛翻身 規模4.6",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1oS0M5Y2o4OGJsSGpseHFTMkF6ZWJYXzZoWXRJaUtHNlREX2h6NlpVSEpZNzFDWEROV1V4XzJrSm1RckpKOGdmY0FRZGt3TjBYbEh6Vw?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1oS0M5Y2o4OGJsSGpseHFTMkF6ZWJYXzZoWXRJaUtHNlREX2h6NlpVSEpZNzFDWEROV1V4XzJrSm1RckpKOGdmY0FRZGt3TjBYbEh6Vw?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "王浩一女兒生前接種AZ疫苗後罹漸凍症 疾管署曝研判結果",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA5ejE2dnVua1Q0VWQ2amtMRjU2X1Z0OXhkT3FlM2tnTHhUdEJyT3Z3NXVNdjh1OEZrNDc1a1lIdHF2eDB3b21JOFpna3dXZ2RsVFhZZGticHNUMGRnVTlpaEhwQmHSAWpBVV95cUxPLTZXLVdMbzIydklWZGxobFRHTWNuNUJTTHRubnItVy1MRlROajRLdkFRRGJ4cV83WUM4MWlwUWhqZHFGZXhwZEw3dkdMQjA1VXF2NlNtZExZa1R3OTh2VGVkbVZGZTBDbHJR?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA5ejE2dnVua1Q0VWQ2amtMRjU2X1Z0OXhkT3FlM2tnTHhUdEJyT3Z3NXVNdjh1OEZrNDc1a1lIdHF2eDB3b21JOFpna3dXZ2RsVFhZZGticHNUMGRnVTlpaEhwQmHSAWpBVV95cUxPLTZXLVdMbzIydklWZGxobFRHTWNuNUJTTHRubnItVy1MRlROajRLdkFRRGJ4cV83WUM4MWlwUWhqZHFGZXhwZEw3dkdMQjA1VXF2NlNtZExZa1R3OTh2VGVkbVZGZTBDbHJR?oc=5",
+          "text": "為何打伊朗不告訴盟友？日媒記者被川普「珍珠港」殺球！身分和立場遭起底",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2eGdPNmR4VkZqS1l0RklfT0dQSmhyeXZManpjbWV3OXBlSHhxZ0s0dmN2TTJMLV9WTVpJQ1hCeDNhaU9zaXlsd2hjQzNtOTFQcWhKMTdFemJrR3M?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2eGdPNmR4VkZqS1l0RklfT0dQSmhyeXZManpjbWV3OXBlSHhxZ0s0dmN2TTJMLV9WTVpJQ1hCeDNhaU9zaXlsd2hjQzNtOTFQcWhKMTdFemJrR3M?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -165,14 +157,6 @@
           "text": "嗆完「有本事宣布一邊一國」綠委秒照做 陳昭姿又爆氣：你們不配",
           "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNU3RtODUwYndVckVaUThkWXhwUkxlcThMNnNSS1hEUzFDeGFUVWVEdy1vQ1BTRm9MX2RjenRmVFpUOTdTN2cwbWRsT05kMkhjT1dIbEVHWF9RV0taanVteFQ5YW5YanQ0QmQzTjd4U05PaXFNcVk4NWQ3MDZOblBkbzYwM0luUHNLc01WZHJocXpNWjExUDZDTFRFbmJYZkRwU3JxRmpUU2o4WjZiTWluZjBsWVlXWFh4OXd3bkFaMXlidllTZXpyQld4VldJck9OOWhMemJjU2JvX0lyM3pqZEI1bUtfTmdMRERKOHR3RFlUMDlMbGkxNXlCRzV0bDYx?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNU3RtODUwYndVckVaUThkWXhwUkxlcThMNnNSS1hEUzFDeGFUVWVEdy1vQ1BTRm9MX2RjenRmVFpUOTdTN2cwbWRsT05kMkhjT1dIbEVHWF9RV0taanVteFQ5YW5YanQ0QmQzTjd4U05PaXFNcVk4NWQ3MDZOblBkbzYwM0luUHNLc01WZHJocXpNWjExUDZDTFRFbmJYZkRwU3JxRmpUU2o4WjZiTWluZjBsWVlXWFh4OXd3bkFaMXlidllTZXpyQld4VldJck9OOWhMemJjU2JvX0lyM3pqZEI1bUtfTmdMRERKOHR3RFlUMDlMbGkxNXlCRzV0bDYx?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "為何打伊朗不告訴盟友？日媒記者被川普「珍珠港」殺球！身分和立場遭起底",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2eGdPNmR4VkZqS1l0RklfT0dQSmhyeXZManpjbWV3OXBlSHhxZ0s0dmN2TTJMLV9WTVpJQ1hCeDNhaU9zaXlsd2hjQzNtOTFQcWhKMTdFemJrR3M?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2eGdPNmR4VkZqS1l0RklfT0dQSmhyeXZManpjbWV3OXBlSHhxZ0s0dmN2TTJMLV9WTVpJQ1hCeDNhaU9zaXlsd2hjQzNtOTFQcWhKMTdFemJrR3M?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -194,6 +178,22 @@
           "package": ""
         },
         {
+          "text": "以色列太殘忍 賴岳謙嘆：耗光二戰後對猶太人的同情心",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBYMFNOWFJDSmlNR0NMVDVVME84U1dTVjJ0UDRqUzlGczNmUFpWdjI3WUM3TnRmeTVCSTN4TnBrUjZHSm5sRWRkM3N6ZWJHcUJTM012MzQ0RWVQZUlVSjNvMmU5QmFMVml1MHlxaVR3?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBYMFNOWFJDSmlNR0NMVDVVME84U1dTVjJ0UDRqUzlGczNmUFpWdjI3WUM3TnRmeTVCSTN4TnBrUjZHSm5sRWRkM3N6ZWJHcUJTM012MzQ0RWVQZUlVSjNvMmU5QmFMVml1MHlxaVR3?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "龍抬頭8大禁忌觸犯恐破財！土地公頭牙2招補財庫　4生肖注意健康",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1yNlk3NTlqcGswbmd6QXhFaUNNYzFOYWNFMnpqZXNPTjlOUC00YUZoMmZhU3ZySG1KU1RhNGlQMURWLWRQQWc2N1ZFbElOUV81WlNtZk9idHjSAV9BVV95cUxPbDVUdm5RcVl0STdrQmU4LWRFaUIzRUk1WXNTMVNuRHI4N1Q5UTM1WW1pQVFNa3RGcXdCUi1uUEh3eUNpYXAtXzFtbGZ2VGhqeW0weExTZkQ4V0pScnJYVQ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1yNlk3NTlqcGswbmd6QXhFaUNNYzFOYWNFMnpqZXNPTjlOUC00YUZoMmZhU3ZySG1KU1RhNGlQMURWLWRQQWc2N1ZFbElOUV81WlNtZk9idHjSAV9BVV95cUxPbDVUdm5RcVl0STdrQmU4LWRFaUIzRUk1WXNTMVNuRHI4N1Q5UTM1WW1pQVFNa3RGcXdCUi1uUEh3eUNpYXAtXzFtbGZ2VGhqeW0weExTZkQ4V0pScnJYVQ?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
           "text": "明天天氣北、東部稍涼短暫陣雨 下周中南部高溫飆31℃",
           "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxNZ3VoVEdYQXROOVktTlJVcGZlb09ZOV9ROUxJMnVqSnNyVktQc2JFRVl1Qk9fcG03WFhjNHA0ckZXUWJjV08zSzE0a1RpZVVJSkwyX18zclUzMlRYYk1FQ3BvZ3ZTclNwY1JvaXBLTFFpOE5QT1M1a2VKS3JNSnY0aE4tRjFxQkppZFNFSFNBR1VSaDlRcFRpSTFSeWtuOF9sdnRqU3Nock9fZ2RYUUgzWDJPRkZYY1lCMDUxX2VjclVuNkl4R0RqdFlMNTktMzh2WERVTmM2MUZSM29FZ2JIT2dTTTVyaWktWnZCOGRmN2xnRmhSWFFGaWo3WnRXbXFFUWUyVFl1b0JFNkdwUHlRcWNEaG5fZzVnNDJvbktkenk0LVZtX0Q5TU5pNzdXU1JQSjNKc0NJNXNPTmJTaGxJeVkzUUpDOUR4dEpnTF91UGFZZEhHWE9yQXBvRVNUTlVuOFNKLVpKcnNTVk0?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxNZ3VoVEdYQXROOVktTlJVcGZlb09ZOV9ROUxJMnVqSnNyVktQc2JFRVl1Qk9fcG03WFhjNHA0ckZXUWJjV08zSzE0a1RpZVVJSkwyX18zclUzMlRYYk1FQ3BvZ3ZTclNwY1JvaXBLTFFpOE5QT1M1a2VKS3JNSnY0aE4tRjFxQkppZFNFSFNBR1VSaDlRcFRpSTFSeWtuOF9sdnRqU3Nock9fZ2RYUUgzWDJPRkZYY1lCMDUxX2VjclVuNkl4R0RqdFlMNTktMzh2WERVTmM2MUZSM29FZ2JIT2dTTTVyaWktWnZCOGRmN2xnRmhSWFFGaWo3WnRXbXFFUWUyVFl1b0JFNkdwUHlRcWNEaG5fZzVnNDJvbktkenk0LVZtX0Q5TU5pNzdXU1JQSjNKc0NJNXNPTmJTaGxJeVkzUUpDOUR4dEpnTF91UGFZZEhHWE9yQXBvRVNUTlVuOFNKLVpKcnNTVk0?oc=5",
@@ -202,9 +202,17 @@
           "package": ""
         },
         {
-          "text": "蔡英文揪團掀綠營爬山潮 賴清德登海鯤號霸氣喊「下海我來」一起顧好國家",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5aT3FPeXRDc09RNUlIdWNhcWdiSVQ5dUUyMkVVeWczVjJBNUZSeWVjUGg3cmlTWG83T0JMVGI2Y3RaMjFRVXI1eGh5MUpRNnM3dHM4M0RmdElCWXFpUGk2aFFOLU96Tm9fa1HSAW9BVV95cUxPdTBLZU1qejZIRVl4R2w5dGNEQjc0STM3SUs2by1iOGhVMWNqOEdPZ1R2M1RaaWU4YUNweC16ZC00eElQbXVUczluTzZLS25VNGhyNmUxeTZUV2l6VHdxR3hZRElVa1ZBaUFNcDM4eVE?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5aT3FPeXRDc09RNUlIdWNhcWdiSVQ5dUUyMkVVeWczVjJBNUZSeWVjUGg3cmlTWG83T0JMVGI2Y3RaMjFRVXI1eGh5MUpRNnM3dHM4M0RmdElCWXFpUGk2aFFOLU96Tm9fa1HSAW9BVV95cUxPdTBLZU1qejZIRVl4R2w5dGNEQjc0STM3SUs2by1iOGhVMWNqOEdPZ1R2M1RaaWU4YUNweC16ZC00eElQbXVUczluTzZLS25VNGhyNmUxeTZUV2l6VHdxR3hZRElVa1ZBaUFNcDM4eVE?oc=5",
+          "text": "海鯤艦鋼板不平、鉚釘未栓？台船列3待改善工作：不影響測試",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VMHM4WkNuVmtuOTRmcFZpWVF3M2dORXhXTGN6QWRoWkpPT09PRjNNc3hNVktQSlVqMmhXWVpVSjBnZjdDR1FRSXVsbTNXek5zY2fSAVdBVV95cUxOQ3BsTU1na0s5R3pQdTNFa3VWQWo4dVRmQ0R0WnlOWDB6MXhOcEt5dXNNUDk2QVNvb290OUdrM05GX3BwcTNpYlZHLWkyb21vSHVTcGluMVk?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VMHM4WkNuVmtuOTRmcFZpWVF3M2dORXhXTGN6QWRoWkpPT09PRjNNc3hNVktQSlVqMmhXWVpVSjBnZjdDR1FRSXVsbTNXek5zY2fSAVdBVV95cUxOQ3BsTU1na0s5R3pQdTNFa3VWQWo4dVRmQ0R0WnlOWDB6MXhOcEt5dXNNUDk2QVNvb290OUdrM05GX3BwcTNpYlZHLWkyb21vSHVTcGluMVk?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "監委被控私用公務車案北檢：均自費無涉犯罪簽結",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NaEl1Rm8zV2ltWnZoZGVWU0J1UW05WGs0d3dzWkNrZzVxUUJRdXY2SzBJbzdoaTRJYmh1a2lkRG5yMEZvM0M3TldQU3dhZGpjQVFvakFubUJkYXRyTFdv?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NaEl1Rm8zV2ltWnZoZGVWU0J1UW05WGs0d3dzWkNrZzVxUUJRdXY2SzBJbzdoaTRJYmh1a2lkRG5yMEZvM0M3TldQU3dhZGpjQVFvakFubUJkYXRyTFdv?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -213,14 +221,6 @@
           "text": "國民黨北市議員李傅中武疑涉貪污 辦公室遭搜索【獨家】",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kNUViN1hZekY3RWRPZmZIMm9QWnBRTEszNVFXMjNPeTcyNEZ0ejRmTS1zeEl5am8wT3Y3ZTJmZnVpNG13dV96UmYzXzZFcXQ4a1NCNk50R3F2bFo1bHRZ?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kNUViN1hZekY3RWRPZmZIMm9QWnBRTEszNVFXMjNPeTcyNEZ0ejRmTS1zeEl5am8wT3Y3ZTJmZnVpNG13dV96UmYzXzZFcXQ4a1NCNk50R3F2bFo1bHRZ?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "繁星放榜「台大1科系掛零、7系沒補滿」 網揭隱憂：恐被取代",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zdklWOHpZd3ZjY0tKazlQcmJBMDc2Q3ZNdS0teDNwVlVNRWlDZHhxMzl1a3kxTkpRcndsMUNFMkFuYnZJVjFEdEtHWDNRMXhOdVR0WEZn?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zdklWOHpZd3ZjY0tKazlQcmJBMDc2Q3ZNdS0teDNwVlVNRWlDZHhxMzl1a3kxTkpRcndsMUNFMkFuYnZJVjFEdEtHWDNRMXhOdVR0WEZn?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -242,17 +242,17 @@
           "package": ""
         },
         {
-          "text": "美以聯合空襲伊朗革命衛隊發言人身亡",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ReWp2VWgzT0lJd0tfRWFIdjBFb0ZnY0o2SmU3MzdLVHJPSWZqZDZVejdQSkdRZHZ5OEFQbDdWMUc1OXBqUEZVcWFmUHN0bHRzekluNDVDSjJpZkJ1aUNR?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ReWp2VWgzT0lJd0tfRWFIdjBFb0ZnY0o2SmU3MzdLVHJPSWZqZDZVejdQSkdRZHZ5OEFQbDdWMUc1OXBqUEZVcWFmUHN0bHRzekluNDVDSjJpZkJ1aUNR?oc=5",
+          "text": "美國陷入伊朗泥潭川普正中習近平下懷？智庫專家：威懾北京適得其反| 美以轟炸伊朗",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5fNGpHY0pNY0dRb2RGYmZYMFY2U20yTUpXTTBCMG5VdDlPVXRCT3VBMlBBbFZlUXM0cHhBZS1oNTdWQ2ZCOThYMVYyZXpsX2owZ29n?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5fNGpHY0pNY0dRb2RGYmZYMFY2U20yTUpXTTBCMG5VdDlPVXRCT3VBMlBBbFZlUXM0cHhBZS1oNTdWQ2ZCOThYMVYyZXpsX2owZ29n?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "美國陷入伊朗泥潭川普正中習近平下懷？智庫專家：威懾北京適得其反| 美以轟炸伊朗",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5fNGpHY0pNY0dRb2RGYmZYMFY2U20yTUpXTTBCMG5VdDlPVXRCT3VBMlBBbFZlUXM0cHhBZS1oNTdWQ2ZCOThYMVYyZXpsX2owZ29n?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5fNGpHY0pNY0dRb2RGYmZYMFY2U20yTUpXTTBCMG5VdDlPVXRCT3VBMlBBbFZlUXM0cHhBZS1oNTdWQ2ZCOThYMVYyZXpsX2owZ29n?oc=5",
+          "text": "美日峰會談中國川普：北京之行延至5月中",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBPQmlVdlYybHA3NWlCMUJNNm5zbWZ0dmJPeFV1YlBjdDRlM2NRLU1TRlUwRGptbkMyNUdJWDZySGVHYkxLYXpsN3ZXYWI5RlM3djJXSGY4aUhlZGNMRERz?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBPQmlVdlYybHA3NWlCMUJNNm5zbWZ0dmJPeFV1YlBjdDRlM2NRLU1TRlUwRGptbkMyNUdJWDZySGVHYkxLYXpsN3ZXYWI5RlM3djJXSGY4aUhlZGNMRERz?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -273,6 +273,6 @@
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 22,
+  "cost": 30,
   "status": 0
 }
