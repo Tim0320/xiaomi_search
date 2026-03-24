@@ -15,14 +15,6 @@
       "link_type": "app",
       "data": [
         {
-          "text": "統一發票11 12月",
-          "url": "https://tw.search.yahoo.com/search?p=%E7%B5%B1%E4%B8%80%E7%99%BC%E7%A5%A811+12%E6%9C%88&amp;fr=ush-bt1",
-          "h5_url": "https://tw.search.yahoo.com/search?p=%E7%B5%B1%E4%B8%80%E7%99%BC%E7%A5%A811+12%E6%9C%88&amp;fr=ush-bt1",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_yahoo",
-          "package": ""
-        },
-        {
           "text": "Yahoo財經大人物",
           "url": "https://tw.news.yahoo.com/topic/CEO-interview",
           "h5_url": "https://tw.news.yahoo.com/topic/CEO-interview",
@@ -133,6 +125,14 @@
           "appIconUrl": "",
           "sourceUniqueId": "content_yahoo",
           "package": ""
+        },
+        {
+          "text": "傳美施壓政策轉彎 盧秀燕：連我也多次被關切",
+          "url": "https://tw.news.yahoo.com/%E7%BE%8E%E6%96%BD%E5%A3%93%E8%B3%B4%E6%B8%85%E5%BE%B7%E8%BF%94%E6%A0%B8-%E7%9B%A7%E7%A7%80%E7%87%95-%E6%88%91%E4%B9%9F%E5%A4%9A%E6%AC%A1%E8%A2%AB%E9%97%9C%E5%88%87-031906865.html",
+          "h5_url": "https://tw.news.yahoo.com/%E7%BE%8E%E6%96%BD%E5%A3%93%E8%B3%B4%E6%B8%85%E5%BE%B7%E8%BF%94%E6%A0%B8-%E7%9B%A7%E7%A7%80%E7%87%95-%E6%88%91%E4%B9%9F%E5%A4%9A%E6%AC%A1%E8%A2%AB%E9%97%9C%E5%88%87-031906865.html",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_yahoo",
+          "package": ""
         }
       ],
       "selectedStatus": false,
@@ -154,25 +154,25 @@
           "package": ""
         },
         {
-          "text": "暫避風頭醞釀偷渡出境？ 徐漢棄保逃亡藏身農莊曝光",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5TMGd5SUJyam5JSno0LVVfQ2VLanBSd0pWZjJKS19zM3F2Nklsa2FkcVVnd0laYXNIR1ZsNGQzcF9CQW56UjljYzRzTUh0dDZPbUNYNTcyemt4YU5ud0Jhc1k1MFVFbGZi0gFuQVVfeXFMUGstSzcyTzB5VnVKb2dnblBOaDliSlRfeFgwbUYxeDdsRFVVd0FWRzJHNkNMSEk5bUJFb3AwRWswVlcxbkVTSHhkV1dpc0xrajVGb0F3WTRvVzdkOWNjc2tMbGtQRWhMQmMyZE1MdlE?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5TMGd5SUJyam5JSno0LVVfQ2VLanBSd0pWZjJKS19zM3F2Nklsa2FkcVVnd0laYXNIR1ZsNGQzcF9CQW56UjljYzRzTUh0dDZPbUNYNTcyemt4YU5ud0Jhc1k1MFVFbGZi0gFuQVVfeXFMUGstSzcyTzB5VnVKb2dnblBOaDliSlRfeFgwbUYxeDdsRFVVd0FWRzJHNkNMSEk5bUJFb3AwRWswVlcxbkVTSHhkV1dpc0xrajVGb0F3WTRvVzdkOWNjc2tMbGtQRWhMQmMyZE1MdlE?oc=5",
+          "text": "前中油煉製部執行長徐漢涉貪 拆電子腳鐐潛逃6天 台東落網",
+          "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxOSWZ2cTNMMWpwdmFnQVkzODlQLVFhc200QWtVVTl0alRiZUNMbjB5ZE1lNG85YkJOZjQ4MHlJVGo3cl9jQ2dMRkFEVUVQZVE2R3JQYXZXSTZlTGJHeVg4RUNYSmdfQlpTeWU5amdhdWdEclE4YmNhZnpvdmc3NWZNMlJXc3Y5eFhQczVBSm9lM2kzeDlRQXNiMFpoaTZ0Sm5YdGMxN1hNTXdwTWV2cHBGZ1F0QXNFb1BsQk5GZmFZQ3gxMUVMUEU3c2ViTFhIZno3cEZfT1lqdGJnVUUxeGE5azlwQXVCYjgwNUY2aVpEampqR05LcG9aTEdXUW9NZm1CUm5nNlRlTnJ2bUZmRFBseUw0TVNzTGtWb3JNcTRqQ2tfcU5ONmp4bG9DcDMzaTRMTHBFbWZZOS10VXl0UFVzcWZyTC1VaEZ1c21qN2o3SjVJQndlMGxuMDVCUm9hQ2E0WTQtaUJLNGI1bzkzLXF4VHNmdkE1eWJXRmtnVlZ5WTNJQTQ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxOSWZ2cTNMMWpwdmFnQVkzODlQLVFhc200QWtVVTl0alRiZUNMbjB5ZE1lNG85YkJOZjQ4MHlJVGo3cl9jQ2dMRkFEVUVQZVE2R3JQYXZXSTZlTGJHeVg4RUNYSmdfQlpTeWU5amdhdWdEclE4YmNhZnpvdmc3NWZNMlJXc3Y5eFhQczVBSm9lM2kzeDlRQXNiMFpoaTZ0Sm5YdGMxN1hNTXdwTWV2cHBGZ1F0QXNFb1BsQk5GZmFZQ3gxMUVMUEU3c2ViTFhIZno3cEZfT1lqdGJnVUUxeGE5azlwQXVCYjgwNUY2aVpEampqR05LcG9aTEdXUW9NZm1CUm5nNlRlTnJ2bUZmRFBseUw0TVNzTGtWb3JNcTRqQ2tfcU5ONmp4bG9DcDMzaTRMTHBFbWZZOS10VXl0UFVzcWZyTC1VaEZ1c21qN2o3SjVJQndlMGxuMDVCUm9hQ2E0WTQtaUJLNGI1bzkzLXF4VHNmdkE1eWJXRmtnVlZ5WTNJQTQ?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "獨／「百億賭王」林秉文遭狙擊29槍身亡 死狀畫面曝光",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBzUTFNeW9aS2h5a2FrYmVVME1YTE1yY0o4U19iR2lBUlh6dHVjU0xyYmo3NG50OUQ5MnQyMXpMVHlmUFFvODhZSmNNWmk3dGtl0gFWQVVfeXFMTjBobGZSZDY0ZlRwYldFSU5NeFZ6ZjQ5TjVlMnJDdTljcnBjZHdVbnAtamxRa0pVd0NFSlF3QnA0S256QUliZzlXSDhFaWVYTDFyM0Vhemc?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBzUTFNeW9aS2h5a2FrYmVVME1YTE1yY0o4U19iR2lBUlh6dHVjU0xyYmo3NG50OUQ5MnQyMXpMVHlmUFFvODhZSmNNWmk3dGtl0gFWQVVfeXFMTjBobGZSZDY0ZlRwYldFSU5NeFZ6ZjQ5TjVlMnJDdTljcnBjZHdVbnAtamxRa0pVd0NFSlF3QnA0S256QUliZzlXSDhFaWVYTDFyM0Vhemc?oc=5",
+          "text": "柯案宣判前夕 沈慶京突發文：萬惡要怪他",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE56aFJDTW40VmlDQVpJWEY2RFNxa1BIekZSRGxxdzdiS0x3SC01Qzlkc2xpSTYtaWhnazFYN29sMVB1UGFBWkFSZERpc1Y0NWNDTWtZVEJ3QQ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE56aFJDTW40VmlDQVpJWEY2RFNxa1BIekZSRGxxdzdiS0x3SC01Qzlkc2xpSTYtaWhnazFYN29sMVB1UGFBWkFSZERpc1Y0NWNDTWtZVEJ3QQ?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "稱「新式核能」是選項遭酸牆頭草 苗博雅曝信念",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zcnk0WUpfYjE2ek85ak9zbmpaMjlUQ05ramhNdzNnTWhkTnR5ZmZyakNxRlRKRWdYOEJic1E3Z2NmQllqdHlCMGRwZFN5eUxkMzNV0gFYQVVfeXFMTUdBR2JzRWc0NEw1cmQzd2RNT2hlUFpRT3hOb1ZvVzFfSEQ0cmNzSEVGN1NRSGJkQ0FlbHdnNFAzZ2dLU00wZHFTczRONjVZR0RLTkZ3emZjcw?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zcnk0WUpfYjE2ek85ak9zbmpaMjlUQ05ramhNdzNnTWhkTnR5ZmZyakNxRlRKRWdYOEJic1E3Z2NmQllqdHlCMGRwZFN5eUxkMzNV0gFYQVVfeXFMTUdBR2JzRWc0NEw1cmQzd2RNT2hlUFpRT3hOb1ZvVzFfSEQ0cmNzSEVGN1NRSGJkQ0FlbHdnNFAzZ2dLU00wZHFTczRONjVZR0RLTkZ3emZjcw?oc=5",
+          "text": "黃暐瀚：反核變返核，將使賴總統遍體鱗傷，「短期內民調無法避免下滑」",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9weGRKUXhRWVh4eGlNaEhYSTF6ekhjUlkza3Nqc1M1eWhYQ2F6SjRyNEhMN242OUxtM2pzTHpnYVpmXzFWM2dHdmwySEdjRXZCbklEOTc0WlrSAV9BVV95cUxOWFYwXzY5bUM1YndReVpPMTctb0RkeDRFOTYwczktemVGNDdlOHoyV0MwZ2ZaY2t5MGVPZ0lzU3YtdnpVWEVoTHdwVkFmTURMRUYtdUhhajdDS2FOVVkxOA?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9weGRKUXhRWVh4eGlNaEhYSTF6ekhjUlkza3Nqc1M1eWhYQ2F6SjRyNEhMN242OUxtM2pzTHpnYVpmXzFWM2dHdmwySEdjRXZCbklEOTc0WlrSAV9BVV95cUxOWFYwXzY5bUM1YndReVpPMTctb0RkeDRFOTYwczktemVGNDdlOHoyV0MwZ2ZaY2t5MGVPZ0lzU3YtdnpVWEVoTHdwVkFmTURMRUYtdUhhajdDS2FOVVkxOA?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -186,17 +186,9 @@
           "package": ""
         },
         {
-          "text": "李貞秀突自爆「高虹安拿了柯文哲700萬」　高虹安回應了",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vVHprNC1GMjFUcHB1X2pZSmxCdzhnMnp6U1VrVF9mMVZRU3dGaFFwaUNiRlhIcUlrbG5XeXJZbVJEalh6VEhKVGFrbGZlQ0l6VmFzcWI4OEdkZ1nSAWBBVV95cUxNZGhfbVlibDBUUTFuNTZvQUVadzl5UWZHR3pOeEVSaUhpVF95aVRibUk0em5JdWhrUmprcjluVDFCQ0lkRWVFdFNlWl9INGhxYVg0WjRqazFpcmRNb1N5OUQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vVHprNC1GMjFUcHB1X2pZSmxCdzhnMnp6U1VrVF9mMVZRU3dGaFFwaUNiRlhIcUlrbG5XeXJZbVJEalh6VEhKVGFrbGZlQ0l6VmFzcWI4OEdkZ1nSAWBBVV95cUxNZGhfbVlibDBUUTFuNTZvQUVadzl5UWZHR3pOeEVSaUhpVF95aVRibUk0em5JdWhrUmprcjluVDFCQ0lkRWVFdFNlWl9INGhxYVg0WjRqazFpcmRNb1N5OUQ?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "經貿辦副總談判代表顏慧欣因病辭世卓榮泰：非常遺憾",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54RG1xVnZhS00wWDhLdW1HNXVwMEpyX0MwVlczQ0VBS3JxRy0xVnVMbFB3VmF1WVlIMThrT3I0S29HRVFUNWVOWmZESldpNnhzUWxyYWZDRGxJenVSLWFv?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54RG1xVnZhS00wWDhLdW1HNXVwMEpyX0MwVlczQ0VBS3JxRy0xVnVMbFB3VmF1WVlIMThrT3I0S29HRVFUNWVOWmZESldpNnhzUWxyYWZDRGxJenVSLWFv?oc=5",
+          "text": "京華城案李貞秀指高虹安拿柯文哲7百萬 高駁斥：放話者自重",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9NU1htOHdaZ2lGODFWNzh6a3dobjRubURQMXl4NnpvamJ2cDRxMG9oTnFLU0g1QWh5VjFzWW5lWHYtOE1XeWk0QjExOGw5Z3NL0gFWQVVfeXFMUGN4QnBua19BVjBlMHhEaTM4ZU5rTzVzXy13NXZKNGxIWmtma3VseEdzUVFyZzlya25yT0R3UUlCelE0ZHFNWEhtUHpzZGhmMEFNclFkc2c?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9NU1htOHdaZ2lGODFWNzh6a3dobjRubURQMXl4NnpvamJ2cDRxMG9oTnFLU0g1QWh5VjFzWW5lWHYtOE1XeWk0QjExOGw5Z3NL0gFWQVVfeXFMUGN4QnBua19BVjBlMHhEaTM4ZU5rTzVzXy13NXZKNGxIWmtma3VseEdzUVFyZzlya25yT0R3UUlCelE0ZHFNWEhtUHpzZGhmMEFNclFkc2c?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -205,6 +197,14 @@
           "text": "徐春鶯遭起訴 民眾黨稱「以動員陸配為籌碼」：重演京華城案編故事",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1rWnVCZFEzMXBCSjFrVV8wR3Vvbk9MTVhBMlVEMnJIWE5NR294MEZEZGhNZlBVTTQtUkktWkR2R0h4TjdhUVUzRmR6UkVkWk1w0gFWQVVfeXFMT0lpSVRhWGxHSGprVktkRlU2ZVZHU0I3NmkyUDJIbE50X1ZGOHliZlZRREJRaGYzejR3V0xLejNXbVEtNVQxVDI5c1pGWFgtd21NSjhnWnc?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1rWnVCZFEzMXBCSjFrVV8wR3Vvbk9MTVhBMlVEMnJIWE5NR294MEZEZGhNZlBVTTQtUkktWkR2R0h4TjdhUVUzRmR6UkVkWk1w0gFWQVVfeXFMT0lpSVRhWGxHSGprVktkRlU2ZVZHU0I3NmkyUDJIbE50X1ZGOHliZlZRREJRaGYzejR3V0xLejNXbVEtNVQxVDI5c1pGWFgtd21NSjhnWnc?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "經貿辦副總談判代表顏慧欣因病辭世卓榮泰：非常遺憾",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54RG1xVnZhS00wWDhLdW1HNXVwMEpyX0MwVlczQ0VBS3JxRy0xVnVMbFB3VmF1WVlIMThrT3I0S29HRVFUNWVOWmZESldpNnhzUWxyYWZDRGxJenVSLWFv?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54RG1xVnZhS00wWDhLdW1HNXVwMEpyX0MwVlczQ0VBS3JxRy0xVnVMbFB3VmF1WVlIMThrT3I0S29HRVFUNWVOWmZESldpNnhzUWxyYWZDRGxJenVSLWFv?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -226,25 +226,17 @@
           "package": ""
         },
         {
-          "text": "陸外交部稱駐日使館遭不法之徒闖入 並發出死亡威脅",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9TSUpJOEw4MW81anJrTUpvZXRTZS0tSXBIXzRmbmhRNWdwSHNobFdaZG8ySkVORmRtZ1dscDM4blB6YVFfLUFvX3I0dFlVa1J40gFWQVVfeXFMT1ZZRDF3RDc3Y3JFNDJQTnVKOGlXd2J0TVRaN3Ficm5rcVh0OTFOY1BaeTZqWWJyZHlUTEw3SGNxT2JudE1ZekJkY3NEQzBoQm9IWDJVWnc?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9TSUpJOEw4MW81anJrTUpvZXRTZS0tSXBIXzRmbmhRNWdwSHNobFdaZG8ySkVORmRtZ1dscDM4blB6YVFfLUFvX3I0dFlVa1J40gFWQVVfeXFMT1ZZRDF3RDc3Y3JFNDJQTnVKOGlXd2J0TVRaN3Ficm5rcVh0OTFOY1BaeTZqWWJyZHlUTEw3SGNxT2JudE1ZekJkY3NEQzBoQm9IWDJVWnc?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "飛彈攜100公斤炸藥彈頭砸進市中心 特拉維夫居民瑟瑟發抖",
-          "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxOeGdld05iZG1PNk5DcGIyMzdIblVLLUJZUzJPUnNxQW5fNHZpODVMTEMycnF1SWZrSzlwM09xbzJkN2gtNm9saDYycloyemxrNERDM1NSUlNSa0xxYnhtbjlpbUdwMnMxNVFkbjl5RFBOazd6MkJSSXVCUXFVaXo0ODRLR1IwS0hMS2Fpel80aXJqLXVNMFQzMmFQWDY5RDJWaVF1a2FOLWVfWXpiMk9ER3FBaWo5OG9QYmtHc1d6U1prSWwtOFUwMk9PUms2dllXWlVXckhES1Vrc3IyRldSZjNlS3FlSlQxalpabWNITFh6WDlRdEFCLWFNajNUc0R4eF9sN3FNQmREeEwtYUdGOHlTMzJSdVRWMjVKVi1VSVhCUGdzVVR4eGh3aWF0bHdVb0lCcldxYk50U085eGtkMVFSSjdXSXM1SnRJQUpzejF3Vks3ZW1fcE5wd0R4QW5NLUw1SlZNbUM2ZGVId196MHUxZEpSN1h2?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxOeGdld05iZG1PNk5DcGIyMzdIblVLLUJZUzJPUnNxQW5fNHZpODVMTEMycnF1SWZrSzlwM09xbzJkN2gtNm9saDYycloyemxrNERDM1NSUlNSa0xxYnhtbjlpbUdwMnMxNVFkbjl5RFBOazd6MkJSSXVCUXFVaXo0ODRLR1IwS0hMS2Fpel80aXJqLXVNMFQzMmFQWDY5RDJWaVF1a2FOLWVfWXpiMk9ER3FBaWo5OG9QYmtHc1d6U1prSWwtOFUwMk9PUms2dllXWlVXckhES1Vrc3IyRldSZjNlS3FlSlQxalpabWNITFh6WDlRdEFCLWFNajNUc0R4eF9sN3FNQmREeEwtYUdGOHlTMzJSdVRWMjVKVi1VSVhCUGdzVVR4eGh3aWF0bHdVb0lCcldxYk50U085eGtkMVFSSjdXSXM1SnRJQUpzejF3Vks3ZW1fcE5wd0R4QW5NLUw1SlZNbUM2ZGVId196MHUxZEpSN1h2?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
           "text": "無差別攻擊！伊朗亂炸鄰國惹火波灣 美媒曝中東2國「快要參戰」有新動作",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1OaTdKTDhnWGgxdnp2UmwxUHlMQjNHSWpPeUhTSkltWjVyTzQyVUJwbzRGVGROdC1kckJONkNPNC13blpWZnNqTjl5N1RaSzFRajdF0gFYQVVfeXFMTnZabExyVmdnQkpwMTNnSmx0MjhBT3BxbmVaVkJya0hpUVQyWTBleW5yY2JmVTB6aHRfN0U3ZThtcFU4TUdqM3VkMGRUZkliZDh6WEw5U0wtLQ?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1OaTdKTDhnWGgxdnp2UmwxUHlMQjNHSWpPeUhTSkltWjVyTzQyVUJwbzRGVGROdC1kckJONkNPNC13blpWZnNqTjl5N1RaSzFRajdF0gFYQVVfeXFMTnZabExyVmdnQkpwMTNnSmx0MjhBT3BxbmVaVkJya0hpUVQyWTBleW5yY2JmVTB6aHRfN0U3ZThtcFU4TUdqM3VkMGRUZkliZDh6WEw5U0wtLQ?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "陸外交部稱駐日使館遭不法之徒闖入 並發出死亡威脅",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9TSUpJOEw4MW81anJrTUpvZXRTZS0tSXBIXzRmbmhRNWdwSHNobFdaZG8ySkVORmRtZ1dscDM4blB6YVFfLUFvX3I0dFlVa1J40gFWQVVfeXFMT1ZZRDF3RDc3Y3JFNDJQTnVKOGlXd2J0TVRaN3Ficm5rcVh0OTFOY1BaeTZqWWJyZHlUTEw3SGNxT2JudE1ZekJkY3NEQzBoQm9IWDJVWnc?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9TSUpJOEw4MW81anJrTUpvZXRTZS0tSXBIXzRmbmhRNWdwSHNobFdaZG8ySkVORmRtZ1dscDM4blB6YVFfLUFvX3I0dFlVa1J40gFWQVVfeXFMT1ZZRDF3RDc3Y3JFNDJQTnVKOGlXd2J0TVRaN3Ficm5rcVh0OTFOY1BaeTZqWWJyZHlUTEw3SGNxT2JudE1ZekJkY3NEQzBoQm9IWDJVWnc?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -258,9 +250,17 @@
           "package": ""
         },
         {
-          "text": "市場全得跟著「川投顧」走！黃金、比特幣全翻轉 謝金河：最強大的「它」也不例外",
-          "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxORlA3TFc0cFhiLUc5Y3plX3pUWlRuZmp0WXE4VHczLWJ4WFJrSlE0X05OMDdneW9vYTl2b21yQ2pGTmlIekl5Y3BxU3lJMlFOVEhISHZ6U201RFpfX0pxbGNENkdfcUxON19ZU3VlSEctd3NPeTFMVXY4bXQ0VWM3Y3hqcjBoTC1UMGstSlAyRHhFa1FEZ01iM3VlWjZyTENpdEgtOHFUZVpGN0cyWDBNWmdjU0diQWJsOUxWdk1JUVA3UG5ISDBucW01YU1RcFFTRDA3eGx0aDZqLUVFNDZCcng5N2xZdXowOWE2MjNrSllTSHg5VWxHT0Noa1VkTWJLdElWZUJYcFZyenYyTi1CS1pPTTFQRUVldXU5Y1ItRmhxclNtMWFEMnU1N1BaRGJQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxORlA3TFc0cFhiLUc5Y3plX3pUWlRuZmp0WXE4VHczLWJ4WFJrSlE0X05OMDdneW9vYTl2b21yQ2pGTmlIekl5Y3BxU3lJMlFOVEhISHZ6U201RFpfX0pxbGNENkdfcUxON19ZU3VlSEctd3NPeTFMVXY4bXQ0VWM3Y3hqcjBoTC1UMGstSlAyRHhFa1FEZ01iM3VlWjZyTENpdEgtOHFUZVpGN0cyWDBNWmdjU0diQWJsOUxWdk1JUVA3UG5ISDBucW01YU1RcFFTRDA3eGx0aDZqLUVFNDZCcng5N2xZdXowOWE2MjNrSllTSHg5VWxHT0Noa1VkTWJLdElWZUJYcFZyenYyTi1CS1pPTTFQRUVldXU5Y1ItRmhxclNtMWFEMnU1N1BaRGJQ?oc=5",
+          "text": "被罵「紙老虎」! 對荷姆茲被封反應超慢 北約盼川普能「理解」 還推給「這國」....",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vZDA0azBOdUZBSjZHd2NROG9YdUxrM1RWVmJoVzZvV0hscmNLYWZJNUhWc2RYMXFzYmZEN1NqUlZHVURkOFEzR1k4SS1nR29uRkR6a1UwbHVnQjQ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vZDA0azBOdUZBSjZHd2NROG9YdUxrM1RWVmJoVzZvV0hscmNLYWZJNUhWc2RYMXFzYmZEN1NqUlZHVURkOFEzR1k4SS1nR29uRkR6a1UwbHVnQjQ?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "美股收盤／四大指數漲逾1% 川普喊暫停攻擊伊朗 華爾街抓到「這訊號」",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uTllFdGNKams3eXI5c05wd3k4S1Niajl1b1hfUmRJVDhPNzFNNTN6MkNIblBWZHhjQnZybEVPS3ZoWVB4RzduLTlESmctbVhaQXV3OWp4azF2SlNZ0gFiQVVfeXFMUDVwZ0IzY0JqVnlrZmJRSEszVGpqWHM5WWRUS0ZtLUZCWUJtLWRIYkVZTmNQLV9MRXc5QTgtWEp2dE4yZUhTREhBSTlmUDFqakthZlFYNGpNcEFNeEdWR0cyY1E?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uTllFdGNKams3eXI5c05wd3k4S1Niajl1b1hfUmRJVDhPNzFNNTN6MkNIblBWZHhjQnZybEVPS3ZoWVB4RzduLTlESmctbVhaQXV3OWp4azF2SlNZ0gFiQVVfeXFMUDVwZ0IzY0JqVnlrZmJRSEszVGpqWHM5WWRUS0ZtLUZCWUJtLWRIYkVZTmNQLV9MRXc5QTgtWEp2dE4yZUhTREhBSTlmUDFqakthZlFYNGpNcEFNeEdWR0cyY1E?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -273,6 +273,6 @@
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 49,
+  "cost": 35,
   "status": 0
 }
