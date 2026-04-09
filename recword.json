@@ -146,6 +146,14 @@
       "link_type": "app",
       "data": [
         {
+          "text": "2海域強風大浪！準颱風「辛樂克」最快明生成最新路徑曝光",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tcUxBUlR2UHcxRjdGb016bV9ETGlsQ2VUelBtOUI2ano1ZllIbWlRckZPUlIycHZUSTk0RjFPX2k2empZamEwcC1qOXA4Umg1Vnc5X0MxcU1Pb0U?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tcUxBUlR2UHcxRjdGb016bV9ETGlsQ2VUelBtOUI2ano1ZllIbWlRckZPUlIycHZUSTk0RjFPX2k2empZamEwcC1qOXA4Umg1Vnc5X0MxcU1Pb0U?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
           "text": "伊朗倒過來對美下最後通牒! 被問「停火或戰爭二選一」川普嗆將「更猛烈打擊」",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzQVFHdHozbS1MTmpGOWdBOV9nbEllMnVHT3ZPanhUUzVDMVBQSXFuUWpnQzhDVk1QMUFNZE1XZDRKdy1CNFZCZ0pOeHZQXzUwcnZsOUlhWVZDX00?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzQVFHdHozbS1MTmpGOWdBOV9nbEllMnVHT3ZPanhUUzVDMVBQSXFuUWpnQzhDVk1QMUFNZE1XZDRKdy1CNFZCZ0pOeHZQXzUwcnZsOUlhWVZDX00?oc=5",
@@ -162,22 +170,6 @@
           "package": ""
         },
         {
-          "text": "鄭麗文政治立場大變與他有關？ 國家檔案揭「驚人隱藏身分」！",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WMmJQSjRVRmVRdG1UU1lxR1k3M2xLMkFHbmo5N0hOYV9wLVZ1N21LMklFNy1fb1B0OERUWHNnVWczMHJOYmhSaDN5Sm1NVldXcWZXcTFKU2R4VXB2QTFYWXBENEZvd1Q3b1HSAW9BVV95cUxQN1hGZ0RDNVFuNUk4UGl0RGNGc2hURTZjYzhPbEFhd2JUX2pSVjdfS2lGMlZIaEhEbzJ5enNCTWlkNWdqVS14c3JrN2wzZHB4THBGUFpneE94TmVHV1BiaVFHVEpQZE9sZU9PMGw3LVE?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WMmJQSjRVRmVRdG1UU1lxR1k3M2xLMkFHbmo5N0hOYV9wLVZ1N21LMklFNy1fb1B0OERUWHNnVWczMHJOYmhSaDN5Sm1NVldXcWZXcTFKU2R4VXB2QTFYWXBENEZvd1Q3b1HSAW9BVV95cUxQN1hGZ0RDNVFuNUk4UGl0RGNGc2hURTZjYzhPbEFhd2JUX2pSVjdfS2lGMlZIaEhEbzJ5enNCTWlkNWdqVS14c3JrN2wzZHB4THBGUFpneE94TmVHV1BiaVFHVEpQZE9sZU9PMGw3LVE?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "轟鄭麗文中山陵談話「賣台、背叛中華民國」周玉蔻：國民黨敗亡的祭悼會",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9OU2VvZEJUM3Q3QzVneExYQndmbU9TcTl5TkJlcEN1YkxWaFY4NV95UGdSenZ1OEpGLVhkeUdtd3lueDg3VmYzaDRLMG9ma3pNenN0Z1hFOHBjbnc?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9OU2VvZEJUM3Q3QzVneExYQndmbU9TcTl5TkJlcEN1YkxWaFY4NV95UGdSenZ1OEpGLVhkeUdtd3lueDg3VmYzaDRLMG9ma3pNenN0Z1hFOHBjbnc?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
           "text": "快訊／川普發火再點名　開砲北約「不懂事」",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3T0xCMU9Yb3JWQjNkOFdZaEw2S2xYVFhaWXNtc1JzTWFuLXhIUm5nTXJqeXh4VFZySnZMZjkzcmF5bFdGM1RsVVY4a09xT2k5OUs3NE81Y09JQk5MbGfSAWhBVV95cUxPUVhNMWsxWXkxZVJsX25udTllVUJkMEROV3VrQ0g0eTk5SnlQZk94NURkY2RvSWYzYzhBT3ZsR1hIaW5pbDFXWTh6Qko4ZTRjalFkRXhCY0lJd2czMnQ1SDg1LUhLVjFHcw?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3T0xCMU9Yb3JWQjNkOFdZaEw2S2xYVFhaWXNtc1JzTWFuLXhIUm5nTXJqeXh4VFZySnZMZjkzcmF5bFdGM1RsVVY4a09xT2k5OUs3NE81Y09JQk5MbGfSAWhBVV95cUxPUVhNMWsxWXkxZVJsX25udTllVUJkMEROV3VrQ0g0eTk5SnlQZk94NURkY2RvSWYzYzhBT3ZsR1hIaW5pbDFXWTh6Qko4ZTRjalFkRXhCY0lJd2czMnQ1SDg1LUhLVjFHcw?oc=5",
@@ -186,9 +178,17 @@
           "package": ""
         },
         {
-          "text": "颱風辛樂克估明天生成持續增強大迴轉 吳德榮指符合4月颱一特性",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAyS2FrUEVOZGt6Sm9OUS1uWUt2QWZnUGkyalBvUk9HaF9JekJDaW9GTmxhWVZiSlV5c1FpMnlMQU03WjlLU0pyZUlYaGhfb3Fi0gFWQVVfeXFMUHhlclR1bVI4dEhRcTllWFQycUthdW1wbGRobWtQMGFnNHluT21Pc3FLSGpFdkVWUHhuUlI2emhuaW5qd0tyYzdVMDFQZndmSmc5NWo0YlE?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAyS2FrUEVOZGt6Sm9OUS1uWUt2QWZnUGkyalBvUk9HaF9JekJDaW9GTmxhWVZiSlV5c1FpMnlMQU03WjlLU0pyZUlYaGhfb3Fi0gFWQVVfeXFMUHhlclR1bVI4dEhRcTllWFQycUthdW1wbGRobWtQMGFnNHluT21Pc3FLSGpFdkVWUHhuUlI2emhuaW5qd0tyYzdVMDFQZndmSmc5NWo0YlE?oc=5",
+          "text": "鄭麗文遭批遮遮掩掩呼應中共敘事 盧秀燕反應曝",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBlWGJ6Y19ISlJzU0QtUzZ1Rk9qWFB2Z2tqODhMZXZlYk1GNU1VSDByUHhZYktYTXJIYlZmeVR2WEZxMEFGcHBfTmREQ3ZwWlVLbDg1ZG1mcUhmWHlNZWZNZXYtTE1VUUtDWUHSAW9BVV95cUxORXN6OHBNc2Y4VHd6ajZwQUVuWHZncVZKNlpXWGdvNDBHRkpYSHhFbnctOGpIeVF5QTJwQTFPU1R2RTZXV2szWldES2dpM2NCU0ZSSXFyN2FDNTdGa202LTdTNmc4RjhSc2xYZWZNc2c?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBlWGJ6Y19ISlJzU0QtUzZ1Rk9qWFB2Z2tqODhMZXZlYk1GNU1VSDByUHhZYktYTXJIYlZmeVR2WEZxMEFGcHBfTmREQ3ZwWlVLbDg1ZG1mcUhmWHlNZWZNZXYtTE1VUUtDWUHSAW9BVV95cUxORXN6OHBNc2Y4VHd6ajZwQUVuWHZncVZKNlpXWGdvNDBHRkpYSHhFbnctOGpIeVF5QTJwQTFPU1R2RTZXV2szWldES2dpM2NCU0ZSSXFyN2FDNTdGa202LTdTNmc4RjhSc2xYZWZNc2c?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "新北「清六食堂」疑便當中毒案148人就醫 病原為沙門氏菌 北檢分他字案偵辦",
+          "url": "https://news.google.com/rss/articles/CBMiigRBVV95cUxNcEIwTW55c1FFa1BnVVdqYUg3MzRrdGdjZjVsNmxDYkViVmw4QXRialhWWFFOelo2SVlVMWU5SFFXVG9nQ3ZXN0x2b3c4NWFxUnVPR2JjRDhra2UzNUtqSU1VQnplejRlRmtvZ2VQWFhyaTNDRVR3dVdaZV91U0h0bE5tUFdTX19sekI3RUVuR2FWUE1fc29uSk93ejRlLWVhMERkVzJpRjlDZTF3Tk5lSjU3SUYyVXh1a3RpdWVuVkJpeXJHM3JGMDdpZVdVYkY5TDB4NF9jNXl3b3JiZmt2NXR6MVNPdVpHc1pYR25vLTgyeU9zWHh4MDU4T19USTd0aUZyazNFbURHZ3E2eTR0aDFnUENfNVYtRDkyNFJWNGtlWVhmYkhGMlJlZHFOdWFwVU9iTFgwVG1MM3V5SExEWWhfbDhVMmN2bmwxNVlDNTl1aTc1S2RkQjd5cGR0SUpfdEZBc2J0WnY4RnIwV1BVWDFsSHhxUkQwTHN4Z1NpSmlmNkU4SXViQXBvR0dYMFNGU0dOdjhXZ01YWEF1c2FLaFVDYXI2dnVJdTkwY19tTHBncVJOeHMtTTlPcjdsLVVRSWFtTG11dm02N0NGeEdpMXZxLUdkVDNZNjZ1Ty05Z1JGSUdINVZIZWY4UUl3OUZYc3JMS3ViYXJPYmpjQzM0dDV6NjBxa2hIeGc?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiigRBVV95cUxNcEIwTW55c1FFa1BnVVdqYUg3MzRrdGdjZjVsNmxDYkViVmw4QXRialhWWFFOelo2SVlVMWU5SFFXVG9nQ3ZXN0x2b3c4NWFxUnVPR2JjRDhra2UzNUtqSU1VQnplejRlRmtvZ2VQWFhyaTNDRVR3dVdaZV91U0h0bE5tUFdTX19sekI3RUVuR2FWUE1fc29uSk93ejRlLWVhMERkVzJpRjlDZTF3Tk5lSjU3SUYyVXh1a3RpdWVuVkJpeXJHM3JGMDdpZVdVYkY5TDB4NF9jNXl3b3JiZmt2NXR6MVNPdVpHc1pYR25vLTgyeU9zWHh4MDU4T19USTd0aUZyazNFbURHZ3E2eTR0aDFnUENfNVYtRDkyNFJWNGtlWVhmYkhGMlJlZHFOdWFwVU9iTFgwVG1MM3V5SExEWWhfbDhVMmN2bmwxNVlDNTl1aTc1S2RkQjd5cGR0SUpfdEZBc2J0WnY4RnIwV1BVWDFsSHhxUkQwTHN4Z1NpSmlmNkU4SXViQXBvR0dYMFNGU0dOdjhXZ01YWEF1c2FLaFVDYXI2dnVJdTkwY19tTHBncVJOeHMtTTlPcjdsLVVRSWFtTG11dm02N0NGeEdpMXZxLUdkVDNZNjZ1Ty05Z1JGSUdINVZIZWY4UUl3OUZYc3JMS3ViYXJPYmpjQzM0dDV6NjBxa2hIeGc?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -210,17 +210,17 @@
           "package": ""
         },
         {
-          "text": "印度移工要來了！洪申翰：首批印度移工最快今年引進",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjdmMyMVBmMkFHWWpEaHZwcVVpWWVLOWwyUi1TQ1BJbnd0blplVXZMVFVRZnF2aXljc3IwZE4wTlRLdl9CTmZYdXNTTXV3dkRtN2ptN0YtVFpHLWFndHVz0gFkQVVfeXFMTVA0TjRMdHJoeURLalpCX296QV9NbXJPWHpPaUE0SXc4Ny0xamdUSWptbkJ0TXJkekcwNDl3aWIwZFptV2ROdFJHbld6YUxfd0FiMDgwQU12MFJKODYyMVpkZGFTMA?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjdmMyMVBmMkFHWWpEaHZwcVVpWWVLOWwyUi1TQ1BJbnd0blplVXZMVFVRZnF2aXljc3IwZE4wTlRLdl9CTmZYdXNTTXV3dkRtN2ptN0YtVFpHLWFndHVz0gFkQVVfeXFMTVA0TjRMdHJoeURLalpCX296QV9NbXJPWHpPaUE0SXc4Ny0xamdUSWptbkJ0TXJkekcwNDl3aWIwZFptV2ROdFJHbld6YUxfd0FiMDgwQU12MFJKODYyMVpkZGFTMA?oc=5",
+          "text": "洪申翰：首批印度移工最快今年引進",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE80eW9uNTVvQ3Q4SVExOHVKdWI1T1FZSUozelB2RnloaUctclhSWk9ZaEU3UldGSEs5N1FiN0dvTXlXMTNsVk5SZzh5M3VpRGRrcTREdE1HM0U4aEFzUkNv?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE80eW9uNTVvQ3Q4SVExOHVKdWI1T1FZSUozelB2RnloaUctclhSWk9ZaEU3UldGSEs5N1FiN0dvTXlXMTNsVk5SZzh5M3VpRGRrcTREdE1HM0U4aEFzUkNv?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "新北「清六食堂」疑便當中毒案148人就醫 病原為沙門氏菌 北檢分他字案偵辦",
-          "url": "https://news.google.com/rss/articles/CBMiigRBVV95cUxNcEIwTW55c1FFa1BnVVdqYUg3MzRrdGdjZjVsNmxDYkViVmw4QXRialhWWFFOelo2SVlVMWU5SFFXVG9nQ3ZXN0x2b3c4NWFxUnVPR2JjRDhra2UzNUtqSU1VQnplejRlRmtvZ2VQWFhyaTNDRVR3dVdaZV91U0h0bE5tUFdTX19sekI3RUVuR2FWUE1fc29uSk93ejRlLWVhMERkVzJpRjlDZTF3Tk5lSjU3SUYyVXh1a3RpdWVuVkJpeXJHM3JGMDdpZVdVYkY5TDB4NF9jNXl3b3JiZmt2NXR6MVNPdVpHc1pYR25vLTgyeU9zWHh4MDU4T19USTd0aUZyazNFbURHZ3E2eTR0aDFnUENfNVYtRDkyNFJWNGtlWVhmYkhGMlJlZHFOdWFwVU9iTFgwVG1MM3V5SExEWWhfbDhVMmN2bmwxNVlDNTl1aTc1S2RkQjd5cGR0SUpfdEZBc2J0WnY4RnIwV1BVWDFsSHhxUkQwTHN4Z1NpSmlmNkU4SXViQXBvR0dYMFNGU0dOdjhXZ01YWEF1c2FLaFVDYXI2dnVJdTkwY19tTHBncVJOeHMtTTlPcjdsLVVRSWFtTG11dm02N0NGeEdpMXZxLUdkVDNZNjZ1Ty05Z1JGSUdINVZIZWY4UUl3OUZYc3JMS3ViYXJPYmpjQzM0dDV6NjBxa2hIeGc?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiigRBVV95cUxNcEIwTW55c1FFa1BnVVdqYUg3MzRrdGdjZjVsNmxDYkViVmw4QXRialhWWFFOelo2SVlVMWU5SFFXVG9nQ3ZXN0x2b3c4NWFxUnVPR2JjRDhra2UzNUtqSU1VQnplejRlRmtvZ2VQWFhyaTNDRVR3dVdaZV91U0h0bE5tUFdTX19sekI3RUVuR2FWUE1fc29uSk93ejRlLWVhMERkVzJpRjlDZTF3Tk5lSjU3SUYyVXh1a3RpdWVuVkJpeXJHM3JGMDdpZVdVYkY5TDB4NF9jNXl3b3JiZmt2NXR6MVNPdVpHc1pYR25vLTgyeU9zWHh4MDU4T19USTd0aUZyazNFbURHZ3E2eTR0aDFnUENfNVYtRDkyNFJWNGtlWVhmYkhGMlJlZHFOdWFwVU9iTFgwVG1MM3V5SExEWWhfbDhVMmN2bmwxNVlDNTl1aTc1S2RkQjd5cGR0SUpfdEZBc2J0WnY4RnIwV1BVWDFsSHhxUkQwTHN4Z1NpSmlmNkU4SXViQXBvR0dYMFNGU0dOdjhXZ01YWEF1c2FLaFVDYXI2dnVJdTkwY19tTHBncVJOeHMtTTlPcjdsLVVRSWFtTG11dm02N0NGeEdpMXZxLUdkVDNZNjZ1Ty05Z1JGSUdINVZIZWY4UUl3OUZYc3JMS3ViYXJPYmpjQzM0dDV6NjBxa2hIeGc?oc=5",
+          "text": "鋒面減弱終於放晴！北部氣溫如洗三溫暖 下周天氣大翻轉",
+          "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxOaTNSWTRydW1Gcnk2cTZJVFZlc3FkNm9tcGl6YW1FdGF4SFY3ZDFHajhNbGdIakttSzdVVkVNaERDX0FvNFdMalRLQXZockVYbWtPcW1sTmJCLXB2MWhSY3RwLTl0WllnVmE5NWUxLUNkdy1EWlBobWZXeS1xdGlUUzd0eTdvd0lHdjNjNkhlR0lFYjVIQS1lTXE4dGR2VzluSXZFZ09oaHdPcFp3bWVSX0lheTZhVDk2dlltVG9WTTNGTHhfeE0wWVE2VnZlQl9CRnBJUUhsODlOWnVkLUtDQlBCRFl6c184aGU2bjY0Z1JWcmNxUE4xQTZQSnU3SWZOVUsxNzlEX3RBY3RKOFdEbUhJX1Vnci1vOHdueENzNWZBNVJ0ajQ1X1plU2hTY0duMzVQUXoxVGs1TENuX1otM0YweDFwWXZsMWRQZ2J3Zmx3UlcwajhENjgyd1VDcGk2RVJfX2JUWHFZLThQVm1sVWZNQlVJUQ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxOaTNSWTRydW1Gcnk2cTZJVFZlc3FkNm9tcGl6YW1FdGF4SFY3ZDFHajhNbGdIakttSzdVVkVNaERDX0FvNFdMalRLQXZockVYbWtPcW1sTmJCLXB2MWhSY3RwLTl0WllnVmE5NWUxLUNkdy1EWlBobWZXeS1xdGlUUzd0eTdvd0lHdjNjNkhlR0lFYjVIQS1lTXE4dGR2VzluSXZFZ09oaHdPcFp3bWVSX0lheTZhVDk2dlltVG9WTTNGTHhfeE0wWVE2VnZlQl9CRnBJUUhsODlOWnVkLUtDQlBCRFl6c184aGU2bjY0Z1JWcmNxUE4xQTZQSnU3SWZOVUsxNzlEX3RBY3RKOFdEbUhJX1Vnci1vOHdueENzNWZBNVJ0ajQ1X1plU2hTY0duMzVQUXoxVGs1TENuX1otM0YweDFwWXZsMWRQZ2J3Zmx3UlcwajhENjgyd1VDcGk2RVJfX2JUWHFZLThQVm1sVWZNQlVJUQ?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -234,6 +234,14 @@
           "package": ""
         },
         {
+          "text": "伊朗與沙烏地阿拉伯外長通話！戰爭後首次",
+          "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNUng0eUlqb2lab1gtRGhXd0x2THdtSUgzVVlJNVVuemtnZHhNbFVwQzlIT3RaZVdNMHpEblMxYWtZamo1Ul8wM0hmYnVaMnQxaVV1ejN3bjlfbnJ4RFYwZ1BsMENIX2VaZVhKVkdJUWNpY2lxeFpUUENSOFJrcmVnU3ItSkJWRWVWNDhRMFdvVU81czFSdDFrQVRKOGRWaUZvUW5XNTFhMU1LUjF4UWkybHhqai1HeXpleldoUEZFYmpfemhDdUJ1anVWTTJQRVg3MTlLVnZyYmxxQV84WG5sanFwN1gtVk5RUHVkQmJyTkMzaTd6eWhpVTA1OXd0RF9LbUhxYkpSRnpuQjBtQVhOazNMMFMzaEhlMTAwdGZnREdNXzktM21ZMDNhVjM?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNUng0eUlqb2lab1gtRGhXd0x2THdtSUgzVVlJNVVuemtnZHhNbFVwQzlIT3RaZVdNMHpEblMxYWtZamo1Ul8wM0hmYnVaMnQxaVV1ejN3bjlfbnJ4RFYwZ1BsMENIX2VaZVhKVkdJUWNpY2lxeFpUUENSOFJrcmVnU3ItSkJWRWVWNDhRMFdvVU81czFSdDFrQVRKOGRWaUZvUW5XNTFhMU1LUjF4UWkybHhqai1HeXpleldoUEZFYmpfemhDdUJ1anVWTTJQRVg3MTlLVnZyYmxxQV84WG5sanFwN1gtVk5RUHVkQmJyTkMzaTd6eWhpVTA1OXd0RF9LbUhxYkpSRnpuQjBtQVhOazNMMFMzaEhlMTAwdGZnREdNXzktM21ZMDNhVjM?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
           "text": "伊朗又關荷莫茲海峽公告替代航道白宮：無法接受",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GSThJNTZzMEFTNkU0NTRnQktaY2F5SjFSRFVLMktQRUI4OWNwcnc3Smw1dFAwVTlTMDhfVk1IcmU1OWc5LTdjWDBaODZGQ3RZY2N6Q0o0OWE5QkRBYlRj?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GSThJNTZzMEFTNkU0NTRnQktaY2F5SjFSRFVLMktQRUI4OWNwcnc3Smw1dFAwVTlTMDhfVk1IcmU1OWc5LTdjWDBaODZGQ3RZY2N6Q0o0OWE5QkRBYlRj?oc=5",
@@ -242,25 +250,17 @@
           "package": ""
         },
         {
-          "text": "談判黃了？伊朗駐巴國大使刪「代表團將抵」貼文 軍方同日喊備戰",
-          "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxPcEozU3NRelRWanc0U3QzaG1STDVkUVF2ZU8zUEZNMmNzVVFOZnVTN2d3QnlWZ0g0d05PYndPTWFZU3RWanpyaEJ3cHJRLUVMRndXUG9JOFF1T1RWUllKeHU5ejl2bXpFMUs3U0hzV1VaOG1nMkp3bXJSS0EtbjVHZ2h2bWFtTWZrakdtSHV0ejliTXJNVGoteVdwUzZkM01QLS1ZdkxNNUp6VjVpYmhHaUFfWlZ5dTV5dzI5T25wY0JrX0xfMy01OFNRcThUc3hyVXNsTHpTTGtfTkM3dGhET3E4NHhfOEcydXpERjJCZkQ1LWJuOVUyaEZaYldLOXNmMmZhc24yRGxXNkZsN0RLWmhLNVJWWFlSV1NBdEdfWW9tdUlDV1A0bEc1MVN1WDNZUVhZalNWeW50LVhEeXRMZWZLd3ptbWVpdDlTWmJHdTlaRUpyNlBpdjlHTTNsVENvT3UwZGRGazJrMUZKeHdfMmd0OTZqVElJUG9ibkhGZmNmR0lmMXVZQ0ZYb0RsdlAz?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMikANBVV95cUxPcEozU3NRelRWanc0U3QzaG1STDVkUVF2ZU8zUEZNMmNzVVFOZnVTN2d3QnlWZ0g0d05PYndPTWFZU3RWanpyaEJ3cHJRLUVMRndXUG9JOFF1T1RWUllKeHU5ejl2bXpFMUs3U0hzV1VaOG1nMkp3bXJSS0EtbjVHZ2h2bWFtTWZrakdtSHV0ejliTXJNVGoteVdwUzZkM01QLS1ZdkxNNUp6VjVpYmhHaUFfWlZ5dTV5dzI5T25wY0JrX0xfMy01OFNRcThUc3hyVXNsTHpTTGtfTkM3dGhET3E4NHhfOEcydXpERjJCZkQ1LWJuOVUyaEZaYldLOXNmMmZhc24yRGxXNkZsN0RLWmhLNVJWWFlSV1NBdEdfWW9tdUlDV1A0bEc1MVN1WDNZUVhZalNWeW50LVhEeXRMZWZLd3ptbWVpdDlTWmJHdTlaRUpyNlBpdjlHTTNsVENvT3UwZGRGazJrMUZKeHdfMmd0OTZqVElJUG9ibkhGZmNmR0lmMXVZQ0ZYb0RsdlAz?oc=5",
+          "text": "伊朗戰爭緊急狀態解除 以色列法院12日恢復納坦雅胡貪腐案審判",
+          "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxOT0xjeWtubkMxSkc2WUp2Z1cwQ0RZRlhXMXJlZW9tbjJjYW51X3hic3JtSWdjOFpBcEFLM0lIYUlrNU1RQ01aejhHUGRwdUFZbVlqM1pHa2xhUDNTU2pNWEVVb18xbDNGZkhmUVVuWjIzWFJNUHphM1p4Z2lBb0pObUhEOGJHSDlXVXRhVEZiUzdLNWxBUVVxdm0yUFptWTN2VGk1VGlMWlFhVzlxYUd1bHlMUE5jc1hvcWN3YngxQVNleWVPMGhBWEFKaGpQSFo0VmlfTXlfUkIzb0RoMjV3NWNnbW5RdUl1NEZfZkdtU3hQWmMxek01aDA0MlBaUUhWYzV1WlVkSXFCcWJaNTBUQjBieURIOFF6Q1FyLV9qeFZBMkQ3b0E0eHpiUUFEY21jNlJFQTdIZ1FJbEJlUzBXZHdUcmVqYVUzbnRQTElaQUp3bEJLTEViOTJpMlZMbXRxb2dnX0EzRk1qai1JMkhJNllRRWtGanhKRFNIdkJrLWVoWFk4U24zUHhYSTltV0Q2d0U2TnF6Q2VJQU0?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxOT0xjeWtubkMxSkc2WUp2Z1cwQ0RZRlhXMXJlZW9tbjJjYW51X3hic3JtSWdjOFpBcEFLM0lIYUlrNU1RQ01aejhHUGRwdUFZbVlqM1pHa2xhUDNTU2pNWEVVb18xbDNGZkhmUVVuWjIzWFJNUHphM1p4Z2lBb0pObUhEOGJHSDlXVXRhVEZiUzdLNWxBUVVxdm0yUFptWTN2VGk1VGlMWlFhVzlxYUd1bHlMUE5jc1hvcWN3YngxQVNleWVPMGhBWEFKaGpQSFo0VmlfTXlfUkIzb0RoMjV3NWNnbW5RdUl1NEZfZkdtU3hQWmMxek01aDA0MlBaUUhWYzV1WlVkSXFCcWJaNTBUQjBieURIOFF6Q1FyLV9qeFZBMkQ3b0E0eHpiUUFEY21jNlJFQTdIZ1FJbEJlUzBXZHdUcmVqYVUzbnRQTElaQUp3bEJLTEViOTJpMlZMbXRxb2dnX0EzRk1qai1JMkhJNllRRWtGanhKRFNIdkJrLWVoWFk4U24zUHhYSTltV0Q2d0U2TnF6Q2VJQU0?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "童子賢：不要浪費荷莫茲海峽這場能源危機",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9oS2xoNTd3WVk1ZjZRWkUyWHdHZTIyNVN0VUZHcV9jZktrbzZOc0I2ZlBhQ1dmTEpyT296Y0NZaVdZdDQ1aXlLcUFqb0RyMTRnMXZr0gFYQVVfeXFMTWNkeTczUFA1c3ctd09qbGpvbngzbXd2NkYwSUpQREkwU29WN1hoMmsyOC15UDZoY1kyeVNlQ3pfemlpd0wwNEJIQlluakdWUkVPWG0yYmU0Yw?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9oS2xoNTd3WVk1ZjZRWkUyWHdHZTIyNVN0VUZHcV9jZktrbzZOc0I2ZlBhQ1dmTEpyT296Y0NZaVdZdDQ1aXlLcUFqb0RyMTRnMXZr0gFYQVVfeXFMTWNkeTczUFA1c3ctd09qbGpvbngzbXd2NkYwSUpQREkwU29WN1hoMmsyOC15UDZoY1kyeVNlQ3pfemlpd0wwNEJIQlluakdWUkVPWG0yYmU0Yw?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "英特爾攜手Google擴大合作 強攻AI資料中心CPU布局",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE01VmRvTFhnTTJ4Z0xFUXNPaFlYZ3cyc0RYWmRtNk4xVDZTWkRyMTBjQUhNVWt1NHQzVnZKWVhCT0F6RFNpOVlxbEoxX1JJMXc?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE01VmRvTFhnTTJ4Z0xFUXNPaFlYZ3cyc0RYWmRtNk4xVDZTWkRyMTBjQUhNVWt1NHQzVnZKWVhCT0F6RFNpOVlxbEoxX1JJMXc?oc=5",
+          "text": "〈美股早盤〉美伊停火疑慮推升油價 主要指數走低",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBnNFNka2ZERjk5dUFsMUw4alVQak1HOGVzOHRKRkJwZ0RWNW5MVVJReTVlSkVpQ3hoNGVWQ0wtN29XYWRqWFVoV2IyY2VVR00?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBnNFNka2ZERjk5dUFsMUw4alVQak1HOGVzOHRKRkJwZ0RWNW5MVVJReTVlSkVpQ3hoNGVWQ0wtN29XYWRqWFVoV2IyY2VVR00?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -273,6 +273,6 @@
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 16,
+  "cost": 25,
   "status": 0
 }
