@@ -15,6 +15,14 @@
       "link_type": "app",
       "data": [
         {
+          "text": "Kevin Durant",
+          "url": "https://tw.search.yahoo.com/search?p=Kevin+Durant&amp;fr=ush-bt1",
+          "h5_url": "https://tw.search.yahoo.com/search?p=Kevin+Durant&amp;fr=ush-bt1",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_yahoo",
+          "package": ""
+        },
+        {
           "text": "白沙屯媽祖進香懶人包",
           "url": "https://tw.news.yahoo.com/2026%E7%99%BD%E6%B2%99%E5%B1%AF%E5%AA%BD%E7%A5%96%E9%80%B2%E9%A6%99311%E9%96%8B%E6%94%BE%E5%A0%B1%E5%90%8D%E3%80%81412%E6%B7%B1%E5%A4%9C%E8%B5%B7%E9%A7%95%EF%BC%81%E6%80%8E%E9%BA%BC%E5%A0%B1%E5%90%8D%E3%80%81%E9%80%B2%E9%A6%99%E8%A1%8C%E7%A8%8B%E8%A1%A8%E3%80%81%E7%9B%B4%E6%92%AD%E3%80%81gps-app%E4%B8%80%E6%AC%A1%E7%9C%8B-054312594.html",
           "h5_url": "https://tw.news.yahoo.com/2026%E7%99%BD%E6%B2%99%E5%B1%AF%E5%AA%BD%E7%A5%96%E9%80%B2%E9%A6%99311%E9%96%8B%E6%94%BE%E5%A0%B1%E5%90%8D%E3%80%81412%E6%B7%B1%E5%A4%9C%E8%B5%B7%E9%A7%95%EF%BC%81%E6%80%8E%E9%BA%BC%E5%A0%B1%E5%90%8D%E3%80%81%E9%80%B2%E9%A6%99%E8%A1%8C%E7%A8%8B%E8%A1%A8%E3%80%81%E7%9B%B4%E6%92%AD%E3%80%81gps-app%E4%B8%80%E6%AC%A1%E7%9C%8B-054312594.html",
@@ -125,14 +133,6 @@
           "appIconUrl": "",
           "sourceUniqueId": "content_yahoo",
           "package": ""
-        },
-        {
-          "text": "外媒：川普擬出招 全球搜捕伊朗影子艦隊",
-          "url": "https://tw.news.yahoo.com/%E5%B7%9D%E6%99%AE%E7%B6%93%E6%BF%9F%E6%80%92%E7%81%AB%E5%87%BA%E6%8B%9B-%E5%85%A8%E7%90%83%E6%90%9C%E6%8D%95%E4%BC%8A%E6%9C%97%E5%BD%B1%E5%AD%90%E8%89%A6%E9%9A%8A-060435167.html",
-          "h5_url": "https://tw.news.yahoo.com/%E5%B7%9D%E6%99%AE%E7%B6%93%E6%BF%9F%E6%80%92%E7%81%AB%E5%87%BA%E6%8B%9B-%E5%85%A8%E7%90%83%E6%90%9C%E6%8D%95%E4%BC%8A%E6%9C%97%E5%BD%B1%E5%AD%90%E8%89%A6%E9%9A%8A-060435167.html",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_yahoo",
-          "package": ""
         }
       ],
       "selectedStatus": false,
@@ -162,14 +162,6 @@
           "package": ""
         },
         {
-          "text": "川普對美伊戰事樂觀訊號連發 但與伊朗說法兜不攏",
-          "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxQVXlCV2lVY2NuWlZoTVZ1RzZlOUt1d1cxQXVFX2ZhMzhKZG9feTJqNzFETFRHUnZHeHVUY2RvVTk0QUM1SEhkZHNPWG9Gdmp6bl9GdldtVDh2ZG9fTC14cFJ6SWh3cjJEaEs2eWR4NFVnRXR5b0lGMUs3YVd4NUk0SHJOYjIxdHdHWjFhTGtCX25EeUdPcVY4Q2UxMlV1b0twUmpnLTJYbGtSSGJkLUtycEFsb1lSZDdoUWlkWmJ3WWoteE5qd05jMWRMQXpsU3F0cXFGNkhfeDlVd1hkSWdJMGhpcnE4QmlfR1pfU1hnZ2tRc2Fnd3drV0IxVXZvTU01S0lkanlNTDNKRHB6di1UUkVYZTl4eWhwaVV6Q2ZOdUpyRjY1VTl0bUxNUHFfNDk1S0xiSWgwLTJYNmN5am91MUZ6STVjS3dpRGRjMDhXNFJGY2ZTaU1lODE4aUNrOVp6a2VHV3Zwazd2ZDRmcWU0SGFzT2JxaV9CMkUtMDczTlQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMigANBVV95cUxQVXlCV2lVY2NuWlZoTVZ1RzZlOUt1d1cxQXVFX2ZhMzhKZG9feTJqNzFETFRHUnZHeHVUY2RvVTk0QUM1SEhkZHNPWG9Gdmp6bl9GdldtVDh2ZG9fTC14cFJ6SWh3cjJEaEs2eWR4NFVnRXR5b0lGMUs3YVd4NUk0SHJOYjIxdHdHWjFhTGtCX25EeUdPcVY4Q2UxMlV1b0twUmpnLTJYbGtSSGJkLUtycEFsb1lSZDdoUWlkWmJ3WWoteE5qd05jMWRMQXpsU3F0cXFGNkhfeDlVd1hkSWdJMGhpcnE4QmlfR1pfU1hnZ2tRc2Fnd3drV0IxVXZvTU01S0lkanlNTDNKRHB6di1UUkVYZTl4eWhwaVV6Q2ZOdUpyRjY1VTl0bUxNUHFfNDk1S0xiSWgwLTJYNmN5am91MUZ6STVjS3dpRGRjMDhXNFJGY2ZTaU1lODE4aUNrOVp6a2VHV3Zwazd2ZDRmcWU0SGFzT2JxaV9CMkUtMDczTlQ?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
           "text": "白沙屯媽祖心繫住院爐主阿公 「粉紅超跑」甩尾停駕童綜合",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE16NWl4a0NXaDNiS3pOU0FEdjdZUERDbFpZY2l4MW0tc2o3WWpRakozREFKd2NYMFA3ZUVkeTdObnZ5alFnY3p0ZXRBVEJEcDROazZHRTJYNUVydUE5a0JZZnNSNVfSAWpBVV95cUxQelpzbm5mUERwLWttYzNnWmx6SjQxeGJlbTVqb2VicXdlclVvSTlVc3Z4dDZFcF94YjctUHIyb1J4YVpZZ3l3UFA4bjZzdm81TnJzbEZjaktFTE1fbDBBLUdKMTh2dDlVbWtR?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE16NWl4a0NXaDNiS3pOU0FEdjdZUERDbFpZY2l4MW0tc2o3WWpRakozREFKd2NYMFA3ZUVkeTdObnZ5alFnY3p0ZXRBVEJEcDROazZHRTJYNUVydUE5a0JZZnNSNVfSAWpBVV95cUxQelpzbm5mUERwLWttYzNnWmx6SjQxeGJlbTVqb2VicXdlclVvSTlVc3Z4dDZFcF94YjctUHIyb1J4YVpZZ3l3UFA4bjZzdm81TnJzbEZjaktFTE1fbDBBLUdKMTh2dDlVbWtR?oc=5",
@@ -181,6 +173,14 @@
           "text": "影／大甲媽起駕千里眼落地 民俗專家提醒顏清標二件事都應驗",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZMnNZLUF5dl9TMU9iSFFlTDgybHBDS2tKaDFvdjRzUFBUcXZSZFR6Z2M3SUtxNEl2YjBhYW9neDRmakYwRWlGRDRQZUVCZWNmdFHSAVdBVV95cUxQNlBhZy1GUi1XcDRnRTdtSzItTEZ0ZGxtbVpJejM5cEs1MGhBYi1XLXJHdDdVWkhFM21Jb082WEdid2xOVnZiMGVDOVNyZGlraWZfS2ExODA?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZMnNZLUF5dl9TMU9iSFFlTDgybHBDS2tKaDFvdjRzUFBUcXZSZFR6Z2M3SUtxNEl2YjBhYW9neDRmakYwRWlGRDRQZUVCZWNmdFHSAVdBVV95cUxQNlBhZy1GUi1XcDRnRTdtSzItTEZ0ZGxtbVpJejM5cEs1MGhBYi1XLXJHdDdVWkhFM21Jb082WEdid2xOVnZiMGVDOVNyZGlraWZfS2ExODA?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "川普對美伊戰事樂觀訊號連發 但與伊朗說法兜不攏",
+          "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxQVXlCV2lVY2NuWlZoTVZ1RzZlOUt1d1cxQXVFX2ZhMzhKZG9feTJqNzFETFRHUnZHeHVUY2RvVTk0QUM1SEhkZHNPWG9Gdmp6bl9GdldtVDh2ZG9fTC14cFJ6SWh3cjJEaEs2eWR4NFVnRXR5b0lGMUs3YVd4NUk0SHJOYjIxdHdHWjFhTGtCX25EeUdPcVY4Q2UxMlV1b0twUmpnLTJYbGtSSGJkLUtycEFsb1lSZDdoUWlkWmJ3WWoteE5qd05jMWRMQXpsU3F0cXFGNkhfeDlVd1hkSWdJMGhpcnE4QmlfR1pfU1hnZ2tRc2Fnd3drV0IxVXZvTU01S0lkanlNTDNKRHB6di1UUkVYZTl4eWhwaVV6Q2ZOdUpyRjY1VTl0bUxNUHFfNDk1S0xiSWgwLTJYNmN5am91MUZ6STVjS3dpRGRjMDhXNFJGY2ZTaU1lODE4aUNrOVp6a2VHV3Zwazd2ZDRmcWU0SGFzT2JxaV9CMkUtMDczTlQ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMigANBVV95cUxQVXlCV2lVY2NuWlZoTVZ1RzZlOUt1d1cxQXVFX2ZhMzhKZG9feTJqNzFETFRHUnZHeHVUY2RvVTk0QUM1SEhkZHNPWG9Gdmp6bl9GdldtVDh2ZG9fTC14cFJ6SWh3cjJEaEs2eWR4NFVnRXR5b0lGMUs3YVd4NUk0SHJOYjIxdHdHWjFhTGtCX25EeUdPcVY4Q2UxMlV1b0twUmpnLTJYbGtSSGJkLUtycEFsb1lSZDdoUWlkWmJ3WWoteE5qd05jMWRMQXpsU3F0cXFGNkhfeDlVd1hkSWdJMGhpcnE4QmlfR1pfU1hnZ2tRc2Fnd3drV0IxVXZvTU01S0lkanlNTDNKRHB6di1UUkVYZTl4eWhwaVV6Q2ZOdUpyRjY1VTl0bUxNUHFfNDk1S0xiSWgwLTJYNmN5am91MUZ6STVjS3dpRGRjMDhXNFJGY2ZTaU1lODE4aUNrOVp6a2VHV3Zwazd2ZDRmcWU0SGFzT2JxaV9CMkUtMDczTlQ?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -202,9 +202,17 @@
           "package": ""
         },
         {
-          "text": "別被惠台政策騙了！陸委會：中國人都躺平窮遊了還在陸客來台",
-          "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQMXZHOHVtYVJXV0xTbnYzOHVsME5XdUtxTEhMa2w2V2dOUjd4RXlDcFpJN0NVSFhvSHZ6M2VDUnZMUkpyVEtFZm9UNGpGZzUzUGxNNGJJZWp3cjYwZzZNUEFDYlMtZHdCazE5bUZXNk84VlIwZWY3TjBZUWZDZkhCbi1sWmprVlJWUmVaaFI2SUhJQ3ctd1hNQjZUanBkX1Fnem0tREROMkdLMVJIV0ZMRzRmTmpYVG53aGY0VFpIX0RUeTZrVXRreEVVSnZIdENId0Jjc0pYZUlPY0ZrQUtsNWktN2pCUGcxb3FpYnQtWU0tQTIxNHBFdUdlWHpfZnh6cW56NzBpMEgzUEZIQ09sMndwTjJFZC1WQjhhZGRaSzlvWWtVSExBVkx0TWhHUE1sVG5lN0hzQlFfbUdfX1d0dmpJNldDSWU2NlBDdVBGb0NnVEUzQ2RJX3FMbXZ2bFBwdzh1WC10SV9FbnB5Wk1Rd2dwaEtBbzBwWDRfTm5uemdUa3Atc3hRczM5R2xLZw?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQMXZHOHVtYVJXV0xTbnYzOHVsME5XdUtxTEhMa2w2V2dOUjd4RXlDcFpJN0NVSFhvSHZ6M2VDUnZMUkpyVEtFZm9UNGpGZzUzUGxNNGJJZWp3cjYwZzZNUEFDYlMtZHdCazE5bUZXNk84VlIwZWY3TjBZUWZDZkhCbi1sWmprVlJWUmVaaFI2SUhJQ3ctd1hNQjZUanBkX1Fnem0tREROMkdLMVJIV0ZMRzRmTmpYVG53aGY0VFpIX0RUeTZrVXRreEVVSnZIdENId0Jjc0pYZUlPY0ZrQUtsNWktN2pCUGcxb3FpYnQtWU0tQTIxNHBFdUdlWHpfZnh6cW56NzBpMEgzUEZIQ09sMndwTjJFZC1WQjhhZGRaSzlvWWtVSExBVkx0TWhHUE1sVG5lN0hzQlFfbUdfX1d0dmpJNldDSWU2NlBDdVBGb0NnVEUzQ2RJX3FMbXZ2bFBwdzh1WC10SV9FbnB5Wk1Rd2dwaEtBbzBwWDRfTm5uemdUa3Atc3hRczM5R2xLZw?oc=5",
+          "text": "商總聯合七大公會挺中共10項惠台政策 王定宇批：以商逼政",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1oRktPYlVXdE9oa28xREdzZkpiQ2RLaVppZmNnVGVYYWEtbG5FUDh4NWEzeF9QWjNZNENFdmdhdllLcU53bmV5MmJyX2IzWWNvaTdn0gFYQVVfeXFMTXhURURoblp3X1FfcFB6elFoQUJLekNkbU9aeUZCVGpZWGZ5RXE5MzBxMXM5VlNtaFlINUhQTEZ1M2p6TlByeFZxV3MwVTFHWlQwOThFYmtiUg?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1oRktPYlVXdE9oa28xREdzZkpiQ2RLaVppZmNnVGVYYWEtbG5FUDh4NWEzeF9QWjNZNENFdmdhdllLcU53bmV5MmJyX2IzWWNvaTdn0gFYQVVfeXFMTXhURURoblp3X1FfcFB6elFoQUJLekNkbU9aeUZCVGpZWGZ5RXE5MzBxMXM5VlNtaFlINUhQTEZ1M2p6TlByeFZxV3MwVTFHWlQwOThFYmtiUg?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "趙少康拋「善意」軍購匡列8100億！ 陳冠廷提3階段推進路徑",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5SVnN1ekpwazdsTjcyUDVVQVlCUXpuN1pfZV9sSEFkYS1WTjVVdXRvNEk0Ml9leUt5dXlvYllxcVhzV0t0bG5YTTN0SXJqTE9DYzFqNno0WlkyZlktejN6ODBxQ3NpcS1rTGfSAW9BVV95cUxOYkRfVjZVWV9BT3lnVndzTmo0VGxuX1JJNU1ZLV9ScWdvTHZ6SXFNWnE1amZVbGZRV0h6YTUwTmtCVmtJTjNmTDFsWDhVNGxELTNqZktEQndjdTZMRjRtRHFUalJaMXFLUGNJbU9yV0E?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5SVnN1ekpwazdsTjcyUDVVQVlCUXpuN1pfZV9sSEFkYS1WTjVVdXRvNEk0Ml9leUt5dXlvYllxcVhzV0t0bG5YTTN0SXJqTE9DYzFqNno0WlkyZlktejN6ODBxQ3NpcS1rTGfSAW9BVV95cUxOYkRfVjZVWV9BT3lnVndzTmo0VGxuX1JJNU1ZLV9ScWdvTHZ6SXFNWnE1amZVbGZRV0h6YTUwTmtCVmtJTjNmTDFsWDhVNGxELTNqZktEQndjdTZMRjRtRHFUalJaMXFLUGNJbU9yV0E?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -218,25 +226,9 @@
           "package": ""
         },
         {
-          "text": "沈伯洋選北市長呼聲高 簡舒培示警：「紅色通緝令」帶來重大挑戰",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nUzhWcjJHak95cEtBRVFoZkZ2ZGVLRDMzNDhwSUx3OGZWTUxOV2xHZ2IxNm5Kd0ZOenJGLUVtYU1rY09ycFdxbkRKQmpIQUxVajdnVW1aemNIOUFScW5fZmMzYTZDT1p5NXfSAW9BVV95cUxQX2h3eXVETUE1SlRLTUlqcHlzLWZIZnU4VHpLcVMtTjNrajB6RkdKQ0R3dU1zMzlwN1NDSTJzQzZLQXJadWd3VkdOdlAteURvX1pVS2hNYTNiTFBlM1dsRDRnbDkyOVU4VDg3b2hTT0U?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nUzhWcjJHak95cEtBRVFoZkZ2ZGVLRDMzNDhwSUx3OGZWTUxOV2xHZ2IxNm5Kd0ZOenJGLUVtYU1rY09ycFdxbkRKQmpIQUxVajdnVW1aemNIOUFScW5fZmMzYTZDT1p5NXfSAW9BVV95cUxQX2h3eXVETUE1SlRLTUlqcHlzLWZIZnU4VHpLcVMtTjNrajB6RkdKQ0R3dU1zMzlwN1NDSTJzQzZLQXJadWd3VkdOdlAteURvX1pVS2hNYTNiTFBlM1dsRDRnbDkyOVU4VDg3b2hTT0U?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
           "text": "美再爆校園槍擊案 愛荷華大學「多人」受傷",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90LU1xc3F5Wk1TM0V1VUc4amVMM2djVmMzT0poSDQ0eHNldEJMUVdMZ1RmU2FfTHRONk84LURidnFOLVhSWFJ2WjJ5RjVCZ0otRVNPbUNkV0M0V3BFY0dzZnptX0FJQdIBa0FVX3lxTE9Ka2VidlkzYlhtYk5PdU82aG8ySzJGU1JHNjNfUjNka1p6VzlYalFxYS1QbmR3SDUyd0pBenZLdl80NGhNN2FLZzhJUU9UWUU2M2g5a3ltdTlSVTZWR09RTi1hVFdkcGZmTEpJ?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90LU1xc3F5Wk1TM0V1VUc4amVMM2djVmMzT0poSDQ0eHNldEJMUVdMZ1RmU2FfTHRONk84LURidnFOLVhSWFJ2WjJ5RjVCZ0otRVNPbUNkV0M0V3BFY0dzZnptX0FJQdIBa0FVX3lxTE9Ka2VidlkzYlhtYk5PdU82aG8ySzJGU1JHNjNfUjNka1p6VzlYalFxYS1QbmR3SDUyd0pBenZLdl80NGhNN2FLZzhJUU9UWUU2M2g5a3ltdTlSVTZWR09RTi1hVFdkcGZmTEpJ?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "新加坡46歲男「走私1公斤大麻」判死刑！　當局證實：已處決",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBaWWRqaEFwSDBJZEFaMmd4Tml2NlhlWWgzTjhoYkc4SmNzT0h3TWlQSy01LXNndDJQM2JrV3d2cmZSY3dmdjFjSU5YRFdHRnF5c0JfNGlxdFcxVVZzcXfSAWhBVV95cUxQRDZoaHgySWp3ZVY5akVQeTdreEhmTkFvZUtvQXpfVXNGWWZjVzFVWDZPOHU4WG9hTllXa3dxZmw3S29yYURYWE9hdVI0TGtJSEtfaHNrSG11TG52UEFrbk9PajN3ckZNLQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBaWWRqaEFwSDBJZEFaMmd4Tml2NlhlWWgzTjhoYkc4SmNzT0h3TWlQSy01LXNndDJQM2JrV3d2cmZSY3dmdjFjSU5YRFdHRnF5c0JfNGlxdFcxVVZzcXfSAWhBVV95cUxQRDZoaHgySWp3ZVY5akVQeTdreEhmTkFvZUtvQXpfVXNGWWZjVzFVWDZPOHU4WG9hTllXa3dxZmw3S29yYURYWE9hdVI0TGtJSEtfaHNrSG11TG52UEFrbk9PajN3ckZNLQ?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -250,9 +242,17 @@
           "package": ""
         },
         {
-          "text": "美伊停火將到期「前領袖哈米尼仍未下葬」！他驚揭伊朗背後盤算",
-          "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxONTRhQXVpMEpfWWktY05ZSEVsR0hDeDkzZk9aN0hXWHpuN2UxWTRjMk9fU1pSM3ZTeHF2dW1rWVVPZ1FsTjFwSU9NNGFfWG1qb0NPMjQ3T0NUczhKQXJKa1pwX090aElZdVd6LWZTVEJYRnZmZ283WjBiY29KeVMzRDd2SUtwdnZyOW5HQjd5dHFiZXlfaXdOQVF4VWpzUzNnaGxpQXd4cU1ISHR3dmE1aTFtQVUzZ2V3YW0xMEQ4MzNWc1JBV2dKSVJLWEpsVm5oak9kR3dKZHZCMHJhZy1UTWhTZFpQSjJVSjRNYzZPRlNiVzVDTDdmeUptS05ZekRhVUU0U2pibnZOMHdURlRTQ2RXVjhHYVFVUkQzdW5Zc2VOSlRNai11NnNGcEIyYkhTM3g5UWhMYjA3dmVjQWs4TE5QRGpRSm5xbzNHbUJJRzRYSnRXZ29wSGFHbUEtYVRxcGMwLUJsdnVveDB3YWR3ZEQxc0d5b1pNNk9RRVA0bXdRTTItZTF0NV9JNXFydw?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxONTRhQXVpMEpfWWktY05ZSEVsR0hDeDkzZk9aN0hXWHpuN2UxWTRjMk9fU1pSM3ZTeHF2dW1rWVVPZ1FsTjFwSU9NNGFfWG1qb0NPMjQ3T0NUczhKQXJKa1pwX090aElZdVd6LWZTVEJYRnZmZ283WjBiY29KeVMzRDd2SUtwdnZyOW5HQjd5dHFiZXlfaXdOQVF4VWpzUzNnaGxpQXd4cU1ISHR3dmE1aTFtQVUzZ2V3YW0xMEQ4MzNWc1JBV2dKSVJLWEpsVm5oak9kR3dKZHZCMHJhZy1UTWhTZFpQSjJVSjRNYzZPRlNiVzVDTDdmeUptS05ZekRhVUU0U2pibnZOMHdURlRTQ2RXVjhHYVFVUkQzdW5Zc2VOSlRNai11NnNGcEIyYkhTM3g5UWhMYjA3dmVjQWs4TE5QRGpRSm5xbzNHbUJJRzRYSnRXZ29wSGFHbUEtYVRxcGMwLUJsdnVveDB3YWR3ZEQxc0d5b1pNNk9RRVA0bXdRTTItZTF0NV9JNXFydw?oc=5",
+          "text": "外媒曝川普為伊朗戰爭超焦慮！怒吼官員數小時 腦中重播1危機畫面",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAyekxUQ2o0TkdNTUdUNENWdndCb0hoNHB6ay1YQlNWcGtkVUxDaXY5azczcDRHWFl5ek9HZW1rcTNPNFlrLVkxeWhGYktDYkl0cVZB0gFYQVVfeXFMT2dyWnlfZlBoTnE5NXp4WW5KV3Z6ODFnLXZ2MVNGbERMSllzeFdraV9uZTR4T1NSVWxHU21mUE1kZ0NIOEsyYWY2VnZLTVhaWTRKTDYySDZURQ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAyekxUQ2o0TkdNTUdUNENWdndCb0hoNHB6ay1YQlNWcGtkVUxDaXY5azczcDRHWFl5ek9HZW1rcTNPNFlrLVkxeWhGYktDYkl0cVZB0gFYQVVfeXFMT2dyWnlfZlBoTnE5NXp4WW5KV3Z6ODFnLXZ2MVNGbERMSllzeFdraV9uZTR4T1NSVWxHU21mUE1kZ0NIOEsyYWY2VnZLTVhaWTRKTDYySDZURQ?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "新加坡46歲男「走私1公斤大麻」判死刑！　當局證實：已處決",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBaWWRqaEFwSDBJZEFaMmd4Tml2NlhlWWgzTjhoYkc4SmNzT0h3TWlQSy01LXNndDJQM2JrV3d2cmZSY3dmdjFjSU5YRFdHRnF5c0JfNGlxdFcxVVZzcXfSAWhBVV95cUxQRDZoaHgySWp3ZVY5akVQeTdreEhmTkFvZUtvQXpfVXNGWWZjVzFVWDZPOHU4WG9hTllXa3dxZmw3S29yYURYWE9hdVI0TGtJSEtfaHNrSG11TG52UEFrbk9PajN3ckZNLQ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBaWWRqaEFwSDBJZEFaMmd4Tml2NlhlWWgzTjhoYkc4SmNzT0h3TWlQSy01LXNndDJQM2JrV3d2cmZSY3dmdjFjSU5YRFdHRnF5c0JfNGlxdFcxVVZzcXfSAWhBVV95cUxQRDZoaHgySWp3ZVY5akVQeTdreEhmTkFvZUtvQXpfVXNGWWZjVzFVWDZPOHU4WG9hTllXa3dxZmw3S29yYURYWE9hdVI0TGtJSEtfaHNrSG11TG52UEFrbk9PajN3ckZNLQ?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -273,6 +273,6 @@
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 40,
+  "cost": 49,
   "status": 0
 }
