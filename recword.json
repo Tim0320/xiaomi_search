@@ -15,14 +15,6 @@
       "link_type": "app",
       "data": [
         {
-          "text": "Kevin Durant",
-          "url": "https://tw.search.yahoo.com/search?p=Kevin+Durant&amp;fr=ush-bt1",
-          "h5_url": "https://tw.search.yahoo.com/search?p=Kevin+Durant&amp;fr=ush-bt1",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_yahoo",
-          "package": ""
-        },
-        {
           "text": "白沙屯媽祖進香懶人包",
           "url": "https://tw.news.yahoo.com/2026%E7%99%BD%E6%B2%99%E5%B1%AF%E5%AA%BD%E7%A5%96%E9%80%B2%E9%A6%99311%E9%96%8B%E6%94%BE%E5%A0%B1%E5%90%8D%E3%80%81412%E6%B7%B1%E5%A4%9C%E8%B5%B7%E9%A7%95%EF%BC%81%E6%80%8E%E9%BA%BC%E5%A0%B1%E5%90%8D%E3%80%81%E9%80%B2%E9%A6%99%E8%A1%8C%E7%A8%8B%E8%A1%A8%E3%80%81%E7%9B%B4%E6%92%AD%E3%80%81gps-app%E4%B8%80%E6%AC%A1%E7%9C%8B-054312594.html",
           "h5_url": "https://tw.news.yahoo.com/2026%E7%99%BD%E6%B2%99%E5%B1%AF%E5%AA%BD%E7%A5%96%E9%80%B2%E9%A6%99311%E9%96%8B%E6%94%BE%E5%A0%B1%E5%90%8D%E3%80%81412%E6%B7%B1%E5%A4%9C%E8%B5%B7%E9%A7%95%EF%BC%81%E6%80%8E%E9%BA%BC%E5%A0%B1%E5%90%8D%E3%80%81%E9%80%B2%E9%A6%99%E8%A1%8C%E7%A8%8B%E8%A1%A8%E3%80%81%E7%9B%B4%E6%92%AD%E3%80%81gps-app%E4%B8%80%E6%AC%A1%E7%9C%8B-054312594.html",
@@ -55,14 +47,6 @@
           "package": ""
         },
         {
-          "text": "白沙屯媽祖北返回鑾 進香現場實況、目前位置一次看",
-          "url": "https://tw.news.yahoo.com/%E7%99%BD%E6%B2%99%E5%B1%AF%E5%AA%BD%E7%A5%96%E7%9B%AE%E5%89%8D%E4%BD%8D%E7%BD%AE-419%E7%9B%B4%E6%92%AD%E3%80%81%E8%B7%AF%E7%B7%9A%E3%80%81%E5%8D%B3%E6%99%82%E5%AE%9A%E4%BD%8D%E4%B8%80%E6%AC%A1%E7%9C%8B-003900924.html",
-          "h5_url": "https://tw.news.yahoo.com/%E7%99%BD%E6%B2%99%E5%B1%AF%E5%AA%BD%E7%A5%96%E7%9B%AE%E5%89%8D%E4%BD%8D%E7%BD%AE-419%E7%9B%B4%E6%92%AD%E3%80%81%E8%B7%AF%E7%B7%9A%E3%80%81%E5%8D%B3%E6%99%82%E5%AE%9A%E4%BD%8D%E4%B8%80%E6%AC%A1%E7%9C%8B-003900924.html",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_yahoo",
-          "package": ""
-        },
-        {
           "text": "大甲媽祖遶境現場實況、現在位置、路線一次看",
           "url": "https://tw.news.yahoo.com/%E5%A4%A7%E7%94%B2%E5%AA%BD%E7%A5%96%E9%81%B6%E5%A2%83%E9%80%B2%E9%A6%99419%E7%9B%B4%E6%92%AD%E3%80%81%E7%8F%BE%E5%9C%A8%E4%BD%8D%E7%BD%AE%E3%80%81%E8%B7%AF%E7%B7%9A%E3%80%81%E5%8D%B3%E6%99%82%E5%AE%9A%E4%BD%8D%E4%B8%80%E6%AC%A1%E7%9C%8B-002000715.html",
           "h5_url": "https://tw.news.yahoo.com/%E5%A4%A7%E7%94%B2%E5%AA%BD%E7%A5%96%E9%81%B6%E5%A2%83%E9%80%B2%E9%A6%99419%E7%9B%B4%E6%92%AD%E3%80%81%E7%8F%BE%E5%9C%A8%E4%BD%8D%E7%BD%AE%E3%80%81%E8%B7%AF%E7%B7%9A%E3%80%81%E5%8D%B3%E6%99%82%E5%AE%9A%E4%BD%8D%E4%B8%80%E6%AC%A1%E7%9C%8B-002000715.html",
@@ -79,9 +63,25 @@
           "package": ""
         },
         {
-          "text": "李灝宇登大聯盟 記者揪手套亮點",
-          "url": "https://tw.sports.yahoo.com/news/%E6%8A%8A-%E5%9C%8B%E6%97%97-%E7%B9%A1%E6%89%8B%E5%A5%97%E7%8D%B2%E5%A4%A7%E8%81%AF%E7%9B%9F%E5%AE%98%E7%B6%B2%E8%A8%98%E8%80%85%E7%9B%9B%E8%AE%9A%E5%B7%A7%E6%80%9D-%E8%80%81%E8%99%8E%E7%A4%BE%E7%BE%A4%E4%BB%8B%E7%B4%B9%E6%9D%8E%E7%81%9D%E5%AE%87-%E4%BE%86%E8%87%AA%E5%8F%B0%E7%81%A3-225621382.html",
-          "h5_url": "https://tw.sports.yahoo.com/news/%E6%8A%8A-%E5%9C%8B%E6%97%97-%E7%B9%A1%E6%89%8B%E5%A5%97%E7%8D%B2%E5%A4%A7%E8%81%AF%E7%9B%9F%E5%AE%98%E7%B6%B2%E8%A8%98%E8%80%85%E7%9B%9B%E8%AE%9A%E5%B7%A7%E6%80%9D-%E8%80%81%E8%99%8E%E7%A4%BE%E7%BE%A4%E4%BB%8B%E7%B4%B9%E6%9D%8E%E7%81%9D%E5%AE%87-%E4%BE%86%E8%87%AA%E5%8F%B0%E7%81%A3-225621382.html",
+          "text": "京都男童命案 繼父曾搜尋「棄屍」",
+          "url": "https://tw.news.yahoo.com/%E6%97%A5%E6%9C%AC%E4%BA%AC%E9%83%BD11%E6%AD%B2%E7%94%B7%E7%AB%A5%E5%91%BD%E6%A1%88-%E7%B9%BC%E7%88%B6%E7%A8%B1%E3%80%8C%E8%BC%89%E5%BE%80%E5%AD%B8%E6%A0%A1%E5%BE%8C%E5%B8%B6%E5%88%B0%E5%85%B6%E4%BB%96%E5%9C%B0%E6%96%B9%E6%AE%BA%E5%AE%B3%E3%80%8D-070047490.html",
+          "h5_url": "https://tw.news.yahoo.com/%E6%97%A5%E6%9C%AC%E4%BA%AC%E9%83%BD11%E6%AD%B2%E7%94%B7%E7%AB%A5%E5%91%BD%E6%A1%88-%E7%B9%BC%E7%88%B6%E7%A8%B1%E3%80%8C%E8%BC%89%E5%BE%80%E5%AD%B8%E6%A0%A1%E5%BE%8C%E5%B8%B6%E5%88%B0%E5%85%B6%E4%BB%96%E5%9C%B0%E6%96%B9%E6%AE%BA%E5%AE%B3%E3%80%8D-070047490.html",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_yahoo",
+          "package": ""
+        },
+        {
+          "text": "美媒：美將全球搜捕伊朗影子艦隊",
+          "url": "https://tw.news.yahoo.com/%E5%B7%9D%E6%99%AE%E7%B6%93%E6%BF%9F%E6%80%92%E7%81%AB%E5%87%BA%E6%8B%9B-%E5%85%A8%E7%90%83%E6%90%9C%E6%8D%95%E4%BC%8A%E6%9C%97%E5%BD%B1%E5%AD%90%E8%89%A6%E9%9A%8A-060435167.html",
+          "h5_url": "https://tw.news.yahoo.com/%E5%B7%9D%E6%99%AE%E7%B6%93%E6%BF%9F%E6%80%92%E7%81%AB%E5%87%BA%E6%8B%9B-%E5%85%A8%E7%90%83%E6%90%9C%E6%8D%95%E4%BC%8A%E6%9C%97%E5%BD%B1%E5%AD%90%E8%89%A6%E9%9A%8A-060435167.html",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_yahoo",
+          "package": ""
+        },
+        {
+          "text": "「臭到拔頭髮」名店 疑插旗碧潭",
+          "url": "https://tw.news.yahoo.com/%E8%87%AD%E5%88%B0%E8%AE%93%E4%BA%BA%E6%8B%94%E9%A0%AD%E9%AB%AE-%E8%87%AD%E8%B1%86%E8%85%90%E5%90%8D%E5%BA%97%E9%80%B2%E8%BB%8D%E7%A2%A7%E6%BD%AD-%E5%B7%A8%E5%A4%A7%E6%8B%9B%E7%89%8C%E6%9B%9D%E5%85%89-%E5%B1%85%E6%B0%91%E5%B4%A9%E6%BD%B0-%E7%85%A7%E4%B8%89%E9%A4%90%E6%AA%A2%E8%88%89-054200719.html",
+          "h5_url": "https://tw.news.yahoo.com/%E8%87%AD%E5%88%B0%E8%AE%93%E4%BA%BA%E6%8B%94%E9%A0%AD%E9%AB%AE-%E8%87%AD%E8%B1%86%E8%85%90%E5%90%8D%E5%BA%97%E9%80%B2%E8%BB%8D%E7%A2%A7%E6%BD%AD-%E5%B7%A8%E5%A4%A7%E6%8B%9B%E7%89%8C%E6%9B%9D%E5%85%89-%E5%B1%85%E6%B0%91%E5%B4%A9%E6%BD%B0-%E7%85%A7%E4%B8%89%E9%A4%90%E6%AA%A2%E8%88%89-054200719.html",
           "appIconUrl": "",
           "sourceUniqueId": "content_yahoo",
           "package": ""
@@ -95,14 +95,6 @@
           "package": ""
         },
         {
-          "text": "搬來住嗎？西班牙40人村莊祭誘因",
-          "url": "https://tw.news.yahoo.com/%E4%BA%BA%E5%8F%A3%E5%A4%AA%E5%B0%91-%E8%A5%BF%E7%8F%AD%E7%89%99%E6%9D%91%E8%8E%8A%E6%8B%9B%E5%8B%9F%E6%96%B0%E5%B1%85%E6%B0%91-131900167.html",
-          "h5_url": "https://tw.news.yahoo.com/%E4%BA%BA%E5%8F%A3%E5%A4%AA%E5%B0%91-%E8%A5%BF%E7%8F%AD%E7%89%99%E6%9D%91%E8%8E%8A%E6%8B%9B%E5%8B%9F%E6%96%B0%E5%B1%85%E6%B0%91-131900167.html",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_yahoo",
-          "package": ""
-        },
-        {
           "text": "茶葉蛋吃錯恐傷血管 營養師揭2地雷",
           "url": "https://tw.news.yahoo.com/%E8%8C%B6%E8%91%89%E8%9B%8B%E5%90%83%E9%8C%AF%E6%81%90%E5%82%B7%E8%A1%80%E7%AE%A1-%E7%87%9F%E9%A4%8A%E5%B8%AB%E6%8F%AD-2%E5%9C%B0%E9%9B%B7-%E8%B6%8A%E5%85%A5%E5%91%B3%E8%B6%8A%E5%8D%B1%E9%9A%AA-031800388.html",
           "h5_url": "https://tw.news.yahoo.com/%E8%8C%B6%E8%91%89%E8%9B%8B%E5%90%83%E9%8C%AF%E6%81%90%E5%82%B7%E8%A1%80%E7%AE%A1-%E7%87%9F%E9%A4%8A%E5%B8%AB%E6%8F%AD-2%E5%9C%B0%E9%9B%B7-%E8%B6%8A%E5%85%A5%E5%91%B3%E8%B6%8A%E5%8D%B1%E9%9A%AA-031800388.html",
@@ -111,9 +103,17 @@
           "package": ""
         },
         {
-          "text": "馬桶沖衛生紙會塞？環境部釋疑",
-          "url": "https://tw.news.yahoo.com/%E9%A6%AC%E6%A1%B6%E6%B2%96%E8%A1%9B%E7%94%9F%E7%B4%99%E6%9C%83%E5%A1%9E-%E7%92%B0%E5%A2%83%E9%83%A8%E6%8F%AD%E5%AF%86-%E9%80%99%E5%8E%9F%E5%9B%A0-%E7%99%BE%E5%B9%B4%E6%88%BF%E5%AD%90%E9%83%BD%E4%B8%8D%E6%9C%83%E5%A1%9E-000000746.html",
-          "h5_url": "https://tw.news.yahoo.com/%E9%A6%AC%E6%A1%B6%E6%B2%96%E8%A1%9B%E7%94%9F%E7%B4%99%E6%9C%83%E5%A1%9E-%E7%92%B0%E5%A2%83%E9%83%A8%E6%8F%AD%E5%AF%86-%E9%80%99%E5%8E%9F%E5%9B%A0-%E7%99%BE%E5%B9%B4%E6%88%BF%E5%AD%90%E9%83%BD%E4%B8%8D%E6%9C%83%E5%A1%9E-000000746.html",
+          "text": "搬來住嗎？西班牙40人村莊祭誘因",
+          "url": "https://tw.news.yahoo.com/%E4%BA%BA%E5%8F%A3%E5%A4%AA%E5%B0%91-%E8%A5%BF%E7%8F%AD%E7%89%99%E6%9D%91%E8%8E%8A%E6%8B%9B%E5%8B%9F%E6%96%B0%E5%B1%85%E6%B0%91-131900167.html",
+          "h5_url": "https://tw.news.yahoo.com/%E4%BA%BA%E5%8F%A3%E5%A4%AA%E5%B0%91-%E8%A5%BF%E7%8F%AD%E7%89%99%E6%9D%91%E8%8E%8A%E6%8B%9B%E5%8B%9F%E6%96%B0%E5%B1%85%E6%B0%91-131900167.html",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_yahoo",
+          "package": ""
+        },
+        {
+          "text": "科學界示警 今年恐出現「超級聖嬰」",
+          "url": "https://tw.news.yahoo.com/%E4%BB%8A%E5%B9%B4%E6%81%90%E5%87%BA%E7%8F%BE%E3%80%8C%E8%B6%85%E7%B4%9A%E8%81%96%E5%AC%B0%E3%80%8D%EF%BC%81%E5%B0%88%E5%AE%B6%E7%A4%BA%E8%AD%A6%EF%BC%9A%E5%85%A8%E7%90%83%E6%A5%B5%E7%AB%AF%E6%B0%A3%E5%80%99%E9%A2%A8%E9%9A%AA%E5%8D%87%E9%AB%98-013043934.html",
+          "h5_url": "https://tw.news.yahoo.com/%E4%BB%8A%E5%B9%B4%E6%81%90%E5%87%BA%E7%8F%BE%E3%80%8C%E8%B6%85%E7%B4%9A%E8%81%96%E5%AC%B0%E3%80%8D%EF%BC%81%E5%B0%88%E5%AE%B6%E7%A4%BA%E8%AD%A6%EF%BC%9A%E5%85%A8%E7%90%83%E6%A5%B5%E7%AB%AF%E6%B0%A3%E5%80%99%E9%A2%A8%E9%9A%AA%E5%8D%87%E9%AB%98-013043934.html",
           "appIconUrl": "",
           "sourceUniqueId": "content_yahoo",
           "package": ""
@@ -127,9 +127,9 @@
           "package": ""
         },
         {
-          "text": "科學界示警 今年恐出現「超級聖嬰」",
-          "url": "https://tw.news.yahoo.com/%E4%BB%8A%E5%B9%B4%E6%81%90%E5%87%BA%E7%8F%BE%E3%80%8C%E8%B6%85%E7%B4%9A%E8%81%96%E5%AC%B0%E3%80%8D%EF%BC%81%E5%B0%88%E5%AE%B6%E7%A4%BA%E8%AD%A6%EF%BC%9A%E5%85%A8%E7%90%83%E6%A5%B5%E7%AB%AF%E6%B0%A3%E5%80%99%E9%A2%A8%E9%9A%AA%E5%8D%87%E9%AB%98-013043934.html",
-          "h5_url": "https://tw.news.yahoo.com/%E4%BB%8A%E5%B9%B4%E6%81%90%E5%87%BA%E7%8F%BE%E3%80%8C%E8%B6%85%E7%B4%9A%E8%81%96%E5%AC%B0%E3%80%8D%EF%BC%81%E5%B0%88%E5%AE%B6%E7%A4%BA%E8%AD%A6%EF%BC%9A%E5%85%A8%E7%90%83%E6%A5%B5%E7%AB%AF%E6%B0%A3%E5%80%99%E9%A2%A8%E9%9A%AA%E5%8D%87%E9%AB%98-013043934.html",
+          "text": "李貞秀上政論搶鏡 主持人曝名牌價",
+          "url": "https://tw.news.yahoo.com/%E6%9D%8E%E8%B2%9E%E7%A7%80%E4%B8%8A%E7%AF%80%E7%9B%AE%E7%88%86%E7%A0%B4-%E5%85%A8%E8%BA%AB%E5%90%8D%E7%89%8C-%E8%B6%85%E6%90%B6%E7%9C%BC-%E9%A9%9A%E4%BA%BA%E5%83%B9%E6%A0%BC%E6%9B%9D%E5%85%89-023650968.html",
+          "h5_url": "https://tw.news.yahoo.com/%E6%9D%8E%E8%B2%9E%E7%A7%80%E4%B8%8A%E7%AF%80%E7%9B%AE%E7%88%86%E7%A0%B4-%E5%85%A8%E8%BA%AB%E5%90%8D%E7%89%8C-%E8%B6%85%E6%90%B6%E7%9C%BC-%E9%A9%9A%E4%BA%BA%E5%83%B9%E6%A0%BC%E6%9B%9D%E5%85%89-023650968.html",
           "appIconUrl": "",
           "sourceUniqueId": "content_yahoo",
           "package": ""
@@ -154,14 +154,6 @@
           "package": ""
         },
         {
-          "text": "又慢了！大甲媽到彰化市晚了330分鐘 通過民生地下道預估出爐",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBTLXJCNW4tZG1qOGd6QjJhMEhUTllQU09aYnJCa3ZYeW1BRVpRSDFwZGJyMGhocVBwSDEzcU5iVms1bThYczhWU0kyeUxjbm9wRVJLZTRFUGswY2tsaG9xa1FxTnnSAWpBVV95cUxPc2t1TFlPTGJTZUJIOUhFT3pjMlJpbHVCRXVhMG5WY1dGV29sWEFibVdDQVZQS2pONDFIN1dRbS1feVNVN2Y1RHVqU3Azem51THFJSjJBaHg2M1N2QnhRQjZzQ3EzZmtfeHh3?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBTLXJCNW4tZG1qOGd6QjJhMEhUTllQU09aYnJCa3ZYeW1BRVpRSDFwZGJyMGhocVBwSDEzcU5iVms1bThYczhWU0kyeUxjbm9wRVJLZTRFUGswY2tsaG9xa1FxTnnSAWpBVV95cUxPc2t1TFlPTGJTZUJIOUhFT3pjMlJpbHVCRXVhMG5WY1dGV29sWEFibVdDQVZQS2pONDFIN1dRbS1feVNVN2Y1RHVqU3Azem51THFJSjJBaHg2M1N2QnhRQjZzQ3EzZmtfeHh3?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
           "text": "睽違20年「世紀雙媽會」成真？大甲媽、白沙屯媽最新路線曝光",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4tTldZMmZpZGVuNktaS3YzbEk2OWpacFFiWjN5N3dPc3NwUGdrMFZBUDlPMXotRXZMU01TeDdBVWZKS05oeU11aV9sREZlOVpwTEHSAVdBVV95cUxOdVdBd1AzN0l4clBvTTdoMlhLNjUzS3owU2ZVVkQ5dzJxZkdDb0VBWS04MXhYVDJZVktCeTUwZk1mTzcxLTVuTzRXMGlFMnNhb0NjM1RNdFE?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4tTldZMmZpZGVuNktaS3YzbEk2OWpacFFiWjN5N3dPc3NwUGdrMFZBUDlPMXotRXZMU01TeDdBVWZKS05oeU11aV9sREZlOVpwTEHSAVdBVV95cUxOdVdBd1AzN0l4clBvTTdoMlhLNjUzS3owU2ZVVkQ5dzJxZkdDb0VBWS04MXhYVDJZVktCeTUwZk1mTzcxLTVuTzRXMGlFMnNhb0NjM1RNdFE?oc=5",
@@ -179,16 +171,24 @@
         },
         {
           "text": "沈玉琳罹「急性骨髓性白血病」現身說法 醫示警4大警訊錯過恐送命",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9qMVlEbnFYQ0hjTnMwRkcydW1UajdqM0NtcWJ4S092TXhGeVZpUEZkU1BFMzktRVdCY0xSQlFnaU1wR1FvbEMzWlpwVktTdS1p?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9qMVlEbnFYQ0hjTnMwRkcydW1UajdqM0NtcWJ4S092TXhGeVZpUEZkU1BFMzktRVdCY0xSQlFnaU1wR1FvbEMzWlpwVktTdS1p?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9qMVlEbnFYQ0hjTnMwRkcydW1UajdqM0NtcWJ4S092TXhGeVZpUEZkU1BFMzktRVdCY0xSQlFnaU1wR1FvbEMzWlpwVktTdS1p0gFWQVVfeXFMTURUd05uUHIxZU5UajVyaVZHOVAweUMzYlplMWhrclU3LVF2WW9nUzhBSlFwdS1NNnIyNVQ3bUh2X3Bna2JPMkRSYkJkUDhZamp5aUVwUnc?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9qMVlEbnFYQ0hjTnMwRkcydW1UajdqM0NtcWJ4S092TXhGeVZpUEZkU1BFMzktRVdCY0xSQlFnaU1wR1FvbEMzWlpwVktTdS1p0gFWQVVfeXFMTURUd05uUHIxZU5UajVyaVZHOVAweUMzYlplMWhrclU3LVF2WW9nUzhBSlFwdS1NNnIyNVQ3bUh2X3Bna2JPMkRSYkJkUDhZamp5aUVwUnc?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "曹興誠嗆蔣萬安「不敢跟沈伯洋辯論」 他笑答：最不敢跟太太辯論",
-          "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxOaTZlZFZ3NGV4a1B3V09Ra2FFbFl2Wi1hN0xib1dzSnpUT3FVYWZPMFgwWmo1bkpOU3lGWHdpdDZISGV0bm40QXZWQ1JVcFRfX1hEVVI5TXFab2ZFZUp6ellfWC1lOVR4M3lhcHNSOUZPVlc1T3I1elhrMXBoYVAxTV8yUjhDbEF5STFGMFNMVjNUUWhBZVZOb0hVcXdnMmRzeXhUMGxDTDJzXzJyTlNzODhKWXVRUEFwMTUyeTNGSVFUVlZINjZQcGlzdTBub3VBUFJTdTA1aXl1bHBpRjM0TWxPSFBSZ1B0VTNhT3FfQ1FqOG05azlRNUlQYzdWZ3lQZXJLNTN0WmxTZ0VVUEk1c0FSR1JjLW44WGltQW5xaGVsbUpzRnhONE4yRWdSc1FZcGJxR01BcDRDRnExYzZzdjdGSzZGUHM0UzB1ODdXMUxuOFRFdXA3NllXQ3gtaE1EZTQ4cE1yWWlRQlFuel9tU2x4c1pad2RrRzg4RG5rQ2s2ZGhRSmlRMGcwWUVYSmc?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxOaTZlZFZ3NGV4a1B3V09Ra2FFbFl2Wi1hN0xib1dzSnpUT3FVYWZPMFgwWmo1bkpOU3lGWHdpdDZISGV0bm40QXZWQ1JVcFRfX1hEVVI5TXFab2ZFZUp6ellfWC1lOVR4M3lhcHNSOUZPVlc1T3I1elhrMXBoYVAxTV8yUjhDbEF5STFGMFNMVjNUUWhBZVZOb0hVcXdnMmRzeXhUMGxDTDJzXzJyTlNzODhKWXVRUEFwMTUyeTNGSVFUVlZINjZQcGlzdTBub3VBUFJTdTA1aXl1bHBpRjM0TWxPSFBSZ1B0VTNhT3FfQ1FqOG05azlRNUlQYzdWZ3lQZXJLNTN0WmxTZ0VVUEk1c0FSR1JjLW44WGltQW5xaGVsbUpzRnhONE4yRWdSc1FZcGJxR01BcDRDRnExYzZzdjdGSzZGUHM0UzB1ODdXMUxuOFRFdXA3NllXQ3gtaE1EZTQ4cE1yWWlRQlFuel9tU2x4c1pad2RrRzg4RG5rQ2s2ZGhRSmlRMGcwWUVYSmc?oc=5",
+          "text": "又慢了！大甲媽到彰化市晚了330分鐘 通過民生地下道預估出爐",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBTLXJCNW4tZG1qOGd6QjJhMEhUTllQU09aYnJCa3ZYeW1BRVpRSDFwZGJyMGhocVBwSDEzcU5iVms1bThYczhWU0kyeUxjbm9wRVJLZTRFUGswY2tsaG9xa1FxTnnSAWpBVV95cUxPc2t1TFlPTGJTZUJIOUhFT3pjMlJpbHVCRXVhMG5WY1dGV29sWEFibVdDQVZQS2pONDFIN1dRbS1feVNVN2Y1RHVqU3Azem51THFJSjJBaHg2M1N2QnhRQjZzQ3EzZmtfeHh3?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBTLXJCNW4tZG1qOGd6QjJhMEhUTllQU09aYnJCa3ZYeW1BRVpRSDFwZGJyMGhocVBwSDEzcU5iVms1bThYczhWU0kyeUxjbm9wRVJLZTRFUGswY2tsaG9xa1FxTnnSAWpBVV95cUxPc2t1TFlPTGJTZUJIOUhFT3pjMlJpbHVCRXVhMG5WY1dGV29sWEFibVdDQVZQS2pONDFIN1dRbS1feVNVN2Y1RHVqU3Azem51THFJSjJBaHg2M1N2QnhRQjZzQ3EzZmtfeHh3?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "注意！一現象 恐衝擊全球",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB4T3U0OVJMVkZiSUNiNEFSYVdURktXUzZhZFJSS1lNbE1fYnd4Z2FFQ3pOTTAtMDZ3ZTNCVGF0Q3I2QzdOMFVEbUtZWk5oaUFJV1hSZg?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB4T3U0OVJMVkZiSUNiNEFSYVdURktXUzZhZFJSS1lNbE1fYnd4Z2FFQ3pOTTAtMDZ3ZTNCVGF0Q3I2QzdOMFVEbUtZWk5oaUFJV1hSZg?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -202,25 +202,25 @@
           "package": ""
         },
         {
-          "text": "商總聯手七大公協會挺中共十項陸委會：勿成施壓政府工具",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mdHpaRDI1WHJubjB1aUZYazhhNXJQLS16MWMzU1BabU5nUkZuR0FJczRNd2lYcEhRUzBnZk1aZUxNTnBMcFlRYXI0ckM1d2FhOEU2QUZjNzNYd2c?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mdHpaRDI1WHJubjB1aUZYazhhNXJQLS16MWMzU1BabU5nUkZuR0FJczRNd2lYcEhRUzBnZk1aZUxNTnBMcFlRYXI0ckM1d2FhOEU2QUZjNzNYd2c?oc=5",
+          "text": "商總擬動員7大公協會表態大陸惠台措施 陸委會：拒被中方利用施壓",
+          "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxOMjNJbmRMWGtWNE1VRnNXaV9hZUVUeE1JeFAxNFhRaWRJUjdsQ2ZuVHVhX2NNWVFBMUNhYWNpWXYwSkkxNFNfYkNNOGZ3R0loWFdldnlqSWd0aG9MMTlJM1FxbWNaOG5mLVJTb25OTXN5SVdoMzZwajBOTmpKS2hNWVBxUDlKTTlaVS0wMDJBcHU1TVZGakR0X3UybkpHZXZZZ2JoY2ZGS0hOSWU4eURhTVhEbU5vRjF1Y3B6d1V4RGtqaDlGeTYtRG50N2pQYnJqVVFoSENCdE1kUENZaUdCTnJFaUcxN0loeDJTenlqZ2FpeVE5bUwyY1ZVZXpPWE84UDdSTXZUVWhnYWNzWGE2S3VsU05BWXM5RDByLWl0Zm1IanZrdEtaY3E1Z29wNm5OTUFVbGRESEd2NmdCQ0tNQng4Z0tWV0gtYUx3ai1PT2pHRDZ4dVNLMy1kUjdYSVNvT2NFWV8wakY4T0xZeUsyMS1SeTIwTFc3RTh6dnNaRXhDWm00V0h0ZkNuN0JxVTRjWDFUNFFSdFpqVE5ySzYzQTE0TWVBa28?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxOMjNJbmRMWGtWNE1VRnNXaV9hZUVUeE1JeFAxNFhRaWRJUjdsQ2ZuVHVhX2NNWVFBMUNhYWNpWXYwSkkxNFNfYkNNOGZ3R0loWFdldnlqSWd0aG9MMTlJM1FxbWNaOG5mLVJTb25OTXN5SVdoMzZwajBOTmpKS2hNWVBxUDlKTTlaVS0wMDJBcHU1TVZGakR0X3UybkpHZXZZZ2JoY2ZGS0hOSWU4eURhTVhEbU5vRjF1Y3B6d1V4RGtqaDlGeTYtRG50N2pQYnJqVVFoSENCdE1kUENZaUdCTnJFaUcxN0loeDJTenlqZ2FpeVE5bUwyY1ZVZXpPWE84UDdSTXZUVWhnYWNzWGE2S3VsU05BWXM5RDByLWl0Zm1IanZrdEtaY3E1Z29wNm5OTUFVbGRESEd2NmdCQ0tNQng4Z0tWV0gtYUx3ai1PT2pHRDZ4dVNLMy1kUjdYSVNvT2NFWV8wakY4T0xZeUsyMS1SeTIwTFc3RTh6dnNaRXhDWm00V0h0ZkNuN0JxVTRjWDFUNFFSdFpqVE5ySzYzQTE0TWVBa28?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "耗水費貴？林口電廠故障翡翠水庫發電救急 消耗400萬人一天用水",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9OeFlIdzdTTWtZNGNNbFJUWEM4RGlIUlBKRU4ybEs2MVFzdlhqOXF0Tzd0UVU1VHF6eklmc3I2Z3dOeEN4amlqcFNfYXJJMTJu0gFWQVVfeXFMTkFPQ3diYlAzeFBwNTkxbDNTUUxqVzFteVRCN1UyX3ZUWnA1dktpWThJZnR4aVYzdzRjcXhIRm1xNFBJNE1JTk05endhOUkzNGFWY25Ncmc?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9OeFlIdzdTTWtZNGNNbFJUWEM4RGlIUlBKRU4ybEs2MVFzdlhqOXF0Tzd0UVU1VHF6eklmc3I2Z3dOeEN4amlqcFNfYXJJMTJu0gFWQVVfeXFMTkFPQ3diYlAzeFBwNTkxbDNTUUxqVzFteVRCN1UyX3ZUWnA1dktpWThJZnR4aVYzdzRjcXhIRm1xNFBJNE1JTk05endhOUkzNGFWY25Ncmc?oc=5",
+          "text": "曹興誠挺沈伯洋選北市 她怒挖大罷免慘敗史",
+          "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNVXBVUWV1VEgydnlNcUV5bHhnMUJHSFBwN2lFZnBfVERvWllHcUk0a2RSdU9jX0pwTXlZX3N4eFJ4c2kxT1lHYmhjcUtWSUR0RVpFejhidGNnMjJBRG9vck1UTUwzcGJUZGIxVENqU29IZWJzRnRzeFN0Z3lIV0NjNU12YkxPbWJqb0ZELXV6dU9tZUNDRnREVEJPLXh4dl9La29xMmpoMVJQTFIxQW9vUkZsTFdjRW5HT3Y2QWxlZGhTdzU4Qzh4bmFONmVQQ3ZXazlGSXgzWElhcU9pVFV0bng1c0tzaHNYTlpVeE5CQUE4RDZFMWkxOFpKaW5kRF9PTlZteE03VE5pblFfMWtxSG9XQWNReS0tclQ0RFlQX05NQTJJb2FqTEtkaTl3YldIUzdlYVRJNWY?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNVXBVUWV1VEgydnlNcUV5bHhnMUJHSFBwN2lFZnBfVERvWllHcUk0a2RSdU9jX0pwTXlZX3N4eFJ4c2kxT1lHYmhjcUtWSUR0RVpFejhidGNnMjJBRG9vck1UTUwzcGJUZGIxVENqU29IZWJzRnRzeFN0Z3lIV0NjNU12YkxPbWJqb0ZELXV6dU9tZUNDRnREVEJPLXh4dl9La29xMmpoMVJQTFIxQW9vUkZsTFdjRW5HT3Y2QWxlZGhTdzU4Qzh4bmFONmVQQ3ZXazlGSXgzWElhcU9pVFV0bng1c0tzaHNYTlpVeE5CQUE4RDZFMWkxOFpKaW5kRF9PTlZteE03VE5pblFfMWtxSG9XQWNReS0tclQ0RFlQX05NQTJJb2FqTEtkaTl3YldIUzdlYVRJNWY?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "李貞秀上節目爆破「全身名牌」超搶眼！驚人價格曝光",
-          "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxOUGE2WU04TFZja0M5V2VZZHFBSXhsVTgxUFROUXpMMWhJSFg0STNJRklzUmk4cVdNQUwwZjhhMS1yN2U5NnlDbDVUT3NNUG1LbjRCbzNEZUFfU05aQ2JJcUt1Z252RFZuQUhOUzlJVFhTMjdYUGZVZ0U1amhSVkEwWVl2LW05REoyVkVDeUN1ZVJORFNoZEstQW9MTlFxV1lnUG9GTzJZQTRKRHpzSmNURG9MSjVNdkg4bHJ1czRZOWVBdnFjdlhVTHp0Yk9iRVh6OWdsclIwTzlvSlh4eFJFbF9OeVVpdy14V0t6Q2syYmxOYWV5aEJNdGl1SVFtcHNxNTAtaHppbDhiQmFUOWJfQmQtcFhreWlNcG9vYkh4UmU3dkNCaTRIdEsyOGZ3WXRuZXpQWm1YMFF2ckNmdzJIZU9WRU5adThCcTJoWWd4NkFjcGs?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxOUGE2WU04TFZja0M5V2VZZHFBSXhsVTgxUFROUXpMMWhJSFg0STNJRklzUmk4cVdNQUwwZjhhMS1yN2U5NnlDbDVUT3NNUG1LbjRCbzNEZUFfU05aQ2JJcUt1Z252RFZuQUhOUzlJVFhTMjdYUGZVZ0U1amhSVkEwWVl2LW05REoyVkVDeUN1ZVJORFNoZEstQW9MTlFxV1lnUG9GTzJZQTRKRHpzSmNURG9MSjVNdkg4bHJ1czRZOWVBdnFjdlhVTHp0Yk9iRVh6OWdsclIwTzlvSlh4eFJFbF9OeVVpdy14V0t6Q2syYmxOYWV5aEJNdGl1SVFtcHNxNTAtaHppbDhiQmFUOWJfQmQtcFhreWlNcG9vYkh4UmU3dkNCaTRIdEsyOGZ3WXRuZXpQWm1YMFF2ckNmdzJIZU9WRU5adThCcTJoWWd4NkFjcGs?oc=5",
+          "text": "翡翠水庫「敲詐」台電？他們同聲批蔣萬安「無恥」",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94eklYQ1FNcTgxZnRCN2hRcWY2Q1ExZG44SWFuT0lMd244OTJYWVdueUI5T1dSbTFrdXlLYktKTmZ6Wi1IelZzMk9iRjIwdHBSZm1zSmZVTEs2azg?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94eklYQ1FNcTgxZnRCN2hRcWY2Q1ExZG44SWFuT0lMd244OTJYWVdueUI5T1dSbTFrdXlLYktKTmZ6Wi1IelZzMk9iRjIwdHBSZm1zSmZVTEs2azg?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -242,17 +242,17 @@
           "package": ""
         },
         {
-          "text": "極樂船隊？美媒：環保少女童貝里團體領導人 與3女志工不當性關係",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdFlKOHh6VG9mYU1nbGc0QXY4eTBkN0xJekNIS1hTa0lpZlNNVmptUDZXZGo5cnNtUy1Sd3p5MVJrWVQ5bzVENXNwTXJlT2pVNk1ud3lNRTU2OWNsV2k1Q0NvNjU5M2dyeHZyZmw3TjhfdzV4eHktdTVzc21QeTQ0MG9LVGdPaXQ0ZlE?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdFlKOHh6VG9mYU1nbGc0QXY4eTBkN0xJekNIS1hTa0lpZlNNVmptUDZXZGo5cnNtUy1Sd3p5MVJrWVQ5bzVENXNwTXJlT2pVNk1ud3lNRTU2OWNsV2k1Q0NvNjU5M2dyeHZyZmw3TjhfdzV4eHktdTVzc21QeTQ0MG9LVGdPaXQ0ZlE?oc=5",
+          "text": "無懼美方威脅？伊朗副外長稱川普「推文很多」 下一輪美伊和談未敲定日期| 美以轟炸伊朗",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5FVmRvb2x6NE1XVWdGSXZValpqLWlvc0RrdlViWlVhUzd2eThNWFV3aGNvLWdqd0RPU2Y5c2hmUDY4TEF1dnRWOEd2SE9lOXVneUZj?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5FVmRvb2x6NE1XVWdGSXZValpqLWlvc0RrdlViWlVhUzd2eThNWFV3aGNvLWdqd0RPU2Y5c2hmUDY4TEF1dnRWOEd2SE9lOXVneUZj?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "喪禮變格鬥場！正宮、小三靈堂激戰打到棺材開蓋遺體暴露| 奇聞不要看",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBjek9hV2pfZ21iWVFiVWhmQ2gtTS1GV0lMUU1ZQ0FROUkzb3NLSEw1RlpmaVJPTEJIUDZLel9ldWcyY3FiQ0w3Y2taMDdHT1dN?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBjek9hV2pfZ21iWVFiVWhmQ2gtTS1GV0lMUU1ZQ0FROUkzb3NLSEw1RlpmaVJPTEJIUDZLel9ldWcyY3FiQ0w3Y2taMDdHT1dN?oc=5",
+          "text": "極樂船隊？美媒：環保少女童貝里團體領導人 與3女志工不當性關係",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdFlKOHh6VG9mYU1nbGc0QXY4eTBkN0xJekNIS1hTa0lpZlNNVmptUDZXZGo5cnNtUy1Sd3p5MVJrWVQ5bzVENXNwTXJlT2pVNk1ud3lNRTU2OWNsV2k1Q0NvNjU5M2dyeHZyZmw3TjhfdzV4eHktdTVzc21QeTQ0MG9LVGdPaXQ0ZlE?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdFlKOHh6VG9mYU1nbGc0QXY4eTBkN0xJekNIS1hTa0lpZlNNVmptUDZXZGo5cnNtUy1Sd3p5MVJrWVQ5bzVENXNwTXJlT2pVNk1ud3lNRTU2OWNsV2k1Q0NvNjU5M2dyeHZyZmw3TjhfdzV4eHktdTVzc21QeTQ0MG9LVGdPaXQ0ZlE?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -273,6 +273,6 @@
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 37,
+  "cost": 14,
   "status": 0
 }
