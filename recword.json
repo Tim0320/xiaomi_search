@@ -146,9 +146,25 @@
       "link_type": "app",
       "data": [
         {
+          "text": "快訊／伊朗開火了！貨輪無視警告 遭軍方「重創」",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9zdFMyOGF1RmJIRi14NGw0Z3RCSEUzZzl0V19XN0pQaDZQdlRHUUxNMUhTbTFGamY0cWtfb2FNcUoxdTJFajNwemlZV244VGVFSE5R?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9zdFMyOGF1RmJIRi14NGw0Z3RCSEUzZzl0V19XN0pQaDZQdlRHUUxNMUhTbTFGamY0cWtfb2FNcUoxdTJFajNwemlZV244VGVFSE5R?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
           "text": "全台濕涼大變天　鋒面雨帶橫掃2天「紅爆大雷雨」+強風來襲",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2TzNENXROeWhQOVp1TXgxV2hzaFFBYVZjeGJENWppWG9wMnpvNFRwa2IxbHVQOUJ6UkVVd2p2SDk5X1QyaHpLWmsxMHM5OEs3bzRXdkpYQ1l4LVpvVHfSAWhBVV95cUxOZlZhRU9NMlRmRHJ5YWtjZTVEUzA3TU1aLTdSUGpKYUZtNFNtb19QSS1aR0QtQmZBcnMyblRSa2VwNmt1M1h6NDgwWDVwSDBkSkNXaGdRQ3NRY3NLZl9LajRwbUstQ1d5cw?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2TzNENXROeWhQOVp1TXgxV2hzaFFBYVZjeGJENWppWG9wMnpvNFRwa2IxbHVQOUJ6UkVVd2p2SDk5X1QyaHpLWmsxMHM5OEs3bzRXdkpYQ1l4LVpvVHfSAWhBVV95cUxOZlZhRU9NMlRmRHJ5YWtjZTVEUzA3TU1aLTdSUGpKYUZtNFNtb19QSS1aR0QtQmZBcnMyblRSa2VwNmt1M1h6NDgwWDVwSDBkSkNXaGdRQ3NRY3NLZl9LajRwbUstQ1d5cw?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "川普無限期延長美伊停火白宮證實范斯不赴巴基斯坦談判",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5leFVYMGNSSnhUYVlkX21icUZtQ3NoaE9kNHl1ek15YkNlaDk4T05lNVZfNFR2MldFY2F0Q2VfNDdmMVVac3NZd1dBalpKZkxNNWpPdkxPS191VVFqMnRN?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5leFVYMGNSSnhUYVlkX21icUZtQ3NoaE9kNHl1ek15YkNlaDk4T05lNVZfNFR2MldFY2F0Q2VfNDdmMVVac3NZd1dBalpKZkxNNWpPdkxPS191VVFqMnRN?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -170,14 +186,6 @@
           "package": ""
         },
         {
-          "text": "分局長誤噴辣椒水遭拔官周榆修：柯文哲、黃國昌愣住認處分太重",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84UkRSSVd6UWN3bzhsbEprbm5kVFBMZDRuMTlZQ0ZMR2JMSl8xb1RER0I3U0k3OEowZmF2WDJST1JmSkJSaWRoWWJrOV9hYUJtb2ZVVEVOelRmeTQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84UkRSSVd6UWN3bzhsbEprbm5kVFBMZDRuMTlZQ0ZMR2JMSl8xb1RER0I3U0k3OEowZmF2WDJST1JmSkJSaWRoWWJrOV9hYUJtb2ZVVEVOelRmeTQ?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
           "text": "太空照揭護國神山「斬颱刀」現形！網驚喊：難怪颱風被切爛",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5SX0pLVEt4X3ExckxrWGY2cTB0Z3RBeExiQkdjN3MtRXdCOERpZ3d0ZEloMVFqSU9xYmhKVTdZcEhrODNxelU1MUhUbS1tQWxxbzlzNmU0SFc2ZUJRc2J6N1dmTmbSAWpBVV95cUxPVUVpNE1jQWFUUkw3SFBHOVlUdUJVTXRsMjYyQTd1T2NYR2hmZmNnUDRzMVE5SXlwamZlY3NrZ1BobE5TSm5DUVFYSkg5b3ZsNmN1emJZVklQSU9ZY0s1dFZSaWJQY25jaFB3?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5SX0pLVEt4X3ExckxrWGY2cTB0Z3RBeExiQkdjN3MtRXdCOERpZ3d0ZEloMVFqSU9xYmhKVTdZcEhrODNxelU1MUhUbS1tQWxxbzlzNmU0SFc2ZUJRc2J6N1dmTmbSAWpBVV95cUxPVUVpNE1jQWFUUkw3SFBHOVlUdUJVTXRsMjYyQTd1T2NYR2hmZmNnUDRzMVE5SXlwamZlY3NrZ1BobE5TSm5DUVFYSkg5b3ZsNmN1emJZVklQSU9ZY0s1dFZSaWJQY25jaFB3?oc=5",
@@ -186,9 +194,9 @@
           "package": ""
         },
         {
-          "text": "快訊／伊朗開火了！貨輪無視警告 遭軍方「重創」",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9zdFMyOGF1RmJIRi14NGw0Z3RCSEUzZzl0V19XN0pQaDZQdlRHUUxNMUhTbTFGamY0cWtfb2FNcUoxdTJFajNwemlZV244VGVFSE5R?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9zdFMyOGF1RmJIRi14NGw0Z3RCSEUzZzl0V19XN0pQaDZQdlRHUUxNMUhTbTFGamY0cWtfb2FNcUoxdTJFajNwemlZV244VGVFSE5R?oc=5",
+          "text": "黃國昌不道歉！王世堅：綠營有專屬辣椒水？",
+          "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNNmJ6aEdyVld1R05lTnFZYzRaRmtoQVRjaWNXdWsxM1VWN2VocDNkRlFILU84TzlWYWJaLVJaQU9razc1dDZNYUZsLTJrOEJKNDZNelBwNk9EMWdtdmNNTGhqZGdwanJBeVJYWGdSR2NQVU5FYlRRSGI2VmE3anJoTHJEMTRHNUgweG8tOURIU3JjdW9MZUxseXA1dnFVdmxIdkU2SnpZWjQ5RUxlR3BTT1hzbHVKc3Q2eUNucE1mWkp5X2VKQUc1Vl96Rm9QazFaUGZDTFg1cFVteDhIQzc3cHFpVFBzTDJjbXBuSXQ0UXhVeVNUb1BCS0xBUEROSldYUXJBY0d3cVJoSDhZRE8xRXRqeVFaU3piLTB4aXhSMlBOUQ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNNmJ6aEdyVld1R05lTnFZYzRaRmtoQVRjaWNXdWsxM1VWN2VocDNkRlFILU84TzlWYWJaLVJaQU9razc1dDZNYUZsLTJrOEJKNDZNelBwNk9EMWdtdmNNTGhqZGdwanJBeVJYWGdSR2NQVU5FYlRRSGI2VmE3anJoTHJEMTRHNUgweG8tOURIU3JjdW9MZUxseXA1dnFVdmxIdkU2SnpZWjQ5RUxlR3BTT1hzbHVKc3Q2eUNucE1mWkp5X2VKQUc1Vl96Rm9QazFaUGZDTFg1cFVteDhIQzc3cHFpVFBzTDJjbXBuSXQ0UXhVeVNUb1BCS0xBUEROSldYUXJBY0d3cVJoSDhZRE8xRXRqeVFaU3piLTB4aXhSMlBOUQ?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -202,33 +210,25 @@
           "package": ""
         },
         {
-          "text": "再次喊話軍購8100億 趙少康開嗆鄭麗文：要怎麼去美國？",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Dckg3TnhXcVVKYk1WczM5UnNkVVJwb2QzdHVab3J0alFSbDRnSXpDWU5POW5QVjM5LXhLOHF6N3hFVGJWTnlsRVdncVZmVGZUaHdOWUtfM0ZXNEpYYVJMbnZuWnhpbm50YmfSAW9BVV95cUxQNEM1V3ZIRFI0aExESkFyaFlMZVFQd0J4WkNJZDhubVdDZFAzc1Nqa2RodnJIa05ncnZYaERvd1BJZDFVUU9JQzVtMnhEcGphUnVPRHhZdXcwMjNOYmhlWHZrdDdGWmlqRkJEamJqd00?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Dckg3TnhXcVVKYk1WczM5UnNkVVJwb2QzdHVab3J0alFSbDRnSXpDWU5POW5QVjM5LXhLOHF6N3hFVGJWTnlsRVdncVZmVGZUaHdOWUtfM0ZXNEpYYVJMbnZuWnhpbm50YmfSAW9BVV95cUxQNEM1V3ZIRFI0aExESkFyaFlMZVFQd0J4WkNJZDhubVdDZFAzc1Nqa2RodnJIa05ncnZYaERvd1BJZDFVUU9JQzVtMnhEcGphUnVPRHhZdXcwMjNOYmhlWHZrdDdGWmlqRkJEamJqd00?oc=5",
+          "text": "翡翠水庫增耗水費名目引中南部反彈 台電2個月內將提「區域差別電價」評估報告",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9KZUxMZURFai0ycXViVWJKS2RtU2tNV0h2dVQ5eG1uTGQ3ckJ1WG5ubXZpWEJIRFlRU2RoamlYNjk2NVhIZmFqRW1MZjAtWlkwMnU3bEhwN25rd3I3T0kw0gFkQVVfeXFMTng2X0VGY0RxQUNXU2F4aGdUM0djN1EtOGdCT0FPZFRZT0lEYl9JM3YwRkQyR2YzMVN5eVdUSWJnYVlscUlyc3JwQU5CVTQzVzl4czBTblpTY2RQSnVrU0RwcWViUw?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9KZUxMZURFai0ycXViVWJKS2RtU2tNV0h2dVQ5eG1uTGQ3ckJ1WG5ubXZpWEJIRFlRU2RoamlYNjk2NVhIZmFqRW1MZjAtWlkwMnU3bEhwN25rd3I3T0kw0gFkQVVfeXFMTng2X0VGY0RxQUNXU2F4aGdUM0djN1EtOGdCT0FPZFRZT0lEYl9JM3YwRkQyR2YzMVN5eVdUSWJnYVlscUlyc3JwQU5CVTQzVzl4czBTblpTY2RQSnVrU0RwcWViUw?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "李貞秀現身立院求助韓國瑜想阻宣誓 許忠信正式就職民眾黨立委稱「輕舟已過萬重山」",
-          "url": "https://news.google.com/rss/articles/CBMinARBVV95cUxQOGVjLXlRaF9pZHZDSW1JaHg1Mjh6d1p5YkQwX2tuT3ZPaFczb0FRMXFwRmZ5RW4ydTRtcTFZRWllMmlfYUN1SEQwMFR5VmNlamZCNFJRV1FmZFBZSW5DUlFQUENYUTd0YVNRVlZkbXNabVNHQ3YzQUJjc3lpNTVuVjZ5VEtFTF9NalFnNVVkTHFVbUZGNkZGRmJGM0FBYU1DXzdCUDJWWlVucUtiTFprak9SV3A1elBYLU4wUGdiSXJGT2V5MlVpWS1qZ0ZrOFlQYkd5NTdfX3ljSjVmZnJCWXZmd3l3czZUaU5laVlmbGJEZm9TMlltMjFnd214bVB0TWFTNG9ENERzaXFsOWNHTGRaN0dDc1lNSnQ0QWM2OXVURzQ3cVR1anhQUGpEYzkxVzdiSHYxTWtlZTBOYnY4d0s1aTc3bG1DblBQQktROUdISmZENXVlcWctbDFxQ01fd2x5V08zSm1wbi16ZVdEdGNRNjk0emxVN2dlQkdlM2M1WHUtanQwNHRPT2pEVGRhNFVIOHY3aXFGRFpCYl9Da3hRVFhuUElmbzg4a1hySWtaaExIZm5mTU41WnB2eFA1V2QtV0VCN2hTQTFlb1hQRDN0aERBWWZzclgtYWxXM2VzWjJuc2swX01xOXEwVVhKZ2ZRdWxySnZtem9XcnVlUFhXMVM3SVUwcnN0Sl9oVjhqazRhb2NVcWJzblQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMinARBVV95cUxQOGVjLXlRaF9pZHZDSW1JaHg1Mjh6d1p5YkQwX2tuT3ZPaFczb0FRMXFwRmZ5RW4ydTRtcTFZRWllMmlfYUN1SEQwMFR5VmNlamZCNFJRV1FmZFBZSW5DUlFQUENYUTd0YVNRVlZkbXNabVNHQ3YzQUJjc3lpNTVuVjZ5VEtFTF9NalFnNVVkTHFVbUZGNkZGRmJGM0FBYU1DXzdCUDJWWlVucUtiTFprak9SV3A1elBYLU4wUGdiSXJGT2V5MlVpWS1qZ0ZrOFlQYkd5NTdfX3ljSjVmZnJCWXZmd3l3czZUaU5laVlmbGJEZm9TMlltMjFnd214bVB0TWFTNG9ENERzaXFsOWNHTGRaN0dDc1lNSnQ0QWM2OXVURzQ3cVR1anhQUGpEYzkxVzdiSHYxTWtlZTBOYnY4d0s1aTc3bG1DblBQQktROUdISmZENXVlcWctbDFxQ01fd2x5V08zSm1wbi16ZVdEdGNRNjk0emxVN2dlQkdlM2M1WHUtanQwNHRPT2pEVGRhNFVIOHY3aXFGRFpCYl9Da3hRVFhuUElmbzg4a1hySWtaaExIZm5mTU41WnB2eFA1V2QtV0VCN2hTQTFlb1hQRDN0aERBWWZzclgtYWxXM2VzWjJuc2swX01xOXEwVVhKZ2ZRdWxySnZtem9XcnVlUFhXMVM3SVUwcnN0Sl9oVjhqazRhb2NVcWJzblQ?oc=5",
+          "text": "幕後／美方開口就要軍購8000億 藍委憂不加碼 川習會後恐遭甩鍋",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TTnlDTDZqWFhhLXZtOFQ4azJITXYwd19YX3RzS3R5Y1FTQ2JrMnRUV2lzZG9YZnVTc2R0aVcwempKZFV6emlBWkp6ZlRzalZMRVHSAVdBVV95cUxQM0Z6bFo1NFlRV1RaWGxSQkV6MkZ2S0RkN25RTENjb0V0UGxhNWVRcGlCcFNjbUkyVGFMZlJyYmZPLUZiN19QZndQVzlqRVpzMWxSb0ZVQVU?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TTnlDTDZqWFhhLXZtOFQ4azJITXYwd19YX3RzS3R5Y1FTQ2JrMnRUV2lzZG9YZnVTc2R0aVcwempKZFV6emlBWkp6ZlRzalZMRVHSAVdBVV95cUxQM0Z6bFo1NFlRV1RaWGxSQkV6MkZ2S0RkN25RTENjb0V0UGxhNWVRcGlCcFNjbUkyVGFMZlJyYmZPLUZiN19QZndQVzlqRVpzMWxSb0ZVQVU?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "開直播吃發芽馬鈴薯！50萬知識網紅曝重點：沒有比較毒- 生活",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1aMkJnQjZYQ0I0dlVydHY0WUhoTmYyTHpvWXRRT20tcEFSM0pSY0xPZjRweU0zZnlSTkxjcDN5MHdWS0hrYVJWTHlhcHgwOFpYTzA4X0xicVViNXFPZVNfRUd0LXBNRDZ0U3NEcFRB?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1aMkJnQjZYQ0I0dlVydHY0WUhoTmYyTHpvWXRRT20tcEFSM0pSY0xPZjRweU0zZnlSTkxjcDN5MHdWS0hrYVJWTHlhcHgwOFpYTzA4X0xicVViNXFPZVNfRUd0LXBNRDZ0U3NEcFRB?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "川普又TACO延長停火 CNN：伊朗已不信川普軍事威脅",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFByUWMtb0U4LVlMX2w1RUpINTJyWWxBM0QzMnprbm1vQkk0YTlDUWYxN0laVEF1NWo3eVJWanlpOE10WEJxM2Raa0tCcXF2ZTNMUXM40gFYQVVfeXFMUElGVjZQeXRNWEtjb0o3djFJT0FwemV3ZlU0a3hhTDBjanZ4Z1cxcG5URm9tdWt0ZW9HaUZtSlpFY3lhY0tNYV9EaW9QY0p4cVhCdHZoTUdkNA?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFByUWMtb0U4LVlMX2w1RUpINTJyWWxBM0QzMnprbm1vQkk0YTlDUWYxN0laVEF1NWo3eVJWanlpOE10WEJxM2Raa0tCcXF2ZTNMUXM40gFYQVVfeXFMUElGVjZQeXRNWEtjb0o3djFJT0FwemV3ZlU0a3hhTDBjanZ4Z1cxcG5URm9tdWt0ZW9HaUZtSlpFY3lhY0tNYV9EaW9QY0p4cVhCdHZoTUdkNA?oc=5",
+          "text": "川普籲伊朗釋放8名面臨絞刑女性 以提高和談成功率",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55NjEzYWNQbkJ1RlhEX2x6S0F4VVpoZkR1YzRiM0JGdnE1cUpyN2VYcUdVRWU2TUppRjk2M0FQYnd3QTZ6S3RYWXR6NjJhamd3OGxlM3B4SE1acy1JWWw3dTVJdUNVUdIBa0FVX3lxTE1udUcyVmN1aThGY1FNM1FjbjMwaUoxQ3NWQjJkUzB4VWNnUy01amJvUzZLaWphQmk2MWtZampnUm81ODZaWmVuLWcyZjEta1Z6VmNySWdXaTNGRWVuNUhwaVdqWnFaVHpPaS1J?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55NjEzYWNQbkJ1RlhEX2x6S0F4VVpoZkR1YzRiM0JGdnE1cUpyN2VYcUdVRWU2TUppRjk2M0FQYnd3QTZ6S3RYWXR6NjJhamd3OGxlM3B4SE1acy1JWWw3dTVJdUNVUdIBa0FVX3lxTE1udUcyVmN1aThGY1FNM1FjbjMwaUoxQ3NWQjJkUzB4VWNnUy01amJvUzZLaWphQmk2MWtZampnUm81ODZaWmVuLWcyZjEta1Z6VmNySWdXaTNGRWVuNUhwaVdqWnFaVHpPaS1J?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -242,14 +242,6 @@
           "package": ""
         },
         {
-          "text": "日本鬆綁武器出口 可售17國",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1rRk1KNEtTMTR1OEN1TDBDaF9ueWJnSkw4dkFhc1V0Y0VCNzg5OTVmRFBlWEFaSmVfNjZyMnBRUzJNSXZzaVFqRExXZFRRd0RKLXVEUnBNcHVTY0RT0gFiQVVfeXFMTm85ZklReVZBUHE0X2duYy1HbTBXQlZQWmVsNF83NmY0Qmh5UVRQMTIybDJWUUIwbU0xNzZtdDJtZDVFRlFrVFFlbXdIZU5USUdpMk5SVUdpdkEwb2RJTVZiUHc?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1rRk1KNEtTMTR1OEN1TDBDaF9ueWJnSkw4dkFhc1V0Y0VCNzg5OTVmRFBlWEFaSmVfNjZyMnBRUzJNSXZzaVFqRExXZFRRd0RKLXVEUnBNcHVTY0RT0gFiQVVfeXFMTm85ZklReVZBUHE0X2duYy1HbTBXQlZQWmVsNF83NmY0Qmh5UVRQMTIybDJWUUIwbU0xNzZtdDJtZDVFRlFrVFFlbXdIZU5USUdpMk5SVUdpdkEwb2RJTVZiUHc?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
           "text": "日本強震衝擊NAND供應！鎧俠北上廠停工檢修台記憶體模組廠警戒- 日報",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUMkdsajNVQ1dzM3I1OFgtV3hwVnBOc1h6MVh6RHNvNVZJVXRqdS0wUFA2WDBoQVRrVGtDU285TlljejU3X1hSSFJYVTBlbGYxVmxxUFFWMTZ1Tm54UUF3?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUMkdsajNVQ1dzM3I1OFgtV3hwVnBOc1h6MVh6RHNvNVZJVXRqdS0wUFA2WDBoQVRrVGtDU285TlljejU3X1hSSFJYVTBlbGYxVmxxUFFWMTZ1Tm54UUF3?oc=5",
@@ -258,9 +250,17 @@
           "package": ""
         },
         {
-          "text": "晶片戰再升級！美光遊說美國國會收緊對中設備出口 鎖定長鑫、長江存儲",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5IYnpPSlF2SnVXdmhvYzA2cHNYczRMLTc1Ti15N1BhMkRZd0tyZW5LMHJhdkJmSm1WSWkteHo3bE9lRUNXRHNuN1RyeXhsN3c?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5IYnpPSlF2SnVXdmhvYzA2cHNYczRMLTc1Ti15N1BhMkRZd0tyZW5LMHJhdkJmSm1WSWkteHo3bE9lRUNXRHNuN1RyeXhsN3c?oc=5",
+          "text": "日本放寬武器出口規定，打破二戰後和平主義路線",
+          "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNM1ZxNmlnb0ZzdnoxVnZDSFlBbHdqUFFmUTVYbEFPVU9RTGNld2VHekh5SlJIc051VmlXazJzMzgtYzliYzljcUpmQmJ6TGRyWEFHT29FNTFKSmRyYkxndk1qQ3NZZWVYLUMycEs3cXVzQm1wemFuMEliMF9fV2YtXzQ2Mlo0OG5tT0lNS2ZFa3R4azdmZGJfTmhJbTVYRTQyQmVQYWdBRHF6M2xldUUzTUhPR2dta1MyUVY2X2FyRmZnbzUxZnpHMFNHemhGVEdCNUc0OVhsUGttUHZoMmV1VTlsR2otVHV2eXJKNTBzTzNfa2cwU0ZRWENFcGJjNVZzbmFYVUlERDFUMDhSMUQ4MHkycFFaWnVvYnM4Z3c1X0trUGFpNDQ0cGY1Z2VOVWhfY3RJUE9JRVZLaTFzN2NMdXJZdXhCMmRZbWRVVWRLbW8?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNM1ZxNmlnb0ZzdnoxVnZDSFlBbHdqUFFmUTVYbEFPVU9RTGNld2VHekh5SlJIc051VmlXazJzMzgtYzliYzljcUpmQmJ6TGRyWEFHT29FNTFKSmRyYkxndk1qQ3NZZWVYLUMycEs3cXVzQm1wemFuMEliMF9fV2YtXzQ2Mlo0OG5tT0lNS2ZFa3R4azdmZGJfTmhJbTVYRTQyQmVQYWdBRHF6M2xldUUzTUhPR2dta1MyUVY2X2FyRmZnbzUxZnpHMFNHemhGVEdCNUc0OVhsUGttUHZoMmV1VTlsR2otVHV2eXJKNTBzTzNfa2cwU0ZRWENFcGJjNVZzbmFYVUlERDFUMDhSMUQ4MHkycFFaWnVvYnM4Z3c1X0trUGFpNDQ0cGY1Z2VOVWhfY3RJUE9JRVZLaTFzN2NMdXJZdXhCMmRZbWRVVWRLbW8?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "美股早盤／川普宣布延長停火伊朗兩周 道瓊大漲逾400點",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwamNSaHY2QnZnclQ0U1B6ZnQtNE1adnVObHRQdDNTNkRTSjVZRmhHMXBoVlRzcExBMnNmalVqWDFOTlAzTHhFM01ER2paeVVU?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwamNSaHY2QnZnclQ0U1B6ZnQtNE1adnVObHRQdDNTNkRTSjVZRmhHMXBoVlRzcExBMnNmalVqWDFOTlAzTHhFM01ER2paeVVU?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -273,6 +273,6 @@
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 20,
+  "cost": 17,
   "status": 0
 }
