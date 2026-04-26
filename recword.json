@@ -15,6 +15,14 @@
       "link_type": "app",
       "data": [
         {
+          "text": "Anthony Edwards",
+          "url": "https://tw.search.yahoo.com/search?p=Anthony+Edwards&amp;fr=ush-bt1",
+          "h5_url": "https://tw.search.yahoo.com/search?p=Anthony+Edwards&amp;fr=ush-bt1",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_yahoo",
+          "package": ""
+        },
+        {
           "text": "白沙屯媽祖大數據解密",
           "url": "https://tw.news.yahoo.com/%E7%99%BD%E6%B2%99%E5%B1%AF%E5%AA%BD%E7%A5%96%E7%8D%A8%E5%AE%B6%E5%A4%A7%E6%95%B8%E6%93%9A%EF%BC%9A%E5%A0%B1%E5%90%8D%E4%BA%BA%E6%95%B820%E5%B9%B4%E6%9A%B4%E5%A2%9E100%E5%80%8D%E3%80%81%E5%A0%B1%E5%90%8D%E8%B2%BB%E7%A0%B42%E5%84%84%E3%80%81%E5%93%AA%E5%80%8B%E6%94%BF%E6%B2%BB%E4%BA%BA%E7%89%A9%E6%9C%80%E5%B8%B8%E6%8B%9C%EF%BC%9F%E5%AA%BD%E7%A5%96%E7%9A%84mbti%E6%98%AF%E4%BB%80%E9%BA%BC%EF%BC%9F-062229791.html?guccounter=1&amp;guce_referrer=aHR0cHM6Ly90dy5uZXdzLnlhaG9vLmNvbS8&amp;guce_referrer_sig=AQAAAB6KXPUZZPfK9leawmPhqwGbXnJAsyeyucbCY0n-wlOLX9sWnNtfY5PC8ln9ZrIpu0OCHFpILwU7A3G6rz8lVZd_98_UkKYwKMBmLRJRWudLD_q_Nih1_m4awhsIV_YmAYGNrS5jiapnF5cUTM0ziNz2lk0JTtexo8C_VSE2ODMo",
           "h5_url": "https://tw.news.yahoo.com/%E7%99%BD%E6%B2%99%E5%B1%AF%E5%AA%BD%E7%A5%96%E7%8D%A8%E5%AE%B6%E5%A4%A7%E6%95%B8%E6%93%9A%EF%BC%9A%E5%A0%B1%E5%90%8D%E4%BA%BA%E6%95%B820%E5%B9%B4%E6%9A%B4%E5%A2%9E100%E5%80%8D%E3%80%81%E5%A0%B1%E5%90%8D%E8%B2%BB%E7%A0%B42%E5%84%84%E3%80%81%E5%93%AA%E5%80%8B%E6%94%BF%E6%B2%BB%E4%BA%BA%E7%89%A9%E6%9C%80%E5%B8%B8%E6%8B%9C%EF%BC%9F%E5%AA%BD%E7%A5%96%E7%9A%84mbti%E6%98%AF%E4%BB%80%E9%BA%BC%EF%BC%9F-062229791.html?guccounter=1&amp;guce_referrer=aHR0cHM6Ly90dy5uZXdzLnlhaG9vLmNvbS8&amp;guce_referrer_sig=AQAAAB6KXPUZZPfK9leawmPhqwGbXnJAsyeyucbCY0n-wlOLX9sWnNtfY5PC8ln9ZrIpu0OCHFpILwU7A3G6rz8lVZd_98_UkKYwKMBmLRJRWudLD_q_Nih1_m4awhsIV_YmAYGNrS5jiapnF5cUTM0ziNz2lk0JTtexo8C_VSE2ODMo",
@@ -125,14 +133,6 @@
           "appIconUrl": "",
           "sourceUniqueId": "content_yahoo",
           "package": ""
-        },
-        {
-          "text": "藍營彰化縣長3選將首同框 謝衣鳳拋協調式民調",
-          "url": "https://tw.news.yahoo.com/%E8%97%8D%E7%87%9F%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%95%B73%E9%81%B8%E5%B0%87%E9%A6%96%E5%90%8C%E6%A1%86-%E8%AC%9D%E8%A1%A3%E9%B3%B3%E6%8B%8B%E5%8D%94%E8%AA%BF%E5%BC%8F%E6%B0%91%E8%AA%BF%E6%B1%BA%E5%8B%9D%E8%B2%A0-050330960.html",
-          "h5_url": "https://tw.news.yahoo.com/%E8%97%8D%E7%87%9F%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%95%B73%E9%81%B8%E5%B0%87%E9%A6%96%E5%90%8C%E6%A1%86-%E8%AC%9D%E8%A1%A3%E9%B3%B3%E6%8B%8B%E5%8D%94%E8%AA%BF%E5%BC%8F%E6%B0%91%E8%AA%BF%E6%B1%BA%E5%8B%9D%E8%B2%A0-050330960.html",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_yahoo",
-          "package": ""
         }
       ],
       "selectedStatus": false,
@@ -149,6 +149,14 @@
           "text": "白宮記者晚宴槍手曾是優良教師擁加州理工學位",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBUTY4Z0tlMm50VEZjNGZCdm93anpnVlNkU1hNM2FQTzR5cl93bklKZ19pUF85ckF3WUp6VlVlcXM1dFJROVFlZ0lqYi1yVFFndGU2RC15cHdDWG9qM013?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBUTY4Z0tlMm50VEZjNGZCdm93anpnVlNkU1hNM2FQTzR5cl93bklKZ19pUF85ckF3WUp6VlVlcXM1dFJROVFlZ0lqYi1yVFFndGU2RC15cHdDWG9qM013?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "爆炸頭真是票房毒藥？汪浩貼「CEO版沈伯洋」形象照 網友嗨喊：未來總統 | 張大任",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE80dXNvY1Y1eTVSSHdpamtDeW1jOFByb0R6dTV2ZUFYWk4tcGJTaWhUZnJKSmFTYlJndTVzY09EWE9tWlpKb0RXaDEwNnhZZw?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE80dXNvY1Y1eTVSSHdpamtDeW1jOFByb0R6dTV2ZUFYWk4tcGJTaWhUZnJKSmFTYlJndTVzY09EWE9tWlpKb0RXaDEwNnhZZw?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -178,25 +186,9 @@
           "package": ""
         },
         {
-          "text": "爆炸頭真是票房毒藥？汪浩貼「CEO版沈伯洋」形象照 網友嗨喊：未來總統 | 張大任",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE80dXNvY1Y1eTVSSHdpamtDeW1jOFByb0R6dTV2ZUFYWk4tcGJTaWhUZnJKSmFTYlJndTVzY09EWE9tWlpKb0RXaDEwNnhZZw?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE80dXNvY1Y1eTVSSHdpamtDeW1jOFByb0R6dTV2ZUFYWk4tcGJTaWhUZnJKSmFTYlJndTVzY09EWE9tWlpKb0RXaDEwNnhZZw?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
           "text": "區間車淹水乘客急Call列車長…打開廁所「驚見裸男洗澡」 台鐵：移送鐵警偵辦",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8yM2ZhbUFNdVktNEVfRjNBZlV0OUc3S215ZFFuYTFiclFyNnZXZkMzcU1zdHN6QWdEY0NyNlcxaFBLWnRQc1BZbnB0dE9YWVZR0gFWQVVfeXFMT2VlZUJ4UXlUVGpFY3FVREdsOFpXcFV4bzQ0TWdpaEF4VjZPejVfS3BaRGVmOF9zQ05qVHptQUlmZk9tdFIxQy1sVkFtMHNFeGtVUy1pd2c?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8yM2ZhbUFNdVktNEVfRjNBZlV0OUc3S215ZFFuYTFiclFyNnZXZkMzcU1zdHN6QWdEY0NyNlcxaFBLWnRQc1BZbnB0dE9YWVZR0gFWQVVfeXFMT2VlZUJ4UXlUVGpFY3FVREdsOFpXcFV4bzQ0TWdpaEF4VjZPejVfS3BaRGVmOF9zQ05qVHptQUlmZk9tdFIxQy1sVkFtMHNFeGtVUy1pd2c?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "投入選戰後浮出缺陷 林秉宥點出李四川的「兩大敵人」",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZbnV4SXRLV0JuVXRNaDVpS1VOc3Z3OVpLbE83N0gxT0RnV0JlZzFkSFJlcFNTMXVuTkNxV1duX2tzam5YWS1OMjZLdW1lOG9aUmZ0eFBqNm9ZMGR0SjF2YVQ1bzlCckJXM1HSAW9BVV95cUxOXzZtQjVXLVJlcVREVC0ySHNhU1BzVXpBRWxXSjM2MjN3MGltNFhTSDJOQ3AyNVlZd3JNZDMwcXdLQVMzZnRpS0dyc08xd1ROV1NfR2ZsQVFKRG5FY3liNUdTYWQ5bVBpVWYzMUZBcnM?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZbnV4SXRLV0JuVXRNaDVpS1VOc3Z3OVpLbE83N0gxT0RnV0JlZzFkSFJlcFNTMXVuTkNxV1duX2tzam5YWS1OMjZLdW1lOG9aUmZ0eFBqNm9ZMGR0SjF2YVQ1bzlCckJXM1HSAW9BVV95cUxOXzZtQjVXLVJlcVREVC0ySHNhU1BzVXpBRWxXSjM2MjN3MGltNFhTSDJOQ3AyNVlZd3JNZDMwcXdLQVMzZnRpS0dyc08xd1ROV1NfR2ZsQVFKRG5FY3liNUdTYWQ5bVBpVWYzMUZBcnM?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -210,9 +202,17 @@
           "package": ""
         },
         {
-          "text": "陸委會批呂禮詩配合陸方活動 稱涉統戰將研議是否違法",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5fR2RyQ0ZhNTUzUWdONEdZMUJEV0VrdFYwMTM0Vll5SktsY2xRTGZmbElwQlVwakNjU1dLaWVlakJSdnhuVkpxdC1SWURuRHVy0gFWQVVfeXFMTzJZMmtoV3RLR1NPY2Jtd0tWdnp3eXdlZU1qanVBUTkxbEpQN3FMaWdyVFpoNmF1YWV3NnlkMGwta1ZFN3d6NlpsMUprSmVMZ3lYeUx2SEE?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5fR2RyQ0ZhNTUzUWdONEdZMUJEV0VrdFYwMTM0Vll5SktsY2xRTGZmbElwQlVwakNjU1dLaWVlakJSdnhuVkpxdC1SWURuRHVy0gFWQVVfeXFMTzJZMmtoV3RLR1NPY2Jtd0tWdnp3eXdlZU1qanVBUTkxbEpQN3FMaWdyVFpoNmF1YWV3NnlkMGwta1ZFN3d6NlpsMUprSmVMZ3lYeUx2SEE?oc=5",
+          "text": "「解放軍在進步」退役少校呂禮詩在陸發言惹議 退輔會：譴責附和中共言論",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5QakYyejQyZkZ6ZUZXWUpRcHRfeTVNN2RiZ2xsYUhMMkVFZTZST09laGlROG5vbWRCc3otMHJEc0NUd1NfaXZTNEZHUllOMUZv0gFWQVVfeXFMUDJLYnZNNmtlSkI5ZnpCeWpjYnlnTXhJTXRZRjNrWXpselJ0dUhqOE9vVzFWeFgzMG1QTVh3ellkMTZtQ0JpV1d4S1N0U290ZzNFRjEzMlE?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5QakYyejQyZkZ6ZUZXWUpRcHRfeTVNN2RiZ2xsYUhMMkVFZTZST09laGlROG5vbWRCc3otMHJEc0NUd1NfaXZTNEZHUllOMUZv0gFWQVVfeXFMUDJLYnZNNmtlSkI5ZnpCeWpjYnlnTXhJTXRZRjNrWXpselJ0dUhqOE9vVzFWeFgzMG1QTVh3ellkMTZtQ0JpV1d4S1N0U290ZzNFRjEzMlE?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
+          "text": "新北市長你挺誰？街頭隨機抽問 最新結果令人「跌破眼鏡」",
+          "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxOdUFOaG5CRU0yMXBNUzVxaWFaWGVJQnA0dHVpOFBtYW1OMjFIcW53WVVqUjZjWldjcFY3VWFJX2N0cGdKOTVyQVN0bW9OUHVmMDJLODJXUndyaGx1MU84Zi1DTG9YbWFWQTZQbWFYN3cyNzJvZUdEWW4yTFNkRzgxWXB1REdBLThkOVpRNHVTYzB3YnE2TzAtYkU2T3ZuSV8xSkNtZ0ZnMnAtNXJ2anFTaTl2d3VhU3dBbkNTd29jX280R21OWEVVNU5MM2dnbXJrUVRkUWdROElDaDdDd2J2ZVZaaVJ5VW9JbVhTc0dydjRQYUlKdW9ZV3U4NWZTbms2b3JpU19oOW93SUNtcWU1OF9hMUJqWVl5UEtXcjlxMUFVX1dOUVFyUkVpRzJZaG9wclg3ek5FQkRYaGg2cGF1OW9veGdzVWNTaHFmQld1Vnd5SlMtQzNCeW1BRmsxMWpEQzctQjltYThtbDg?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxOdUFOaG5CRU0yMXBNUzVxaWFaWGVJQnA0dHVpOFBtYW1OMjFIcW53WVVqUjZjWldjcFY3VWFJX2N0cGdKOTVyQVN0bW9OUHVmMDJLODJXUndyaGx1MU84Zi1DTG9YbWFWQTZQbWFYN3cyNzJvZUdEWW4yTFNkRzgxWXB1REdBLThkOVpRNHVTYzB3YnE2TzAtYkU2T3ZuSV8xSkNtZ0ZnMnAtNXJ2anFTaTl2d3VhU3dBbkNTd29jX280R21OWEVVNU5MM2dnbXJrUVRkUWdROElDaDdDd2J2ZVZaaVJ5VW9JbVhTc0dydjRQYUlKdW9ZV3U4NWZTbms2b3JpU19oOW93SUNtcWU1OF9hMUJqWVl5UEtXcjlxMUFVX1dOUVFyUkVpRzJZaG9wclg3ek5FQkRYaGg2cGF1OW9veGdzVWNTaHFmQld1Vnd5SlMtQzNCeW1BRmsxMWpEQzctQjltYThtbDg?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -234,17 +234,17 @@
           "package": ""
         },
         {
-          "text": "歷史觀測站／史上最嚴重核電事故！車諾比核災40週年 真實死亡數至今成謎",
-          "url": "https://news.google.com/rss/articles/CBMiwgNBVV95cUxQMHZaendTbjFySHNKcENFV2VHRmZIRzBUbUJ0ZXNCdm1tN2tBZ25UOU5nNWdxdWVRWDNaNXNOaWJweHpUbWFyRlp6SXJKZHdHMC1Ea2hIREJKekwyXzFPYndkQXFyWl81YWpPS2ZmU0tVeVNZUWpCUjNZWG5LbDBuVHdrUzZFRld5ZU5ScEh4dzJnd2Jhb0c2YXdzVVNvODZxeWkteF9XRnhwUTVuZE9jeWYwbkJBUVpGLXA3bGlyTmY2NFRpaHNIbFpRZy1HaXZDWUJIanpRdmZuU2tPOXd2d1Q4OTVaNkx0NnlROHd2blR0MHczVUFrU1NJaWtMeU9XZ3V0dnVRUko1S0dRWFlLdEZ4Q1BIaUNRcXlicjdzcC1VRk9MeWFJdUtoczd6dlJHcmdnRi1IWk83SUYyc3FSaDN6eW9xaVE3NFdvbWZ4VzAzNURRLV9COV80am02NVRBaVNZQTN6dmlCWFZtT214Y0V6MmdTU0VhT0lDa3NKOG9tejk2eGl1dTdlaHNzQUtBajRacHA5aGtZNjd2QnE2eHlyTDJyT1RhVmdjQlNkNk5ZYjl6Yk1RZXFDSXV1eEROZ0E?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiwgNBVV95cUxQMHZaendTbjFySHNKcENFV2VHRmZIRzBUbUJ0ZXNCdm1tN2tBZ25UOU5nNWdxdWVRWDNaNXNOaWJweHpUbWFyRlp6SXJKZHdHMC1Ea2hIREJKekwyXzFPYndkQXFyWl81YWpPS2ZmU0tVeVNZUWpCUjNZWG5LbDBuVHdrUzZFRld5ZU5ScEh4dzJnd2Jhb0c2YXdzVVNvODZxeWkteF9XRnhwUTVuZE9jeWYwbkJBUVpGLXA3bGlyTmY2NFRpaHNIbFpRZy1HaXZDWUJIanpRdmZuU2tPOXd2d1Q4OTVaNkx0NnlROHd2blR0MHczVUFrU1NJaWtMeU9XZ3V0dnVRUko1S0dRWFlLdEZ4Q1BIaUNRcXlicjdzcC1VRk9MeWFJdUtoczd6dlJHcmdnRi1IWk83SUYyc3FSaDN6eW9xaVE3NFdvbWZ4VzAzNURRLV9COV80am02NVRBaVNZQTN6dmlCWFZtT214Y0V6MmdTU0VhT0lDa3NKOG9tejk2eGl1dTdlaHNzQUtBajRacHA5aGtZNjd2QnE2eHlyTDJyT1RhVmdjQlNkNk5ZYjl6Yk1RZXFDSXV1eEROZ0E?oc=5",
+          "text": "伊朗面臨的危險不僅僅是封鎖",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9XcVkyNk4xdkJXM2JleXQ0VlRya2QxeGVhbUEwU3BKbjMza01GbzdrdV9obi11clNjNEZGMXVCQ29fZWdGTGowTkdxTUF5RzA3WnBxZw?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9XcVkyNk4xdkJXM2JleXQ0VlRya2QxeGVhbUEwU3BKbjMza01GbzdrdV9obi11clNjNEZGMXVCQ29fZWdGTGowTkdxTUF5RzA3WnBxZw?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
         },
         {
-          "text": "伊朗面臨的危險不僅僅是封鎖",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9XcVkyNk4xdkJXM2JleXQ0VlRya2QxeGVhbUEwU3BKbjMza01GbzdrdV9obi11clNjNEZGMXVCQ29fZWdGTGowTkdxTUF5RzA3WnBxZw?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9XcVkyNk4xdkJXM2JleXQ0VlRya2QxeGVhbUEwU3BKbjMza01GbzdrdV9obi11clNjNEZGMXVCQ29fZWdGTGowTkdxTUF5RzA3WnBxZw?oc=5",
+          "text": "生人勿近！車諾比核災40年「禁區」成動物樂土 俄烏戰火添新危機",
+          "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxQWGJkc29ZbmJJUlAxLWJPaEhuMDVLQTJEUXU5WDFISTJEQzlzclN0VGJkeFg3REdPYXlBdHNqclZuYVVuRGt1MjR4STBXZjc1UG5VM2pMZGJyRjVCRTRrUDNPQU1UNWpxZUQ2YkhJTG9ydXhCZjYzSEVqZUFVYUcxcXN1aVNGY0tHeGF3SXY4MXl0MDk3TmtHVEVyb29TQkRsNmNvWXlrY3otY0UwcmhWQms2NUtXZ29paEhmQVZSRkhGSHBfV2VpenVlYlctZ1JEVlBnTHZtRWZWay0tSmU0b3l1aUhuei0wc3RUOG12Z0t3UXBwc2ZRUDdfZmtYc0hzUGxmb2Q5aHhLVy1xUzh1VW9zSEQzMnRpUm9OaXdlcE1fbEtXeFAxNHZPWFNzazQtM3hyWHpmS3JkTkpsc3RYNHZBUUpmLW5yWGdFaWRQR0FOaml0bl9EOVhsZ0h0RldkWkR1TGpQRXNxQUQ0b2tGT0pvZkVCamNtSmF0TWxHQXZIVHdBVU9F?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxQWGJkc29ZbmJJUlAxLWJPaEhuMDVLQTJEUXU5WDFISTJEQzlzclN0VGJkeFg3REdPYXlBdHNqclZuYVVuRGt1MjR4STBXZjc1UG5VM2pMZGJyRjVCRTRrUDNPQU1UNWpxZUQ2YkhJTG9ydXhCZjYzSEVqZUFVYUcxcXN1aVNGY0tHeGF3SXY4MXl0MDk3TmtHVEVyb29TQkRsNmNvWXlrY3otY0UwcmhWQms2NUtXZ29paEhmQVZSRkhGSHBfV2VpenVlYlctZ1JEVlBnTHZtRWZWay0tSmU0b3l1aUhuei0wc3RUOG12Z0t3UXBwc2ZRUDdfZmtYc0hzUGxmb2Q5aHhLVy1xUzh1VW9zSEQzMnRpUm9OaXdlcE1fbEtXeFAxNHZPWFNzazQtM3hyWHpmS3JkTkpsc3RYNHZBUUpmLW5yWGdFaWRQR0FOaml0bl9EOVhsZ0h0RldkWkR1TGpQRXNxQUQ0b2tGT0pvZkVCamNtSmF0TWxHQXZIVHdBVU9F?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -258,9 +258,9 @@
           "package": ""
         },
         {
-          "text": "黃仁勳預言災難成真？DeepSeek V4捨棄輝達 導入「華為晶片」",
-          "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOdWk2eDJPQk1MNDJoVEV1X3ZlUS15Qm5BXzZpeFRETFVUREdITmNxc0ZFLUJFUUhvUDV2VkZzTk9Zd3QwLUxNSHIycnpqVEc1NjQyWkY0c2dRdk5zeGFPZmdFSU1HSGVEOGxLajhRNU5kcXJPLThJOEp4ajdZckt0NTlld04zXzZHSHZLcm53LTlpSHhDT1VNVmhyN25LM3g3YUR1cjJkUW5yckVIUVFOZjJHRGpGVGFZMVNoWmpMcDlJRWxJUW1Va2xPOG1hUlFXSE0tZndfajhyT2NhTzRQQk1OdHJsQWFQcERSbnp1S290R25EX3VsY0xvSmdXWm1pMXRPeFZ0SUE1RFZaVExQaEw4TXl5VzJUemg1NklIaUFGMEpkUnQ2aUtPT1dTZUpVaWpmSXoycDdNSEI0WEZnLUVBSDlILTBkNUtLR1NzSFZ3QQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOdWk2eDJPQk1MNDJoVEV1X3ZlUS15Qm5BXzZpeFRETFVUREdITmNxc0ZFLUJFUUhvUDV2VkZzTk9Zd3QwLUxNSHIycnpqVEc1NjQyWkY0c2dRdk5zeGFPZmdFSU1HSGVEOGxLajhRNU5kcXJPLThJOEp4ajdZckt0NTlld04zXzZHSHZLcm53LTlpSHhDT1VNVmhyN25LM3g3YUR1cjJkUW5yckVIUVFOZjJHRGpGVGFZMVNoWmpMcDlJRWxJUW1Va2xPOG1hUlFXSE0tZndfajhyT2NhTzRQQk1OdHJsQWFQcERSbnp1S290R25EX3VsY0xvSmdXWm1pMXRPeFZ0SUE1RFZaVExQaEw4TXl5VzJUemg1NklIaUFGMEpkUnQ2aUtPT1dTZUpVaWpmSXoycDdNSEI0WEZnLUVBSDlILTBkNUtLR1NzSFZ3QQ?oc=5",
+          "text": "台積電2奈米、海外擴廠吃掉毛利 為何反而是「好事」？",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9WVFJYMHdzT2drMzEwSlFPQmpYOHg3OTlVcVlGVHdvVlFQcFVnZUhYMEVKSjNDdnVBSU1PYWxkbU9MeGM1T1V1Umx1S013WmJD?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9WVFJYMHdzT2drMzEwSlFPQmpYOHg3OTlVcVlGVHdvVlFQcFVnZUhYMEVKSjNDdnVBSU1PYWxkbU9MeGM1T1V1Umx1S013WmJD?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -273,6 +273,6 @@
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 17,
+  "cost": 19,
   "status": 0
 }
