@@ -15,14 +15,6 @@
       "link_type": "app",
       "data": [
         {
-          "text": "Anthony Edwards",
-          "url": "https://tw.search.yahoo.com/search?p=Anthony+Edwards&amp;fr=ush-bt1",
-          "h5_url": "https://tw.search.yahoo.com/search?p=Anthony+Edwards&amp;fr=ush-bt1",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_yahoo",
-          "package": ""
-        },
-        {
           "text": "白沙屯媽祖大數據解密",
           "url": "https://tw.news.yahoo.com/%E7%99%BD%E6%B2%99%E5%B1%AF%E5%AA%BD%E7%A5%96%E7%8D%A8%E5%AE%B6%E5%A4%A7%E6%95%B8%E6%93%9A%EF%BC%9A%E5%A0%B1%E5%90%8D%E4%BA%BA%E6%95%B820%E5%B9%B4%E6%9A%B4%E5%A2%9E100%E5%80%8D%E3%80%81%E5%A0%B1%E5%90%8D%E8%B2%BB%E7%A0%B42%E5%84%84%E3%80%81%E5%93%AA%E5%80%8B%E6%94%BF%E6%B2%BB%E4%BA%BA%E7%89%A9%E6%9C%80%E5%B8%B8%E6%8B%9C%EF%BC%9F%E5%AA%BD%E7%A5%96%E7%9A%84mbti%E6%98%AF%E4%BB%80%E9%BA%BC%EF%BC%9F-062229791.html?guccounter=1&amp;guce_referrer=aHR0cHM6Ly90dy5uZXdzLnlhaG9vLmNvbS8&amp;guce_referrer_sig=AQAAAB6KXPUZZPfK9leawmPhqwGbXnJAsyeyucbCY0n-wlOLX9sWnNtfY5PC8ln9ZrIpu0OCHFpILwU7A3G6rz8lVZd_98_UkKYwKMBmLRJRWudLD_q_Nih1_m4awhsIV_YmAYGNrS5jiapnF5cUTM0ziNz2lk0JTtexo8C_VSE2ODMo",
           "h5_url": "https://tw.news.yahoo.com/%E7%99%BD%E6%B2%99%E5%B1%AF%E5%AA%BD%E7%A5%96%E7%8D%A8%E5%AE%B6%E5%A4%A7%E6%95%B8%E6%93%9A%EF%BC%9A%E5%A0%B1%E5%90%8D%E4%BA%BA%E6%95%B820%E5%B9%B4%E6%9A%B4%E5%A2%9E100%E5%80%8D%E3%80%81%E5%A0%B1%E5%90%8D%E8%B2%BB%E7%A0%B42%E5%84%84%E3%80%81%E5%93%AA%E5%80%8B%E6%94%BF%E6%B2%BB%E4%BA%BA%E7%89%A9%E6%9C%80%E5%B8%B8%E6%8B%9C%EF%BC%9F%E5%AA%BD%E7%A5%96%E7%9A%84mbti%E6%98%AF%E4%BB%80%E9%BA%BC%EF%BC%9F-062229791.html?guccounter=1&amp;guce_referrer=aHR0cHM6Ly90dy5uZXdzLnlhaG9vLmNvbS8&amp;guce_referrer_sig=AQAAAB6KXPUZZPfK9leawmPhqwGbXnJAsyeyucbCY0n-wlOLX9sWnNtfY5PC8ln9ZrIpu0OCHFpILwU7A3G6rz8lVZd_98_UkKYwKMBmLRJRWudLD_q_Nih1_m4awhsIV_YmAYGNrS5jiapnF5cUTM0ziNz2lk0JTtexo8C_VSE2ODMo",
@@ -133,6 +125,14 @@
           "appIconUrl": "",
           "sourceUniqueId": "content_yahoo",
           "package": ""
+        },
+        {
+          "text": "藍營彰化縣長3選將首同框 謝衣鳳拋協調式民調",
+          "url": "https://tw.news.yahoo.com/%E8%97%8D%E7%87%9F%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%95%B73%E9%81%B8%E5%B0%87%E9%A6%96%E5%90%8C%E6%A1%86-%E8%AC%9D%E8%A1%A3%E9%B3%B3%E6%8B%8B%E5%8D%94%E8%AA%BF%E5%BC%8F%E6%B0%91%E8%AA%BF%E6%B1%BA%E5%8B%9D%E8%B2%A0-050330960.html",
+          "h5_url": "https://tw.news.yahoo.com/%E8%97%8D%E7%87%9F%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%95%B73%E9%81%B8%E5%B0%87%E9%A6%96%E5%90%8C%E6%A1%86-%E8%AC%9D%E8%A1%A3%E9%B3%B3%E6%8B%8B%E5%8D%94%E8%AA%BF%E5%BC%8F%E6%B0%91%E8%AA%BF%E6%B1%BA%E5%8B%9D%E8%B2%A0-050330960.html",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_yahoo",
+          "package": ""
         }
       ],
       "selectedStatus": false,
@@ -154,17 +154,9 @@
           "package": ""
         },
         {
-          "text": "爆炸頭真是票房毒藥？汪浩貼「CEO版沈伯洋」形象照 網友嗨喊：未來總統 | 張大任",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE80dXNvY1Y1eTVSSHdpamtDeW1jOFByb0R6dTV2ZUFYWk4tcGJTaWhUZnJKSmFTYlJndTVzY09EWE9tWlpKb0RXaDEwNnhZZw?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE80dXNvY1Y1eTVSSHdpamtDeW1jOFByb0R6dTV2ZUFYWk4tcGJTaWhUZnJKSmFTYlJndTVzY09EWE9tWlpKb0RXaDEwNnhZZw?oc=5",
-          "appIconUrl": "",
-          "sourceUniqueId": "content_google",
-          "package": ""
-        },
-        {
-          "text": "快訊/台中地院旁傳槍響！槍手剛剛抓到了",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBRQk1FUUJRQTlPamd0SHdjay1NbzF1c25fRnF6a0x6Vzc0RUw5WHVadXpmRlozYzRxb0dyc0g5QXJsRG80WGtMd2dFUk8zcU1NS1VR?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBRQk1FUUJRQTlPamd0SHdjay1NbzF1c25fRnF6a0x6Vzc0RUw5WHVadXpmRlozYzRxb0dyc0g5QXJsRG80WGtMd2dFUk8zcU1NS1VR?oc=5",
+          "text": "曝徐國勇「一動作突襲」暗助沈伯洋搶先致詞 秦慧珠：老實的蔣萬安危險了！ | 張大任",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8wVHNwUFFmWDdlaktVRk5PdENTWjdLU1h0ZmkyQzVzeXBvaDkwbVdTUXJUZy1pWmtlSjM0a3FJRE1vMzVYVmpWb1NYSS1DZw?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8wVHNwUFFmWDdlaktVRk5PdENTWjdLU1h0ZmkyQzVzeXBvaDkwbVdTUXJUZy1pWmtlSjM0a3FJRE1vMzVYVmpWb1NYSS1DZw?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -178,6 +170,14 @@
           "package": ""
         },
         {
+          "text": "快訊/台中地院旁傳槍響！槍手剛剛抓到了",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBRQk1FUUJRQTlPamd0SHdjay1NbzF1c25fRnF6a0x6Vzc0RUw5WHVadXpmRlozYzRxb0dyc0g5QXJsRG80WGtMd2dFUk8zcU1NS1VR?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBRQk1FUUJRQTlPamd0SHdjay1NbzF1c25fRnF6a0x6Vzc0RUw5WHVadXpmRlozYzRxb0dyc0g5QXJsRG80WGtMd2dFUk8zcU1NS1VR?oc=5",
+          "appIconUrl": "",
+          "sourceUniqueId": "content_google",
+          "package": ""
+        },
+        {
           "text": "台灣團甘肅車禍揭「變形團」亂象 專家：禁團令只剩政治宣示意義",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0tRmg3SGI5dy1PU1FaSF9LVmNuaUNIam11ekFyR2g4cWEtYnJmWGxTelpTQnh0eko5dHNOdnQxY19FbUh4WGZLNnh3UmMzVU5N0gFWQVVfeXFMTzNRandOdzR3NGFva0E5Y24tbVI1OVJpajh0TlpDSlJZM3BxOC1mQkM0cG1sUnYwaHNWMWJyNHVaTlRLLVpLWExhelVTRzVaNE45QjlSV0E?oc=5",
           "h5_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0tRmg3SGI5dy1PU1FaSF9LVmNuaUNIam11ekFyR2g4cWEtYnJmWGxTelpTQnh0eko5dHNOdnQxY19FbUh4WGZLNnh3UmMzVU5N0gFWQVVfeXFMTzNRandOdzR3NGFva0E5Y24tbVI1OVJpajh0TlpDSlJZM3BxOC1mQkM0cG1sUnYwaHNWMWJyNHVaTlRLLVpLWExhelVTRzVaNE45QjlSV0E?oc=5",
@@ -186,9 +186,9 @@
           "package": ""
         },
         {
-          "text": "呂禮詩登共艦喊「祖國強大」 陸委會：令人不齒、研議法辦",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xdVVLbERvU1N3STdJYkNsOGJfUngzRVFBX3E0WEtVanpwc3hqUkRKcmNwZGQ4LU11UEdZcnBLOXh4Y1RPMHhLdEJlQkp4WnVfQVFRck1vMUJFVllxLVpYUlh0YUlmVWVnamfSAW9BVV95cUxNMENWSVhXMEVRb0VxYVNPYVpHTy1UYzE3N3pDeEhYYW53Q0IzVkRHclZWOGhVSXZMNEVwaWZIMEhRR3R6LWxBMWdFblF3LXctRmNSVnlVNnRPRTZXWEdGQ003c3VTT3A4V05naWo3WDQ?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xdVVLbERvU1N3STdJYkNsOGJfUngzRVFBX3E0WEtVanpwc3hqUkRKcmNwZGQ4LU11UEdZcnBLOXh4Y1RPMHhLdEJlQkp4WnVfQVFRck1vMUJFVllxLVpYUlh0YUlmVWVnamfSAW9BVV95cUxNMENWSVhXMEVRb0VxYVNPYVpHTy1UYzE3N3pDeEhYYW53Q0IzVkRHclZWOGhVSXZMNEVwaWZIMEhRR3R6LWxBMWdFblF3LXctRmNSVnlVNnRPRTZXWEdGQ003c3VTT3A4V05naWo3WDQ?oc=5",
+          "text": "尋找中獎人！去年11-12月千萬發票6張未領 消費地點一次看",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FWFFOQ2VidUFKTUtYb3lISXN4aExTVGhYRXZPeU1JT3VVSzZKY3BkbGVmSHhhYlQ5NG4yS3JvZGN3WjdpeEtGTXV3N3FFQjhNaFRyNFZ4MFFpbF9sM2Jn0gFkQVVfeXFMUFFKanBUazIzT3JmZ0pHSU9jcndIR0I1bW5JTGZvS2QtX1pOM2FMSXpHa0l1emZYeVNuQTRFZkNkaXFENVl0Vk1odlNsS2pySWp6dE9pM1pTdFprNmNkd0J1Tmg3cQ?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FWFFOQ2VidUFKTUtYb3lISXN4aExTVGhYRXZPeU1JT3VVSzZKY3BkbGVmSHhhYlQ5NG4yS3JvZGN3WjdpeEtGTXV3N3FFQjhNaFRyNFZ4MFFpbF9sM2Jn0gFkQVVfeXFMUFFKanBUazIzT3JmZ0pHSU9jcndIR0I1bW5JTGZvS2QtX1pOM2FMSXpHa0l1emZYeVNuQTRFZkNkaXFENVl0Vk1odlNsS2pySWp6dE9pM1pTdFprNmNkd0J1Tmg3cQ?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -234,9 +234,9 @@
           "package": ""
         },
         {
-          "text": "他「變成一頭怪物」死去車諾比核災40年《悲鳴》揭人間煉獄",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE95aEV3NE5NYUgtcjNTWEU5ZmNEOEl5SHlPVkdoTVBtWGpZNVFXZ2V6LXp3SktWckZPN0VfN3hnMURIejU1WGdma0NaXzIyRlNXM0dTbmIwMVZzM1Y4?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE95aEV3NE5NYUgtcjNTWEU5ZmNEOEl5SHlPVkdoTVBtWGpZNVFXZ2V6LXp3SktWckZPN0VfN3hnMURIejU1WGdma0NaXzIyRlNXM0dTbmIwMVZzM1Y4?oc=5",
+          "text": "歷史觀測站／史上最嚴重核電事故！車諾比核災40週年 真實死亡數至今成謎",
+          "url": "https://news.google.com/rss/articles/CBMiwgNBVV95cUxQMHZaendTbjFySHNKcENFV2VHRmZIRzBUbUJ0ZXNCdm1tN2tBZ25UOU5nNWdxdWVRWDNaNXNOaWJweHpUbWFyRlp6SXJKZHdHMC1Ea2hIREJKekwyXzFPYndkQXFyWl81YWpPS2ZmU0tVeVNZUWpCUjNZWG5LbDBuVHdrUzZFRld5ZU5ScEh4dzJnd2Jhb0c2YXdzVVNvODZxeWkteF9XRnhwUTVuZE9jeWYwbkJBUVpGLXA3bGlyTmY2NFRpaHNIbFpRZy1HaXZDWUJIanpRdmZuU2tPOXd2d1Q4OTVaNkx0NnlROHd2blR0MHczVUFrU1NJaWtMeU9XZ3V0dnVRUko1S0dRWFlLdEZ4Q1BIaUNRcXlicjdzcC1VRk9MeWFJdUtoczd6dlJHcmdnRi1IWk83SUYyc3FSaDN6eW9xaVE3NFdvbWZ4VzAzNURRLV9COV80am02NVRBaVNZQTN6dmlCWFZtT214Y0V6MmdTU0VhT0lDa3NKOG9tejk2eGl1dTdlaHNzQUtBajRacHA5aGtZNjd2QnE2eHlyTDJyT1RhVmdjQlNkNk5ZYjl6Yk1RZXFDSXV1eEROZ0E?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMiwgNBVV95cUxQMHZaendTbjFySHNKcENFV2VHRmZIRzBUbUJ0ZXNCdm1tN2tBZ25UOU5nNWdxdWVRWDNaNXNOaWJweHpUbWFyRlp6SXJKZHdHMC1Ea2hIREJKekwyXzFPYndkQXFyWl81YWpPS2ZmU0tVeVNZUWpCUjNZWG5LbDBuVHdrUzZFRld5ZU5ScEh4dzJnd2Jhb0c2YXdzVVNvODZxeWkteF9XRnhwUTVuZE9jeWYwbkJBUVpGLXA3bGlyTmY2NFRpaHNIbFpRZy1HaXZDWUJIanpRdmZuU2tPOXd2d1Q4OTVaNkx0NnlROHd2blR0MHczVUFrU1NJaWtMeU9XZ3V0dnVRUko1S0dRWFlLdEZ4Q1BIaUNRcXlicjdzcC1VRk9MeWFJdUtoczd6dlJHcmdnRi1IWk83SUYyc3FSaDN6eW9xaVE3NFdvbWZ4VzAzNURRLV9COV80am02NVRBaVNZQTN6dmlCWFZtT214Y0V6MmdTU0VhT0lDa3NKOG9tejk2eGl1dTdlaHNzQUtBajRacHA5aGtZNjd2QnE2eHlyTDJyT1RhVmdjQlNkNk5ZYjl6Yk1RZXFDSXV1eEROZ0E?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -250,9 +250,9 @@
           "package": ""
         },
         {
-          "text": "美國財長宣布凍結伊朗3.44億美元加密貨幣",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tcjByV2VWZXEtdEdkY2t0LWJRM0FYSnBJbWY5RGhQUDRkaUF5UnVfWnlCS2tXSEtaT2ZjX21lRFZ6Q1JOUUF4NmVoaWJPT3Fxb1k2NGxXRFV0aHRCX0R0RtIBZkFVX3lxTFBCOFhhZWIxLW14UmVLbkhNWnJSMG9tNmU1d3VpMUdMVW5Wdmo2aG1yWWpabHJjaUZSZHlXcWlGdy1GUk9aLTBsbTczRy1BTWZFNEFYVldzNWlBTGdvajFnbVFWY0RNdw?oc=5",
-          "h5_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tcjByV2VWZXEtdEdkY2t0LWJRM0FYSnBJbWY5RGhQUDRkaUF5UnVfWnlCS2tXSEtaT2ZjX21lRFZ6Q1JOUUF4NmVoaWJPT3Fxb1k2NGxXRFV0aHRCX0R0RtIBZkFVX3lxTFBCOFhhZWIxLW14UmVLbkhNWnJSMG9tNmU1d3VpMUdMVW5Wdmo2aG1yWWpabHJjaUZSZHlXcWlGdy1GUk9aLTBsbTczRy1BTWZFNEFYVldzNWlBTGdvajFnbVFWY0RNdw?oc=5",
+          "text": "川習會前夕！美次級制裁陸煉油廠及油輪 劍指伊朗石油命脈",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNa2UzWjh6cXBta2REaWxjUHRhQ09XM29Ec2V5WFRxTF9pRWZZRE43d0IzM0FiWDZXTFdUeUlaczBjNHRmbGdGNG1tdWFqd3haZmxrSUdUZmVSVzUxd0I5UFRmS3pkcmJjdWpTZnBTWm5YSGpPdF9hd0FWcVZISUFyQUdFanYwLWNIVmlLU2o4bw?oc=5",
+          "h5_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNa2UzWjh6cXBta2REaWxjUHRhQ09XM29Ec2V5WFRxTF9pRWZZRE43d0IzM0FiWDZXTFdUeUlaczBjNHRmbGdGNG1tdWFqd3haZmxrSUdUZmVSVzUxd0I5UFRmS3pkcmJjdWpTZnBTWm5YSGpPdF9hd0FWcVZISUFyQUdFanYwLWNIVmlLU2o4bw?oc=5",
           "appIconUrl": "",
           "sourceUniqueId": "content_google",
           "package": ""
@@ -273,6 +273,6 @@
   "hash": "c2d15b8822404d2ea10f48b759eadba1",
   "qt": "composite_ad_yahoo_google",
   "message": "success",
-  "cost": 35,
+  "cost": 28,
   "status": 0
 }
